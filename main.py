@@ -53,14 +53,16 @@ def crop_image(image):
         return cropped
     
     except:
-        print("[INFO] No crop needed")
+        print("[INFO] No crop possible!")
         return image
     
     
 def askOpenAI(image_path):
-    # Getting the base64 string
     base64_image = encode_image(image_path)
 
+    #prompt = "Give me the text in the image (a table), only the text that you are able to read, correct the text if there is missing information or typo, no additional information, no markdown element only '\n':"
+    prompt = "Recognize the text in the image and correct it if necessary, the image contain a table and I want a table in .txt format as output, juste the table no other sentence from you:"
+    
     headers = {
         "Content-Type": "application/json",
         "Authorization": f"Bearer {api_key}"
@@ -74,7 +76,7 @@ def askOpenAI(image_path):
             "content": [
             {
                 "type": "text",
-                "text": "Give me the text in the image (a table), only the text that you are able to read, correct the text if there is missing information or typo, no additional information, no markdown element only '\n':"
+                "text": prompt
             },
             {
                 "type": "image_url",
@@ -92,10 +94,14 @@ def askOpenAI(image_path):
     response = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload)
     return response.json()
 
+def save_text(text, output_path):
+    with open(output_path.replace('.jpg', '.txt'), 'w', encoding='utf-8') as f:
+        f.write(text)
+
 def main():
-    # Load the image
     img_lst = ['data/img_0.jpg', 'data/img_1.jpg']
     for image_path in img_lst:
+        
         print("[INFO] Processing image: ", image_path)
         image = cv2.imread(image_path)
         croped_image = crop_image(image)
@@ -105,9 +111,7 @@ def main():
         text = text_json["choices"][0]["message"]["content"]
         
         print("[INFO] Text found.")
-        with open(output_path.replace('.jpg', '.txt'), 'w', encoding='utf-8') as f:
-            f.write(text)
-
+        save_text(text, output_path)
 
 if __name__ == '__main__':
     main()
