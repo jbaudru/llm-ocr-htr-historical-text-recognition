@@ -1,0 +1,15 @@
+```
+DATE DE DÉPÔT | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | NOMS, PRÉNOMS | DROITS DE SUCCESSION | NUMÉROS | DATE | RECETTE | OBSERVATIONS
+              | NOMS | PRÉNOMS | DOMICILES | DATE DU DÉCÈS | NOMS, PRÉNOMS | ACTIF | PASSIF | NET | MUTATIONS EN LIGNE DIRECTE | DE LA DÉCLARATION | DU RÉGLEMENT | DES ACTES | DES ENREGISTREMENTS | DES ACTES | DES ENREGISTREMENTS
+              |       |         |           |                |               |      |       |     | VALEUR DÉCLARÉE | DATE | NUMÉRO | DATE | NUMÉRO | DATE | NUMÉRO
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+403          | Bayol | Emile | Industriel | Paris (7e arrt) | 5 août 1919 | Bayol Henri André | 10975 | 5525 | 5450 | 970 | 16 août 1919 | 4 mars 1920 | 10 5520 1919 | 
+404          | Paulus | Léonie | Vve | Retraitée | Neuilly | 5 août 1919 | Paulus Fernand | 4500 | 4500 | | | | | | | | 
+405          | Vandermers | Henri Emile | Employé | 6 août 1919 | Vandermers Edmond | 500 | 500 | | | 30 janvier 1920 | | non familier | 
+405 bis      | Lemoine | Ernest Jn | Fils | 6 août 1919 | Lemoine Gabrielle | 1885 | 1885 | | | 18 août 1919 | 21 août 1919 | non familier | 
+406          | Hommage | Jules | Commerçant | 6 août 1919 | Hommage Aimé | 5000 | 5000 | | | | | | | | 
+407          | Godeau | Edmond | Ouvrier | 7 août 1919 | Godeau Honorine | 100 | 300 | | | 18 août 1919 | 7 août 1919 | non familier | 
+407 bis      | Fontaine | Ernest | Employé | 7 août 1919 | Fontaine Armand | 475 | 266 | 209 | | 19 août 1919 | 3 août 1919 | non familier | 
+409          | Allard | Oscar | Militaire | 16 août 1919 | Allard Henri | 9800 | 9800 | | | 10 juin 1920 | | Hommage 54 | 
+410          | Delutte | Justine | Veuve | 7 août 1919 | Delutte Ernest | 11111 | 11111 | | | 20 août 1919 | 10 mars 1920 | 10 5521 1919 | 
+```

@@ -1,0 +1,50 @@
+Here is the recreated table with the texts from the image:
+
+```
++---------+------------------------------------------------------------+----------------+
+| NUMÉROS | ENREGISTREMENT                                             | RECETTE        |
+|         |                                                            | Livres | Sols | Den. |
++---------+------------------------------------------------------------+--------+------+------+
+|         | Reçu de toute propriété et droits de la demoiselle         |        |      |      |
+|         | Tosi, pour un capital de deux cent soixante francs, avec   |        |      |      |
+|         | les droits de deux héritiers, savoir, Auguste et C. Tosi,  |        |      |      |
+|         | pour lesquels il a payé de retour cinq cent soixante-quinze|        |      |      |
+|         | francs et quatorze francs soixante-quatre centimes         |        |      |      |
+|         | plus pour deux droits en bas, les sommes de sept           |        |      |      |
+|         | francs quarante-huit centimes                              |        |      |      |
+|         | laquelle déclaration s'est attribuée l'heure et véritable  |        |      |      |
+|         | en l'égard de la demoiselle L. Tosi                        |        |      |      |
+|         | arrêté le 26 avril 1825                                    |        |      |      |
+|         | arrêté le 27 avril 1825                                    |        |      |      |
+|         | arrêté le 28 avril 1825                                    |        |      |      |
+|         | arrêté le 29 avril 1825                                    |        |      |      |
++---------+------------------------------------------------------------+--------+------+------+
+| 263     | Le 30 du dit en l'ouvrage d'Antoine Chasselain, lequel     |        |      |      |
+|         | demeurant en la commune de Châtillon, lequel a déclaré     |        |      |      |
+|         | qu'il est héritier de son oncle Augustin Chasselain,      |        |      |      |
+|         | décédé en la commune de Châtillon le 22 février 1825,      |        |      |      |
+|         | et qu'il lui est échu en toute propriété un mobilier       |        |      |      |
+|         | évalué deux francs                                         |        |      |      |
+|         | pourquoi il a payé vingt-cinq centimes                     |        | 11   | 27   |      |
+|         | plus pour deux droits en bas douze centimes                |        | 7    | 88   |      |
+|         | laquelle déclaration elle a attribué l'heure et véritable  |        |      |      |
+|         | en l'égard de la demoiselle L. Tosi                        |        |      |      |
++---------+------------------------------------------------------------+--------+------+------+
+| 264     | Le dit jour en l'ouvrage de François Rolland, lequel       |        |      |      |
+|         | demeurant en la commune de Châtillon, lequel a déclaré     |        |      |      |
+|         | qu'il est héritier de son oncle Augustin Rolland,          |        |      |      |
+|         | décédé en la commune de Châtillon le 19 février 1825,      |        |      |      |
+|         | et qu'il lui est échu en toute propriété un mobilier       |        |      |      |
+|         | évalué deux francs                                         |        |      |      |
+|         | pourquoi il a payé vingt-cinq centimes                     |        | 11   | 27   |      |
+|         | plus pour deux droits en bas douze centimes                |        | 7    | 88   |      |
+|         | laquelle déclaration elle a attribué l'heure et véritable  |        |      |      |
+|         | en l'égard de la demoiselle L. Tosi                        |        |      |      |
++---------+------------------------------------------------------------+--------+------+------+
+|         |                                                            | 141    | 39   |      |
++---------+------------------------------------------------------------+--------+------+------+
+```
+
+I have created a text file with the table content. You can download it using the following link:
+
+[Download the text file](sandbox:/mnt/data/succession_declaration.txt)

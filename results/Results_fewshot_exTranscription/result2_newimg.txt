@@ -1,0 +1,15 @@
+```
+DATE DE DÉPÔT | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | NOMS, PRÉNOMS | DROITS DE SUCCESSION | NUMÉROS | DATE | RECETTE | OBSERVATIONS
+               | NOMS, PRÉNOMS, DOMICILES | DATE DE DÉCÈS | ACTIF | PASSIF | NET | DE LA DÉCLARATION | DU RÉPERTOIRE | DES ACTES | DES MUTATIONS PAR DÉCÈS | DES MUTATIONS ENTRE VIFS | DES ACTES DE MARIAGE | DES ACTES DE DÉCÈS | DES ACTES DE NAISSANCE
+               |                          |                |      |       |     |                  |               |            |                        |                        |                    |                    |                   
+
+403 sept 1919 | Bayol | Indéterminé | Paris (7e arrt) | Bayol Henri André | 1899 | 523 | 970 | 1453 | 18 août 1919 | 4 mars 1920 | 10 sept 1919 | 
+404          | Paulus | Vétéran | Vittel | Paulus Henri | 1919 | 0 | 0 | 0 | 16 30 janvier 1920 | non familier | 
+405          | Vandermers | Sous-lieut. Cie 2e | Paris (7e arrt) | Vandermers Edmond | 1919 | 500 | 500 | 0 | 16 30 janvier 1920 | non familier | 
+405 cinq 7e | Lemoine | Joseph | Fils | 1919 | 1885 | 1885 | 0 | 18 août 1919 | non familier | 
+406          | Hommage | Joli | Cambrai | Hommage Louis | 1919 | Création d'usufruit | | | | 16 janvier 1919 | 
+407          | Godeau | Clément | Origny | Godeau Honoré | 1919 | 100 | 300 | 200 | 18 août 1919 | non familier | 
+408 sept 1919 | Fontaine | Ernest | Ludique | 1919 | 748 | 266 | 482 | 19 août 1919 | non familier | 
+409          | Allard | Oscar | Vittel | Allard Henri | 1919 | 9800 | 9800 | 0 | 10 juin 1920 | Hommage 1919 | 
+410          | Delutte | Justine | Vatelot | Delutte Ernest | 1919 | 1111 | 1111 | 0 | 20 mars 1920 | 10 sept 1919 | 
+```

@@ -1,0 +1,55 @@
+```
+403
+Payol
+Industrielle
+Paris (7e arrt)
+Payol Henri-Charles
+
+404
+Paulus
+Militaire
+Vincennes
+Paulus Fernand
+
+405
+Vandermers
+Sous-Chef de Bureau, Cie de l'Est
+Paris (10e arrt)
+Vandermers Edmond
+
+405 bis
+Lemoine
+Fille
+Le Mans
+Lemoine Gabrielle
+
+406
+Hommaye
+Commerçant
+Paris (10e arrt)
+Hommaye Aimé
+
+407
+Godeau de Saintlane
+Employé
+Orléans
+Godeau Honoré
+
+408
+Fontaine
+Employé
+Ludres
+Fontaine Armand
+
+409
+Allard
+Militaire
+Paris (10e arrt)
+Allard Henri
+
+410
+Delutte
+Industriel
+Valenton
+Delutte Edmond
+```

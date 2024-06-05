@@ -1,0 +1,15 @@
+```
+DATE DE DÉPÔT | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | NOMS, PRÉNOMS | DROITS DE SUCCESSION | NUMÉROS | DATE | RECETTE | OBSERVATIONS
+              | NOMS, PRÉNOMS, DOMICILES | DATE DE DÉCÈS | ACTIF | PASSIF | NET | DE DÉPÔT | D'ENREGISTREMENT | DE L'ACTE | DE L'ENREGISTREMENT | DE L'ENREGISTREMENT
+              |                          |                |      |       |     |         |                  |            |                   | 
+403           | Payot                    | Louis, André   | 1899           | 1899 | 523 | 376 | 147 | 18 août 1914 | 10 août 1914 | 
+404           | Paulus                   | Michel         | 1899           | 1899 | 350 | 350 |     | 10 août 1914 | 10 août 1914 | 
+405           | Vandermers               | Clément, Eléonore | 1899       | 1899 | 500 | 500 |     | 16 août 1914 | non familier | 
+405 bis       | Lemoine                  | Joseph         | 1899           | 1899 | 1885 | 1885 |     | 18 août 1914 | non familier | 
+406           | Hommage                  | Jules          | 1899           | 1899 | Création d'usufruit |     |     | 19 août 1914 | 19 août 1914 | 
+407           | Godeau                   | Clément        | 1899           | 1899 | 100 | 300 |     | 18 août 1914 | non familier | 
+              | de Saintlane             |                |                 |      |     |     |     |              |              | 
+408           | Fontaine                 | Louis, Ludovic | 1899           | 1899 | 748 | 266 | 482 | 19 août 1914 | non familier | 
+409           | Allard                   | Victor         | 1899           | 1899 | 9800 | 9800 |     | 10 juin 1914 | Hommage 54 | 
+410           | Delutte                  | Jules, Louis   | 1899           | 1899 | 11111 | 11111 |     | 20 mars 1914 | 19 août 1914 | 
+```

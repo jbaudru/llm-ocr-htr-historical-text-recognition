@@ -1,0 +1,63 @@
+Here is the recreated table with the texts from the image:
+
+```
++---------+--------------------------------+---------------------+
+| NUMÉROS |         ENREGISTREMENT         |       RECETTE       |
+|         |                                |---------------------|
+|         |                                | Livres | Sols | Den. |
++---------+--------------------------------+--------+------+------+
+|         | Requête ---------------------- |        |      |      |
+|         | la tuté requeté et d'acter de  |        |      |      |
+|         | l'obtention d'un brevet pour   |        |      |      |
+|         | un capital de Huit cents       |        |      |      |
+|         | soixante Francs, avec          |        |      |      |
+|         | pacte de leur billet, passé    |        |      |      |
+|         | devant M. Faroux, August et    |        |      |      |
+|         | C. Tournay                     |        |      |      |
+|         | pourquoi il a payé de retour   |        |      |      |
+|         | cinq cent quarante quatre      |        |      |      |
+|         | Livres, plus sous deux sols    |        |      |      |
+|         | en bas, la somme de sept       |        |      |      |
+|         | Livres quatre vingt huit       |        |      |      |
+|         | centimes --------------------- |        |      |      |
+|         | laquelle déclaration il a      |        |      |      |
+|         | attribué l'avoir véritable     |        |      |      |
+|         | et en dépôt de ce dépôt        |        |      |      |
+|         | L. Croas                       |        |      |      |
+|         | arrêté le 26 avril 1825        |        |      |      |
+|         | arrêté le 27 avril 1825        |        |      |      |
+|         | arrêté le 28 avril 1825        |        |      |      |
+|         | arrêté le 29 avril 1825        |        |      |      |
++---------+--------------------------------+--------+------+------+
+|   263   | Le 30 du dit en l'ouvrier      |        |      |      |
+|         | Pierre Chasselain, lequel      |        |      |      |
+|         | demeurant en la commune de     |        |      |      |
+|         | Chalette, le quelle a          |        |      |      |
+|         | déclaré qu'il est héritier de  |        |      |      |
+|         | son oncle Augustin Louis       |        |      |      |
+|         | Chasselain, décédé au dit      |        |      |      |
+|         | Chalette le 22 janvier 1825    |        |      |      |
+|         | et qu'il lui est échu en       |        |      |      |
+|         | toute propriété un mobilier    |        |      |      |
+|         | évalué deux Francs             |        |      |      |
+|         | pourquoi il a payé vingt cinq  |        |      |      |
+|         | centimes --------------------- |        |      |      |
+|         | plus sous deux sols en bas     |        |      |      |
+|         | Livres treize centimes         |        |      |      |
+|         | laquelle déclaration elle a    |        |      |      |
+|         | attribué l'avoir véritable     |        |      |      |
+|         | et en dépôt de ce dépôt        |        |      |      |
+|         | L. Croas                       |        |      |      |
++---------+--------------------------------+--------+------+------+
+|   264   | Le dit jour en l'ouvrier       |        |      |      |
+|         | François Rolland, lequel       |        |      |      |
+|         | a déclaré qu'il est héritier   |        |      |      |
+|         | de son oncle Louis Rolland,    |        |      |      |
+|         | décédé à Montval le 19         |        |      |      |
+|         | février 1825 et qu'il lui est  |        |      |      |
+|         | échu en toute propriété un     |        |      |      |
+|         | mobilier évalué deux Francs    |        |      |      |
+|         | pourquoi il a payé vingt cinq  |        |      |      |
+|         | centimes --------------------- |        |      |      |
+|         | plus sous deux sols en bas     |        |      |      |
+|         |

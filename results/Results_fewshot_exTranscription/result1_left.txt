@@ -1,0 +1,48 @@
+Sure, here is the table recreated in text format:
+
+```
++---------+-----------------------------------+----------------+
+| NUMÉROS |           ENREGISTREMENT          |    RECETTE     |
+|         |                                   |----------------|
+|         |                                   | Livres | Sols | Den. |
++---------+-----------------------------------+--------+------+------+
+|         | Reposé                             |        |      |      |
+|         | la dite repondu et dût de l'ordonnance de       |        |      |      |
+|         | un capital de Huit cents soixante Francs, avec  |        |      |      |
+|         | profit pour trois héritiers, savoir, Auguste et C. Tournay |        |      |      |
+|         | pourquoi il a payé de retour cinq 1/2 % de      |        |      |      |
+|         | somme de quatre francs soixante quatre centimes | 17     | 71   |      |
+|         | plus sous deux sols un sol, la somme de sept   |        |      |      |
+|         | francs quatre vingt huit centimes              | 7      | 88   |      |
+|         | laquelle déclaration s'est adressée à l'huissier |        |      |      |
+|         | véritable et au reçu de ce dépôt                |        |      |      |
+|         | L. Croas                                       |        |      |      |
+|         | arrêté le 26 avril 1827                        |        |      |      |
+|         | arrêté le 27 avril 1827                        |        |      |      |
+|         | arrêté le 28 avril 1827                        |        |      |      |
+|         | arrêté le 29 avril 1827                        |        |      |      |
++---------+-----------------------------------+--------+------+------+
+| 263     | Le 30 du dit en l'ouvrage d'Edouard Chasselain, huissier |        |      |      |
+|         | demeurant en la commune de Châtillon, le quelle a        |        |      |      |
+|         | déclaré qu'il est héritier de son défuncteur Louis       |        |      |      |
+|         | Chasselain décédé au dit Châtillon le 22 février 1827   |        |      |      |
+|         | et qu'il lui est échu en toute propriété un mobilier    |        |      |      |
+|         | évalué deux francs                                      |        |      |      |
+|         | pourquoi il a payé vingt cinq centimes                  | 11     | 25   |      |
+|         | plus sous deux sols un sol deux centimes                | 1      | 13   |      |
+|         | laquelle déclaration elle a attribué l'huissier et      |        |      |      |
+|         | véritable et au reçu de ce dépôt                        |        |      |      |
++---------+-----------------------------------+--------+------+------+
+| 264     | Le dit jour en l'ouvrage François Rolland, huissier     |        |      |      |
+|         | demeurant lequel a déclaré qu'il est héritier de son    |        |      |      |
+|         | frère Rolland son frère décédé à Montval le 19 février  |        |      |      |
+|         | 1827 et qu'il lui est échu en toute propriété un        |        |      |      |
+|         | mobilier évalué deux francs                             |        |      |      |
+|         | pourquoi il a payé vingt cinq centimes                  | 11     | 25   |      |
+|         | plus sous deux sols un sol deux centimes                | 1      | 13   |      |
+|         | laquelle déclaration elle a attribué l'huissier et      |        |      |      |
+|         | véritable et au reçu de ce dépôt                        |        |      |      |
++---------+-----------------------------------+--------+------+------+
+|         | Total                                      | 141    | 39   |      |
++---------+-----------------------------------+--------+------+------+
+```

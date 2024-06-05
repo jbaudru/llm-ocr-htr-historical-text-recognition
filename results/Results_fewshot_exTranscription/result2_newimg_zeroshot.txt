@@ -1,0 +1,14 @@
+```
+DATE DE DÉPÔT | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | NOMS, PRÉNOMS | DROITS DE SUCCESSION | NUMÉROS | DATE | RECETTE | OBSERVATIONS
+              | NOMS | PRÉNOMS | DOMICILES | DATE DU DÉCÈS | ACTIF | PASSIF | RÉSERVE NET | DE LA DÉCLARATION | DU RÉPERTOIRE | DES ACTES | DES AMENDES | 
+              |      |         |           |                |      |      |              |                  |                |           |             |
+403          | Bayol | Louis | Industriel | Paris (7e arrt) | 4 nov 1919 | Bayol Henri André | 10975 | 5225 | 5750 | 18 août 1920 | 10 5820 1919 | 
+404          | Paulus | Léonie | Veuve | Michel | 5 nov 1919 | Paulus Fernand | 3750 | 0 | 3750 | 16 30 janvier 1920 | non familale | 
+405          | Vandermers | Honoré | Marie | Elbeuf | 6 nov 1919 | Vandermers Edmond | 500 | 0 | 500 | 16 30 janvier 1920 | non familale | 
+405 bis     | Lemoine | Ernest | Joseph | Fils | 6 nov 1919 | Lemoine Gabrielle veuve | 1885 | 1885 | 0 | 18 août 1920 | non familale | 
+406          | Hommage | Jules | Tonnelier | 7 nov 1919 | Hommage Aimé | 0 | 0 | 0 | 16 janvier 1920 | 0 | 
+407          | Godeau | Edmond | Originaire d'Angers | 7 nov 1919 | Godeau Honorine veuve | 100 | 300 | 0 | 18 août 1920 | non familale | 
+407 bis     | Fontaine | Ernest | Ludovic | 8 nov 1919 | Fontaine Armand | 475 | 266 | 209 | 19 août 1920 | non familale | 
+408          | Allard | Oscar | Mécanicien | 10 août 1919 | Allard Marie | 9800 | 0 | 9800 | 16 juin 1920 | Hommage 1919 | 
+409          | Delutte | Jules | Tuilier | 9 nov 1919 | Delutte Ernest | 11111 | 2222 | 8889 | 20 10 mars 1920 | 10 5821 1919 | 
+```

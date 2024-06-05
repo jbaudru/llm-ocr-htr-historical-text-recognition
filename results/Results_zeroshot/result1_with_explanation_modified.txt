@@ -1,0 +1,25 @@
+Sure, here is the recreated table with the texts from the image:
+
+| NUMÉROS | ENREGISTREMENT | RECETTE |
+|---------|-----------------|---------|
+|         |                 | Livres  | Sols | Den. |
+|---------|-----------------|---------|------|------|
+|         | Rapporté ci-dessus de l'enregistrement de l'acte de donation fait par un capital de deux cent soixante francs, avec lequel leur héritage, savoir, lequel et ci-dessus | 119     |      |      |
+|         | pourquoi il a payé de plus dix sept pour cent de quatre francs soixante quatre centimes | 11      | 7    |      |
+|         | plus sous deux sols un sol, la somme de sept francs quatre vingt huit centimes | 7       | 88   |      |
+|         | laquelle déclaration est ci-dessus et véritable en ce rapport de ce rapport |         |      |      |
+|         | arrêté le 26 avril 1827 |         |      |      |
+|         | arrêté le 27 avril 1827 |         |      |      |
+|         | arrêté le 28 avril 1827 |         |      |      |
+|         | arrêté le 29 avril 1827 |         |      |      |
+| 263     | Le 30 du dit en l'ouvrage d'icelui dénommé Louis Dumoulin et de la demoiselle de Chastel, la quelle a déclaré qu'elle est héritière de son défunt père Louis Dumoulin décédé au dit Chastel le 22 février 1827 et qu'il lui est échu en toute propriété un mobilier évalué deux francs |         |      |      |
+|         | pourquoi elle a payé vingt cinq huitains | 11      | 25   |      |
+|         | plus sous deux sols un sol douze centimes | 1       | 13   |      |
+|         | laquelle déclaration elle a attesté bonne et véritable et a retiré en savoir signé de ce rapport |         |      |      |
+| 264     | Le dit jour en l'ouvrage d'icelui dénommé François Rolland sur ce pouvoir, lequel a déclaré qu'il est héritier de feu son défunt père décédé à Meaux le 19 février au dit qu'il lui est échu en toute propriété un mobilier évalué deux francs |         |      |      |
+|         | pourquoi il a payé vingt cinq huitains | 11      | 25   |      |
+|         | plus sous deux sols un sol douze centimes | 1       | 13   |      |
+|         | laquelle déclaration il a attesté bonne et véritable et a retiré en savoir signé de ce rapport |         |      |      |
+|         | Total | 141 | 39 |      |
+
+This table captures the text and structure from the provided image.

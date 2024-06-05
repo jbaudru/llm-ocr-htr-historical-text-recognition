@@ -1,0 +1,21 @@
+Here is the recreated table from the provided image:
+
+| NUMÉROS | ENREGISTREMENT | RECETTE |
+|---------|-----------------|---------|
+|         |                 | Livres  | Sols | Den. |
+|         | Reposé          | 19      |      |     |
+|         | en tout reposé ici datée de l'ouverture d'un scellé apposé en l'étude de Me. Pottier, notaire à Paris, le 26 janvier dernier, et levé le 27 du même mois, pour être ensuite apposé en l'étude de Me. Pottier, notaire à Paris, le 28 du même mois, et levé le 29 du même mois, et en l'étude de Me. Pottier, notaire à Paris, le 29 du même mois. | 17      |      |     |
+|         |                 | 7       | 88  |     |
+| 263     | Le 30 du dit en l'ouverture d'une déclaration d'une succession en la commune de Châtillon, la quelle a été déclarée par le sieur Mayeur, huissier, le 30 avril, et levée en l'étude de Me. Pottier, notaire à Paris, le 22 janvier, et en tout reposé en un mobilier évalué deux francs. | 11      | 27  |     |
+|         | Pourquoi il a payé vingt cinq huitains | 11      | 28  |     |
+|         | plus sous deux sols en sus | 11      | 13  |     |
+|         | laquelle déclaration elle a atteint huit et véritable |         |      |     |
+|         | et a été situé en savoir signé de ce Mayeur |         |      |     |
+| 264     | Le dit jour en l'ouverture d'une déclaration d'une succession en la commune de Châtillon, la quelle a été déclarée par le sieur Mayeur, huissier, le 30 avril, et levée en l'étude de Me. Pottier, notaire à Paris, le 22 janvier, et en tout reposé en un mobilier évalué deux francs. | 11      | 28  |     |
+|         | Pourquoi il a payé vingt cinq huitains | 11      | 28  |     |
+|         | plus sous deux sols en sus | 11      | 13  |     |
+|         | laquelle déclaration elle a atteint huit et véritable |         |      |     |
+|         | et a été situé en savoir signé de ce Mayeur |         |      |     |
+|         | Total | 141 | 39 |     |
+
+Please verify the accuracy of the numbers and names as requested.

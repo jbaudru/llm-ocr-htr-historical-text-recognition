@@ -1,0 +1,244 @@
+```
+DATE DE DÉCÈS
+ou
+CLASSEMENT.
+
+DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES.
+
+NOMS, PRÉNOMS
+
+DROITS DE SUCCESSION
+ou
+MUTATION EN LIGNE DIRECTE.
+
+NUMÉROS
+
+DATE
+
+OBSERVATIONS.
+
+COTE
+de
+CLASSEMENT.
+
+NOMS.
+
+PRÉNOMS.
+
+DOMICILES.
+
+DATE DE L'ACTE
+de
+DÉCÈS
+ou
+de
+CLASSEMENT.
+
+ACTIF.
+
+PASSIF.
+
+NET.
+
+REÇU
+le
+de
+l'ENREGISTREMENT.
+
+du
+RÔLE
+de
+la
+CONTRIBUTION.
+
+DATE
+de
+l'ENREGISTREMENT.
+
+403
+
+Payol
+
+Industrielle
+
+Paris
+(7e arr.)
+
+Payol Henri-Charles
+
+1899
+
+1899
+
+1899
+
+16 août 1899
+
+4 mars 1900
+
+404
+
+Paulus
+
+Artiste
+
+Paris
+(18e arr.)
+
+Paulus Leonard
+
+1899
+
+1899
+
+1899
+
+10 octobre 1899
+
+405
+
+Vandermers
+
+Sous-Chef de Bureau
+
+Elbeuf
+(Seine-Inf.)
+
+Vandermers Edmond
+
+1899
+
+1899
+
+1899
+
+30 janvier 1900
+
+non familier
+
+405
+
+Lemoine
+
+Fille
+
+Elbeuf
+(Seine-Inf.)
+
+Lemoine Gabrielle
+
+1899
+
+1899
+
+1899
+
+18 août 1899
+
+non familier
+
+406
+
+Hommaye
+
+Commerçant
+
+Elbeuf
+(Seine-Inf.)
+
+Hommaye Aimé
+
+1899
+
+1899
+
+1899
+
+6 février 1900
+
+407
+
+Godeau
+de
+Saint-Lane
+
+Officier
+
+Orléans
+(Loiret)
+
+Godeau Honoré
+
+1899
+
+1899
+
+1899
+
+18 août 1899
+
+non familier
+
+408
+
+Fontaine
+
+Industriel
+
+Paris
+(8e arr.)
+
+Fontaine Armand
+
+1899
+
+1899
+
+1899
+
+19 août 1899
+
+non familier
+
+409
+
+Allard
+
+Notaire
+
+Melun
+(Seine-et-Marne)
+
+Allard Henri
+
+1899
+
+1899
+
+1899
+
+10 juin 1900
+
+Hommaye 99
+
+410
+
+Delutte
+
+Industriel
+
+Valence
+(Drôme)
+
+Delutte Edmond
+
+1899
+
+1899
+
+1899
+
+20 mars 1900
+
+10 juillet 1900
+```
