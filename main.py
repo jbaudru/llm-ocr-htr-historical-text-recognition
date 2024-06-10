@@ -4,10 +4,14 @@ import numpy as np
 import pandas as pd
 import base64
 import requests
+import re
+import seaborn as sns
+import matplotlib.pyplot as plt
+import matplotlib.patches as patches
 
 import easyocr
 import pytesseract
-import re
+import keras_ocr
 
 from nltk.metrics.distance import jaccard_distance, masi_distance
 from nltk.util import ngrams
@@ -60,6 +64,10 @@ def crop_image(image):
         print("[INFO] No crop possible!")
         return image
 
+def color_image(image):
+    image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
+    _, image = cv2.threshold(image, 120, 255, cv2.THRESH_BINARY)
+    return image
 
 def easyOCR(image_path):
     reader = easyocr.Reader(['en'])
@@ -79,8 +87,29 @@ def pytesseractOCR(image_path):
     image = Image.open(image_path)
     text = pytesseract.image_to_string(image)
     return text
-    
-    
+
+
+def kerasOCR(image_path):
+    pipeline = keras_ocr.pipeline.Pipeline()
+    image = keras_ocr.tools.read(image_path)
+    prediction_groups = pipeline.recognize([image])
+
+    words = []
+    for line in prediction_groups[0]:
+        for word in line:
+            try:
+                if isinstance(word[0], str):
+                    words.append(word[0])
+            except IndexError:
+                continue
+
+    text = ' '.join(words)
+    return text
+
+
+def calamariOCR(image_path):
+    pass
+
 def askOpenAI(image_path):
     base64_image = encode_image(image_path)
     #prompt = "Give me the text in the image (a table), only the text that you are able to read, correct the text if there is missing information or typo, no additional information, no markdown element only '\n':"
@@ -163,7 +192,23 @@ def compare_texts(texts, image_path):
     print(df_mas)
     print("\nLevenshtein distance:")
     print(df_lev)
-    
+    # Plot results in heatmaps
+    for df, title in [(df_jacc, 'Jaccard'), (df_mas, 'Masi'), (df_lev, 'Levenshtein')]:
+        plt.figure(figsize=(8, 8))
+        ax = sns.heatmap(df, annot=True, fmt=".2f", annot_kws={"size": 10}, cmap='coolwarm')
+        ax.xaxis.tick_top()
+        ax.xaxis.set_label_position('top')
+        plt.xticks(rotation=90)
+        ax.set_aspect('equal')
+        rect = patches.Rectangle((0,0), len(df.columns), 1, linewidth=2, edgecolor='purple', facecolor='none')
+        rect2 = patches.Rectangle((0,0), 1, len(df.index), linewidth=2, edgecolor='purple', facecolor='none')
+        ax.add_patch(rect)
+        ax.add_patch(rect2)
+        plt.title(f'{title} Distance Heatmap', y=-0.1)
+        plt.savefig(f'results/comparisons/{image_name}_{title.lower()}_heatmap.png')
+        plt.tight_layout()
+        plt.show()
+
 
 def main():
     img_lst = ["data/Archives_LLN_Nivelles_I_1921_REG 5193/example1.jpeg", "data/Archives_LLN_Nivelles_I_1921_REG 5193/example2.jpeg"]
@@ -172,9 +217,13 @@ def main():
         transcription = xlsx_to_string(trans_lst[i])
         image_path = img_lst[i]
         image = cv2.imread(image_path)
+        
         croped_image = crop_image(image)
-        output_path = image_path.replace('.jpeg', '_cropped.jpeg')
-        cv2.imwrite(output_path, croped_image)
+        cc_image = color_image(croped_image)
+        
+        output_path = image_path.replace('.jpeg', '_cc.jpeg')
+        cv2.imwrite(output_path, cc_image)
+        
         texts = {
             "Human" : transcription,
             "LLM" : askOpenAI(image_path),
@@ -182,7 +231,9 @@ def main():
             "EasyOCR": easyOCR(image_path),
             "EasyOCR cc": easyOCR(output_path),
             "Pytesseract": pytesseractOCR(image_path),
-            "Pytesseract cc": pytesseractOCR(output_path)
+            "Pytesseract cc": pytesseractOCR(output_path),
+            "KerasOCR": kerasOCR(image_path),
+            "KerasOCR cc": kerasOCR(output_path),
         }
         compare_texts(texts, image_path)
 
@@ -190,3 +241,4 @@ def main():
 if __name__ == '__main__':
     main()
     
+# TODO: compare methods in terms of running time
