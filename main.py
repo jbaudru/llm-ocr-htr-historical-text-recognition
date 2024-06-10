@@ -7,7 +7,7 @@ import requests
 
 import easyocr
 import pytesseract
-
+import re
 
 from nltk.metrics.distance import jaccard_distance, masi_distance
 from nltk.util import ngrams
@@ -138,6 +138,14 @@ def save_text(text, output_path):
         f.write(text)
 
 
+def xlsx_to_string(filepath):
+    df = pd.read_excel(filepath)
+    string = df.to_string(index=False).replace("NaN", "").replace("\t", "")
+    string = re.sub(' +', ' ', string)  # Replace multiple spaces with a single space
+    string = string.replace("\n", " ")  # Replace line breaks with a space
+    return string
+
+
 def compute_distances(text1, text2):
     stop_words = set(stopwords.words('english')) 
     text1 = text1.translate(str.maketrans('', '', string.punctuation)).lower()
@@ -182,19 +190,25 @@ def compare_texts(texts, image_path):
     
 
 def main():
-    img_lst = ['data/trials/img_0.jpg', 'data/trials/img_1.jpg']
-    for image_path in img_lst:
-        
-        print("[INFO] Processing image: ", image_path)
+    img_lst = ["data/Archives_LLN_Nivelles_I_1921_REG 5193/example1.jpeg", "data/Archives_LLN_Nivelles_I_1921_REG 5193/example2.jpeg"]
+    trans_lst = ["data/transcriptions/transcription_ex1.xlsx", "data/transcriptions/transcription_ex2.xlsx"]
+    for i in range(len(img_lst)):
+        transcription = xlsx_to_string(trans_lst[i])
+
+        image_path = img_lst[i]
         image = cv2.imread(image_path)
         croped_image = crop_image(image)
-        output_path = image_path.replace('.jpg', '_cropped.jpg')
+        output_path = image_path.replace('.jpeg', '_cropped.jpeg')
         cv2.imwrite(output_path, croped_image)
         
         texts = {
-            "LLM": askOpenAI(output_path),
-            "EasyOCR": easyOCR(output_path),
-            "Pytesseract": pytesseractOCR(output_path)
+            "Human" : transcription,
+            "LLM" : askOpenAI(image_path),
+            "LLM cc": askOpenAI(output_path),
+            "EasyOCR": easyOCR(image_path),
+            "EasyOCR cc": easyOCR(output_path),
+            "Pytesseract": pytesseractOCR(image_path),
+            "Pytesseract cc": pytesseractOCR(output_path)
         }
         compare_texts(texts, image_path)
 
@@ -203,6 +217,3 @@ def main():
 if __name__ == '__main__':
     main()
     
-    
-# TODO: Report
-# TODO: Compare distance and the text here VS the text found by classical OCR software VS real text readed by human 
