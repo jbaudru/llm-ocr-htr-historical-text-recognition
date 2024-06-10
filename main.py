@@ -1,12 +1,14 @@
 import cv2
+from PIL import Image
 import numpy as np
+import pandas as pd
 import base64
 import requests
 
 import easyocr
-import matplotlib.pyplot as plt
+import pytesseract
 
-import nltk
+
 from nltk.metrics.distance import jaccard_distance, masi_distance
 from nltk.util import ngrams
 from nltk.tokenize import word_tokenize
@@ -14,7 +16,10 @@ from nltk.corpus import stopwords
 import string
 from Levenshtein import distance as levenshtein_distance
 
-api_key = "sk-proj-PwHJjpWHrxzyPJxQ8W0tT3BlbkFJk7rrTpTkpYZUI5L57Gf9"
+
+openai_API_KEY = "sk-proj-PwHJjpWHrxzyPJxQ8W0tT3BlbkFJk7rrTpTkpYZUI5L57Gf9"
+pytesseract.pytesseract.tesseract_cmd = "C:/Program Files/Tesseract-OCR/tesseract.exe"
+# https://github.com/UB-Mannheim/tesseract/wiki
 
 # Function to encode the image
 def encode_image(image_path):
@@ -68,29 +73,28 @@ def crop_image(image):
         return image
 
 def easyOCR(image_path):
-    # This needs to run only once to load the model into memory
     reader = easyocr.Reader(['en'])
-
-    # reading the image
     img = cv2.imread(image_path)
 
-    # run OCR
     results = reader.readtext(img)
 
-    # show the image and plot the results
-    plt.imshow(img)
     output = []
     for res in results:
-        # bbox coordinates of the detected text
-        xy = res[0]
-        xy1, xy2, xy3, xy4 = xy[0], xy[1], xy[2], xy[3]
-        # text results and confidence of detection
+        #xy = res[0]
+        #xy1, xy2, xy3, xy4 = xy[0], xy[1], xy[2], xy[3]
         det, conf = res[1], res[2]
-        # show time :)
-        plt.plot([xy1[0], xy2[0], xy3[0], xy4[0], xy1[0]], [xy1[1], xy2[1], xy3[1], xy4[1], xy1[1]], 'r-')
-        plt.text(xy1[0], xy1[1], f'{det} [{round(conf, 2)}]')   
         output.append((det, round(conf, 2))) 
-    return output
+    text = ' '.join([i[0] for i in output])
+    return text
+
+
+def pytesseractOCR(image_path):
+    # Open the image file
+    image = Image.open(image_path)
+    # Use pytesseract to convert the image to text
+    text = pytesseract.image_to_string(image)
+    return text
+    
     
 def askOpenAI(image_path):
     base64_image = encode_image(image_path)
@@ -100,7 +104,7 @@ def askOpenAI(image_path):
     
     headers = {
         "Content-Type": "application/json",
-        "Authorization": f"Bearer {api_key}"
+        "Authorization": f"Bearer {openai_API_KEY}"
     }    
     
     payload = {
@@ -149,9 +153,36 @@ def compute_distances(text1, text2):
 
     return jaccard, masi, levenshtein
 
+def compare_texts(texts, image_path):
+    results = {name: [] for name in texts.keys()}
+
+    for name1, t1 in texts.items():
+        for name2, t2 in texts.items():
+            jacc, mas, lev = compute_distances(t1, t2)
+            results[name1].append((jacc, mas, lev))
+
+    df_jacc = pd.DataFrame({name: [x[0] for x in res] for name, res in results.items()}, index=texts.keys())
+    df_mas = pd.DataFrame({name: [x[1] for x in res] for name, res in results.items()}, index=texts.keys())
+    df_lev = pd.DataFrame({name: [x[2] for x in res] for name, res in results.items()}, index=texts.keys())
+
+    # Get the name of the image (without the extension)
+    image_name = image_path.split('/')[-1].split('.')[0]
+
+    # Save the dataframes to files
+    df_jacc.to_csv(f'results/comparisons/{image_name}_jaccard.csv')
+    df_mas.to_csv(f'results/comparisons/{image_name}_masi.csv')
+    df_lev.to_csv(f'results/comparisons/{image_name}_levenshtein.csv')
+    
+    print("Jaccard distance:")
+    print(df_jacc)
+    print("\nMasi distance:")
+    print(df_mas)
+    print("\nLevenshtein distance:")
+    print(df_lev)
+    
 
 def main():
-    img_lst = ['data/img_0.jpg', 'data/img_1.jpg']
+    img_lst = ['data/trials/img_0.jpg', 'data/trials/img_1.jpg']
     for image_path in img_lst:
         
         print("[INFO] Processing image: ", image_path)
@@ -160,14 +191,13 @@ def main():
         output_path = image_path.replace('.jpg', '_cropped.jpg')
         cv2.imwrite(output_path, croped_image)
         
-        text = askOpenAI(output_path)
-        text2 = easyOCR(output_path)
-        
-        jacc, mas, lev = compute_distances(text, text2)
-        print(f"Jaccard distance: {jacc}, Masi distance: {mas}, Levenshtein distance: {lev}")
-        
-        #print("[INFO] Text found.")
-        #save_text(text, output_path)
+        texts = {
+            "LLM": askOpenAI(output_path),
+            "EasyOCR": easyOCR(output_path),
+            "Pytesseract": pytesseractOCR(output_path)
+        }
+        compare_texts(texts, image_path)
+
         
 
 if __name__ == '__main__':
