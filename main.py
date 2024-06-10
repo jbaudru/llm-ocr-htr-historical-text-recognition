@@ -3,6 +3,17 @@ import numpy as np
 import base64
 import requests
 
+import easyocr
+import matplotlib.pyplot as plt
+
+import nltk
+from nltk.metrics.distance import jaccard_distance, masi_distance
+from nltk.util import ngrams
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+import string
+from Levenshtein import distance as levenshtein_distance
+
 api_key = "sk-proj-PwHJjpWHrxzyPJxQ8W0tT3BlbkFJk7rrTpTkpYZUI5L57Gf9"
 
 # Function to encode the image
@@ -55,7 +66,31 @@ def crop_image(image):
     except:
         print("[INFO] No crop possible!")
         return image
-    
+
+def easyOCR(image_path):
+    # This needs to run only once to load the model into memory
+    reader = easyocr.Reader(['en'])
+
+    # reading the image
+    img = cv2.imread(image_path)
+
+    # run OCR
+    results = reader.readtext(img)
+
+    # show the image and plot the results
+    plt.imshow(img)
+    output = []
+    for res in results:
+        # bbox coordinates of the detected text
+        xy = res[0]
+        xy1, xy2, xy3, xy4 = xy[0], xy[1], xy[2], xy[3]
+        # text results and confidence of detection
+        det, conf = res[1], res[2]
+        # show time :)
+        plt.plot([xy1[0], xy2[0], xy3[0], xy4[0], xy1[0]], [xy1[1], xy2[1], xy3[1], xy4[1], xy1[1]], 'r-')
+        plt.text(xy1[0], xy1[1], f'{det} [{round(conf, 2)}]')   
+        output.append((det, round(conf, 2))) 
+    return output
     
 def askOpenAI(image_path):
     base64_image = encode_image(image_path)
@@ -92,11 +127,28 @@ def askOpenAI(image_path):
     }
 
     response = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload)
-    return response.json()
+    return response.json()["choices"][0]["message"]["content"]
 
 def save_text(text, output_path):
     with open(output_path.replace('.jpg', '.txt'), 'w', encoding='utf-8') as f:
         f.write(text)
+
+
+def compute_distances(text1, text2):
+    stop_words = set(stopwords.words('english')) 
+    text1 = text1.translate(str.maketrans('', '', string.punctuation)).lower()
+    text2 = text2.translate(str.maketrans('', '', string.punctuation)).lower()
+    text1 = [i for i in word_tokenize(text1) if not i in stop_words]
+    text2 = [i for i in word_tokenize(text2) if not i in stop_words]
+    set1 = set(ngrams(text1, n=1))
+    set2 = set(ngrams(text2, n=1))
+
+    jaccard = jaccard_distance(set1, set2)
+    masi = masi_distance(set1, set2)
+    levenshtein = levenshtein_distance(text1, text2)
+
+    return jaccard, masi, levenshtein
+
 
 def main():
     img_lst = ['data/img_0.jpg', 'data/img_1.jpg']
@@ -107,11 +159,16 @@ def main():
         croped_image = crop_image(image)
         output_path = image_path.replace('.jpg', '_cropped.jpg')
         cv2.imwrite(output_path, croped_image)
-        text_json = askOpenAI(output_path)
-        text = text_json["choices"][0]["message"]["content"]
         
-        print("[INFO] Text found.")
-        save_text(text, output_path)
+        text = askOpenAI(output_path)
+        text2 = easyOCR(output_path)
+        
+        jacc, mas, lev = compute_distances(text, text2)
+        print(f"Jaccard distance: {jacc}, Masi distance: {mas}, Levenshtein distance: {lev}")
+        
+        #print("[INFO] Text found.")
+        #save_text(text, output_path)
+        
 
 if __name__ == '__main__':
     main()
