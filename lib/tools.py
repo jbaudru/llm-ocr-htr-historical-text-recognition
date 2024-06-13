@@ -10,6 +10,7 @@ from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 import string
 from Levenshtein import distance as levenshtein_distance
+from torchmetrics.text import CharErrorRate
 
 import requests
 from bs4 import BeautifulSoup
@@ -27,9 +28,9 @@ class Tools:
         string = string.replace("\n", " ")  # Replace line breaks with a space
         return string
 
-    def getDate(self):
+    def getData(self):
         # Open the text file in append mode
-        with open("../data_rag/names.txt", "a") as file:
+        with open("data_rag/names.txt", "a") as file:
             # Send a HTTP request to the webpage
             for i in range(1, 50): # the 50 pages
                 response = requests.get("https://nl.geneanet.org/genealogie/?page=" + str(i))
@@ -44,6 +45,7 @@ class Tools:
                     print(f"Failed to get the webpage: {response.status_code}")
 
     def compute_distances(self, text1, text2):
+        cer = CharErrorRate()
         stop_words = set(stopwords.words('english')) 
         text1 = text1.translate(str.maketrans('', '', string.punctuation)).lower()
         text2 = text2.translate(str.maketrans('', '', string.punctuation)).lower()
@@ -54,32 +56,31 @@ class Tools:
         jaccard = jaccard_distance(set1, set2)
         masi = masi_distance(set1, set2)
         levenshtein = levenshtein_distance(text1, text2)
-        return jaccard, masi, levenshtein
+        cer = cer(text1, text2).item()
+        return jaccard, masi, levenshtein, cer
 
 
     def compare_texts(self, texts, image_path):
         results = {name: [] for name in texts.keys()}
         for name1, t1 in texts.items():
             for name2, t2 in texts.items():
-                jacc, mas, lev = self.compute_distances(t1, t2)
-                results[name1].append((jacc, mas, lev))
+                jacc, mas, lev, cer = self.compute_distances(t1, t2)
+                results[name1].append((jacc, mas, lev, cer))
+                
         df_jacc = pd.DataFrame({name: [x[0] for x in res] for name, res in results.items()}, index=texts.keys())
         df_mas = pd.DataFrame({name: [x[1] for x in res] for name, res in results.items()}, index=texts.keys())
         df_lev = pd.DataFrame({name: [x[2] for x in res] for name, res in results.items()}, index=texts.keys())
+        df_cer = pd.DataFrame({name: [x[3] for x in res] for name, res in results.items()}, index=texts.keys())
         # Get the name of the image (without the extension)
         image_name = image_path.split('/')[-1].split('.')[0]
         # Save the dataframes to files
-        df_jacc.to_csv(f'../results/comparisons/{image_name}_jaccard.csv')
-        df_mas.to_csv(f'../results/comparisons/{image_name}_masi.csv')
-        df_lev.to_csv(f'../results/comparisons/{image_name}_levenshtein.csv')
-        print("Jaccard distance:")
-        print(df_jacc)
-        print("\nMasi distance:")
-        print(df_mas)
-        print("\nLevenshtein distance:")
-        print(df_lev)
+        df_jacc.to_csv("results/comparisons/" + image_name + "_jaccard.csv")
+        df_mas.to_csv("results/comparisons/" + image_name + "_masi.csv")
+        df_lev.to_csv("results/comparisons/" + image_name + "_levenshtein.csv")
+        df_cer.to_csv("results/comparisons/" + image_name + "_cer.csv")
+
         # Plot results in heatmaps
-        for df, title in [(df_jacc, 'Jaccard'), (df_mas, 'Masi'), (df_lev, 'Levenshtein')]:
+        for df, title in [(df_jacc, 'Jaccard'), (df_mas, 'Masi'), (df_lev, 'Levenshtein'), (df_cer, 'Character Error Rate')]:
             plt.figure(figsize=(8, 8))
             ax = sns.heatmap(df, annot=True, fmt=".2f", annot_kws={"size": 10}, cmap='coolwarm')
             ax.xaxis.tick_top()
@@ -91,6 +92,6 @@ class Tools:
             ax.add_patch(rect)
             ax.add_patch(rect2)
             plt.title(f'{title} Distance Heatmap', y=-0.1)
-            plt.savefig(f'../results/comparisons/{image_name}_{title.lower()}_heatmap.png')
+            plt.savefig("results/comparisons/" + image_name + "_" + title.lower() + "_heatmap.png")
             plt.tight_layout()
             plt.show()

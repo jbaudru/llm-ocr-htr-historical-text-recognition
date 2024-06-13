@@ -11,3 +11,4 @@ ntlk
 levenshtein
 pandas
 openpyxl
+torchmetrics

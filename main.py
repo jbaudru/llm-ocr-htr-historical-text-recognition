@@ -1,4 +1,3 @@
-
 from lib.agent import Agent
 from lib.tools import Tools
 from lib.ocr import OCR
@@ -8,11 +7,9 @@ agent = Agent()
 tools = Tools()
 ocr = OCR()
 
-
 def askOpenAI(image_path):
     text = agent.call(image_path)
     return text
-
 
 def evaluate():
     img_lst = ["data/Archives_LLN_Nivelles_I_1921_REG 5193/example1.jpeg", "data/Archives_LLN_Nivelles_I_1921_REG 5193/example2.jpeg"]
@@ -40,7 +37,6 @@ def evaluate():
             "KerasOCR cc": ocr.kerasOCR(output_path),
         }
         tools.compare_texts(texts, image_path)
-
 
 def main():
     evaluate()
