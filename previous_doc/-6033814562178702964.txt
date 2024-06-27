@@ -1,0 +1,13 @@
+```
+DATE DE DECES | NOM         | PRENOM  | DOMICILE | DATE DE NAISSANCE | LIEU DE NAISSANCE | DATE        | N°   | RECU DE LA RECETTE DES FINANCES | OBSERVATIONS
+              |             |         |          |                   |                   |             |      | DATE        | N°   | 
+403           | Bayet       | Louis   | Laurière | 15/10/1884        | Paris             | 15/10/1884  | 1949 | 4 Août 1949 | 1949 | 
+405           | Faulon      | Michel  | Laurière | 15/10/1884        | 15/10/1884        | 4 Août 1949 | 1949 | 4 Août 1949 | 1949 | 
+406           | Vandernesse | Etienne | Laurière | 15/10/1884        | 15/10/1884        | 4 Août 1949 | 1949 | 4 Août 1949 | 1949 | 
+407           | Semoine     | Emile   | Laurière | 15/10/1884        | 15/10/1884        | 4 Août 1949 | 1949 | 4 Août 1949 | 1949 | 
+408           | Honnaye     | Jules   | Laurière | 15/10/1884        | 15/10/1884        | 4 Août 1949 | 1949 | 4 Août 1949 | 1949 | 
+409           | Godeau      | Emile   | Laurière | 15/10/1884        | 15/10/1884        | 4 Août 1949 | 1949 | 4 Août 1949 | 1949 | 
+410           | Fontaine    | Henri   | Laurière | 15/10/1884        | 15/10/1884        | 4 Août 1949 | 1949 | 4 Août 1949 | 1949 | 
+411           | Allard      | Henri   | Laurière | 15/10/1884        | 15/10/1884        | 4 Août 1949 | 1949 | 4 Août 1949 | 1949 | 
+412           | Delonte     | Henri   | Laurière | 15/10/1884        | 15/10/1884        | 4 Août 1949 | 1949 | 4 Août 1949 | 1949 | 
+```

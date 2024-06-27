@@ -7,8 +7,18 @@ agent = Agent()
 tools = Tools()
 ocr = OCR()
 
-def askOpenAI(image_path):
-    text = agent.call(image_path)
+
+def askLLMAgent(image_path, N=1):
+    text = agent.draft(image_path)
+    print(text)
+    for _ in range(N):
+        text2 = agent.checkNames(text)
+        text3 = agent.checkCities(text2)
+        text4 = agent.checkMath(text3)
+        text = agent.checkMath(text4)
+        #text = agent.verifyContext(text5)
+    agent.save_previous_documents(text)
+    print(text)
     return text
 
 def evaluate():
@@ -27,8 +37,8 @@ def evaluate():
         
         texts = {
             "Human" : transcription,
-            "LLM" : askOpenAI(image_path),
-            "LLM cc": askOpenAI(output_path),
+            "LLM" : askLLMAgent(image_path),
+            "LLM cc": askLLMAgent(output_path),
             "EasyOCR": ocr.easyOCR(image_path),
             "EasyOCR cc": ocr.easyOCR(output_path),
             "Pytesseract": ocr.pytesseractOCR(image_path),
