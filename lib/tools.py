@@ -45,8 +45,8 @@ class Tools:
                     print(f"Failed to get the webpage: {response.status_code}")
 
     def compute_distances(self, text1, text2):
-        cer = CharErrorRate()
-        stop_words = set(stopwords.words('english')) 
+        CER = CharErrorRate()
+        stop_words = set(stopwords.words('french')) 
         text1 = text1.translate(str.maketrans('', '', string.punctuation)).lower()
         text2 = text2.translate(str.maketrans('', '', string.punctuation)).lower()
         text1 = [i for i in word_tokenize(text1) if not i in stop_words]
@@ -56,7 +56,7 @@ class Tools:
         jaccard = jaccard_distance(set1, set2)
         masi = masi_distance(set1, set2)
         levenshtein = levenshtein_distance(text1, text2)
-        cer = cer(text1, text2).item()
+        cer = CER(text1, text2).item()
         return jaccard, masi, levenshtein, cer
 
 

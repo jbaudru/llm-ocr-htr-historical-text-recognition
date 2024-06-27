@@ -1,0 +1,13 @@
+```
+DATE DE DECES | NOM      | PRENOM | DOMICILE     | DATE DE NAISSANCE | LIEU DE NAISSANCE | DATE       | N° | RECU DE LA RECETTE DES FINANCES | OBSERVATIONS
+              |          |        |              |                   |                   |            |   | DATE                          |
+403           | Jansen   | Louis  | Archennes    | Paris             | 15/10/1884        | 4 Aug 1949 | 1 | 20/10/1949                   |
+405           | Jans     | Michel | Autre-Église | 15/10/1884        | 11/11/1949        | 2          | 20/10/1949                   |
+404           | De Jong  | Etienne| Baisy-Thy    | 15/10/1884        | 16/10/1949        | 3          | 20/10/1949                   |
+405           | De Vries | Paul   | Baulers      | 15/10/1884        | 4 Aug 1949        | 4          | 20/10/1949                   |
+406           | Janssen  | Jules  | Beauvechain  | 15/10/1884        | 4 Aug 1949        | 5          | 20/10/1949                   |
+407           | Bakker   | Paul   | Bierges      | 15/10/1884        | 12 Aug 1949       | 6          | 20/10/1949                   |
+408           | Jacobs   | Henri  | Bierghes     | 15/10/1884        | 19 Aug 1949       | 7          | 20/10/1949                   |
+409           | Van Dijk | Marie  | Biez         | 15/10/1884        | 4 Sep 1949        | 8          | 20/10/1949                   |
+410           | Smit     | Paul   | Bomal        | 15/10/1884        | 12 Sep 1949       | 9          | 20/10/1949                   |
+```
