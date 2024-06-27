@@ -12,3 +12,4 @@ levenshtein
 pandas
 openpyxl
 torchmetrics
+python-dotenv

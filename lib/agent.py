@@ -2,10 +2,13 @@ import base64
 import requests
 import hashlib
 import os
+from dotenv import load_dotenv
+
 class Agent:
     def __init__(self) -> None:
-        self.openai_API_KEY = "sk-proj-26nXuqhTwwYPeP1PJleOT3BlbkFJgDKsQLeG7EeHUvh6sm2A"
-        pass
+        load_dotenv()  # Load environment variables from .env file
+        self.openai_API_KEY = os.getenv("OPENAI_API_KEY")
+        #self.openai_API_KEY = "sk-proj-26nXuqhTwwYPeP1PJleOT3BlbkFJgDKsQLeG7EeHUvh6sm2A"
     
     def encode_image(self, image_path):
         with open(image_path, "rb") as image_file:
