@@ -15,7 +15,7 @@ class Agent:
             return base64.b64encode(image_file.read()).decode('utf-8')
     
     def save_previous_documents(self, content):
-        directory = "previous_doc"
+        directory = "data_rag/previous_doc"
         filename = str(hash(content)) + ".txt"
         filepath = os.path.join(directory, filename)
 
