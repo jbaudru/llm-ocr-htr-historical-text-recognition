@@ -1,0 +1,13 @@
+```
+DATE DE L'ACTE | NUMÉRO DE L'ACTE | NOM     | PRÉNOMS | DOMICILE | DATE DE DÉCÈS | DROITS DE SUCCESSION | DROIT FIXE | DÉCLARATION | DATE | RECETTE DES FINANCES | DATE | OBSERVATIONS
+               |                  |         |         |          |               |                     |            |             |      |                    |      |              
+403            |                  | Jansen  | Louis   | Archennes| 15-11-1918    | 1918                | 16-12-1918 |             |      |                    |      |              
+405            |                  | Jansen  | Michel  | Autre-Église | 11-11-1918 | 1918                | 16-12-1918 |             |      |                    |      |              
+406            |                  | Janssen | Etienne | Baisy-Thy | 15-11-1918    | 1918                | 16-12-1918 |             |      |                    |      |              
+407            |                  | Janssen | Joseph  | Baulers  | 15-11-1918    | 1918                | 16-12-1918 |             |      |                    |      |              
+408            |                  | Willems | Jules   | Beauvechain | 15-11-1918 | 1918                | 16-12-1918 |             |      |                    |      |              
+409            |                  | Willems | Gustave | Bierges  | 15-11-1918    | 1918                | 16-12-1918 |             |      |                    |      |              
+410            |                  | Peeters | Henri   | Bierghes | 15-11-1918    | 1918                | 16-12-1918 |             |      |                    |      |              
+411            |                  | Peeters | Marie   | Biez     | 15-11-1918    | 1918                | 16-12-1918 |             |      |                    |      |              
+412            |                  | Jacobs  | Gustave | Bomal    | 15-11-1918    | 1918                | 16-12-1918 |             |      |                    |      |              
+```

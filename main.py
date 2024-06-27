@@ -22,8 +22,8 @@ def askLLMAgent(image_path, N=1):
     return text
 
 def evaluate():
-    img_lst = ["data/Archives_LLN_Nivelles_I_1921_REG 5193/example1.jpeg", "data/Archives_LLN_Nivelles_I_1921_REG 5193/example2.jpeg"]
-    trans_lst = ["data/transcriptions/transcription_ex1.xlsx", "data/transcriptions/transcription_ex2.xlsx"]
+    img_lst = ["data/Archives_LLN_Nivelles_I_1921_REG 5193/example1.jpeg", "data/Archives_LLN_Nivelles_I_1921_REG 5193/example2.jpeg", "data/Archives_LLN_Nivelles_I_1921_REG 5193/example6.jpeg", "data/Archives_LLN_Nivelles_I_1921_REG 5193/example7.jpeg"]
+    trans_lst = ["data/transcriptions/transcription_ex1.xlsx", "data/transcriptions/transcription_ex2.xlsx", "data/transcriptions/transcription_ex6.xlsx", "data/transcriptions/transcription_ex7.xlsx"]
     for i in range(len(img_lst)):
         transcription = tools.xlsx_to_string(trans_lst[i])
         image_path = img_lst[i]
