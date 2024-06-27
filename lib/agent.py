@@ -4,7 +4,7 @@ import hashlib
 import os
 class Agent:
     def __init__(self) -> None:
-        self.openai_API_KEY = "sk-proj-PwHJjpWHrxzyPJxQ8W0tT3BlbkFJk7rrTpTkpYZUI5L57Gf9"
+        self.openai_API_KEY = "sk-proj-26nXuqhTwwYPeP1PJleOT3BlbkFJgDKsQLeG7EeHUvh6sm2A"
         pass
     
     def encode_image(self, image_path):
