@@ -1,0 +1,737 @@
+[
+    {
+        "N' d'ordre": {
+            "Unnamed: 0_level_1": NaN
+        },
+        "Date du dépot des déclarations": {
+            "Unnamed: 1_level_1": 1921
+        },
+        "Désignation des personnes décédées ou absentes.": {
+            "Nom.": NaN,
+            "Prénoms": NaN,
+            "Domiciles": NaN,
+            "Domiciles.1": NaN
+        },
+        "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
+            "Unnamed: 6_level_1": NaN
+        },
+        "Noms, Prénoms et demeures des parties déclarantes.": {
+            "Unnamed: 7_level_1": NaN
+        },
+        "Droits de succession en ligne collatérale et de mutation en ligne directe.": {
+            "Actif. (2)": NaN,
+            "Passif. (2)": NaN,
+            "Restant NET. (2)": NaN
+        },
+        "Droit de mutation par déces": {
+            "Valeur des immeubles. (2)": NaN
+        },
+        "Numéros des déclarations": {
+            "Primitives.": NaN,
+            "Supplémentaires.": NaN
+        },
+        "Date": {
+            "de l'expiration du délai de rectification.": NaN,
+            "de l'exigibilité des droits.": NaN
+        },
+        "Numéros de la consignation des droits au sommier n' 28": {
+            "Unnamed: 16_level_1": NaN
+        },
+        "Recette des droits et amendes.": {
+            "Date": NaN,
+            "N^03": NaN
+        },
+        "Cautionnements. ": {
+            "Numéros de la consignation au sommier n'30": NaN
+        },
+        "Observations": {
+            "(les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)": NaN
+        }
+    },
+    {
+        "N' d'ordre": {
+            "Unnamed: 0_level_1": 150
+        },
+        "Date du dépot des déclarations": {
+            "Unnamed: 1_level_1": "vingt quatre juin"
+        },
+        "Désignation des personnes décédées ou absentes.": {
+            "Nom.": "Lambert",
+            "Prénoms": "Valentin",
+            "Domiciles": "Nivelles",
+            "Domiciles.1": NaN
+        },
+        "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
+            "Unnamed: 6_level_1": "16 mars 1921"
+        },
+        "Noms, Prénoms et demeures des parties déclarantes.": {
+            "Unnamed: 7_level_1": "Greis Aurelie & autres"
+        },
+        "Droits de succession en ligne collatérale et de mutation en ligne directe.": {
+            "Actif. (2)": 18150.0,
+            "Passif. (2)": 1405.0,
+            "Restant NET. (2)": 16745.0
+        },
+        "Droit de mutation par déces": {
+            "Valeur des immeubles. (2)": NaN
+        },
+        "Numéros des déclarations": {
+            "Primitives.": NaN,
+            "Supplémentaires.": NaN
+        },
+        "Date": {
+            "de l'expiration du délai de rectification.": NaN,
+            "de l'exigibilité des droits.": NaN
+        },
+        "Numéros de la consignation des droits au sommier n' 28": {
+            "Unnamed: 16_level_1": NaN
+        },
+        "Recette des droits et amendes.": {
+            "Date": "16 mars 1922",
+            "N^03": 19.0
+        },
+        "Cautionnements. ": {
+            "Numéros de la consignation au sommier n'30": NaN
+        },
+        "Observations": {
+            "(les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)": NaN
+        }
+    },
+    {
+        "N' d'ordre": {
+            "Unnamed: 0_level_1": 151
+        },
+        "Date du dépot des déclarations": {
+            "Unnamed: 1_level_1": "d"
+        },
+        "Désignation des personnes décédées ou absentes.": {
+            "Nom.": "Leveau",
+            "Prénoms": "Adolphine",
+            "Domiciles": "Clabecq",
+            "Domiciles.1": NaN
+        },
+        "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
+            "Unnamed: 6_level_1": "8 mars 1919"
+        },
+        "Noms, Prénoms et demeures des parties déclarantes.": {
+            "Unnamed: 7_level_1": "Vanpée Ernest & autres"
+        },
+        "Droits de succession en ligne collatérale et de mutation en ligne directe.": {
+            "Actif. (2)": 4840.0,
+            "Passif. (2)": NaN,
+            "Restant NET. (2)": 4840.0
+        },
+        "Droit de mutation par déces": {
+            "Valeur des immeubles. (2)": NaN
+        },
+        "Numéros des déclarations": {
+            "Primitives.": NaN,
+            "Supplémentaires.": NaN
+        },
+        "Date": {
+            "de l'expiration du délai de rectification.": NaN,
+            "de l'exigibilité des droits.": NaN
+        },
+        "Numéros de la consignation des droits au sommier n' 28": {
+            "Unnamed: 16_level_1": NaN
+        },
+        "Recette des droits et amendes.": {
+            "Date": "4 octobre 1921",
+            "N^03": 189.0
+        },
+        "Cautionnements. ": {
+            "Numéros de la consignation au sommier n'30": NaN
+        },
+        "Observations": {
+            "(les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)": NaN
+        }
+    },
+    {
+        "N' d'ordre": {
+            "Unnamed: 0_level_1": NaN
+        },
+        "Date du dépot des déclarations": {
+            "Unnamed: 1_level_1": NaN
+        },
+        "Désignation des personnes décédées ou absentes.": {
+            "Nom.": NaN,
+            "Prénoms": NaN,
+            "Domiciles": NaN,
+            "Domiciles.1": NaN
+        },
+        "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
+            "Unnamed: 6_level_1": NaN
+        },
+        "Noms, Prénoms et demeures des parties déclarantes.": {
+            "Unnamed: 7_level_1": NaN
+        },
+        "Droits de succession en ligne collatérale et de mutation en ligne directe.": {
+            "Actif. (2)": NaN,
+            "Passif. (2)": NaN,
+            "Restant NET. (2)": NaN
+        },
+        "Droit de mutation par déces": {
+            "Valeur des immeubles. (2)": NaN
+        },
+        "Numéros des déclarations": {
+            "Primitives.": NaN,
+            "Supplémentaires.": NaN
+        },
+        "Date": {
+            "de l'expiration du délai de rectification.": NaN,
+            "de l'exigibilité des droits.": NaN
+        },
+        "Numéros de la consignation des droits au sommier n' 28": {
+            "Unnamed: 16_level_1": NaN
+        },
+        "Recette des droits et amendes.": {
+            "Date": "16 - ",
+            "N^03": 199.0
+        },
+        "Cautionnements. ": {
+            "Numéros de la consignation au sommier n'30": NaN
+        },
+        "Observations": {
+            "(les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)": NaN
+        }
+    },
+    {
+        "N' d'ordre": {
+            "Unnamed: 0_level_1": 152
+        },
+        "Date du dépot des déclarations": {
+            "Unnamed: 1_level_1": "d"
+        },
+        "Désignation des personnes décédées ou absentes.": {
+            "Nom.": "Vanpée",
+            "Prénoms": "Frédéric",
+            "Domiciles": "d",
+            "Domiciles.1": NaN
+        },
+        "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
+            "Unnamed: 6_level_1": "29 décembre 1920"
+        },
+        "Noms, Prénoms et demeures des parties déclarantes.": {
+            "Unnamed: 7_level_1": "d"
+        },
+        "Droits de succession en ligne collatérale et de mutation en ligne directe.": {
+            "Actif. (2)": 7122.0,
+            "Passif. (2)": 594.0,
+            "Restant NET. (2)": 6528.0
+        },
+        "Droit de mutation par déces": {
+            "Valeur des immeubles. (2)": NaN
+        },
+        "Numéros des déclarations": {
+            "Primitives.": NaN,
+            "Supplémentaires.": NaN
+        },
+        "Date": {
+            "de l'expiration du délai de rectification.": NaN,
+            "de l'exigibilité des droits.": NaN
+        },
+        "Numéros de la consignation des droits au sommier n' 28": {
+            "Unnamed: 16_level_1": NaN
+        },
+        "Recette des droits et amendes.": {
+            "Date": "non passible",
+            "N^03": NaN
+        },
+        "Cautionnements. ": {
+            "Numéros de la consignation au sommier n'30": NaN
+        },
+        "Observations": {
+            "(les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)": NaN
+        }
+    },
+    {
+        "N' d'ordre": {
+            "Unnamed: 0_level_1": 153
+        },
+        "Date du dépot des déclarations": {
+            "Unnamed: 1_level_1": "d"
+        },
+        "Désignation des personnes décédées ou absentes.": {
+            "Nom.": "Delabij",
+            "Prénoms": "Joachim Joseph",
+            "Domiciles": "Wauthier-Braine",
+            "Domiciles.1": NaN
+        },
+        "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
+            "Unnamed: 6_level_1": "24 janvier 1920"
+        },
+        "Noms, Prénoms et demeures des parties déclarantes.": {
+            "Unnamed: 7_level_1": "Jus.. Rosenè Marie"
+        },
+        "Droits de succession en ligne collatérale et de mutation en ligne directe.": {
+            "Actif. (2)": 2250.0,
+            "Passif. (2)": 526.0,
+            "Restant NET. (2)": 1723.0
+        },
+        "Droit de mutation par déces": {
+            "Valeur des immeubles. (2)": NaN
+        },
+        "Numéros des déclarations": {
+            "Primitives.": NaN,
+            "Supplémentaires.": NaN
+        },
+        "Date": {
+            "de l'expiration du délai de rectification.": NaN,
+            "de l'exigibilité des droits.": NaN
+        },
+        "Numéros de la consignation des droits au sommier n' 28": {
+            "Unnamed: 16_level_1": NaN
+        },
+        "Recette des droits et amendes.": {
+            "Date": "non passible",
+            "N^03": NaN
+        },
+        "Cautionnements. ": {
+            "Numéros de la consignation au sommier n'30": NaN
+        },
+        "Observations": {
+            "(les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)": NaN
+        }
+    },
+    {
+        "N' d'ordre": {
+            "Unnamed: 0_level_1": NaN
+        },
+        "Date du dépot des déclarations": {
+            "Unnamed: 1_level_1": NaN
+        },
+        "Désignation des personnes décédées ou absentes.": {
+            "Nom.": "Arrété le vingt quatre juin 1921 ",
+            "Prénoms": NaN,
+            "Domiciles": NaN,
+            "Domiciles.1": "servais"
+        },
+        "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
+            "Unnamed: 6_level_1": NaN
+        },
+        "Noms, Prénoms et demeures des parties déclarantes.": {
+            "Unnamed: 7_level_1": NaN
+        },
+        "Droits de succession en ligne collatérale et de mutation en ligne directe.": {
+            "Actif. (2)": NaN,
+            "Passif. (2)": NaN,
+            "Restant NET. (2)": NaN
+        },
+        "Droit de mutation par déces": {
+            "Valeur des immeubles. (2)": NaN
+        },
+        "Numéros des déclarations": {
+            "Primitives.": NaN,
+            "Supplémentaires.": NaN
+        },
+        "Date": {
+            "de l'expiration du délai de rectification.": NaN,
+            "de l'exigibilité des droits.": NaN
+        },
+        "Numéros de la consignation des droits au sommier n' 28": {
+            "Unnamed: 16_level_1": NaN
+        },
+        "Recette des droits et amendes.": {
+            "Date": NaN,
+            "N^03": NaN
+        },
+        "Cautionnements. ": {
+            "Numéros de la consignation au sommier n'30": NaN
+        },
+        "Observations": {
+            "(les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)": NaN
+        }
+    },
+    {
+        "N' d'ordre": {
+            "Unnamed: 0_level_1": "153(2)"
+        },
+        "Date du dépot des déclarations": {
+            "Unnamed: 1_level_1": "vingt cinq juin"
+        },
+        "Désignation des personnes décédées ou absentes.": {
+            "Nom.": "Charlier",
+            "Prénoms": "Hortense",
+            "Domiciles": "Nivelles",
+            "Domiciles.1": NaN
+        },
+        "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
+            "Unnamed: 6_level_1": NaN
+        },
+        "Noms, Prénoms et demeures des parties déclarantes.": {
+            "Unnamed: 7_level_1": "Huet Jules & Léon"
+        },
+        "Droits de succession en ligne collatérale et de mutation en ligne directe.": {
+            "Actif. (2)": 321.0,
+            "Passif. (2)": NaN,
+            "Restant NET. (2)": NaN
+        },
+        "Droit de mutation par déces": {
+            "Valeur des immeubles. (2)": NaN
+        },
+        "Numéros des déclarations": {
+            "Primitives.": "236/1920",
+            "Supplémentaires.": NaN
+        },
+        "Date": {
+            "de l'expiration du délai de rectification.": NaN,
+            "de l'exigibilité des droits.": NaN
+        },
+        "Numéros de la consignation des droits au sommier n' 28": {
+            "Unnamed: 16_level_1": NaN
+        },
+        "Recette des droits et amendes.": {
+            "Date": NaN,
+            "N^03": NaN
+        },
+        "Cautionnements. ": {
+            "Numéros de la consignation au sommier n'30": NaN
+        },
+        "Observations": {
+            "(les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)": NaN
+        }
+    },
+    {
+        "N' d'ordre": {
+            "Unnamed: 0_level_1": NaN
+        },
+        "Date du dépot des déclarations": {
+            "Unnamed: 1_level_1": NaN
+        },
+        "Désignation des personnes décédées ou absentes.": {
+            "Nom.": "Arrété le vingt cinq juin 1921",
+            "Prénoms": NaN,
+            "Domiciles": NaN,
+            "Domiciles.1": "servais"
+        },
+        "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
+            "Unnamed: 6_level_1": NaN
+        },
+        "Noms, Prénoms et demeures des parties déclarantes.": {
+            "Unnamed: 7_level_1": NaN
+        },
+        "Droits de succession en ligne collatérale et de mutation en ligne directe.": {
+            "Actif. (2)": NaN,
+            "Passif. (2)": NaN,
+            "Restant NET. (2)": NaN
+        },
+        "Droit de mutation par déces": {
+            "Valeur des immeubles. (2)": NaN
+        },
+        "Numéros des déclarations": {
+            "Primitives.": NaN,
+            "Supplémentaires.": NaN
+        },
+        "Date": {
+            "de l'expiration du délai de rectification.": NaN,
+            "de l'exigibilité des droits.": NaN
+        },
+        "Numéros de la consignation des droits au sommier n' 28": {
+            "Unnamed: 16_level_1": NaN
+        },
+        "Recette des droits et amendes.": {
+            "Date": NaN,
+            "N^03": NaN
+        },
+        "Cautionnements. ": {
+            "Numéros de la consignation au sommier n'30": NaN
+        },
+        "Observations": {
+            "(les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)": NaN
+        }
+    },
+    {
+        "N' d'ordre": {
+            "Unnamed: 0_level_1": NaN
+        },
+        "Date du dépot des déclarations": {
+            "Unnamed: 1_level_1": NaN
+        },
+        "Désignation des personnes décédées ou absentes.": {
+            "Nom.": "Arrété le vingt six juin 1921 dimanche servais",
+            "Prénoms": NaN,
+            "Domiciles": NaN,
+            "Domiciles.1": NaN
+        },
+        "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
+            "Unnamed: 6_level_1": NaN
+        },
+        "Noms, Prénoms et demeures des parties déclarantes.": {
+            "Unnamed: 7_level_1": NaN
+        },
+        "Droits de succession en ligne collatérale et de mutation en ligne directe.": {
+            "Actif. (2)": NaN,
+            "Passif. (2)": NaN,
+            "Restant NET. (2)": NaN
+        },
+        "Droit de mutation par déces": {
+            "Valeur des immeubles. (2)": NaN
+        },
+        "Numéros des déclarations": {
+            "Primitives.": NaN,
+            "Supplémentaires.": NaN
+        },
+        "Date": {
+            "de l'expiration du délai de rectification.": NaN,
+            "de l'exigibilité des droits.": NaN
+        },
+        "Numéros de la consignation des droits au sommier n' 28": {
+            "Unnamed: 16_level_1": NaN
+        },
+        "Recette des droits et amendes.": {
+            "Date": NaN,
+            "N^03": NaN
+        },
+        "Cautionnements. ": {
+            "Numéros de la consignation au sommier n'30": NaN
+        },
+        "Observations": {
+            "(les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)": NaN
+        }
+    },
+    {
+        "N' d'ordre": {
+            "Unnamed: 0_level_1": 154
+        },
+        "Date du dépot des déclarations": {
+            "Unnamed: 1_level_1": "vingt sept"
+        },
+        "Désignation des personnes décédées ou absentes.": {
+            "Nom.": "Froment",
+            "Prénoms": "Georges ",
+            "Domiciles": "Nivelles",
+            "Domiciles.1": NaN
+        },
+        "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
+            "Unnamed: 6_level_1": "28 décembre 1921"
+        },
+        "Noms, Prénoms et demeures des parties déclarantes.": {
+            "Unnamed: 7_level_1": "Vandromme Juliette"
+        },
+        "Droits de succession en ligne collatérale et de mutation en ligne directe.": {
+            "Actif. (2)": 150723.0,
+            "Passif. (2)": 5369.0,
+            "Restant NET. (2)": 145354.0
+        },
+        "Droit de mutation par déces": {
+            "Valeur des immeubles. (2)": NaN
+        },
+        "Numéros des déclarations": {
+            "Primitives.": "341(3)/1921",
+            "Supplémentaires.": NaN
+        },
+        "Date": {
+            "de l'expiration du délai de rectification.": NaN,
+            "de l'exigibilité des droits.": NaN
+        },
+        "Numéros de la consignation des droits au sommier n' 28": {
+            "Unnamed: 16_level_1": NaN
+        },
+        "Recette des droits et amendes.": {
+            "Date": "9 janvier 1922",
+            "N^03": 289.0
+        },
+        "Cautionnements. ": {
+            "Numéros de la consignation au sommier n'30": NaN
+        },
+        "Observations": {
+            "(les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)": NaN
+        }
+    },
+    {
+        "N' d'ordre": {
+            "Unnamed: 0_level_1": 155
+        },
+        "Date du dépot des déclarations": {
+            "Unnamed: 1_level_1": "d"
+        },
+        "Désignation des personnes décédées ou absentes.": {
+            "Nom.": "Devreux",
+            "Prénoms": "Jean gte",
+            "Domiciles": "Braine Le Château",
+            "Domiciles.1": NaN
+        },
+        "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
+            "Unnamed: 6_level_1": "31 janvier 1920"
+        },
+        "Noms, Prénoms et demeures des parties déclarantes.": {
+            "Unnamed: 7_level_1": "….. & autres"
+        },
+        "Droits de succession en ligne collatérale et de mutation en ligne directe.": {
+            "Actif. (2)": 2465.0,
+            "Passif. (2)": NaN,
+            "Restant NET. (2)": 2465.0
+        },
+        "Droit de mutation par déces": {
+            "Valeur des immeubles. (2)": NaN
+        },
+        "Numéros des déclarations": {
+            "Primitives.": NaN,
+            "Supplémentaires.": NaN
+        },
+        "Date": {
+            "de l'expiration du délai de rectification.": NaN,
+            "de l'exigibilité des droits.": NaN
+        },
+        "Numéros de la consignation des droits au sommier n' 28": {
+            "Unnamed: 16_level_1": NaN
+        },
+        "Recette des droits et amendes.": {
+            "Date": "non passible",
+            "N^03": NaN
+        },
+        "Cautionnements. ": {
+            "Numéros de la consignation au sommier n'30": NaN
+        },
+        "Observations": {
+            "(les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)": NaN
+        }
+    },
+    {
+        "N' d'ordre": {
+            "Unnamed: 0_level_1": 156
+        },
+        "Date du dépot des déclarations": {
+            "Unnamed: 1_level_1": "d"
+        },
+        "Désignation des personnes décédées ou absentes.": {
+            "Nom.": "Scolas",
+            "Prénoms": "Jean Joseph",
+            "Domiciles": "Wauthier-Braine",
+            "Domiciles.1": NaN
+        },
+        "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
+            "Unnamed: 6_level_1": "6 septembre 1920"
+        },
+        "Noms, Prénoms et demeures des parties déclarantes.": {
+            "Unnamed: 7_level_1": "Scolas Jules Jh & autres"
+        },
+        "Droits de succession en ligne collatérale et de mutation en ligne directe.": {
+            "Actif. (2)": 2485.0,
+            "Passif. (2)": NaN,
+            "Restant NET. (2)": 2485.0
+        },
+        "Droit de mutation par déces": {
+            "Valeur des immeubles. (2)": NaN
+        },
+        "Numéros des déclarations": {
+            "Primitives.": NaN,
+            "Supplémentaires.": NaN
+        },
+        "Date": {
+            "de l'expiration du délai de rectification.": NaN,
+            "de l'exigibilité des droits.": NaN
+        },
+        "Numéros de la consignation des droits au sommier n' 28": {
+            "Unnamed: 16_level_1": NaN
+        },
+        "Recette des droits et amendes.": {
+            "Date": "id",
+            "N^03": NaN
+        },
+        "Cautionnements. ": {
+            "Numéros de la consignation au sommier n'30": NaN
+        },
+        "Observations": {
+            "(les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)": NaN
+        }
+    },
+    {
+        "N' d'ordre": {
+            "Unnamed: 0_level_1": NaN
+        },
+        "Date du dépot des déclarations": {
+            "Unnamed: 1_level_1": NaN
+        },
+        "Désignation des personnes décédées ou absentes.": {
+            "Nom.": "Arrété le vingt sept juin 1921 ",
+            "Prénoms": NaN,
+            "Domiciles": NaN,
+            "Domiciles.1": "servais"
+        },
+        "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
+            "Unnamed: 6_level_1": NaN
+        },
+        "Noms, Prénoms et demeures des parties déclarantes.": {
+            "Unnamed: 7_level_1": NaN
+        },
+        "Droits de succession en ligne collatérale et de mutation en ligne directe.": {
+            "Actif. (2)": NaN,
+            "Passif. (2)": NaN,
+            "Restant NET. (2)": NaN
+        },
+        "Droit de mutation par déces": {
+            "Valeur des immeubles. (2)": NaN
+        },
+        "Numéros des déclarations": {
+            "Primitives.": NaN,
+            "Supplémentaires.": NaN
+        },
+        "Date": {
+            "de l'expiration du délai de rectification.": NaN,
+            "de l'exigibilité des droits.": NaN
+        },
+        "Numéros de la consignation des droits au sommier n' 28": {
+            "Unnamed: 16_level_1": NaN
+        },
+        "Recette des droits et amendes.": {
+            "Date": NaN,
+            "N^03": NaN
+        },
+        "Cautionnements. ": {
+            "Numéros de la consignation au sommier n'30": NaN
+        },
+        "Observations": {
+            "(les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)": NaN
+        }
+    },
+    {
+        "N' d'ordre": {
+            "Unnamed: 0_level_1": 157
+        },
+        "Date du dépot des déclarations": {
+            "Unnamed: 1_level_1": "vingt huit"
+        },
+        "Désignation des personnes décédées ou absentes.": {
+            "Nom.": "Defalque",
+            "Prénoms": "Claria Emma",
+            "Domiciles": "Braine Le Château",
+            "Domiciles.1": NaN
+        },
+        "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
+            "Unnamed: 6_level_1": "29 décembre 1920"
+        },
+        "Noms, Prénoms et demeures des parties déclarantes.": {
+            "Unnamed: 7_level_1": "Defalque Aueluide"
+        },
+        "Droits de succession en ligne collatérale et de mutation en ligne directe.": {
+            "Actif. (2)": 14245.0,
+            "Passif. (2)": 1326.0,
+            "Restant NET. (2)": 12919.0
+        },
+        "Droit de mutation par déces": {
+            "Valeur des immeubles. (2)": NaN
+        },
+        "Numéros des déclarations": {
+            "Primitives.": NaN,
+            "Supplémentaires.": NaN
+        },
+        "Date": {
+            "de l'expiration du délai de rectification.": NaN,
+            "de l'exigibilité des droits.": NaN
+        },
+        "Numéros de la consignation des droits au sommier n' 28": {
+            "Unnamed: 16_level_1": NaN
+        },
+        "Recette des droits et amendes.": {
+            "Date": "9 décmebre 1921",
+            "N^03": 298.0
+        },
+        "Cautionnements. ": {
+            "Numéros de la consignation au sommier n'30": NaN
+        },
+        "Observations": {
+            "(les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)": NaN
+        }
+    }
+]
