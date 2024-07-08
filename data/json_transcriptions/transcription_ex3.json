@@ -10,7 +10,7 @@
             "Nom.": "Hutelet",
             "Prénoms": "Henri",
             "Domiciles": "Waterloo",
-            "Domiciles.1": NaN
+            "Note": NaN
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": "20 7b 1919"
@@ -59,7 +59,7 @@
             "Nom.": "Chabeau",
             "Prénoms": "Marie",
             "Domiciles": "Braine l'Alleud",
-            "Domiciles.1": NaN
+            "Note": NaN
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": "6 9b 1919"
@@ -108,7 +108,7 @@
             "Nom.": NaN,
             "Prénoms": NaN,
             "Domiciles": NaN,
-            "Domiciles.1": NaN
+            "Note": NaN
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": NaN
@@ -157,7 +157,7 @@
             "Nom.": NaN,
             "Prénoms": NaN,
             "Domiciles": NaN,
-            "Domiciles.1": NaN
+            "Note": NaN
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": NaN
@@ -206,7 +206,7 @@
             "Nom.": NaN,
             "Prénoms": NaN,
             "Domiciles": NaN,
-            "Domiciles.1": NaN
+            "Note": NaN
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": NaN
@@ -255,7 +255,7 @@
             "Nom.": NaN,
             "Prénoms": NaN,
             "Domiciles": NaN,
-            "Domiciles.1": NaN
+            "Note": NaN
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": NaN
@@ -304,7 +304,7 @@
             "Nom.": "Reynens",
             "Prénoms": "Louis",
             "Domiciles": "Ophain",
-            "Domiciles.1": NaN
+            "Note": NaN
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": "4 avril 1916"
@@ -350,10 +350,10 @@
             "Unnamed: 1_level_1": NaN
         },
         "Désignation des personnes décédées ou absentes.": {
-            "Nom.": "Arreté le huit novembre 1919",
+            "Nom.": NaN,
             "Prénoms": NaN,
             "Domiciles": NaN,
-            "Domiciles.1": "servais"
+            "Note": "Arreté le huit novembre 1919 servais"
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": NaN
@@ -399,10 +399,10 @@
             "Unnamed: 1_level_1": NaN
         },
         "Désignation des personnes décédées ou absentes.": {
-            "Nom.": "Arreté le neuf novembre 1919 Dimanche",
+            "Nom.": NaN,
             "Prénoms": NaN,
             "Domiciles": NaN,
-            "Domiciles.1": "servais"
+            "Note": "Arreté le neuf novembre 1919 Dimanche servais"
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": NaN
@@ -451,7 +451,7 @@
             "Nom.": "Mathieu",
             "Prénoms": "Emérance",
             "Domiciles": "Thines",
-            "Domiciles.1": NaN
+            "Note": NaN
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": "11 mai 1919"
@@ -500,7 +500,7 @@
             "Nom.": "Caminiau",
             "Prénoms": "Adéline",
             "Domiciles": "Braine l'Alleud",
-            "Domiciles.1": NaN
+            "Note": NaN
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": "2 Juillet 1919"
@@ -549,7 +549,7 @@
             "Nom.": NaN,
             "Prénoms": NaN,
             "Domiciles": NaN,
-            "Domiciles.1": NaN
+            "Note": NaN
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": NaN
@@ -598,7 +598,7 @@
             "Nom.": NaN,
             "Prénoms": NaN,
             "Domiciles": NaN,
-            "Domiciles.1": NaN
+            "Note": NaN
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": NaN
@@ -647,7 +647,7 @@
             "Nom.": "Dubru",
             "Prénoms": "Amandine",
             "Domiciles": "Rebecq",
-            "Domiciles.1": NaN
+            "Note": NaN
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": "6 Juin 1919"
@@ -693,10 +693,10 @@
             "Unnamed: 1_level_1": NaN
         },
         "Désignation des personnes décédées ou absentes.": {
-            "Nom.": "Arreté le dix novembre 1919",
+            "Nom.": NaN,
             "Prénoms": NaN,
             "Domiciles": NaN,
-            "Domiciles.1": "servais"
+            "Note": "Arreté le dix novembre 1919 servais"
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": NaN
@@ -745,7 +745,7 @@
             "Nom.": "Humels",
             "Prénoms": "Emmanuel",
             "Domiciles": "Nivelles",
-            "Domiciles.1": NaN
+            "Note": NaN
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": "12 mai 1919"
@@ -794,7 +794,7 @@
             "Nom.": "Barigant",
             "Prénoms": "Marie",
             "Domiciles": "\"",
-            "Domiciles.1": NaN
+            "Note": NaN
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": "17 \" "
@@ -843,7 +843,7 @@
             "Nom.": "Campinaire",
             "Prénoms": "Elie",
             "Domiciles": "Braine l'Alleud",
-            "Domiciles.1": NaN
+            "Note": NaN
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": "24 mars 1919"
@@ -889,10 +889,10 @@
             "Unnamed: 1_level_1": NaN
         },
         "Désignation des personnes décédées ou absentes.": {
-            "Nom.": "Arreté le onze novembre 1919",
+            "Nom.": NaN,
             "Prénoms": NaN,
             "Domiciles": NaN,
-            "Domiciles.1": "servais"
+            "Note": "Arreté le onze novembre 1919 servais"
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": NaN

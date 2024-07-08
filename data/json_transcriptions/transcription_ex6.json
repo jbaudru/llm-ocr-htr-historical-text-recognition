@@ -10,7 +10,7 @@
             "Nom.": NaN,
             "Prénoms": NaN,
             "Domiciles": NaN,
-            "Domiciles.1": NaN
+            "Note": NaN
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": NaN
@@ -59,7 +59,7 @@
             "Nom.": "Lambert",
             "Prénoms": "Valentin",
             "Domiciles": "Nivelles",
-            "Domiciles.1": NaN
+            "Note": NaN
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": "16 mars 1921"
@@ -108,7 +108,7 @@
             "Nom.": "Leveau",
             "Prénoms": "Adolphine",
             "Domiciles": "Clabecq",
-            "Domiciles.1": NaN
+            "Note": NaN
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": "8 mars 1919"
@@ -157,7 +157,7 @@
             "Nom.": NaN,
             "Prénoms": NaN,
             "Domiciles": NaN,
-            "Domiciles.1": NaN
+            "Note": NaN
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": NaN
@@ -206,7 +206,7 @@
             "Nom.": "Vanpée",
             "Prénoms": "Frédéric",
             "Domiciles": "d",
-            "Domiciles.1": NaN
+            "Note": NaN
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": "29 décembre 1920"
@@ -255,7 +255,7 @@
             "Nom.": "Delabij",
             "Prénoms": "Joachim Joseph",
             "Domiciles": "Wauthier-Braine",
-            "Domiciles.1": NaN
+            "Note": NaN
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": "24 janvier 1920"
@@ -301,10 +301,10 @@
             "Unnamed: 1_level_1": NaN
         },
         "Désignation des personnes décédées ou absentes.": {
-            "Nom.": "Arrété le vingt quatre juin 1921 ",
+            "Nom.": NaN,
             "Prénoms": NaN,
             "Domiciles": NaN,
-            "Domiciles.1": "servais"
+            "Note": "Arrété le vingt quatre juin 1921 servais"
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": NaN
@@ -353,7 +353,7 @@
             "Nom.": "Charlier",
             "Prénoms": "Hortense",
             "Domiciles": "Nivelles",
-            "Domiciles.1": NaN
+            "Note": NaN
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": NaN
@@ -399,10 +399,10 @@
             "Unnamed: 1_level_1": NaN
         },
         "Désignation des personnes décédées ou absentes.": {
-            "Nom.": "Arrété le vingt cinq juin 1921",
+            "Nom.": NaN,
             "Prénoms": NaN,
             "Domiciles": NaN,
-            "Domiciles.1": "servais"
+            "Note": "Arrété le vingt cinq juin 1921 servais"
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": NaN
@@ -448,10 +448,10 @@
             "Unnamed: 1_level_1": NaN
         },
         "Désignation des personnes décédées ou absentes.": {
-            "Nom.": "Arrété le vingt six juin 1921 dimanche servais",
+            "Nom.": NaN,
             "Prénoms": NaN,
             "Domiciles": NaN,
-            "Domiciles.1": NaN
+            "Note": "Arrété le vingt six juin 1921 dimanche servais"
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": NaN
@@ -500,7 +500,7 @@
             "Nom.": "Froment",
             "Prénoms": "Georges ",
             "Domiciles": "Nivelles",
-            "Domiciles.1": NaN
+            "Note": NaN
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": "28 décembre 1921"
@@ -549,7 +549,7 @@
             "Nom.": "Devreux",
             "Prénoms": "Jean gte",
             "Domiciles": "Braine Le Château",
-            "Domiciles.1": NaN
+            "Note": NaN
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": "31 janvier 1920"
@@ -598,7 +598,7 @@
             "Nom.": "Scolas",
             "Prénoms": "Jean Joseph",
             "Domiciles": "Wauthier-Braine",
-            "Domiciles.1": NaN
+            "Note": NaN
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": "6 septembre 1920"
@@ -644,10 +644,10 @@
             "Unnamed: 1_level_1": NaN
         },
         "Désignation des personnes décédées ou absentes.": {
-            "Nom.": "Arrété le vingt sept juin 1921 ",
+            "Nom.": NaN,
             "Prénoms": NaN,
             "Domiciles": NaN,
-            "Domiciles.1": "servais"
+            "Note": "Arrété le vingt sept juin 1921 servais"
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": NaN
@@ -696,7 +696,7 @@
             "Nom.": "Defalque",
             "Prénoms": "Claria Emma",
             "Domiciles": "Braine Le Château",
-            "Domiciles.1": NaN
+            "Note": NaN
         },
         "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": {
             "Unnamed: 6_level_1": "29 décembre 1920"
