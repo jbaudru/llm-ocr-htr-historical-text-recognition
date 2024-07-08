@@ -66,7 +66,7 @@ class Agent:
                     ]
                 }
                 ],
-                "max_tokens": 1000,
+                "max_tokens": 2000,
                 "temperature": 0
             }
         else:
@@ -83,26 +83,91 @@ class Agent:
                     ]
                 }
                 ],
-                "max_tokens": 1000,
+                "max_tokens": 2000,
                 "temperature": 0
             }
         
         response = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload)
-        return response.json()["choices"][0]["message"]["content"]
+        # return response.json()["choices"][0]["message"]["content"]
+        return response
     
-    def draft(self, image_path):
+    def draft(self, image_path, output_format = "json"):
         base64_image = self.encode_image(image_path)
-        prompt = "You are a helpful assistant, recreate the table from this handwritten document, this table contain columns and subcolums. No PROFESSION column. I want a table in .txt format as output, juste the table no other sentence from you:"
+        prompt = f"You are a helpful assistant, recreate the table from this handwritten document into a {output_format} file, this table contain columns and subcolums. No PROFESSION column. Copy the texts as they are, do not add any other sentences from you:"
         return self.call(prompt, base64_image)
     
+    def refineLayout(self, draft):
+        
+    prompt = f"""
+        Your first draft is 
+        '''
+        {draft}
+        '''
+
+        This document is a Déclaration de succession of Belgium and expressed in a nested json, it should have the following structure:
+            \{
+                "N' d'ordre": \{
+                    "Unnamed: 0_level_1": 
+                \},
+                "Date du dépot des déclarations": \{
+                    "Unnamed: 1_level_1": 
+                \},
+                "Désignation des personnes décédées ou absentes.": \{
+                    "Nom.":  ,
+                    "Prénoms":  ,
+                    "Domiciles": ,
+                    "Domiciles.1": "
+                \},
+                "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": \{
+                    "Unnamed: 6_level_1": 
+                \},
+                "Noms, Prénoms et demeures des parties déclarantes.": \{
+                    "Unnamed: 7_level_1": 
+                \},
+                "Droits de succession en ligne collatérale et de mutation en ligne directe.": \{
+                    "Actif. (2)": ,
+                    "Passif. (2)": ,
+                    "Restant NET. (2)": 
+                \},
+                "Droit de mutation par déces": \{
+                    "Valeur des immeubles. (2)": 
+                \},
+                "Numéros des déclarations": \{
+                    "Primitives.": ,
+                    "Supplémentaires.": 
+                \},
+                "Date": \{
+                    "de l'expiration du délai de rectification.": ,
+                    "de l'exigibilité des droits.": 
+                \},
+                "Numéros de la consignation des droits au sommier n' 28": \{
+                    "Unnamed: 16_level_1": 
+                \},
+                "Recette des droits et amendes.": \{
+                    "Date": ,
+                    "N^03": 
+                \},
+                "Cautionnements. ": \{
+                    "Numéros de la consignation au sommier n'30": 
+                \},
+                "Observations": \{
+                    "(les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)": 
+                \}
+            \}
+
+        Please refine your first draft based on this structure.
+
+        """
+    return self.call(prompt)
+    
     def checkNames(self, content):
-        prompt = "Verify this table. It should containt Belgian family names and first name, there is high probability that the family names appear mutliple times in a same row. I want a table in .txt format as output, juste the table no other sentence from you:"
+        prompt = "Verify this table. It should containt Belgian family names and first name, there is high probability that the family names appear mutliple times in a same row. I want a table in .txt format as output, just the table no other sentence from you:"
         prompt += content
         prompt += self.load_names()
         return self.call(prompt, None)
     
     def checkCities(self, content):
-        prompt = "Verify this table. It should containt Belgian cities and municipality, there is high probability that the cities appear mutliple times in a same column. I want a table in .txt format as output, juste the table no other sentence from you:"
+        prompt = "Verify this table. It should containt Belgian cities and municipality, there is high probability that the cities appear mutliple times in a same column. I want a table in .txt format as output, just the table no other sentence from you:"
         prompt += content
         prompt += self.load_cities()
         return self.call(prompt, None)
