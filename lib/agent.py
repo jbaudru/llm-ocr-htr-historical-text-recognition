@@ -30,6 +30,13 @@ class Agent:
         
         with open(filepath, "w") as f:
             f.write(content)
+
+    def save_text(self, text, image_path):
+        directory = "results/Results_Prediction"
+        filename = image_path.split("/")[-1].replace(".jpg", ".txt")
+        filepath = directory + "/" + "pred_" + filename
+        with open(filepath, "w") as f:
+            f.write(text)
     
     def load_previous_documents(self, content):
         # for each file in previous_doc, load the content, select the most common sentence
@@ -37,7 +44,8 @@ class Agent:
     
     def load_names(self):
         names = ""
-        with open("data_rag/names.txt", "r") as f:
+        #with open("data_rag/names.txt", "r") as f:
+        with open("data_rag/names_short.txt", "r") as f:
             names = f.read()
         return names
 
@@ -47,7 +55,7 @@ class Agent:
             cities = f.read()
         return cities
     
-    def call(self, prompt, max_tokens =1000, base64_image=None):
+    def call(self, prompt, max_tokens=3000, base64_image=None):
         headers = {
             "Content-Type": "application/json",
             "Authorization": f"Bearer {self.openai_API_KEY}"
@@ -72,7 +80,7 @@ class Agent:
                     ]
                 }
                 ],
-                "max_tokens": 2000,
+                "max_tokens": max_tokens,
                 "temperature": 0
             }
         else:
@@ -89,11 +97,12 @@ class Agent:
                     ]
                 }
                 ],
-                "max_tokens": 2000,
+                "max_tokens": max_tokens,
                 "temperature": 0
             }
         
         response = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload)
+        #print(response.json())
         return response.json()["choices"][0]["message"]["content"]
         #return response
     
@@ -130,23 +139,23 @@ class Agent:
                     "Numéros de la consignation au sommier n'30",
                 "Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)": 
  
-        Notations:
-            7bre or 7b == September
-            8bre or 8b == October
-            9bre or 9b == November
-            Dbre or Db == December
-            d or " (quotation mark) = ditto  
-        
-        Tips: 
-            The table in the image is a Déclaration de succession of Belgium. 
-            Each deceased person should have information in the following structure below.
-            Some notations for dates and others are used as indicated in Notations, but return the notations as they are seen, not what they mean.
-            Information for 'Actif.', 'Passif.' and 'Restant Net.' should exist for each dead person. So, read them well from the image.
-            'Restant Net.' is the result of 'Actif.' minus 'Passif.'.
+            Notations:
+                7bre or 7b == September
+                8bre or 8b == October
+                9bre or 9b == November
+                Dbre or Db == December
+                d or " (quotation mark) = ditto  
             
-        Task: 
-            Please recreate the table in the image as a {output_format} file based on this column structure.
-            Don't add any other information, just the table. 
+            Tips: 
+                The table in the image is a Déclaration de succession of Belgium. 
+                Each deceased person should have information in the following structure below.
+                Some notations for dates and others are used as indicated in Notations, but return the notations as they are seen, not what they mean.
+                Information for 'Actif.', 'Passif.' and 'Restant Net.' should exist for each dead person. So, read them well from the image.
+                'Restant Net.' is the result of 'Actif.' minus 'Passif.'.
+                
+            Task: 
+                Please recreate the table in the image as a {output_format} file based on this column structure.
+                Don't add any other information, just the table. 
         """
         return self.call(prompt, max_tokens=3000, base64_image=base64_image)
     
@@ -157,7 +166,7 @@ class Agent:
         #for i in range(len(transcription_lst)):
         
         # Take a random transcription as an example
-        transcriptions += tools.xlsx_to_string(transcription_lst[random.randint(0, len(transcription_lst)-1)])  
+        transcriptions += transcription_lst[random.randint(0, len(transcription_lst)-1)] 
         
         prompt = f"""
             Your first draft:
@@ -182,7 +191,7 @@ class Agent:
                 When you see Arrêté le \d{2} \w+ \d{4}( \w+)? servais, add it to a new key key called 'Note'. 
                 If there is no information of the deceased name but only 'Arrêté le \d{2} \w+ \d{4}( \w+)? servais', add it under an empty name.
                 Make sure to read the names of the people and the location as well as the dates and the numbers correctly.
-                Do not make up information. 
+                Don't add any other information, just the table.
             
         """
         return self.call(prompt, max_tokens=3000)
@@ -214,7 +223,7 @@ class Agent:
             If there is no information of the deceased name but only 'Arrêté le \d{2} \w+ \d{4}( \w+)? servais', add it under an empty name.
             Make sure to read the names of the people and the location as well as the dates and the numbers correctly.
             Only update those items. 
-            Do not make up information.
+            Don't add any other information, just the table.
         
         Tips:
             The family name in 'Nom' under 'Désignation des personnes décédées ou absentes.' may equal to the family name in 'Noms, Prénoms et demeures des parties déclarantes', which contains the family and first name of the declaring parties.
@@ -235,9 +244,9 @@ class Agent:
     """
     
     def checkCities(self, content, country, province, municipality, location_path, language="French", lang="FR"):
-        txt = pd.read_csv(location_path, sep='\t')
-        province = txt[txt['Province'] == {province}].copy()
-
+        #txt = pd.read_csv(location_path, sep='\t')
+        #province = txt[txt['Province'] == {province}].copy()
+        province = self.load_cities()
         prompt = f"""
         
         Your draft:
@@ -256,6 +265,7 @@ class Agent:
             When you see Arrêté le \d{2} \w+ \d{4}( \w+)? servais, add it to a new key key called 'Note'. 
             If there is no information of the deceased name but only 'Arrêté le \d{2} \w+ \d{4}( \w+)? servais', add it under an empty name.
             Make sure to read the names of the people and the location as well as the dates and the numbers correctly.
+            Don't add any other information, just the table.
             
         Tips:
             The sector names in your draft and the province data may slightly differ.
