@@ -99,10 +99,22 @@ class Tools:
         text2 = [i for i in word_tokenize(text2) if not i in stop_words]
         set1 = set(ngrams(text1, n=1))
         set2 = set(ngrams(text2, n=1))
-        jaccard = jaccard_distance(set1, set2)
-        masi = masi_distance(set1, set2)
-        levenshtein = levenshtein_distance(text1, text2)
-        cer = CER(text1, text2).item()
+        try:
+            jaccard = jaccard_distance(set1, set2)
+        except:
+            jaccard = 0
+        try:
+            masi = masi_distance(set1, set2)
+        except:
+            masi = 0
+        try:
+            levenshtein = levenshtein_distance(text1, text2)
+        except:
+            levenshtein = 0
+        try:
+            cer = CER(text1, text2).item()
+        except:
+            cer = 0
         return jaccard, masi, levenshtein, cer
 
 
@@ -128,7 +140,7 @@ class Tools:
         # Plot results in heatmaps
         for df, title in [(df_jacc, 'Jaccard'), (df_mas, 'Masi'), (df_lev, 'Levenshtein'), (df_cer, 'Character Error Rate')]:
             plt.figure(figsize=(8, 8))
-            ax = sns.heatmap(df, annot=True, fmt=".2f", annot_kws={"size": 10}, cmap='coolwarm')
+            ax = sns.heatmap(df, annot=True, fmt=".2f", annot_kws={"size": 5}, cmap='coolwarm')
             ax.xaxis.tick_top()
             ax.xaxis.set_label_position('top')
             plt.xticks(rotation=90)

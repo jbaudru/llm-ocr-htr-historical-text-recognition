@@ -41,8 +41,8 @@ class Image:
             cv2.waitKey(0)
             cv2.destroyAllWindows()
             """
-            print("[INFO] Crop done!")
+            #print("[INFO] Crop done!")
             return cropped
         except:
-            print("[INFO] No crop possible!")
+            #print("[INFO] No crop possible!")
             return self.image

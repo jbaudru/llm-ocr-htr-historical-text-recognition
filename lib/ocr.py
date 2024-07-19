@@ -4,9 +4,12 @@ import easyocr
 import pytesseract
 import keras_ocr
 
-#pytesseract.pytesseract.tesseract_cmd = "C:/Program Files/Tesseract-OCR/tesseract.exe"
-pytesseract.pytesseract.tesseract_cmd = "C:/Users/julien/AppData/Local/Programs/Tesseract-OCR/tesseract.exe"
 # Download: https://github.com/UB-Mannheim/tesseract/wiki
+
+# On Asus VivoBook
+pytesseract.pytesseract.tesseract_cmd = "C:/Program Files/Tesseract-OCR/tesseract.exe"
+# On Office PC
+#pytesseract.pytesseract.tesseract_cmd = "C:/Users/julien/AppData/Local/Programs/Tesseract-OCR/tesseract.exe"
 
 class OCR:
     

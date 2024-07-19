@@ -1,8 +1,13 @@
 import base64
 import requests
 import hashlib
+import random
 import os
+import pandas as pd
 from dotenv import load_dotenv
+from lib.tools import Tools
+
+tools = Tools()
 
 class Agent:
     def __init__(self, model) -> None:
@@ -49,7 +54,7 @@ class Agent:
         } 
         if(base64_image):  
             payload = {
-                "model": self.model,
+                "model": "gpt-4o", # only gpt-4o can handle images
                 "messages": [
                 {
                     "role": "user",
@@ -72,7 +77,7 @@ class Agent:
             }
         else:
             payload = {
-                "model": "gpt-4o",
+                "model": self.model,
                 "messages": [
                 {
                     "role": "user",
@@ -89,55 +94,42 @@ class Agent:
             }
         
         response = requests.post("https://api.openai.com/v1/chat/completions", headers=headers, json=payload)
-        # return response.json()["choices"][0]["message"]["content"]
-        return response
+        return response.json()["choices"][0]["message"]["content"]
+        #return response
     
     
     def draft(self, image_path, output_format = "txt"):
         base64_image = self.encode_image(image_path)
         prompt = prompt = f"""
-            Structure:
-                "N' d'ordre":
-                ,
-                "Date du dépot des déclarations": 
-                ,
-                "Désignation des personnes décédées ou absentes.": 
-                    "Nom.":  ,
-                    "Prénoms":  ,
-                    "Domiciles": 
-                ,
-                "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": 
-                ,
-                "Noms, Prénoms et demeures des parties déclarantes.": 
-                ,
-                "Droits de succession en ligne collatérale et de mutation en ligne directe.": 
-                    "Actif. (2)": ,
-                    "Passif. (2)": ,
-                    "Restant NET. (2)": 
-                ,
-                "Droit de mutation par déces": 
-                    "Valeur des immeubles. (2)": 
-                ,
-                "Numéros des déclarations": 
-                    "Primitives.": ,
-                    "Supplémentaires.": 
-                ,
-                "Date": 
-                    "de l'expiration du délai de rectification.": ,
-                    "de l'exigibilité des droits.": 
-                ,
-                "Numéros de la consignation des droits au sommier n' 28": 
-                ,
-                "Recette des droits et amendes.": 
-                    "Date": ,
-                    "N^03": 
-                ,
-                "Cautionnements. ": 
-                    "Numéros de la consignation au sommier n'30":
-                ,
+            Column names:
+                "N' d'ordre",
+                "Date du dépot des déclarations",
+                "Désignation des personnes décédées ou absentes.:",
+                    "Nom.",
+                    "Prénoms",
+                    "Domiciles", 
+                "Date du décès ous du judgement d'envoi en possession, en cas d'absence.",
+                "Noms, Prénoms et demeures des parties déclarantes.",
+                "Droits de succession en ligne collatérale et de mutation en ligne directe.", 
+                    "Actif. (2)",
+                    "Passif. (2)",
+                    "Restant NET. (2)",
+                "Droit de mutation par déces",
+                    "Valeur des immeubles. (2)", 
+                "Numéros des déclarations",
+                    "Primitives.",
+                    "Supplémentaires.", 
+                "Date",
+                    "de l'expiration du délai de rectification.",
+                    "de l'exigibilité des droits.",
+                "Numéros de la consignation des droits au sommier n' 28",
+                "Recette des droits et amendes.",
+                    "Date",
+                    "N^03",
+                "Cautionnements. ",
+                    "Numéros de la consignation au sommier n'30",
                 "Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)": 
  
-        
         Notations:
             7bre or 7b == September
             8bre or 8b == October
@@ -153,93 +145,125 @@ class Agent:
             'Restant Net.' is the result of 'Actif.' minus 'Passif.'.
             
         Task: 
-            Please recreate the table in the image as a {output_format} file based on this structure.
-            When you see Arrêté le \d{2} \w+ \d{4}( \w+)? servais, add it to a new key key called 'Note'. 
-            If there is no information of the deceased name but only 'Arrêté le \d{2} \w+ \d{4}( \w+)? servais', add it under an empty name.
-            Make sure to read the names of the people and the location as well as the dates and the numbers correctly.
-            Do not make up information. 
+            Please recreate the table in the image as a {output_format} file based on this column structure.
+            Don't add any other information, just the table. 
         """
         return self.call(prompt, max_tokens=3000, base64_image=base64_image)
     
-    
-    def refineLayout(self, draft):
-        
-        """
-        prompt = f
-        Your first draft is 
-        '''
-        {draft}
-        '''
 
-        This document is a Déclaration de succession of Belgium and expressed in a nested json, it should have the following structure:
-            \{
-                "N' d'ordre": \{
-                    "Unnamed: 0_level_1": 
-                \},
-                "Date du dépot des déclarations": \{
-                    "Unnamed: 1_level_1": 
-                \},
-                "Désignation des personnes décédées ou absentes.": \{
-                    "Nom.":  ,
-                    "Prénoms":  ,
-                    "Domiciles": ,
-                    "Domiciles.1": "
-                \},
-                "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": \{
-                    "Unnamed: 6_level_1": 
-                \},
-                "Noms, Prénoms et demeures des parties déclarantes.": \{
-                    "Unnamed: 7_level_1": 
-                \},
-                "Droits de succession en ligne collatérale et de mutation en ligne directe.": \{
-                    "Actif. (2)": ,
-                    "Passif. (2)": ,
-                    "Restant NET. (2)": 
-                \},
-                "Droit de mutation par déces": \{
-                    "Valeur des immeubles. (2)": 
-                \},
-                "Numéros des déclarations": \{
-                    "Primitives.": ,
-                    "Supplémentaires.": 
-                \},
-                "Date": \{
-                    "de l'expiration du délai de rectification.": ,
-                    "de l'exigibilité des droits.": 
-                \},
-                "Numéros de la consignation des droits au sommier n' 28": \{
-                    "Unnamed: 16_level_1": 
-                \},
-                "Recette des droits et amendes.": \{
-                    "Date": ,
-                    "N^03": 
-                \},
-                "Cautionnements. ": \{
-                    "Numéros de la consignation au sommier n'30": 
-                \},
-                "Observations": \{
-                    "(les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)": 
-                \}
-            \}
+    # TODO: Add the image ? 
+    def refineLayout(self, content, transcription_lst): 
+        transcriptions = ""
+        #for i in range(len(transcription_lst)):
+        
+        # Take a random transcription as an example
+        transcriptions += tools.xlsx_to_string(transcription_lst[random.randint(0, len(transcription_lst)-1)])  
+        
+        prompt = f"""
+            Your first draft:
+                ```draft
+                {content}
+                ```
+            
+            Example:
+                ```txt
+                {transcriptions}
+                ```  
 
-        Please refine your first draft based on this structure.
+            Errors: 
+                Your first draft in the ```draft block contains some errors. 
+            
+            Context: 
+                The content of your draft in ```draft block should follow the structure in the example in the ```txt block. 
+                Information for 'Actif.', 'Passif.' and 'Restant Net.' should exist for each dead person.
+            
+            Task:
+                Refine your first draft based on the example.
+                When you see Arrêté le \d{2} \w+ \d{4}( \w+)? servais, add it to a new key key called 'Note'. 
+                If there is no information of the deceased name but only 'Arrêté le \d{2} \w+ \d{4}( \w+)? servais', add it under an empty name.
+                Make sure to read the names of the people and the location as well as the dates and the numbers correctly.
+                Do not make up information. 
+            
         """
-        
-        
-        return self.call(prompt)
+        return self.call(prompt, max_tokens=3000)
     
-    
+    """
     def checkNames(self, content):
         prompt = "Verify this table. It should containt Belgian family names and first name, there is high probability that the family names appear mutliple times in a same row. I want a table in .txt format as output, just the table no other sentence from you:"
         prompt += content
         prompt += self.load_names()
         return self.call(prompt, None)
+    """
     
+    def checkNames(self, content):
+        prompt = f"""
+        Your first draft:
+            ```draft
+            {content}
+            ```
+        
+        Name list:
+            ```txt
+            {self.load_names()}
+            ```  
+        
+        Task:
+            There are some transcription errors in 'Nom', 'Prénoms', and 'Noms, Prénoms et demeures des parties déclarantes' in your first draft in the ```draft block.
+            Read these items from the image again such that the corresponding names exist in Belgium according to the name list in the ```txt block.
+            When you see Arrêté le \d{2} \w+ \d{4}( \w+)? servais, add it to a new key key called 'Note'. 
+            If there is no information of the deceased name but only 'Arrêté le \d{2} \w+ \d{4}( \w+)? servais', add it under an empty name.
+            Make sure to read the names of the people and the location as well as the dates and the numbers correctly.
+            Only update those items. 
+            Do not make up information.
+        
+        Tips:
+            The family name in 'Nom' under 'Désignation des personnes décédées ou absentes.' may equal to the family name in 'Noms, Prénoms et demeures des parties déclarantes', which contains the family and first name of the declaring parties.
+            But it is most likely that their first names (Prénoms) are different. 
+            If the family names in 'Nom' and 'Noms, Prénoms et demeures des parties déclarantes' are the same, 'Prénoms' should be masculine.
+            'Noms, Prénoms et demeures des parties déclarantes' may end with '& autre' or '& autres'.
+    
+        """
+        return self.call(prompt, max_tokens=3000)
+    
+    
+    """
     def checkCities(self, content):
         prompt = "Verify this table. It should containt Belgian cities and municipality, there is high probability that the cities appear mutliple times in a same column. I want a table in .txt format as output, just the table no other sentence from you:"
         prompt += content
         prompt += self.load_cities()
         return self.call(prompt, None)
+    """
+    
+    def checkCities(self, content, country, province, municipality, location_path, language="French", lang="FR"):
+        txt = pd.read_csv(location_path, sep='\t')
+        province = txt[txt['Province'] == {province}].copy()
+
+        prompt = f"""
+        
+        Your draft:
+            ```draft
+            {content}
+            ```
+        
+        Province data:
+            ```txt
+            {province}
+            ```
+        
+        Task:
+            There may be errors in the information you filled in 'Domiciles' in your first draft in the ```draft block. Refine it.
+            To improve 'Domiciles' in your draft, consult Sector_{lang} in the province data in ```txt block. 
+            When you see Arrêté le \d{2} \w+ \d{4}( \w+)? servais, add it to a new key key called 'Note'. 
+            If there is no information of the deceased name but only 'Arrêté le \d{2} \w+ \d{4}( \w+)? servais', add it under an empty name.
+            Make sure to read the names of the people and the location as well as the dates and the numbers correctly.
+            
+        Tips:
+            The sector names in your draft and the province data may slightly differ.
+            'Domiciles' in your draft should contain sector names in Sector_{lang}.
+
+        
+        """
+        return self.call(prompt, max_tokens=3000)
     
     def checkMath(self, content):
         prompt = "Verify this table, in the column 'Droit de succession', the values in the subcolumns 'Rest' = 'Actif' - 'Passif'. I want a table in .txt format as output, juste the table no other sentence from you:"
