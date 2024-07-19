@@ -5,9 +5,10 @@ import os
 from dotenv import load_dotenv
 
 class Agent:
-    def __init__(self) -> None:
+    def __init__(self, model) -> None:
         load_dotenv()  # Load environment variables from .env file
         self.openai_API_KEY = os.getenv("OPENAI_API_KEY")
+        self.model = model
         #self.openai_API_KEY = "sk-proj-26nXuqhTwwYPeP1PJleOT3BlbkFJgDKsQLeG7EeHUvh6sm2A"
     
     def encode_image(self, image_path):
@@ -41,14 +42,14 @@ class Agent:
             cities = f.read()
         return cities
     
-    def call(self, prompt, base64_image):
+    def call(self, prompt, max_tokens =1000, base64_image=None):
         headers = {
             "Content-Type": "application/json",
             "Authorization": f"Bearer {self.openai_API_KEY}"
         } 
         if(base64_image):  
             payload = {
-                "model": "gpt-4o",
+                "model": self.model,
                 "messages": [
                 {
                     "role": "user",
@@ -91,14 +92,80 @@ class Agent:
         # return response.json()["choices"][0]["message"]["content"]
         return response
     
-    def draft(self, image_path, output_format = "json"):
+    
+    def draft(self, image_path, output_format = "txt"):
         base64_image = self.encode_image(image_path)
-        prompt = f"You are a helpful assistant, recreate the table from this handwritten document into a {output_format} file, this table contain columns and subcolums. No PROFESSION column. Copy the texts as they are, do not add any other sentences from you:"
-        return self.call(prompt, base64_image)
+        prompt = prompt = f"""
+            Structure:
+                "N' d'ordre":
+                ,
+                "Date du dépot des déclarations": 
+                ,
+                "Désignation des personnes décédées ou absentes.": 
+                    "Nom.":  ,
+                    "Prénoms":  ,
+                    "Domiciles": 
+                ,
+                "Date du décès ous du judgement d'envoi en possession, en cas d'absence.": 
+                ,
+                "Noms, Prénoms et demeures des parties déclarantes.": 
+                ,
+                "Droits de succession en ligne collatérale et de mutation en ligne directe.": 
+                    "Actif. (2)": ,
+                    "Passif. (2)": ,
+                    "Restant NET. (2)": 
+                ,
+                "Droit de mutation par déces": 
+                    "Valeur des immeubles. (2)": 
+                ,
+                "Numéros des déclarations": 
+                    "Primitives.": ,
+                    "Supplémentaires.": 
+                ,
+                "Date": 
+                    "de l'expiration du délai de rectification.": ,
+                    "de l'exigibilité des droits.": 
+                ,
+                "Numéros de la consignation des droits au sommier n' 28": 
+                ,
+                "Recette des droits et amendes.": 
+                    "Date": ,
+                    "N^03": 
+                ,
+                "Cautionnements. ": 
+                    "Numéros de la consignation au sommier n'30":
+                ,
+                "Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)": 
+ 
+        
+        Notations:
+            7bre or 7b == September
+            8bre or 8b == October
+            9bre or 9b == November
+            Dbre or Db == December
+            d or " (quotation mark) = ditto  
+        
+        Tips: 
+            The table in the image is a Déclaration de succession of Belgium. 
+            Each deceased person should have information in the following structure below.
+            Some notations for dates and others are used as indicated in Notations, but return the notations as they are seen, not what they mean.
+            Information for 'Actif.', 'Passif.' and 'Restant Net.' should exist for each dead person. So, read them well from the image.
+            'Restant Net.' is the result of 'Actif.' minus 'Passif.'.
+            
+        Task: 
+            Please recreate the table in the image as a {output_format} file based on this structure.
+            When you see Arrêté le \d{2} \w+ \d{4}( \w+)? servais, add it to a new key key called 'Note'. 
+            If there is no information of the deceased name but only 'Arrêté le \d{2} \w+ \d{4}( \w+)? servais', add it under an empty name.
+            Make sure to read the names of the people and the location as well as the dates and the numbers correctly.
+            Do not make up information. 
+        """
+        return self.call(prompt, max_tokens=3000, base64_image=base64_image)
+    
     
     def refineLayout(self, draft):
         
-    prompt = f"""
+        """
+        prompt = f
         Your first draft is 
         '''
         {draft}
@@ -156,9 +223,11 @@ class Agent:
             \}
 
         Please refine your first draft based on this structure.
-
         """
-    return self.call(prompt)
+        
+        
+        return self.call(prompt)
+    
     
     def checkNames(self, content):
         prompt = "Verify this table. It should containt Belgian family names and first name, there is high probability that the family names appear mutliple times in a same row. I want a table in .txt format as output, just the table no other sentence from you:"
