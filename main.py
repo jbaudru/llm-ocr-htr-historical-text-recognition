@@ -3,23 +3,30 @@ from lib.tools import Tools
 from lib.ocr import OCR
 from lib.img import Image
 
-agent = Agent()
+from tqdm import tqdm
+import os
+
 tools = Tools()
 ocr = OCR()
 
 
-def askLLMAgent(image_path, N=1):
-    text = agent.draft(image_path)
-    #print(text)
+
+# TODO: Modify with new Seorin Agent
+def askLLMAgent(image_path, trans_lst, agent, N=1):
+
+    location_path = "data_rag/BE_location_full.txt"
+    
+    agent = Agent(agent)
+    text1 = agent.draft(image_path)    
     for _ in range(N):
-        text2 = agent.checkNames(text)
-        text3 = agent.checkCities(text2)
-        text4 = agent.checkMath(text3)
-        text = agent.checkMath(text4)
-        #text = agent.verifyContext(text5)
-    agent.save_previous_documents(text)
-    #print(text)
-    return text
+        text2 = agent.refineLayout(text1, trans_lst)
+        text3 = agent.checkNames(text2)
+        text4 = agent.checkCities(text3, country = "Belgium", province = "Brabant wallon", municipality = "Nivelles", location_path = location_path, language = "French", lang="FR")
+        
+    agent.save_previous_documents(text4)
+    
+    return text4
+
 
 def evaluate():
     img_lst = ["data/Archives_LLN_Nivelles_I_1921_REG 5193/example1.jpeg", "data/Archives_LLN_Nivelles_I_1921_REG 5193/example2.jpeg", "data/Archives_LLN_Nivelles_I_1921_REG 5193/example6.jpeg", "data/Archives_LLN_Nivelles_I_1921_REG 5193/example7.jpeg"]
@@ -27,8 +34,14 @@ def evaluate():
     
     texts = {
         "Human": "",
-        "LLM": "",
-        "LLM cc": "",
+        "GPT4o": "",
+        "GPT4o cc": "",
+        "GPT4": "",
+        "GPT4 cc": "",
+        "GPT4 turbo": "",
+        "GPT4 turbo cc": "",
+        "GPT3.5 turbo": "",
+        "GPT3.5 turbo cc": "",
         "EasyOCR": "",
         "EasyOCR cc": "",
         "Pytesseract": "",
@@ -36,7 +49,8 @@ def evaluate():
         "KerasOCR": "",
         "KerasOCR cc": "",
     }
-    for i in range(len(img_lst)):
+    
+    for i in tqdm(range(1)): #len(img_lst) # not all the images
         transcription = tools.xlsx_to_string(trans_lst[i])
         image_path = img_lst[i]
         
@@ -46,23 +60,16 @@ def evaluate():
         img.color_image()
         output_path = image_path.replace('.jpeg', '_cc.jpeg')
         img.save(output_path)
-        """
-        text = {
-            "Human" : transcription,
-            "LLM" : askLLMAgent(image_path),
-            "LLM cc": askLLMAgent(output_path),
-            "EasyOCR": ocr.easyOCR(image_path),
-            "EasyOCR cc": ocr.easyOCR(output_path),
-            "Pytesseract": ocr.pytesseractOCR(image_path),
-            "Pytesseract cc": ocr.pytesseractOCR(output_path),
-            "KerasOCR": ocr.kerasOCR(image_path),
-            "KerasOCR cc": ocr.kerasOCR(output_path),
-        }
-        tools.compare_texts(text, image_path)
-        """
+
         texts["Human"] += transcription + "\n"
-        texts["LLM"] += askLLMAgent(image_path) + "\n"
-        texts["LLM cc"] += askLLMAgent(output_path) + "\n"
+        texts["GPT4o"] += askLLMAgent(image_path, trans_lst, "gpt-4o") + "\n"
+        texts["GPT4o cc"] += askLLMAgent(output_path, trans_lst, "gpt-4o") + "\n"
+        texts["GPT4"] += askLLMAgent(image_path, trans_lst, "gpt-4") + "\n"
+        texts["GPT4 cc"] += askLLMAgent(output_path, trans_lst, "gpt-4") + "\n"
+        texts["GPT4 turbo"] += askLLMAgent(image_path, trans_lst , "gpt-4-turbo") + "\n"
+        texts["GPT4 turbo cc"] += askLLMAgent(output_path, trans_lst, "gpt-4-turbo") + "\n"
+        texts["GPT3.5 turbo"] += askLLMAgent(image_path, trans_lst , "gpt-3.5-turbo") + "\n"
+        texts["GPT3.5 turbo cc"] += askLLMAgent(output_path, trans_lst, "gpt-3.5-turbo") + "\n"
         texts["EasyOCR"] += ocr.easyOCR(image_path) + "\n"
         texts["EasyOCR cc"] += ocr.easyOCR(output_path) + "\n"
         texts["Pytesseract"] += ocr.pytesseractOCR(image_path) + "\n"

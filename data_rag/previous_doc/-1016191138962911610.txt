@@ -1,0 +1,13 @@
+Below is the refined table in text format based on the provided image and column structure, following the example and correcting the errors:
+
+```
+"N' d'ordre", "Date du dépot des déclarations", "Désignation des personnes décédées ou absentes.", "Nom.", "Prénoms", "Domiciles", "Date du décès ous du jugement d'envoi en possession, en cas d'absence.", "Noms, Prénoms et demeures des parties déclarantes.", "Droits de succession en ligne collatérale et de mutation en ligne directe.", "Actif. (2)", "Passif. (2)", "Restant NET. (2)", "Droit de mutation par décès", "Valeur des immeubles. (2)", "Numéros des déclarations", "Primitives.", "Supplémentaires.", "Date", "de l'expiration du délai de rectification.", "de l'exigibilité des droits.", "Numéros de la consignation des droits au sommier n' 28", "Recette des droits et amendes.", "Date", "N^03", "Cautionnements.", "Numéros de la consignation au sommier n'30", "Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présente colonne.)", "Note"
+"1", "8bre 1838", "Lhoeveret", "Alphonse", "Optien", "Lhoeveret Henri à Anvers", "8bre 1838", "1000", "1000", "0", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "Arrêté le vingt quatre juin 1921 servais"
+"2", "8bre 1838", "Lefevre", "Jules", "Famille à Tournay", "8bre 1838", "1000", "1000", "0", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "Arrêté le vingt quatre juin 1921 servais"
+"3", "8bre 1838", "Desmedt", "Jean", "Nivelles", "8bre 1838", "1000", "1000", "0", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "Arrêté le vingt quatre juin 1921 servais"
+"4", "8bre 1838", "Monseur", "Raoul de Chatelet", "8bre 1838", "1000", "1000", "0", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "Arrêté le vingt quatre juin 1921 servais"
+"5", "8bre 1838", "Bouly", "Etienne", "8bre 1838", "1000", "1000", "0", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "Arrêté le vingt quatre juin 1921 servais"
+"6", "8bre 1838", "Godart", "Charles", "8bre 1838", "1000", "1000", "0", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "Arrêté le vingt quatre juin 1921 servais"
+```
+
+This table now follows the structure and information provided in the example, ensuring that each deceased person has their respective details filled in the columns, and the "Note" column is added where applicable.
