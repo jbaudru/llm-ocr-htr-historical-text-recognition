@@ -13,24 +13,27 @@ ocr = OCR()
 
 # TODO: Modify with new Seorin Agent
 def askLLMAgent(image_path, trans_lst, agent, N=1):
-
-    location_path = "data_rag/BE_location_full.txt"
-    
-    agent = Agent(agent)
-    print("Agent: "+ agent.model)
-    print(" - Drafting...")
-    text1 = agent.draft(image_path)    
-    for _ in range(N):
-        print(" - Refining...")
-        text2 = agent.refineLayout(text1, trans_lst)
-        print(" - Checking name...")
-        text3 = agent.checkNames(text2)
-        print(" - Checking city...")
-        text4 = agent.checkCities(text3, country = "Belgium", province = "Brabant wallon", municipality = "Nivelles", location_path = location_path, language = "French", lang="FR")
+    try:
+        location_path = "data_rag/BE_location_full.txt"
         
-    #agent.save_previous_documents(text4)
-    agent.save_text(text4, image_path)
-    return text4
+        agent = Agent(agent)
+        print("Agent: "+ agent.model)
+        print(" - Drafting...")
+        text1 = agent.draft(image_path)    
+        for _ in range(N):
+            print(" - Refining...")
+            text2 = agent.refineLayout(text1, trans_lst)
+            print(" - Checking name...")
+            text3 = agent.checkNames(text2)
+            print(" - Checking city...")
+            text4 = agent.checkCities(text3, country = "Belgium", province = "Brabant wallon", municipality = "Nivelles", location_path = location_path, language = "French", lang="FR")
+            
+        #agent.save_previous_documents(text4)
+        agent.save_text(text4, image_path)
+        return text4
+    except:
+        print("[ERROR] askLLMAgent failed!")
+        return ""
 
 
 def evaluate():

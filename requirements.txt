@@ -1,13 +1,15 @@
 torch==2.1.2 
 torchvision==0.16.2 
 torchaudio==2.1.2
-cv2
+tensorflow==2.15
+opencv-python
 numpy
 matplotlib
 easyocr
+keras_ocr
 pytesseract
 pillow
-ntlk
+nltk
 levenshtein
 pandas
 openpyxl

@@ -7,10 +7,14 @@ import matplotlib.patches as patches
 import json
 import os
 
+import nltk 
 from nltk.metrics.distance import jaccard_distance, masi_distance
 from nltk.util import ngrams
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
+
+nltk.download('stopwords')
+
 import string
 from Levenshtein import distance as levenshtein_distance
 from torchmetrics.text import CharErrorRate
