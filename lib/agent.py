@@ -60,9 +60,13 @@ class Agent:
             "Content-Type": "application/json",
             "Authorization": f"Bearer {self.openai_API_KEY}"
         } 
+        if("gpt-4o" in self.model):
+            model_vision = self.model
+        else:
+            model_vision = "gpt-4o"
         if(base64_image):  
             payload = {
-                "model": "gpt-4o", # only gpt-4o can handle images
+                "model": model_vision, # only gpt-4o can handle images
                 "messages": [
                 {
                     "role": "user",

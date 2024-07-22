@@ -40,6 +40,7 @@ def evaluate():
     texts = {
         "Human": "",
         "GPT4o": "",
+        "GPT4o mini": "",
         "GPT4": "",
         "GPT4 turbo": "",
         "GPT3.5 turbo": "",
@@ -51,6 +52,7 @@ def evaluate():
     texts_cc = {
         "Human": "",
         "GPT4o cc": "",
+        "GPT4o mini cc": "",
         "GPT4 cc": "",
         "GPT4 turbo cc": "",
         "GPT3.5 turbo cc": "",
@@ -81,6 +83,7 @@ def evaluate():
 
         texts["Human"] += transcription + "\n"
         texts["GPT4o"] += askLLMAgent(image_path, trans_lst, "gpt-4o") + "\n"
+        texts["GPT4o mini"] += askLLMAgent(image_path, trans_lst, "gpt-4o-mini") + "\n"
         #texts["GPT4o cc"] += askLLMAgent(output_path, trans_lst, "gpt-4o") + "\n"
         texts["GPT4"] += askLLMAgent(image_path, trans_lst, "gpt-4") + "\n"
         #texts["GPT4 cc"] += askLLMAgent(output_path, trans_lst, "gpt-4") + "\n"

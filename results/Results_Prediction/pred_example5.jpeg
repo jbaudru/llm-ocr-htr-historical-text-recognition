@@ -1,12 +1,14 @@
 ```draft
 "N' d'ordre" | "Date du dépot des déclarations" | "Nom." | "Prénoms" | "Domiciles" | "Date du décès ou du jugement d'envoi en possession, en cas d'absence." | "Noms, Prénoms et demeures des parties déclarantes." | "Droits de succession en ligne collatérale et de mutation en ligne directe." | "Actif. (2)" | "Passif. (2)" | "Restant NET. (2)" | "Droit de mutation par décès" | "Valeur des immeubles. (2)" | "Numéros des déclarations" | "Primitives." | "Supplémentaires." | "Date de l'expiration du délai de rectification." | "Date de l'exigibilité des droits." | "Numéros de la consignation des droits au sommier n' 28" | "Recette des droits et amendes." | "Date N^03" | "Cautionnements." | "Numéros de la consignation au sommier n'30" | "Observations" | "Note"
-6 | 19 9bre | Slemons | Charles | Ottignies | 14 7bre | Charles Slemons | 1991 | 1991 | 0 | 1991 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | "Arrêté le onze novembre 1919 servais"
-6 | 23 9bre | Druyts | Auguste Henri | | 9 8bre | Auguste Henri Druyts | 500 | 500 | 0 | 500 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | "Arrêté le treize novembre 1919 servais"
-6 | 22 9bre | Sieberhagen | Jean Joseph | | 1 8bre | Jean Joseph Sieberhagen | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | "Arrêté le quatorze novembre 1919 servais"
-6 | 23 9bre | Desmet | Henri Malot | | 22 7bre | Henri Malot Desmet | 2001 | 2001 | 0 | 2001 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | "Arrêté le quinze novembre 1919 servais"
-6 | 24 9bre | Flament | Louis | | 19 7bre | Louis Flament | 2221 | 2221 | 0 | 2221 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | "Arrêté le seize novembre 1919 Dimanche servais"
-6 | 25 9bre | Melaerts | Joseph Jean | | 19 8bre | Joseph Jean Melaerts | 500 | 500 | 0 | 500 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | "Arrêté le dix sept novembre 1919 servais"
-6 | 26 9bre | Fonteyne | | | 19 8bre | | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
-6 | 27 9bre | Moens | Joseph | | 19 8bre | Joseph Moens | 575 | 575 | 0 | 575 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
-6 | 28 9bre | Somers | | | 19 8bre | | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0
+6 | 19 7bre | Slemons | Charles | Ottignies | 19 7bre | Charles Slemons, Ottignies | 1991 | 1991 | 1991 | 1991 | 1991 | 1991 | 1991 | 1991 | 1991 | 1991 | 1991 | 1991 | 1991 | 1991 | 1991 | 1991 | 1991 | 
+6 | 23 7bre | Dubois | Jean | Braine-l'Alleud | 23 7bre | Jean Dubois, Braine-l'Alleud | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 
+6 | 21 7bre | Fievet | Michel | Namur | 21 7bre | Michel Fievet, Namur | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 
+6 | 22 7bre | Fievet | Michel | Namur | 22 7bre | Michel Fievet, Namur | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 
+6 | 23 7bre | Desmet | Paul | Liège | 23 7bre | Paul Desmet, Liège | 2001 | 2001 | 2001 | 2001 | 2001 | 2001 | 2001 | 2001 | 2001 | 2001 | 2001 | 2001 | 2001 | 2001 | 2001 | 2001 | 2001 | 
+6 | 24 7bre | Hourtia | Lucas | Mons | 24 7bre | Lucas Hourtia, Mons | 2221 | 2221 | 2221 | 2221 | 2221 | 2221 | 2221 | 2221 | 2221 | 2221 | 2221 | 2221 | 2221 | 2221 | 2221 | 2221 | 2221 | 
+6 | 25 7bre | Malaire | Henri | Tournai | 25 7bre | Henri Malaire, Tournai | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 
+6 | 25 7bre | Fievet | Michel | Namur | 25 7bre | Michel Fievet, Namur | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 
+6 | 26 7bre | Fontignies | René | Charleroi | 26 7bre | René Fontignies, Charleroi | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 121 | 
+6 | 27 7bre | Moens | Julien | Antwerp | 27 7bre | Julien Moens, Antwerp | 575 | 575 | 575 | 575 | 575 | 575 | 575 | 575 | 575 | 575 | 575 | 575 | 575 | 575 | 575 | 575 | 575 | 
+6 | 28 7bre | Somal | Victor | Ghent | 28 7bre | Victor Somal, Ghent | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 500 | 
 ```
