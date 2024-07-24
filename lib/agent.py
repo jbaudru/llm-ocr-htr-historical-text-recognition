@@ -160,7 +160,7 @@ class Agent:
             {feedback}
             
             Task: 
-                Please recreate the table in the image as a {output_format} file based on this column structure.
+                You are a helpful assistant who can read old handwriting and you are going to recreate a table from 'déclaration de succession' from Belgium as a {output_format} file based on this column structure. This table is show in the image.
                 Don't add any other information, just the table. 
         """
         return self.call(prompt, max_tokens=3000, base64_image=base64_image)
