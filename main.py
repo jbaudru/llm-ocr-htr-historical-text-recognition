@@ -12,19 +12,20 @@ ocr = OCR()
 
 def askLLMAgentFeedback(image_path, transcription, trans_lst, agent, N=10):
     agent = Agent(agent)
-    i = 0
-    cer = 10
-    best_cer = 10
-    text1 = ""
+    i = 0; cer = 10; best_cer = 10
+    text1 = ""; historic = ""
+    
     while(i < N and cer > 0.2):
-        text1 = agent.draft(image_path, text1) #agent.refineLayout(text1, image_path, trans_lst)
+        text1 = agent.draft(image_path, historic) #agent.refineLayout(text1, image_path, trans_lst)
+        
         cer = tools.CER(text1, transcription)
         if(cer < best_cer): 
             best_cer = cer
             
         agent.save_text(text1, image_path, "iter" + str(i) + "_")
             
-        text1 += "Feedback:\n Your current CER (Character Error Rate) score was: " + str(cer) + "and your best score was:" + str(best_cer) + ". Improve your current score.\n"
+        feedback = "Feedback:\n The CER (Character Error Rate) score for your previous output (below) was: " + str(cer) + "and your best score was:" + str(best_cer) + ". Improve your current score.\n"
+        historic += feedback + text1 
         print("CER (iter", str(i) ,"): ", cer)
         
         """
