@@ -1,0 +1,16 @@
+```draft
+```txt
+N' d'ordre Date du dépot des déclarations Désignation des personnes décédées ou absentes. Nom Prénoms Domiciles Date du décès ous du judgement d'envoi en possession, en cas d'absence. Noms, Prénoms et demeures des parties déclarantes Droits de succession en ligne collatérale et de mutation en ligne directe Actif. (2) Passif. (2) Restant NET. (2) Droit de mutation par déces Valeur des immeubles. (2) Numéros des déclarations Date Numéros de la consignation des droits au sommier n' 28 Recette des droits et amendes Cautionnements Observations
+6 7bre 1897 Heverent Jules - Décédé le 10 7bre 1897 Heverent Henri à Anvers - - - - - - - - - - - - - - - - - - - -
+6 7bre 1897 Lefevre Jules - Décédé le 10 7bre 1897 - - - - - - - - - - - - - - - - - - -
+6 7bre 1897 - - - - - - - - - - - - - - - - - - - - -
+6 7bre 1897 - - - - - - - - - - - - - - - - - - - - -
+6 7bre 1897 Desmedt Jeanne - Décédé le 10 7bre 1897 - - - - - - - - - - - - - - - - - - - -
+6 7bre 1897 Monseu - - - Arrêté le 10 7bre 1897 servais
+```
+```
+
+```txt
+Sector_FR
+Anvers
+```
