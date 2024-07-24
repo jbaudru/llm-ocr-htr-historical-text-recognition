@@ -85,7 +85,7 @@ class Agent:
                 }
                 ],
                 "max_tokens": max_tokens,
-                "temperature": 0.1
+                "temperature": 0.25
             }
         else:
             payload = {

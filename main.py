@@ -24,7 +24,7 @@ def askLLMAgentFeedback(image_path, transcription, trans_lst, agent, N=10):
             
         agent.save_text(text1, image_path, "iter" + str(i) + "_")
             
-        feedback = "Feedback:\n The CER (Character Error Rate) score for your previous output (below) was: " + str(cer) + "and your best score was:" + str(best_cer) + ". Improve your current score.\n"
+        feedback = "Feedback:\n The CER (Character Error Rate) score for your previous output (below) was: " + str(cer) + "and your best score was:" + str(best_cer) + ". Improve your current score. Hre is your previous output:\n"
         historic += feedback + text1 
         print("CER (iter", str(i) ,"): ", cer)
         

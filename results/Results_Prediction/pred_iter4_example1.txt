@@ -1,11 +1,17 @@
 ```
-"N' d'ordre" | "Date du dépot des déclarations" | "Désignation des personnes décédées ou absentes.:" | "Nom." | "Prénoms" | "Domiciles" | "Date du décès ous du jugement d'envoi en possession, en cas d'absence." | "Noms, Prénoms et demeures des parties déclarantes." | "Droits de succession en ligne collatérale et de mutation en ligne directe." | "Actif. (2)" | "Passif. (2)" | "Restant NET. (2)" | "Droit de mutation par déces" | "Valeur des immeubles. (2)" | "Numéros des déclarations" | "Primitives." | "Supplémentaires." | "Date" | "de l'expiration du délai de rectification." | "de l'exigibilité des droits." | "Numéros de la consignation des droits au sommier n' 28" | "Recette des droits et amendes." | "Date" | "N^03" | "Cautionnements." | "Numéros de la consignation au sommier n'30" | "Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présente colonne.)"
-6 | 1897 8bre | | Leboevent | Henri et autres | Schaerbeek | Arrêté du 10 7bre 1897 | Leboevent Henri et autres | | | | | | | | | | | | | | | | | |
-6 | 1897 8bre | | Lefevre | Jules | Bruxelles | Arrêté du 10 7bre 1897 | Lefevre Marie | | | | | | | | | | | | | | | | | |
-6 | 1897 9bre | | | | | Arrêté du 10 7bre 1897 | | | | | | | | | | | | | | | | | | |
-6 | 1897 9bre | | | | | Arrêté du 10 7bre 1897 | | | | | | | | | | | | | | | | | | |
-6 | 1897 9bre | | Desmedt | Jeanne | Etterbeek | Arrêté du 10 7bre 1897 | Desmedt Marie | | | | | | | | | | | | | | | | |
-6 | 400 | | Monseu | Jean | Saint-Josse-ten-Noode | Arrêté du 10 7bre 1897 | Monseu Charles | | | | | | | | | | | | | | | | |
-6 | 401 | | Bouly | Pierre | Schaerbeek | Arrêté du 10 7bre 1897 | Bouly Henri et Pierre | | | | | | | | | | | | | | | | |
-6 | 402 | | Godart | Amelie | Bruxelles | Arrêté du 10 7bre 1897 | Godart Jules | | | | | | | | | | | | | | | |
+"N' d'ordre" | "Date du dépot des déclarations" | "Désignation des personnes décédées ou absentes.:" | "Nom." | "Prénoms" | "Domiciles" | "Date du décès ous du jugement d'envoi en possession, en cas d'absence." | "Noms, Prénoms et demeures des parties déclarantes." | "Droits de succession en ligne collatérale et de mutation en ligne directe." | "Actif. (2)" | "Passif. (2)" | "Restant NET. (2)" | "Droit de mutation par décès" | "Valeur des immeubles. (2)" | "Numéros des déclarations" | "Primitives." | "Supplémentaires." | "Date" | "de l'expiration du délai de rectification." | "de l'exigibilité des droits." | "Numéros de la consignation des droits au sommier n' 28" | "Recette des droits et amendes." | "Date" | "N^03" | "Cautionnements." | "Numéros de la consignation au sommier n'30" | "Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présente colonne.)"
+6 | 1898 8bre | | | | | | | | | | | | | | | | | | | | | | | | |
+6 | 1898 9bre 10 | Heverent | Adolphe | Ophain | Heverent Marie à autre | | | | | | | | | | | | | | | | | | | |
+6 | 1898 9bre 10 | Lefevre | Jules | Francois | Bruxelles | | | | | | | | | | | | | | | | | | | |
+6 | 1898 9bre 10 | | | | | | | | | | | | | | | | | | | | | | | |
+6 | 1898 9bre 10 | | | | | | | | | | | | | | | | | | | | | | | |
+6 | 1898 9bre 10 | | | | | | | | | | | | | | | | | | | | | | | |
+6 | 1898 9bre 10 | | | | | | | | | | | | | | | | | | | | | | | |
+6 | 1898 9bre 10 | | | | | | | | | | | | | | | | | | | | | | | |
+6 | 1898 9bre 10 | | | | | | | | | | | | | | | | | | | | | | | |
+6 | 1898 9bre 10 | | | | | | | | | | | | | | | | | | | | | | | |
+6 | 1898 9bre 10 | Desmedt | Jeanne | Ternat | Desmedt Marie à autre | | | | | | | | | | | | | | | | | | | |
+6 | 1898 9bre 10 | Monseur | Jean | Chastre | Monseur Charles à autre | | | | | | | | | | | | | | | | | | | |
+6 | 1898 9bre 10 | Bouly | Jean | Francois | Bouly Marie à autre | | | | | | | | | | | | | | | | | | | |
+6 | 1898 9bre 10 | Godart | Amelie | Jodoigne | Godart Marie à autre | | | | | | | | | | | | | | | | | | | |
 ```
