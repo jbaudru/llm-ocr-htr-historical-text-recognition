@@ -39,6 +39,7 @@ def askLLMAgentFeedback(image_path, transcription, trans_lst, agent, N=10):
     
         i += 1
 
+
 # TODO: Modify with new Seorin Agent
 def askLLMAgent(image_path, trans_lst, agent, N=1):
     try:

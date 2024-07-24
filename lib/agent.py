@@ -35,7 +35,7 @@ class Agent:
         directory = "results/Results_Prediction"
         filename = image_path.split("/")[-1].replace(".jpeg", ".txt")
         filepath = directory + "/" + "pred_" + suffix + filename
-        with open(filepath, "w") as f:
+        with open(filepath, "w", encoding="utf-8") as f:
             f.write(text)
     
     def load_previous_documents(self, content):
@@ -85,7 +85,7 @@ class Agent:
                 }
                 ],
                 "max_tokens": max_tokens,
-                "temperature": 0.1
+                "temperature": 0.125
             }
         else:
             payload = {
