@@ -31,11 +31,11 @@ class Agent:
         with open(filepath, "w") as f:
             f.write(content)
 
-    def save_text(self, text, image_path):
+    def save_text(self, text, image_path, suffix=""):
         directory = "results/Results_Prediction"
-        filename = image_path.split("/")[-1].replace(".jpg", ".txt")
-        filepath = directory + "/" + "pred_" + filename
-        with open(filepath, "w") as f:
+        filename = image_path.split("/")[-1].replace(".jpeg", ".txt")
+        filepath = directory + "/" + "pred_" + suffix + filename
+        with open(filepath, "w", encoding="utf-8") as f:
             f.write(text)
     
     def load_previous_documents(self, content):
@@ -55,7 +55,7 @@ class Agent:
             cities = f.read()
         return cities
     
-    def call(self, prompt, max_tokens=3000, base64_image=None):
+    def call(self, prompt, max_tokens=5000, base64_image=None):
         headers = {
             "Content-Type": "application/json",
             "Authorization": f"Bearer {self.openai_API_KEY}"
@@ -85,7 +85,7 @@ class Agent:
                 }
                 ],
                 "max_tokens": max_tokens,
-                "temperature": 0
+                "temperature": 0.25
             }
         else:
             payload = {
@@ -111,7 +111,7 @@ class Agent:
         #return response
     
     
-    def draft(self, image_path, output_format = "txt"):
+    def draft(self, image_path, feedback="", output_format = "txt"):
         base64_image = self.encode_image(image_path)
         prompt = prompt = f"""
             Column names:
@@ -151,12 +151,14 @@ class Agent:
                 d or " (quotation mark) = ditto  
             
             Tips: 
-                The table in the image is a Déclaration de succession of Belgium. 
+                The table in the image is a 'Déclaration de succession' of Belgium. 
                 Each deceased person should have information in the following structure below.
                 Some notations for dates and others are used as indicated in Notations, but return the notations as they are seen, not what they mean.
                 Information for 'Actif.', 'Passif.' and 'Restant Net.' should exist for each dead person. So, read them well from the image.
                 'Restant Net.' is the result of 'Actif.' minus 'Passif.'.
-                
+            
+            {feedback}
+            
             Task: 
                 Please recreate the table in the image as a {output_format} file based on this column structure.
                 Don't add any other information, just the table. 
@@ -165,12 +167,15 @@ class Agent:
     
 
     # TODO: Add the image ? 
-    def refineLayout(self, content, transcription_lst): 
+    def refineLayout(self, content, image_path, transcription_lst): 
         transcriptions = ""
-        #for i in range(len(transcription_lst)):
         
-        # Take a random transcription as an example
-        transcriptions += transcription_lst[random.randint(0, len(transcription_lst)-1)] 
+        # Take a random transcription as an example and avoid the same transcription
+        img_number = image_path.split("/")[-1].replace(".jpeg", "")
+        index = random.randint(0, len(transcription_lst)-1)
+        while img_number == index:
+            index = random.randint(0, len(transcription_lst)-1)
+        transcriptions += transcription_lst[index] 
         
         prompt = f"""
             Your first draft:

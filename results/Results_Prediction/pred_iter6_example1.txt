@@ -1,0 +1,12 @@
+```
+"N' d'ordre" | "Date du dépot des déclarations" | "Désignation des personnes décédées ou absentes.:" | "Nom." | "Prénoms" | "Domiciles" | "Date du décès ous du jugement d'envoi en possession, en cas d'absence." | "Noms, Prénoms et demeures des parties déclarantes." | "Droits de succession en ligne collatérale et de mutation en ligne directe." | "Actif. (2)" | "Passif. (2)" | "Restant NET. (2)" | "Droit de mutation par décès" | "Valeur des immeubles. (2)" | "Numéros des déclarations" | "Primitives." | "Supplémentaires." | "Date" | "de l'expiration du délai de rectification." | "de l'exigibilité des droits." | "Numéros de la consignation des droits au sommier n' 28" | "Recette des droits et amendes." | "Date" | "N^03" | "Cautionnements." | "Numéros de la consignation au sommier n'30" | "Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présente colonne.)"
+6 | 1898 8bre | | | | | | | | | | | | | | | | | | | | | | | | |
+6 | 1898 9bre 10 | Heverent | Adolphe | Ophain | Heverent Marie à autre | | | | | | | | | | | | | | | | | | | |
+6 | 1898 9bre 10 | Lefevre | Jules | Francois | Bruxelles | | | | | | | | | | | | | | | | | | | |
+6 | 1898 9bre 10 | | | | | | | | | | | | | | | | | | | | | | | |
+6 | 1898 9bre 10 | | | | | | | | | | | | | | | | | | | | | | | |
+6 | 1898 9bre 10 | Desmedt | Jeanne | Ternat | Desmedt Marie à autre | | | | | | | | | | | | | | | | | | | |
+6 | 1898 9bre 10 | Monseur | Jean | Chastre | Monseur Charles à autre | | | | | | | | | | | | | | | | | | | |
+6 | 1898 9bre 10 | Bouly | Jean | Francois | Bouly Marie à autre | | | | | | | | | | | | | | | | | | | |
+6 | 1898 9bre 10 | Godart | Amelie | Jodoigne | Godart Marie à autre | | | | | | | | | | | | | | | | | | | |
+```

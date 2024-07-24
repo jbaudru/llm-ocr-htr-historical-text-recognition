@@ -120,6 +120,25 @@ class Tools:
         except:
             cer = 0
         return jaccard, masi, levenshtein, cer
+    
+    def CERreduction(self, prev_pred, curr_pred, gt):
+        CERred = (self.CER(prev_pred, gt) - self.CER(curr_pred, gt)) / self.CER(prev_pred, gt)
+        return CERred
+    
+    def PCIS(self, prev_pred, curr_pred, gt):
+        lev_origsim = levenshtein_distance(prev_pred, gt)
+        lev_llmsim = levenshtein_distance(curr_pred, gt)
+        if(lev_origsim == 0):
+            return min(max(lev_llmsim, -1), 1)
+        elif(lev_llmsim != lev_origsim):
+            return min(max((lev_llmsim-lev_origsim)/lev_origsim, -1), 1)
+        else:
+            return 0
+    
+    def CER(self, text1, gt):
+        CER = CharErrorRate()
+        cer = CER(text1, gt).item()
+        return cer
 
 
     def compare_texts(self, texts, image_path):
