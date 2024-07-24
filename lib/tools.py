@@ -120,6 +120,14 @@ class Tools:
         except:
             cer = 0
         return jaccard, masi, levenshtein, cer
+    
+    def CERreduction(self, text1, text2):
+        
+    
+    def CER(self, text1, text2):
+        CER = CharErrorRate()
+        cer = CER(text1, text2).item()
+        return cer
 
 
     def compare_texts(self, texts, image_path):

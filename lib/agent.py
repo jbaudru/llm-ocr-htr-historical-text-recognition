@@ -33,7 +33,7 @@ class Agent:
 
     def save_text(self, text, image_path):
         directory = "results/Results_Prediction"
-        filename = image_path.split("/")[-1].replace(".jpg", ".txt")
+        filename = image_path.split("/")[-1].replace(".jpeg", ".txt")
         filepath = directory + "/" + "pred_" + filename
         with open(filepath, "w") as f:
             f.write(text)
@@ -165,12 +165,15 @@ class Agent:
     
 
     # TODO: Add the image ? 
-    def refineLayout(self, content, transcription_lst): 
+    def refineLayout(self, content, image_path, transcription_lst): 
         transcriptions = ""
-        #for i in range(len(transcription_lst)):
         
-        # Take a random transcription as an example
-        transcriptions += transcription_lst[random.randint(0, len(transcription_lst)-1)] 
+        # Take a random transcription as an example and avoid the same transcription
+        img_number = image_path.split("/")[-1].replace(".jpeg", "")
+        index = random.randint(0, len(transcription_lst)-1)
+        while img_number == index:
+            index = random.randint(0, len(transcription_lst)-1)
+        transcriptions += transcription_lst[index] 
         
         prompt = f"""
             Your first draft:
