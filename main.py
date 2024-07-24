@@ -10,17 +10,24 @@ tools = Tools()
 ocr = OCR()
 
 
-def askLLMAgentFeedback(image_path, transcription, trans_lst, agent, N=20):
+def askLLMAgentFeedback(image_path, transcription, trans_lst, agent, N=10):
     agent = Agent(agent)
-    text1 = agent.draft(image_path)
-    cer = tools.CER(text1, transcription)   
-    print("CER: ", cer) 
     i = 0
-    while(i < N and cer > 0.1):
-        text1 = agent.refineLayout(text1, image_path, trans_lst)
+    cer = 10
+    best_cer = 10
+    text1 = ""
+    while(i < N and cer > 0.2):
+        text1 = agent.draft(image_path, text1) #agent.refineLayout(text1, image_path, trans_lst)
         cer = tools.CER(text1, transcription)
-        text1 += "Feedback: Your CER score is " + str(cer) + "try to improve that score" + "\n"
-        print("CER: ", cer)
+        if(cer < best_cer): 
+            best_cer = cer
+            
+        agent.save_text(text1, image_path, "iter" + str(i) + "_")
+            
+        text1 += "Feedback:\n Your current CER (Character Error Rate) score was: " + str(cer) + "and your best score was:" + str(best_cer) + ". Improve your current score.\n"
+        print("CER (iter", str(i) ,"): ", cer)
+        
+        """
         text1 = agent.checkNames(text1)
         cer = tools.CER(text1, transcription)
         text1 += "Feedback: Your CER score is " + str(cer) + "try to improve that score" + "\n"
@@ -28,6 +35,8 @@ def askLLMAgentFeedback(image_path, transcription, trans_lst, agent, N=20):
         text1 = agent.checkCities(text1, country = "Belgium", province = "Brabant wallon", municipality = "Nivelles", location_path = "data_rag/BE_location_full.txt", language = "French", lang="FR")
         cer = tools.CER(text1, transcription)
         text1 += "Feedback: Your CER score is " + str(cer) + "try to improve that score" + "\n"
+        """
+    
         i += 1
 
 # TODO: Modify with new Seorin Agent

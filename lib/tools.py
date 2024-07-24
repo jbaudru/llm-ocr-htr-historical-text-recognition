@@ -121,12 +121,16 @@ class Tools:
             cer = 0
         return jaccard, masi, levenshtein, cer
     
-    def CERreduction(self, text1, text2):
-        
+    def CERreduction(self, prev_pred, curr_pred, gt):
+        CERred = (self.CER(prev_pred, gt) - self.CER(curr_pred, gt)) / self.CER(prev_pred, gt)
+        return CERred
     
-    def CER(self, text1, text2):
+    def PCIS(self, text1, text2):
+        pass
+    
+    def CER(self, text1, gt):
         CER = CharErrorRate()
-        cer = CER(text1, text2).item()
+        cer = CER(text1, gt).item()
         return cer
 
 

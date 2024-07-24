@@ -1,0 +1,9 @@
+```
+"N' d'ordre" | "Date du dépot des déclarations" | "Désignation des personnes décédées ou absentes." | "Nom." | "Prénoms" | "Domiciles" | "Date du décès ous du judgement d'envoi en possession, en cas d'absence." | "Noms, Prénoms et demeures des parties déclarantes." | "Droits de succession en ligne collatérale et de mutation en ligne directe." | "Actif. (2)" | "Passif. (2)" | "Restant NET. (2)" | "Droit de mutation par déces" | "Valeur des immeubles. (2)" | "Numéros des déclarations" | "Primitives." | "Supplémentaires." | "Date" | "de l'expiration du délai de rectification." | "de l'exigibilité des droits." | "Numéros de la consignation des droits au sommier n' 28" | "Recette des droits et amendes." | "Date" | "N^03" | "Cautionnements." | "Numéros de la consignation au sommier n'30" | "Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)"
+6 | 1897 8bre | Leboevent | Jules | Ath | Décédé le 10 7bre 1897 | Leboevent Henri à Ath | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+6 | 1897 Db | Lefevre | Jules | Frasnes lez Gosselies | Décédé le 10 7bre 1897 | Lefevre Marie à Ath | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+6 | 1897 9bre 10 | Desmedt | Jeanne | Taintignies | Décédée le 10 7bre 1897 | Estelle Marie à Taintignies | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+6 | 400 | Monseu | Jean | Châtelet | Décédé le 10 7bre 1897 | Monseu Charles à Châtelet | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+6 | 401 | Bouly | Pierre | Namur | Décédé le 10 7bre 1897 | Bouly Henri à Namur | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+6 | 402 9bre 10 | Godart | Charles | Frasnes lez Gosselies | Décédé le 10 7bre 1897 | Godart Jules à Frasnes lez Gosselies | |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+```
