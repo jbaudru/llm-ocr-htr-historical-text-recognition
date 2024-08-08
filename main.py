@@ -140,8 +140,8 @@ def testCERFeedback():
 
 
 def main():
-    #evaluate()
-    testCERFeedback()
+    evaluate()
+    #testCERFeedback()
     
 
 if __name__ == '__main__':

@@ -114,52 +114,42 @@ class Agent:
     def draft(self, image_path, feedback="", output_format = "txt"):
         base64_image = self.encode_image(image_path)
         prompt = prompt = f"""
-            Column names:
-                "N' d'ordre",
-                "Date du dépot des déclarations",
-                "Désignation des personnes décédées ou absentes.:",
-                    "Nom.",
-                    "Prénoms",
-                    "Domiciles", 
-                "Date du décès ous du judgement d'envoi en possession, en cas d'absence.",
-                "Noms, Prénoms et demeures des parties déclarantes.",
-                "Droits de succession en ligne collatérale et de mutation en ligne directe.", 
-                    "Actif. (2)",
-                    "Passif. (2)",
-                    "Restant NET. (2)",
-                "Droit de mutation par déces",
-                    "Valeur des immeubles. (2)", 
-                "Numéros des déclarations",
-                    "Primitives.",
-                    "Supplémentaires.", 
-                "Date",
-                    "de l'expiration du délai de rectification.",
-                    "de l'exigibilité des droits.",
-                "Numéros de la consignation des droits au sommier n' 28",
-                "Recette des droits et amendes.",
-                    "Date",
-                    "N^03",
-                "Cautionnements. ",
-                    "Numéros de la consignation au sommier n'30",
-                "Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)": 
- 
-            Notations:
-                7bre or 7b == September
-                8bre or 8b == October
-                9bre or 9b == November
-                Dbre or Db == December
-                d or " (quotation mark) = ditto  
+            From the example, you learned the handwriting of this Belgian record. You learned which alphabet and which number is written in which way.
+            With this knowledge, now consider the following image to recreate:
             
-            Tips: 
-                The table in the image is a 'Déclaration de succession' of Belgium. 
-                Each deceased person should have information in the following structure below.
-                Some notations for dates and others are used as indicated in Notations, but return the notations as they are seen, not what they mean.
-                Information for 'Actif.', 'Passif.' and 'Restant Net.' should exist for each dead person. So, read them well from the image.
-                'Restant Net.' is the result of 'Actif.' minus 'Passif.'.
+            First, you read a two-level header in the table, which you recognize the same as the example as follows in the form of ("first level", "second level"):
+            ```
+                [("N' d'ordre", " "),
+                ("Date du dépot des déclarations", " "),
+                ("Désignation des personnes décédées ou absentes.:", "Nom."),
+                ("Désignation des personnes décédées ou absentes.:", "Prénoms"),
+                ("Désignation des personnes décédées ou absentes.:", "Domiciles"),
+                ("Date du décès ou du judgement d'envoi en possession, en cas d'absence.", " "),
+                ("Noms, Prénoms et demeures des parties déclarantes.", " "),
+                ("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Actif. (2)"),
+                ("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Passif. (2)"),
+                ("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Restant NET. (2)"),
+                ("Droit de mutation par déces", "Valeur des immeubles. (2)"),
+                ("Numéros des déclarations", "Primitives."),
+                ("Numéros des déclarations", "Supplémentaires."),
+                ("Date", "de l'expiration du délai de rectification."),
+                ("Date", "de l'exigibilité des droits."),
+                ("Numéros de la consignation des droits au sommier n' 28", " "),
+                ("Recette des droits et amendes.", "Date"),
+                ("Recette des droits et amendes.", "N^03"),
+                ("Cautionnements. ", "Numéros de la consignation au sommier n'30"),
+                ("Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)", " ")]
+            ```
+    
+            Context:
+            - It's written in French language and the names of people are domiciles are Belgian.
+            - Each row contains information about a dead person for the 20 variables above. Some rows contain information about the service date of the dead person written in the previous row. Such rows begin with texts like "Arrêté le \d{2} \w+ \d{4}( \w+)? servais" under "Nom." variable.
+            - When you see "Arrêté le \d{2} \w+ \d{4}( \w+)? servais", the subsequent row will be the next serviced day.
+            - N' d'ordre will also follow an order.
+            - The family name in this column "Noms, Prénoms et demeures des parties déclarantes." may be the same as the family name in "Nom." column.
             
-            Task: 
-                You are a helpful assistant who can read old handwriting and you are going to recreate a table from 'déclaration de succession' from Belgium as a {output_format} file based on this column structure. This table is show in the image.
-                Don't add any other information, just the table. 
+            Task:
+            Please recreate the table by filling all the information the record has. Pay attention to read each word and number correctly.
             
             {feedback}
             
