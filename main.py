@@ -68,33 +68,33 @@ def askLLMAgent(image_path, trans_lst, agent, N=1):
 
 def evaluate():
     texts = {
-        "Human": "",
-        "GPT4o": "",
-        "GPT4o mini": "",
-        "GPT4": "",
-        "GPT4 turbo": "",
-        "GPT3.5 turbo": "",
-        "EasyOCR": "",
-        "Pytesseract": "",
-        "KerasOCR": "",
+        "Human": [],
+        "GPT4o": [],
+        "GPT4o mini": [],
+        "GPT4": [],
+        "GPT4 turbo": [],
+        "GPT3.5 turbo": [],
+        "EasyOCR": [],
+        "Pytesseract": [],
+        "KerasOCR": [],
     }
     
     texts_cc = {
-        "Human": "",
-        "GPT4o cc": "",
-        "GPT4o mini cc": "",
-        "GPT4 cc": "",
-        "GPT4 turbo cc": "",
-        "GPT3.5 turbo cc": "",
-        "EasyOCR cc": "",
-        "Pytesseract cc": "",
-        "KerasOCR cc": "",
+        "Human": [],
+        "GPT4o cc": [],
+        "GPT4o mini cc": [],
+        "GPT4 cc": [],
+        "GPT4 turbo cc": [],
+        "GPT3.5 turbo cc": [],
+        "EasyOCR cc": [],
+        "Pytesseract cc": [],
+        "KerasOCR cc": [],
     }
     
     
     trans_lst = []
     img_lst = []
-    for i in tqdm(range(1, 8), ascii=' >='): #len(img_lst) # not all the images (max7)
+    for i in tqdm(range(1, 2), ascii=' >='): #8 max
         trans = "data/transcriptions/transcription_ex" + str(i) + ".xlsx"
         trans_lst.append(tools.xlsx_to_string(trans))
         

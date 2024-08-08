@@ -142,24 +142,41 @@ class Tools:
 
     def compare_texts(self, texts, image_path):
         results = {name: [] for name in texts.keys()}
-        for k in range(len(texts.items())): # K should be 9 at most in current experiments
-            for name1, t1 in texts.items():
-                for name2, t2 in texts.items():
-                    jacc, mas, lev, cer = self.compute_distances(t1, t2)
+        
+        for name1, t1 in texts.items():
+            for name2, t2 in texts.items():
+                for k in range(len(t1)):
+                    text1 = t1[k]
+                    text2 = t2[k]
+                    jacc, mas, lev, cer = self.compute_distances(text1, text2)
                     results[name1].append((jacc, mas, lev, cer))
         
-        # compute average of each distance metric for each text 
+        results_averages = {}
         for name, res in results.items():
-            jacc = sum([x[0] for x in res]) / len(res)
-            mas = sum([x[1] for x in res]) / len(res)
-            lev = sum([x[2] for x in res]) / len(res)
-            cer = sum([x[3] for x in res]) / len(res)
-            results[name] = (jacc, mas, lev, cer)
+            # Initialize sums for each metric
+            jacc_sum, mas_sum, lev_sum, cer_sum = 0, 0, 0, 0
+            # Initialize count for non-NaN CER values
+            cer_count = 0
+            for jacc, mas, lev, cer in res:
+                jacc_sum += jacc
+                mas_sum += mas
+                lev_sum += lev
+                # Check if CER is not NaN before adding to sum and incrementing count
+                if not math.isnan(cer):
+                    cer_sum += cer
+                    cer_count += 1
+            # Compute averages, for CER use cer_count to avoid division by zero
+            jacc_avg = jacc_sum / len(res)
+            mas_avg = mas_sum / len(res)
+            lev_avg = lev_sum / len(res)
+            cer_avg = cer_sum / cer_count if cer_count else float('nan')
+            results_averages[name] = (jacc_avg, mas_avg, lev_avg, cer_avg)
         
-        df_jacc = pd.DataFrame({name: [x[0] for x in res] for name, res in results.items()}, index=texts.keys())
-        df_mas = pd.DataFrame({name: [x[1] for x in res] for name, res in results.items()}, index=texts.keys())
-        df_lev = pd.DataFrame({name: [x[2] for x in res] for name, res in results.items()}, index=texts.keys())
-        df_cer = pd.DataFrame({name: [x[3] for x in res] for name, res in results.items()}, index=texts.keys())
+        
+        df_jacc = pd.DataFrame({name: [x[0] for x in res] for name, res in results_averages.items()}, index=texts.keys())
+        df_mas = pd.DataFrame({name: [x[1] for x in res] for name, res in results_averages.items()}, index=texts.keys())
+        df_lev = pd.DataFrame({name: [x[2] for x in res] for name, res in results_averages.items()}, index=texts.keys())
+        df_cer = pd.DataFrame({name: [x[3] for x in res] for name, res in results_averages.items()}, index=texts.keys())
         # Get the name of the image (without the extension)
         image_name = image_path.split('/')[-1].split('.')[0]
         # Save the dataframes to files
