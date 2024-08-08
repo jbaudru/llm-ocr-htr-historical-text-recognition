@@ -140,14 +140,22 @@ class Tools:
         cer = CER(text1, gt).item()
         return cer
 
-
     def compare_texts(self, texts, image_path):
         results = {name: [] for name in texts.keys()}
-        for name1, t1 in texts.items():
-            for name2, t2 in texts.items():
-                jacc, mas, lev, cer = self.compute_distances(t1, t2)
-                results[name1].append((jacc, mas, lev, cer))
-                
+        for k in range(len(texts.items())): # K should be 9 at most in current experiments
+            for name1, t1 in texts.items():
+                for name2, t2 in texts.items():
+                    jacc, mas, lev, cer = self.compute_distances(t1, t2)
+                    results[name1].append((jacc, mas, lev, cer))
+        
+        # compute average of each distance metric for each text 
+        for name, res in results.items():
+            jacc = sum([x[0] for x in res]) / len(res)
+            mas = sum([x[1] for x in res]) / len(res)
+            lev = sum([x[2] for x in res]) / len(res)
+            cer = sum([x[3] for x in res]) / len(res)
+            results[name] = (jacc, mas, lev, cer)
+        
         df_jacc = pd.DataFrame({name: [x[0] for x in res] for name, res in results.items()}, index=texts.keys())
         df_mas = pd.DataFrame({name: [x[1] for x in res] for name, res in results.items()}, index=texts.keys())
         df_lev = pd.DataFrame({name: [x[2] for x in res] for name, res in results.items()}, index=texts.keys())

@@ -111,21 +111,21 @@ def evaluate():
         #output_path = image_path.replace('.jpeg', '_cc.jpeg')
         #img.save(output_path)
 
-        texts["Human"] += transcription + "\n"
-        texts["GPT4o"] += askLLMAgent(image_path, trans_lst, "gpt-4o") + "\n"
-        texts["GPT4o mini"] += askLLMAgent(image_path, trans_lst, "gpt-4o-mini") + "\n"
+        texts["Human"].append(transcription + "\n")
+        texts["GPT4o"].append(askLLMAgent(image_path, trans_lst, "gpt-4o") + "\n")
+        texts["GPT4o mini"].append(askLLMAgent(image_path, trans_lst, "gpt-4o-mini") + "\n")
         #texts["GPT4o cc"] += askLLMAgent(output_path, trans_lst, "gpt-4o") + "\n"
-        texts["GPT4"] += askLLMAgent(image_path, trans_lst, "gpt-4") + "\n"
+        texts["GPT4"].append(askLLMAgent(image_path, trans_lst, "gpt-4") + "\n")
         #texts["GPT4 cc"] += askLLMAgent(output_path, trans_lst, "gpt-4") + "\n"
-        texts["GPT4 turbo"] += askLLMAgent(image_path, trans_lst , "gpt-4-turbo") + "\n"
+        texts["GPT4 turbo"].append(askLLMAgent(image_path, trans_lst , "gpt-4-turbo") + "\n")
         #texts["GPT4 turbo cc"] += askLLMAgent(output_path, trans_lst, "gpt-4-turbo") + "\n"
-        texts["GPT3.5 turbo"] += askLLMAgent(image_path, trans_lst , "gpt-3.5-turbo") + "\n"
+        texts["GPT3.5 turbo"].append(askLLMAgent(image_path, trans_lst , "gpt-3.5-turbo") + "\n")
         #texts["GPT3.5 turbo cc"] += askLLMAgent(output_path, trans_lst, "gpt-3.5-turbo") + "\n"
-        texts["EasyOCR"] += ocr.easyOCR(image_path) + "\n"
+        texts["EasyOCR"].append(ocr.easyOCR(image_path) + "\n")
         #texts["EasyOCR cc"] += ocr.easyOCR(output_path) + "\n"
-        texts["Pytesseract"] += ocr.pytesseractOCR(image_path) + "\n"
+        texts["Pytesseract"].append(ocr.pytesseractOCR(image_path) + "\n")
         #texts["Pytesseract cc"] += ocr.pytesseractOCR(output_path) + "\n"
-        texts["KerasOCR"] += ocr.kerasOCR(image_path) + "\n"
+        texts["KerasOCR"].append(ocr.kerasOCR(image_path) + "\n")
         #texts["KerasOCR cc"] += ocr.kerasOCR(output_path) + "\n"
 
     tools.compare_texts(texts, "all")
