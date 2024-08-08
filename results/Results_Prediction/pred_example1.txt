@@ -1,16 +1,22 @@
-```draft
 ```txt
-N' d'ordre Date du dépot des déclarations Désignation des personnes décédées ou absentes. Nom Prénoms Domiciles Date du décès ous du judgement d'envoi en possession, en cas d'absence. Noms, Prénoms et demeures des parties déclarantes Droits de succession en ligne collatérale et de mutation en ligne directe Actif. (2) Passif. (2) Restant NET. (2) Droit de mutation par déces Valeur des immeubles. (2) Numéros des déclarations Date Numéros de la consignation des droits au sommier n' 28 Recette des droits et amendes Cautionnements Observations
-6 7bre 1897 Heverent Jules - Décédé le 10 7bre 1897 Heverent Henri à Anvers - - - - - - - - - - - - - - - - - - - -
-6 7bre 1897 Lefevre Jules - Décédé le 10 7bre 1897 - - - - - - - - - - - - - - - - - - -
-6 7bre 1897 - - - - - - - - - - - - - - - - - - - - -
-6 7bre 1897 - - - - - - - - - - - - - - - - - - - - -
-6 7bre 1897 Desmedt Jeanne - Décédé le 10 7bre 1897 - - - - - - - - - - - - - - - - - - - -
-6 7bre 1897 Monseu - - - Arrêté le 10 7bre 1897 servais
-```
-```
+Nom: JANSSEN
+PrÃ©noms: Jan
+Noms, PrÃ©noms et demeures des parties dÃ©clarantes: JANSSEN Jan, rue de la Loi 20, Bruxelles
+DÃ©signation des personnes dÃ©cÃ©dÃ©es ou absentes: JANSSEN Jan
+Note: ArrÃªtÃ© le 12 janvier 2019 servais
+Domiciles: Bruxelles
 
-```txt
-Sector_FR
-Anvers
+Nom: DE VRIES
+PrÃ©noms: Piet
+Noms, PrÃ©noms et demeures des parties dÃ©clarantes: DE VRIES Piet, avenue Louise 45, Bruxelles
+DÃ©signation des personnes dÃ©cÃ©dÃ©es ou absentes: DE VRIES Piet
+Note: ArrÃªtÃ© le 15 mars 2018 servais
+Domiciles: Bruxelles
+
+Nom: SMIT
+PrÃ©noms: Johan
+Noms, PrÃ©noms et demeures des parties dÃ©clarantes: SMIT Johan & autre, chaussÃ©e de Wavre 100, Bruxelles
+DÃ©signation des personnes dÃ©cÃ©dÃ©es ou absentes: SMIT Johan
+Note: ArrÃªtÃ© le 22 juillet 2020 servais
+Domiciles: Wavre
 ```

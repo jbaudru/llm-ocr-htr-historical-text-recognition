@@ -43,7 +43,7 @@ def askLLMAgentFeedback(image_path, transcription, trans_lst, agent, N=10):
 
 # TODO: Modify with new Seorin Agent
 def askLLMAgent(image_path, trans_lst, agent, N=1):
-    try:
+    #try:
         location_path = "data_rag/BE_location_full.txt"
         
         agent = Agent(agent)
@@ -61,9 +61,9 @@ def askLLMAgent(image_path, trans_lst, agent, N=1):
         #agent.save_previous_documents(text4)
         agent.save_text(text4, image_path)
         return text4
-    except:
-        print("[ERROR] askLLMAgent failed!")
-        return ""
+    #except:
+    #    print("[ERROR] askLLMAgent failed!")
+    #    return ""
 
 
 def evaluate():
