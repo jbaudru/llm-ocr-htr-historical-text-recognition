@@ -141,7 +141,45 @@ class Tools:
         cer = CER(text1, gt).item()
         return cer
 
-    def compare_texts(self, texts, image_path):
+    def compare_texts_bar_plot(self, texts, image_name):
+        cer_dict = {
+            "GPT4o": [],
+            "GPT4o mini": [],
+            "GPT4": [],
+            "GPT4 turbo": [],
+            "GPT3.5 turbo": [],
+            "Claude": [],
+            "EasyOCR": [],
+            "Pytesseract": [],
+            "KerasOCR": [],
+        }
+        models = list(cer_dict.keys())
+        
+        for model in texts:
+            if(model != "Human"):
+                for i in range(len(texts[model])):
+                    gd = texts["Human"][i]
+                    pred = texts[model][i]
+                    jacc, mas, lev, cer  = self.compute_distances(gd, pred)
+                    cer_dict[model].append(cer)
+        
+        cer_values = [sum(cer_dict[model]) / len(cer_dict[model]) if cer_dict[model] else 0 for model in models]  # Calculate average CER for each model
+        # Create the bar plot
+        plt.figure(figsize=(12, 6))
+        plt.bar(models, cer_values, color='skyblue')
+
+        # Add titles and labels
+        plt.title('Character Error Rate (CER)')
+        plt.xlabel('Models')
+        plt.ylabel('Average CER')
+        plt.xticks(rotation=45, ha='right')
+        # Display the plot
+        plt.tight_layout()
+        plt.savefig("results/comparisons/" + image_name + "_barplot.png")
+        plt.show()
+
+
+    def compare_texts(self, texts, image_name):
         results = {name: [] for name in texts.keys()}
         
         for name1, t1 in texts.items():
@@ -151,6 +189,8 @@ class Tools:
                     text2 = t2[k]
                     jacc, mas, lev, cer = self.compute_distances(text1, text2)
                     results[name1].append((jacc, mas, lev, cer))
+                    jacc, mas, lev, cer = self.compute_distances(text2, text1)
+                    results[name2].append((jacc, mas, lev, cer))
         
         results_averages = {}
         for name, res in results.items():
@@ -180,7 +220,7 @@ class Tools:
         df_cer = pd.DataFrame({name: [results_averages[name][3]] for name in results_averages.keys()}, index=texts.keys())
 
         # Get the name of the image (without the extension)
-        image_name = image_path.split('/')[-1].split('.')[0]
+        image_name = image_name.split('/')[-1].split('.')[0]
         # Save the dataframes to files
         df_jacc.to_csv("results/comparisons/" + image_name + "_jaccard.csv")
         df_mas.to_csv("results/comparisons/" + image_name + "_masi.csv")
