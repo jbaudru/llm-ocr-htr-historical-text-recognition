@@ -10,6 +10,7 @@ tools = Tools()
 ocr = OCR()
 
 
+# Iterative compiraison
 def askLLMAgentFeedback(image_path, transcription, trans_lst, agent, N=10):
     agent = Agent(agent)
     i = 0; cer = 10; best_cer = 10
@@ -41,7 +42,7 @@ def askLLMAgentFeedback(image_path, transcription, trans_lst, agent, N=10):
         i += 1
 
 
-# TODO: Modify with new Seorin Agent
+# Few-shot compiraison
 def askLLMAgent(image_path, trans_lst, agent, N=1):
     #try:
         location_path = "data_rag/BE_location_full.txt"
@@ -65,6 +66,11 @@ def askLLMAgent(image_path, trans_lst, agent, N=1):
     #    print("[ERROR] askLLMAgent failed!")
     #    return ""
 
+# One shot compiraison
+def askLLMAgentOneShot(image_path, trans_lst, agent):
+    agent = Agent(agent)
+    text1 = agent.draft(image_path)
+    return text1
 
 def evaluate():
     texts = {
@@ -74,27 +80,15 @@ def evaluate():
         "GPT4": [],
         "GPT4 turbo": [],
         "GPT3.5 turbo": [],
+        "Claude": [],
         "EasyOCR": [],
         "Pytesseract": [],
         "KerasOCR": [],
     }
     
-    texts_cc = {
-        "Human": [],
-        "GPT4o cc": [],
-        "GPT4o mini cc": [],
-        "GPT4 cc": [],
-        "GPT4 turbo cc": [],
-        "GPT3.5 turbo cc": [],
-        "EasyOCR cc": [],
-        "Pytesseract cc": [],
-        "KerasOCR cc": [],
-    }
-    
-    
     trans_lst = []
     img_lst = []
-    for i in tqdm(range(1, 2), ascii=' >='): #8 max
+    for i in tqdm(range(1, 4), ascii=' >='): #8 max
         trans = "data/transcriptions/transcription_ex" + str(i) + ".xlsx"
         trans_lst.append(tools.xlsx_to_string(trans))
         
@@ -112,21 +106,18 @@ def evaluate():
         #img.save(output_path)
 
         texts["Human"].append(transcription + "\n")
-        texts["GPT4o"].append(askLLMAgent(image_path, trans_lst, "gpt-4o") + "\n")
-        texts["GPT4o mini"].append(askLLMAgent(image_path, trans_lst, "gpt-4o-mini") + "\n")
-        #texts["GPT4o cc"] += askLLMAgent(output_path, trans_lst, "gpt-4o") + "\n"
-        texts["GPT4"].append(askLLMAgent(image_path, trans_lst, "gpt-4") + "\n")
-        #texts["GPT4 cc"] += askLLMAgent(output_path, trans_lst, "gpt-4") + "\n"
-        texts["GPT4 turbo"].append(askLLMAgent(image_path, trans_lst , "gpt-4-turbo") + "\n")
-        #texts["GPT4 turbo cc"] += askLLMAgent(output_path, trans_lst, "gpt-4-turbo") + "\n"
-        texts["GPT3.5 turbo"].append(askLLMAgent(image_path, trans_lst , "gpt-3.5-turbo") + "\n")
-        #texts["GPT3.5 turbo cc"] += askLLMAgent(output_path, trans_lst, "gpt-3.5-turbo") + "\n"
+        texts["GPT4o"].append(askLLMAgentOneShot(image_path, trans_lst, "gpt-4o") + "\n")
+        texts["GPT4o mini"].append(askLLMAgentOneShot(image_path, trans_lst, "gpt-4o-mini") + "\n")
+        texts["GPT4"].append(askLLMAgentOneShot(image_path, trans_lst, "gpt-4") + "\n")
+        texts["GPT4 turbo"].append(askLLMAgentOneShot(image_path, trans_lst , "gpt-4-turbo") + "\n")
+        texts["GPT3.5 turbo"].append(askLLMAgentOneShot(image_path, trans_lst , "gpt-3.5-turbo") + "\n")
+
+        texts["Claude"].append(askLLMAgentOneShot(image_path, trans_lst , "claude") + "\n")
+        
         texts["EasyOCR"].append(ocr.easyOCR(image_path) + "\n")
-        #texts["EasyOCR cc"] += ocr.easyOCR(output_path) + "\n"
         texts["Pytesseract"].append(ocr.pytesseractOCR(image_path) + "\n")
-        #texts["Pytesseract cc"] += ocr.pytesseractOCR(output_path) + "\n"
         texts["KerasOCR"].append(ocr.kerasOCR(image_path) + "\n")
-        #texts["KerasOCR cc"] += ocr.kerasOCR(output_path) + "\n"
+
 
     tools.compare_texts(texts, "all")
 
@@ -138,11 +129,16 @@ def testCERFeedback():
         trans_lst.append(tools.xlsx_to_string(trans))
     askLLMAgentFeedback("data/Archives_LLN_Nivelles_I_1921_REG 5193/example1.jpeg", trans_lst, "data/transcriptions/transcription_ex1.xlsx", "gpt-4o")
 
+def testAnthropic():
+    image_path = "data/Archives_LLN_Nivelles_I_1921_REG 5193/example1.jpeg"
+    trans_lst = None
+    res = askLLMAgentOneShot(image_path, trans_lst, "claude")
+    print(res)
 
 def main():
     evaluate()
     #testCERFeedback()
-    
+    #testAnthropic()
 
 if __name__ == '__main__':
     main()
