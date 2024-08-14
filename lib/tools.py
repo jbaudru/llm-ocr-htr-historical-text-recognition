@@ -1,5 +1,6 @@
 import pandas as pd
 import re
+import math
 import seaborn as sns
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
@@ -173,10 +174,11 @@ class Tools:
             results_averages[name] = (jacc_avg, mas_avg, lev_avg, cer_avg)
         
         
-        df_jacc = pd.DataFrame({name: [x[0] for x in res] for name, res in results_averages.items()}, index=texts.keys())
-        df_mas = pd.DataFrame({name: [x[1] for x in res] for name, res in results_averages.items()}, index=texts.keys())
-        df_lev = pd.DataFrame({name: [x[2] for x in res] for name, res in results_averages.items()}, index=texts.keys())
-        df_cer = pd.DataFrame({name: [x[3] for x in res] for name, res in results_averages.items()}, index=texts.keys())
+        df_jacc = pd.DataFrame({name: [results_averages[name][0]] for name in results_averages.keys()}, index=texts.keys())
+        df_mas = pd.DataFrame({name: [results_averages[name][1]] for name in results_averages.keys()}, index=texts.keys())
+        df_lev = pd.DataFrame({name: [results_averages[name][2]] for name in results_averages.keys()}, index=texts.keys())
+        df_cer = pd.DataFrame({name: [results_averages[name][3]] for name in results_averages.keys()}, index=texts.keys())
+
         # Get the name of the image (without the extension)
         image_name = image_path.split('/')[-1].split('.')[0]
         # Save the dataframes to files

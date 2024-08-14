@@ -72,6 +72,15 @@ def askLLMAgentOneShot(image_path, trans_lst, agent):
     text1 = agent.draft(image_path)
     return text1
 
+
+
+def append_result(texts, key, result):
+    if result is not None:
+        texts[key].append(result + "\n")
+    else:
+        texts[key].append("\n")
+        print(f"Warning: {key} returned None for image_path")
+
 def evaluate():
     texts = {
         "Human": [],
@@ -97,29 +106,26 @@ def evaluate():
     
     for i in tqdm(range(len(img_lst)), ascii=' >='):
         transcription = trans_lst[i]
-        
         image_path = img_lst[i]
-        #img = Image(image_path)
-        #img.crop_image()
-        #img.color_image()
-        #output_path = image_path.replace('.jpeg', '_cc.jpeg')
-        #img.save(output_path)
 
         texts["Human"].append(transcription + "\n")
-        texts["GPT4o"].append(askLLMAgentOneShot(image_path, trans_lst, "gpt-4o") + "\n")
-        texts["GPT4o mini"].append(askLLMAgentOneShot(image_path, trans_lst, "gpt-4o-mini") + "\n")
-        texts["GPT4"].append(askLLMAgentOneShot(image_path, trans_lst, "gpt-4") + "\n")
-        texts["GPT4 turbo"].append(askLLMAgentOneShot(image_path, trans_lst , "gpt-4-turbo") + "\n")
-        texts["GPT3.5 turbo"].append(askLLMAgentOneShot(image_path, trans_lst , "gpt-3.5-turbo") + "\n")
 
-        texts["Claude"].append(askLLMAgentOneShot(image_path, trans_lst , "claude") + "\n")
-        
-        texts["EasyOCR"].append(ocr.easyOCR(image_path) + "\n")
-        texts["Pytesseract"].append(ocr.pytesseractOCR(image_path) + "\n")
-        texts["KerasOCR"].append(ocr.kerasOCR(image_path) + "\n")
+        models = ["GPT4o", "GPT4o mini", "GPT4", "GPT4 turbo", "GPT3.5 turbo", "Claude"]
+        for model in models:
+            result = askLLMAgentOneShot(image_path, trans_lst, model)
+            append_result(texts, model, result)
 
+        ocr_methods = {
+            "EasyOCR": ocr.easyOCR,
+            "Pytesseract": ocr.pytesseractOCR,
+            "KerasOCR": ocr.kerasOCR
+        }
+        for key, method in ocr_methods.items():
+            result = method(image_path)
+            append_result(texts, key, result)
 
     tools.compare_texts(texts, "all")
+
 
 
 def testCERFeedback():
