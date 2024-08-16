@@ -81,7 +81,7 @@ class Agent:
     #===========================================================================
     
     def call(self, prompt, max_tokens=5000, base64_image=None):
-        if(self.model == "claude"):
+        if("claude" in self.model):
             res = self.callAnthropic(prompt, max_tokens=max_tokens, base64_image=base64_image)
         else:
             res = self.callOpenAI(prompt, max_tokens=max_tokens, base64_image=base64_image)
@@ -89,7 +89,6 @@ class Agent:
     
     
     def callAnthropic(self, prompt, max_tokens=5000, base64_image=None):
-        model = "claude-3-5-sonnet-20240620"
         client = anthropic.Anthropic(api_key=self.anthropic_API_KEY)  
         try:
             response = client.messages.create(
@@ -147,7 +146,7 @@ class Agent:
                 }
                 ],
                 "max_tokens": max_tokens,
-                "temperature": 0.25
+                "temperature": 0
             }
         else:
             payload = {

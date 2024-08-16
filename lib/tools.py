@@ -144,12 +144,8 @@ class Tools:
 
     def compare_texts_violin_plot(self, texts, image_name):
         cer_dict = {
-            "GPT4o": [],
-            "GPT4o mini": [],
-            "GPT4": [],
-            "GPT4 turbo": [],
-            "GPT3.5 turbo": [],
-            "Claude": [],
+            "gpt-4o": [],
+            "claude-3-5-sonnet-20240620": [],
             "EasyOCR": [],
             "Pytesseract": [],
             "KerasOCR": [],
@@ -157,9 +153,9 @@ class Tools:
         models = list(cer_dict.keys())
         
         for model in texts:
-            if model != "Human":
+            if model != "GT":
                 for i in range(len(texts[model])):
-                    gd = texts["Human"][i]
+                    gd = texts["GT"][i]
                     pred = texts[model][i]
                     jacc, mas, lev, cer = self.compute_distances(gd, pred)
                     cer_dict[model].append(cer)
@@ -173,7 +169,7 @@ class Tools:
         df = pd.DataFrame(data, columns=["Model", "CER"])
         
         # Create the violin plot
-        plt.figure(figsize=(12, 6))
+        plt.figure(figsize=(12, 8))
         sns.violinplot(x="Model", y="CER", data=df, palette="Set3")
 
         # Add titles and labels

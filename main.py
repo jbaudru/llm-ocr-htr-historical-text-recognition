@@ -82,14 +82,25 @@ def append_result(texts, key, result):
         print(f"Warning: {key} returned None for image_path")
 
 def evaluate():
+    # few-shot
     texts = {
-        "Human": [],
-        "GPT4o": [],
-        "GPT4o mini": [],
-        "GPT4": [],
-        "GPT4 turbo": [],
-        "GPT3.5 turbo": [],
-        "Claude": [],
+        "GT": [],
+        "gpt-4o": [],
+        "gpt-4o-mini": [],
+        "gpt-4": [],
+        "gpt-4-turbo": [],
+        "gpt-3.5-turbo-0125": [],
+        "claude-3-5-sonnet-20240620": [],
+        "EasyOCR": [],
+        "Pytesseract": [],
+        "KerasOCR": [],
+    }
+    
+    #one-shot
+    texts = {
+        "GT": [],
+        "gpt-4o": [],
+        "claude-3-5-sonnet-20240620": [],
         "EasyOCR": [],
         "Pytesseract": [],
         "KerasOCR": [],
@@ -108,9 +119,10 @@ def evaluate():
         transcription = trans_lst[i]
         image_path = img_lst[i]
 
-        texts["Human"].append(transcription + "\n")
+        texts["GT"].append(transcription + "\n")
 
-        models = ["GPT4o", "GPT4o mini", "GPT4", "GPT4 turbo", "GPT3.5 turbo", "Claude"]
+        #models = ["gpt-4o", "gpt-4o-mini", "gpt-4", "gpt-4-turbo", "gpt-3.5-turbo-0125", "claude-3-5-sonnet-20240620"]
+        models = ["gpt-4o", "claude-3-5-sonnet-20240620"]
         for model in models:
             result = askLLMAgentOneShot(image_path, trans_lst, model)
             append_result(texts, model, result)
@@ -124,7 +136,7 @@ def evaluate():
             result = method(image_path)
             append_result(texts, key, result)
 
-    tools.compare_texts_violin_plot(texts, "all")
+    tools.compare_texts_violin_plot(texts, "one-shot_simple-prompt")
 
 
 
