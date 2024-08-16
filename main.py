@@ -108,7 +108,8 @@ def evaluate():
     
     trans_lst = []
     img_lst = []
-    for i in tqdm(range(1, 8), ascii=' >='): #8 max
+    for i in tqdm(range(0, 7), ascii=' >='): #8 max
+        i += 1
         trans = "data/transcriptions/transcription_ex" + str(i) + ".xlsx"
         trans_lst.append(tools.xlsx_to_string(trans))
         

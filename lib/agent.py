@@ -92,7 +92,7 @@ class Agent:
         client = anthropic.Anthropic(api_key=self.anthropic_API_KEY)  
         try:
             response = client.messages.create(
-                model=model,
+                model=self.model,
                 max_tokens=max_tokens,
                 messages=[
                     {
@@ -177,7 +177,7 @@ class Agent:
     # AGENT FUNCTIONS
     #===========================================================================
     def draft(self, image_path, feedback="", output_format = "txt"):
-        if(self.model == "claude"):
+        if("claude" in self.model):
             resized_image = self.resize_image(image_path)
             base64_image = base64.b64encode(resized_image).decode('utf-8')
         else:
