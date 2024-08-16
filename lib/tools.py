@@ -167,7 +167,10 @@ class Tools:
                 data.append((model, cer))
         
         df = pd.DataFrame(data, columns=["Model", "CER"])
-        
+
+        # save the dataframe to a file
+        df.to_csv("results/comparisons/" + image_name + "_cer.csv")
+            
         # Create the violin plot
         plt.figure(figsize=(12, 8))
         sns.violinplot(x="Model", y="CER", data=df, palette="Set3")
