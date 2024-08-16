@@ -4,6 +4,7 @@ import math
 import seaborn as sns
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
+import seaborn as sns
 
 import json
 import os
@@ -141,7 +142,7 @@ class Tools:
         cer = CER(text1, gt).item()
         return cer
 
-    def compare_texts_bar_plot(self, texts, image_name):
+    def compare_texts_violin_plot(self, texts, image_name):
         cer_dict = {
             "GPT4o": [],
             "GPT4o mini": [],
@@ -156,26 +157,33 @@ class Tools:
         models = list(cer_dict.keys())
         
         for model in texts:
-            if(model != "Human"):
+            if model != "Human":
                 for i in range(len(texts[model])):
                     gd = texts["Human"][i]
                     pred = texts[model][i]
-                    jacc, mas, lev, cer  = self.compute_distances(gd, pred)
+                    jacc, mas, lev, cer = self.compute_distances(gd, pred)
                     cer_dict[model].append(cer)
         
-        cer_values = [sum(cer_dict[model]) / len(cer_dict[model]) if cer_dict[model] else 0 for model in models]  # Calculate average CER for each model
-        # Create the bar plot
+        # Prepare data for violin plot
+        data = []
+        for model in models:
+            for cer in cer_dict[model]:
+                data.append((model, cer))
+        
+        df = pd.DataFrame(data, columns=["Model", "CER"])
+        
+        # Create the violin plot
         plt.figure(figsize=(12, 6))
-        plt.bar(models, cer_values, color='skyblue')
+        sns.violinplot(x="Model", y="CER", data=df, palette="Set3")
 
         # Add titles and labels
         plt.title('Character Error Rate (CER)')
         plt.xlabel('Models')
-        plt.ylabel('Average CER')
+        plt.ylabel('CER')
         plt.xticks(rotation=45, ha='right')
         # Display the plot
         plt.tight_layout()
-        plt.savefig("results/comparisons/" + image_name + "_barplot.png")
+        plt.savefig("results/comparisons/" + image_name + "_violinplot.png")
         plt.show()
 
 

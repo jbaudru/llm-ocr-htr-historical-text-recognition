@@ -97,7 +97,7 @@ def evaluate():
     
     trans_lst = []
     img_lst = []
-    for i in tqdm(range(1, 2), ascii=' >='): #8 max
+    for i in tqdm(range(1, 8), ascii=' >='): #8 max
         trans = "data/transcriptions/transcription_ex" + str(i) + ".xlsx"
         trans_lst.append(tools.xlsx_to_string(trans))
         
@@ -124,7 +124,7 @@ def evaluate():
             result = method(image_path)
             append_result(texts, key, result)
 
-    tools.compare_texts_bar_plot(texts, "all")
+    tools.compare_texts_violin_plot(texts, "all")
 
 
 
