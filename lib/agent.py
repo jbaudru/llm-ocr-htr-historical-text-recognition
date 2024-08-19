@@ -3,9 +3,12 @@ import requests
 import hashlib
 import random
 import os
+from PIL import Image
+from io import BytesIO
 import pandas as pd
 from dotenv import load_dotenv
 from lib.tools import Tools
+import anthropic
 
 tools = Tools()
 
@@ -13,12 +16,30 @@ class Agent:
     def __init__(self, model) -> None:
         load_dotenv()  # Load environment variables from .env file
         self.openai_API_KEY = os.getenv("OPENAI_API_KEY")
+        self.anthropic_API_KEY = os.getenv("ANTHROPIC_API_KEY")
         self.model = model
-        #self.openai_API_KEY = "sk-proj-26nXuqhTwwYPeP1PJleOT3BlbkFJgDKsQLeG7EeHUvh6sm2A"
+    
+    #===========================================================================
+    # UTILITIES FUNCTIONS
+    #===========================================================================
     
     def encode_image(self, image_path):
         with open(image_path, "rb") as image_file:
             return base64.b64encode(image_file.read()).decode('utf-8')
+    
+    def resize_image(self, image_path):
+        try:
+            with Image.open(image_path) as img:
+                # Calculate new dimensions
+                new_width = img.width // 3
+                new_height = img.height // 3
+                img = img.resize((new_width, new_height), Image.LANCZOS)
+                buffer = BytesIO()
+                img.save(buffer, format="JPEG")
+                return buffer.getvalue()
+        except Exception as e:
+            print(f"[ERROR] Resizing image: {e}")
+            return None
     
     def save_previous_documents(self, content):
         directory = "data_rag/previous_doc"
@@ -55,15 +76,55 @@ class Agent:
             cities = f.read()
         return cities
     
+    #===========================================================================
+    # LLM CALLS
+    #===========================================================================
+    
     def call(self, prompt, max_tokens=5000, base64_image=None):
+        if("claude" in self.model):
+            res = self.callAnthropic(prompt, max_tokens=max_tokens, base64_image=base64_image)
+        else:
+            res = self.callOpenAI(prompt, max_tokens=max_tokens, base64_image=base64_image)
+        return res
+    
+    
+    def callAnthropic(self, prompt, max_tokens=5000, base64_image=None):
+        client = anthropic.Anthropic(api_key=self.anthropic_API_KEY)  
+        try:
+            response = client.messages.create(
+                model=self.model,
+                max_tokens=max_tokens,
+                messages=[
+                    {
+                        "role": "user",
+                        "content": [
+                            {
+                                "type": "image",
+                                "source": {
+                                    "type": "base64",
+                                    "media_type": "image/jpeg",
+                                    "data": base64_image,
+                                },
+                            },
+                            {
+                                "type": "text",
+                                "text": prompt,
+                            }
+                        ],
+                    }
+                ],
+            )
+            return response.to_dict()["content"][0]["text"]
+        except Exception as e:
+            print(f"[ERROR] callAnthropic failed! {e}")
+            return None
+    
+    def callOpenAI(self, prompt, max_tokens=5000, base64_image=None):
         headers = {
             "Content-Type": "application/json",
             "Authorization": f"Bearer {self.openai_API_KEY}"
         } 
-        if("gpt-4o" in self.model):
-            model_vision = self.model
-        else:
-            model_vision = "gpt-4o"
+        model_vision = "gpt-4o"
         if(base64_image):  
             payload = {
                 "model": model_vision, # only gpt-4o can handle images
@@ -85,7 +146,7 @@ class Agent:
                 }
                 ],
                 "max_tokens": max_tokens,
-                "temperature": 0.25
+                "temperature": 0
             }
         else:
             payload = {
@@ -112,52 +173,17 @@ class Agent:
             print(response.json()["error"]["message"])
         #return response
     
-    
+    #===========================================================================
+    # AGENT FUNCTIONS
+    #===========================================================================
     def draft(self, image_path, feedback="", output_format = "txt"):
-        base64_image = self.encode_image(image_path)
-        prompt = prompt = f"""
-            From the example, you learned the handwriting of this Belgian record. You learned which alphabet and which number is written in which way.
-            With this knowledge, now consider the following image to recreate:
-            
-            First, you read a two-level header in the table, which you recognize the same as the example as follows in the form of ("first level", "second level"):
-            ```
-                [("N' d'ordre", " "),
-                ("Date du dépot des déclarations", " "),
-                ("Désignation des personnes décédées ou absentes.:", "Nom."),
-                ("Désignation des personnes décédées ou absentes.:", "Prénoms"),
-                ("Désignation des personnes décédées ou absentes.:", "Domiciles"),
-                ("Date du décès ou du judgement d'envoi en possession, en cas d'absence.", " "),
-                ("Noms, Prénoms et demeures des parties déclarantes.", " "),
-                ("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Actif. (2)"),
-                ("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Passif. (2)"),
-                ("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Restant NET. (2)"),
-                ("Droit de mutation par déces", "Valeur des immeubles. (2)"),
-                ("Numéros des déclarations", "Primitives."),
-                ("Numéros des déclarations", "Supplémentaires."),
-                ("Date", "de l'expiration du délai de rectification."),
-                ("Date", "de l'exigibilité des droits."),
-                ("Numéros de la consignation des droits au sommier n' 28", " "),
-                ("Recette des droits et amendes.", "Date"),
-                ("Recette des droits et amendes.", "N^03"),
-                ("Cautionnements. ", "Numéros de la consignation au sommier n'30"),
-                ("Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)", " ")]
-            ```
-    
-            Context:
-            - It's written in French language and the names of people are domiciles are Belgian.
-            - Each row contains information about a dead person for the 20 variables above. Some rows contain information about the service date of the dead person written in the previous row. Such rows begin with texts like "Arrêté le \d{2} \w+ \d{4}( \w+)? servais" under "Nom." variable.
-            - When you see "Arrêté le \d{2} \w+ \d{4}( \w+)? servais", the subsequent row will be the next serviced day.
-            - N' d'ordre will also follow an order.
-            - The family name in this column "Noms, Prénoms et demeures des parties déclarantes." may be the same as the family name in "Nom." column.
-            
-            Task:
-            Please recreate the table by filling all the information the record has. Pay attention to read each word and number correctly.
-            
-            {feedback}
-            
-        """
+        if("claude" in self.model):
+            resized_image = self.resize_image(image_path)
+            base64_image = base64.b64encode(resized_image).decode('utf-8')
+        else:
+            base64_image = self.encode_image(image_path)
+        prompt = "Recreate the content of the table in this image. Only that, no other information from you."
         return self.call(prompt, max_tokens=3000, base64_image=base64_image)
-    
 
     # TODO: Add the image ? 
     def refineLayout(self, content, image_path, transcription_lst): 

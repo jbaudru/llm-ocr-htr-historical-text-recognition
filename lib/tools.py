@@ -1,8 +1,10 @@
 import pandas as pd
 import re
+import math
 import seaborn as sns
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
+import seaborn as sns
 
 import json
 import os
@@ -140,7 +142,51 @@ class Tools:
         cer = CER(text1, gt).item()
         return cer
 
-    def compare_texts(self, texts, image_path):
+    def compare_texts_violin_plot(self, texts, image_name):
+        cer_dict = {
+            "gpt-4o": [],
+            "claude-3-5-sonnet-20240620": [],
+            "EasyOCR": [],
+            "Pytesseract": [],
+            "KerasOCR": [],
+        }
+        models = list(cer_dict.keys())
+        
+        for model in texts:
+            if model != "GT":
+                for i in range(len(texts[model])):
+                    gd = texts["GT"][i]
+                    pred = texts[model][i]
+                    jacc, mas, lev, cer = self.compute_distances(gd, pred)
+                    cer_dict[model].append(cer)
+        
+        # Prepare data for violin plot
+        data = []
+        for model in models:
+            for cer in cer_dict[model]:
+                data.append((model, cer))
+        
+        df = pd.DataFrame(data, columns=["Model", "CER"])
+
+        # save the dataframe to a file
+        df.to_csv("results/comparisons/" + image_name + "_cer.csv")
+            
+        # Create the violin plot
+        plt.figure(figsize=(12, 8))
+        sns.violinplot(x="Model", y="CER", data=df, palette="Set3")
+
+        # Add titles and labels
+        plt.title('Character Error Rate (CER)')
+        plt.xlabel('Models')
+        plt.ylabel('CER')
+        plt.xticks(rotation=45, ha='right')
+        # Display the plot
+        plt.tight_layout()
+        plt.savefig("results/comparisons/" + image_name + "_violinplot.png")
+        plt.show()
+
+
+    def compare_texts(self, texts, image_name):
         results = {name: [] for name in texts.keys()}
         
         for name1, t1 in texts.items():
@@ -150,6 +196,8 @@ class Tools:
                     text2 = t2[k]
                     jacc, mas, lev, cer = self.compute_distances(text1, text2)
                     results[name1].append((jacc, mas, lev, cer))
+                    jacc, mas, lev, cer = self.compute_distances(text2, text1)
+                    results[name2].append((jacc, mas, lev, cer))
         
         results_averages = {}
         for name, res in results.items():
@@ -173,12 +221,13 @@ class Tools:
             results_averages[name] = (jacc_avg, mas_avg, lev_avg, cer_avg)
         
         
-        df_jacc = pd.DataFrame({name: [x[0] for x in res] for name, res in results_averages.items()}, index=texts.keys())
-        df_mas = pd.DataFrame({name: [x[1] for x in res] for name, res in results_averages.items()}, index=texts.keys())
-        df_lev = pd.DataFrame({name: [x[2] for x in res] for name, res in results_averages.items()}, index=texts.keys())
-        df_cer = pd.DataFrame({name: [x[3] for x in res] for name, res in results_averages.items()}, index=texts.keys())
+        df_jacc = pd.DataFrame({name: [results_averages[name][0]] for name in results_averages.keys()}, index=texts.keys())
+        df_mas = pd.DataFrame({name: [results_averages[name][1]] for name in results_averages.keys()}, index=texts.keys())
+        df_lev = pd.DataFrame({name: [results_averages[name][2]] for name in results_averages.keys()}, index=texts.keys())
+        df_cer = pd.DataFrame({name: [results_averages[name][3]] for name in results_averages.keys()}, index=texts.keys())
+
         # Get the name of the image (without the extension)
-        image_name = image_path.split('/')[-1].split('.')[0]
+        image_name = image_name.split('/')[-1].split('.')[0]
         # Save the dataframes to files
         df_jacc.to_csv("results/comparisons/" + image_name + "_jaccard.csv")
         df_mas.to_csv("results/comparisons/" + image_name + "_masi.csv")

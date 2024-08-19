@@ -10,6 +10,7 @@ tools = Tools()
 ocr = OCR()
 
 
+# Iterative compiraison
 def askLLMAgentFeedback(image_path, transcription, trans_lst, agent, N=10):
     agent = Agent(agent)
     i = 0; cer = 10; best_cer = 10
@@ -41,7 +42,7 @@ def askLLMAgentFeedback(image_path, transcription, trans_lst, agent, N=10):
         i += 1
 
 
-# TODO: Modify with new Seorin Agent
+# Few-shot compiraison
 def askLLMAgent(image_path, trans_lst, agent, N=1):
     #try:
         location_path = "data_rag/BE_location_full.txt"
@@ -65,36 +66,50 @@ def askLLMAgent(image_path, trans_lst, agent, N=1):
     #    print("[ERROR] askLLMAgent failed!")
     #    return ""
 
+# One shot compiraison
+def askLLMAgentOneShot(image_path, trans_lst, agent):
+    agent = Agent(agent)
+    text1 = agent.draft(image_path)
+    return text1
+
+
+
+def append_result(texts, key, result):
+    if result is not None:
+        texts[key].append(result + "\n")
+    else:
+        texts[key].append("\n")
+        print(f"Warning: {key} returned None for image_path")
 
 def evaluate():
+    # few-shot
     texts = {
-        "Human": [],
-        "GPT4o": [],
-        "GPT4o mini": [],
-        "GPT4": [],
-        "GPT4 turbo": [],
-        "GPT3.5 turbo": [],
+        "GT": [],
+        "gpt-4o": [],
+        "gpt-4o-mini": [],
+        "gpt-4": [],
+        "gpt-4-turbo": [],
+        "gpt-3.5-turbo-0125": [],
+        "claude-3-5-sonnet-20240620": [],
         "EasyOCR": [],
         "Pytesseract": [],
         "KerasOCR": [],
     }
     
-    texts_cc = {
-        "Human": [],
-        "GPT4o cc": [],
-        "GPT4o mini cc": [],
-        "GPT4 cc": [],
-        "GPT4 turbo cc": [],
-        "GPT3.5 turbo cc": [],
-        "EasyOCR cc": [],
-        "Pytesseract cc": [],
-        "KerasOCR cc": [],
+    #one-shot
+    texts = {
+        "GT": [],
+        "gpt-4o": [],
+        "claude-3-5-sonnet-20240620": [],
+        "EasyOCR": [],
+        "Pytesseract": [],
+        "KerasOCR": [],
     }
-    
     
     trans_lst = []
     img_lst = []
-    for i in tqdm(range(1, 2), ascii=' >='): #8 max
+    for i in tqdm(range(0, 7), ascii=' >='): #8 max
+        i += 1
         trans = "data/transcriptions/transcription_ex" + str(i) + ".xlsx"
         trans_lst.append(tools.xlsx_to_string(trans))
         
@@ -103,32 +118,27 @@ def evaluate():
     
     for i in tqdm(range(len(img_lst)), ascii=' >='):
         transcription = trans_lst[i]
-        
         image_path = img_lst[i]
-        #img = Image(image_path)
-        #img.crop_image()
-        #img.color_image()
-        #output_path = image_path.replace('.jpeg', '_cc.jpeg')
-        #img.save(output_path)
 
-        texts["Human"].append(transcription + "\n")
-        texts["GPT4o"].append(askLLMAgent(image_path, trans_lst, "gpt-4o") + "\n")
-        texts["GPT4o mini"].append(askLLMAgent(image_path, trans_lst, "gpt-4o-mini") + "\n")
-        #texts["GPT4o cc"] += askLLMAgent(output_path, trans_lst, "gpt-4o") + "\n"
-        texts["GPT4"].append(askLLMAgent(image_path, trans_lst, "gpt-4") + "\n")
-        #texts["GPT4 cc"] += askLLMAgent(output_path, trans_lst, "gpt-4") + "\n"
-        texts["GPT4 turbo"].append(askLLMAgent(image_path, trans_lst , "gpt-4-turbo") + "\n")
-        #texts["GPT4 turbo cc"] += askLLMAgent(output_path, trans_lst, "gpt-4-turbo") + "\n"
-        texts["GPT3.5 turbo"].append(askLLMAgent(image_path, trans_lst , "gpt-3.5-turbo") + "\n")
-        #texts["GPT3.5 turbo cc"] += askLLMAgent(output_path, trans_lst, "gpt-3.5-turbo") + "\n"
-        texts["EasyOCR"].append(ocr.easyOCR(image_path) + "\n")
-        #texts["EasyOCR cc"] += ocr.easyOCR(output_path) + "\n"
-        texts["Pytesseract"].append(ocr.pytesseractOCR(image_path) + "\n")
-        #texts["Pytesseract cc"] += ocr.pytesseractOCR(output_path) + "\n"
-        texts["KerasOCR"].append(ocr.kerasOCR(image_path) + "\n")
-        #texts["KerasOCR cc"] += ocr.kerasOCR(output_path) + "\n"
+        texts["GT"].append(transcription + "\n")
 
-    tools.compare_texts(texts, "all")
+        #models = ["gpt-4o", "gpt-4o-mini", "gpt-4", "gpt-4-turbo", "gpt-3.5-turbo-0125", "claude-3-5-sonnet-20240620"]
+        models = ["gpt-4o", "claude-3-5-sonnet-20240620"]
+        for model in models:
+            result = askLLMAgentOneShot(image_path, trans_lst, model)
+            append_result(texts, model, result)
+
+        ocr_methods = {
+            "EasyOCR": ocr.easyOCR,
+            "Pytesseract": ocr.pytesseractOCR,
+            "KerasOCR": ocr.kerasOCR
+        }
+        for key, method in ocr_methods.items():
+            result = method(image_path)
+            append_result(texts, key, result)
+
+    tools.compare_texts_violin_plot(texts, "one-shot_simple-prompt")
+
 
 
 def testCERFeedback():
@@ -138,11 +148,16 @@ def testCERFeedback():
         trans_lst.append(tools.xlsx_to_string(trans))
     askLLMAgentFeedback("data/Archives_LLN_Nivelles_I_1921_REG 5193/example1.jpeg", trans_lst, "data/transcriptions/transcription_ex1.xlsx", "gpt-4o")
 
+def testAnthropic():
+    image_path = "data/Archives_LLN_Nivelles_I_1921_REG 5193/example1.jpeg"
+    trans_lst = None
+    res = askLLMAgentOneShot(image_path, trans_lst, "claude")
+    print(res)
 
 def main():
     evaluate()
     #testCERFeedback()
-    
+    #testAnthropic()
 
 if __name__ == '__main__':
     main()

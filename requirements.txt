@@ -15,3 +15,5 @@ pandas
 openpyxl
 torchmetrics
 python-dotenv
+anthropic
+pillow
