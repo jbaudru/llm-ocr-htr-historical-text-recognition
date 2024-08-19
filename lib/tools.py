@@ -182,6 +182,7 @@ class Tools:
         plt.xticks(rotation=45, ha='right')
         # Display the plot
         plt.tight_layout()
+        plt.grid(axis='y')
         plt.savefig("results/comparisons/" + image_name + "_violinplot.png")
         plt.show()
 

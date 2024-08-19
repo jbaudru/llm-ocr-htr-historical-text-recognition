@@ -137,7 +137,7 @@ def evaluate():
             result = method(image_path)
             append_result(texts, key, result)
 
-    tools.compare_texts_violin_plot(texts, "one-shot_simple-prompt")
+    tools.compare_texts_violin_plot(texts, "one-shot_complex-prompt")
 
 
 
