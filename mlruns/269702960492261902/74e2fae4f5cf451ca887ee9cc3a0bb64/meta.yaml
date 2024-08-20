@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\julien\OneDrive\Documents\Github\img-analysis_seorin_project/mlruns/269702960492261902/74e2fae4f5cf451ca887ee9cc3a0bb64/artifacts
+end_time: 1724162458980
+entry_point_name: ''
+experiment_id: '269702960492261902'
+lifecycle_stage: active
+run_id: 74e2fae4f5cf451ca887ee9cc3a0bb64
+run_name: amazing-rook-184
+run_uuid: 74e2fae4f5cf451ca887ee9cc3a0bb64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724162439144
+status: 3
+tags: []
+user_id: julien

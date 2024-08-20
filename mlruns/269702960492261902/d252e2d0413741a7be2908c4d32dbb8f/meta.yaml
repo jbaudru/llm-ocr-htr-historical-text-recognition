@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\julien\OneDrive\Documents\Github\img-analysis_seorin_project/mlruns/269702960492261902/d252e2d0413741a7be2908c4d32dbb8f/artifacts
+end_time: 1724162420536
+entry_point_name: ''
+experiment_id: '269702960492261902'
+lifecycle_stage: active
+run_id: d252e2d0413741a7be2908c4d32dbb8f
+run_name: receptive-bird-231
+run_uuid: d252e2d0413741a7be2908c4d32dbb8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724162397631
+status: 3
+tags: []
+user_id: julien

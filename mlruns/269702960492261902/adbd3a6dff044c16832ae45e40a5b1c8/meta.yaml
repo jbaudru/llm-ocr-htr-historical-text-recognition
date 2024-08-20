@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\julien\OneDrive\Documents\Github\img-analysis_seorin_project/mlruns/269702960492261902/adbd3a6dff044c16832ae45e40a5b1c8/artifacts
+end_time: 1724163061069
+entry_point_name: ''
+experiment_id: '269702960492261902'
+lifecycle_stage: active
+run_id: adbd3a6dff044c16832ae45e40a5b1c8
+run_name: fearless-horse-685
+run_uuid: adbd3a6dff044c16832ae45e40a5b1c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724163040450
+status: 3
+tags: []
+user_id: julien

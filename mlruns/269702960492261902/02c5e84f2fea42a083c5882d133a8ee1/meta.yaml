@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\julien\OneDrive\Documents\Github\img-analysis_seorin_project/mlruns/269702960492261902/02c5e84f2fea42a083c5882d133a8ee1/artifacts
+end_time: 1724163040441
+entry_point_name: ''
+experiment_id: '269702960492261902'
+lifecycle_stage: active
+run_id: 02c5e84f2fea42a083c5882d133a8ee1
+run_name: nimble-lynx-968
+run_uuid: 02c5e84f2fea42a083c5882d133a8ee1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724162963157
+status: 3
+tags: []
+user_id: julien

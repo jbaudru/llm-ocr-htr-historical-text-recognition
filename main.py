@@ -61,7 +61,7 @@ def askLLMAgent(image_path, trans_lst, agent, N=1):
     #    print("[ERROR] askLLMAgent failed!")
     #    return ""
 
-# One shot compiraison
+# zero shot compiraison
 def askLLMAgentOneShot(image_path, trans_lst, agent):
     agent = Agent(agent)
     text1 = agent.draft(image_path)
@@ -77,89 +77,76 @@ def append_result(texts, key, result):
         print(f"Warning: {key} returned None for image_path")
 
 def evaluate():
-    with mlflow.start_run():
-        # few-shot
-        texts = {
-            "GT": [],
-            "gpt-4o": [],
-            "gpt-4o-mini": [],
-            "gpt-4": [],
-            "gpt-4-turbo": [],
-            "gpt-3.5-turbo-0125": [],
-            "claude-3-5-sonnet-20240620": [],
-            "EasyOCR": [],
-            "Pytesseract": [],
-            "KerasOCR": [],
-        }
+    # few-shot
+    texts = {
+        "GT": [],
+        "gpt-4o": [],
+        "gpt-4o-mini": [],
+        "gpt-4": [],
+        "gpt-4-turbo": [],
+        "gpt-3.5-turbo-0125": [],
+        "claude-3-5-sonnet-20240620": [],
+        "EasyOCR": [],
+        "Pytesseract": [],
+        "KerasOCR": [],
+    }
+    
+    #zero-shot
+    texts = {
+        "GT": [],
+        "gpt-4o": [],
+        "claude-3-5-sonnet-20240620": [],
+        "EasyOCR": [],
+        "Pytesseract": [],
+        "KerasOCR": [],
+    }
+    
+    trans_lst = []
+    img_lst = []
+    for i in tqdm(range(0, 10), ascii=' >='): #10 max
+        i += 1
+        trans = "data/transcriptions/transcription_ex" + str(i) + ".xlsx"
+        trans_lst.append(tools.xlsx_to_string(trans))
         
-        #one-shot
-        texts = {
-            "GT": [],
-            "gpt-4o": [],
-            "claude-3-5-sonnet-20240620": [],
-            "EasyOCR": [],
-            "Pytesseract": [],
-            "KerasOCR": [],
-        }
-        
-        trans_lst = []
-        img_lst = []
-        for i in tqdm(range(0, 10), ascii=' >='): #10 max
-            i += 1
-            trans = "data/transcriptions/transcription_ex" + str(i) + ".xlsx"
-            trans_lst.append(tools.xlsx_to_string(trans))
-            
-            image_path = "data/Archives_LLN_Nivelles_I_1921_REG 5193/example" + str(i) + ".jpeg"
-            img_lst.append(image_path)
-        
-        for i in tqdm(range(len(img_lst)), ascii=' >='):
-            transcription = trans_lst[i]
-            image_path = img_lst[i]
+        image_path = "data/Archives_LLN_Nivelles_I_1921_REG 5193/example" + str(i) + ".jpeg"
+        img_lst.append(image_path)
+    
+    for i in tqdm(range(len(img_lst)), ascii=' >='):
+        transcription = trans_lst[i]
+        image_path = img_lst[i]
 
-            texts["GT"].append(transcription + "\n")
+        texts["GT"].append(transcription + "\n")
 
-            #models = ["gpt-4o", "gpt-4o-mini", "gpt-4", "gpt-4-turbo", "gpt-3.5-turbo-0125", "claude-3-5-sonnet-20240620"]
-            models = ["gpt-4o", "claude-3-5-sonnet-20240620"]
-            for model in models:
+        #models = ["gpt-4o", "gpt-4o-mini", "gpt-4", "gpt-4-turbo", "gpt-3.5-turbo-0125", "claude-3-5-sonnet-20240620"]
+        models = ["gpt-4o", "claude-3-5-sonnet-20240620"]
+        for model in models:
+            with mlflow.start_run():
+                mlflow.log_param("method", model)
                 result = askLLMAgentOneShot(image_path, trans_lst, model)
                 mlflow.log_param("method", model)
                 mlflow.log_metric("cer", (tools.CER(transcription, result)))
                 append_result(texts, model, result)
 
-            ocr_methods = {
-                "EasyOCR": ocr.easyOCR,
-                "Pytesseract": ocr.pytesseractOCR,
-                "KerasOCR": ocr.kerasOCR
-            }
-            for key, method in ocr_methods.items():
+        ocr_methods = {
+            "EasyOCR": ocr.easyOCR,
+            "Pytesseract": ocr.pytesseractOCR,
+            "KerasOCR": ocr.kerasOCR
+        }
+        for key, method in ocr_methods.items():
+            with mlflow.start_run():
+                mlflow.log_param("method", key)
                 result = method(image_path)
                 mlflow.log_param("method", key)
                 mlflow.log_metric("cer", (tools.CER(transcription, result)))
                 append_result(texts, key, result)
 
-        tools.compare_texts_violin_plot(texts, "one-shot_complex-prompt")
+    tools.compare_texts_violin_plot(texts, "one-shot_simple-prompt")
 
-
-
-def testCERFeedback():
-    trans_lst = []
-    for i in tqdm(range(1, 8), ascii=' >='): #len(img_lst) # not all the images (max7)
-        trans = "data/transcriptions/transcription_ex" + str(i) + ".xlsx"
-        trans_lst.append(tools.xlsx_to_string(trans))
-    askLLMAgentFeedback("data/Archives_LLN_Nivelles_I_1921_REG 5193/example1.jpeg", trans_lst, "data/transcriptions/transcription_ex1.xlsx", "gpt-4o")
-
-def testAnthropic():
-    image_path = "data/Archives_LLN_Nivelles_I_1921_REG 5193/example1.jpeg"
-    trans_lst = None
-    res = askLLMAgentOneShot(image_path, trans_lst, "claude")
-    print(res)
 
 def main():
     evaluate()
-    #testCERFeedback()
-    #testAnthropic()
+
 
 if __name__ == '__main__':
     main()
     
-# TODO: compare methods in terms of running time

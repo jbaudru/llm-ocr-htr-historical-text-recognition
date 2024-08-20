@@ -172,14 +172,13 @@ class Tools:
         df.to_csv("results/comparisons/" + image_name + "_cer.csv")
             
         # Create the violin plot
-        plt.figure(figsize=(12, 8))
+        plt.figure(figsize=(12, 12))
         sns.violinplot(x="Model", y="CER", data=df, palette="Set3")
 
         # Add titles and labels
         plt.title('Character Error Rate (CER)')
         plt.xlabel('Models')
         plt.ylabel('CER (Log Scale)')
-        plt.yscale('log')  # Set y-axis to logarithmic scale
         plt.xticks(rotation=45, ha='right')
         # Display the plot
         plt.tight_layout()

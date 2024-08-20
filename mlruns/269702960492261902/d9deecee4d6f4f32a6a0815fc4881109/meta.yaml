@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\julien\OneDrive\Documents\Github\img-analysis_seorin_project/mlruns/269702960492261902/d9deecee4d6f4f32a6a0815fc4881109/artifacts
+end_time: 1724162619870
+entry_point_name: ''
+experiment_id: '269702960492261902'
+lifecycle_stage: active
+run_id: d9deecee4d6f4f32a6a0815fc4881109
+run_name: able-hog-943
+run_uuid: d9deecee4d6f4f32a6a0815fc4881109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724162609037
+status: 3
+tags: []
+user_id: julien

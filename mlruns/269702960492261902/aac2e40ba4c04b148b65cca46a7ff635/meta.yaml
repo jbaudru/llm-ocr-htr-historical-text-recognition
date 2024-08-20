@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\julien\OneDrive\Documents\Github\img-analysis_seorin_project/mlruns/269702960492261902/aac2e40ba4c04b148b65cca46a7ff635/artifacts
+end_time: 1724162793655
+entry_point_name: ''
+experiment_id: '269702960492261902'
+lifecycle_stage: active
+run_id: aac2e40ba4c04b148b65cca46a7ff635
+run_name: persistent-skink-39
+run_uuid: aac2e40ba4c04b148b65cca46a7ff635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724162765526
+status: 3
+tags: []
+user_id: julien

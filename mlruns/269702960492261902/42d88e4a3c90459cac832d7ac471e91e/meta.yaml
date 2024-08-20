@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\julien\OneDrive\Documents\Github\img-analysis_seorin_project/mlruns/269702960492261902/42d88e4a3c90459cac832d7ac471e91e/artifacts
+end_time: 1724162144745
+entry_point_name: ''
+experiment_id: '269702960492261902'
+lifecycle_stage: active
+run_id: 42d88e4a3c90459cac832d7ac471e91e
+run_name: placid-croc-766
+run_uuid: 42d88e4a3c90459cac832d7ac471e91e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724162126687
+status: 3
+tags: []
+user_id: julien

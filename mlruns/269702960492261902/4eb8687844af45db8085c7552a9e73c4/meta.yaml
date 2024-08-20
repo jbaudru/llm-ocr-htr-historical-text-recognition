@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\julien\OneDrive\Documents\Github\img-analysis_seorin_project/mlruns/269702960492261902/4eb8687844af45db8085c7552a9e73c4/artifacts
+end_time: 1724162297027
+entry_point_name: ''
+experiment_id: '269702960492261902'
+lifecycle_stage: active
+run_id: 4eb8687844af45db8085c7552a9e73c4
+run_name: auspicious-hare-308
+run_uuid: 4eb8687844af45db8085c7552a9e73c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724162271972
+status: 3
+tags: []
+user_id: julien
