@@ -17,3 +17,4 @@ torchmetrics
 python-dotenv
 anthropic
 pillow
+mlflow

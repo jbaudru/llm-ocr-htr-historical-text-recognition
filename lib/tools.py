@@ -178,7 +178,8 @@ class Tools:
         # Add titles and labels
         plt.title('Character Error Rate (CER)')
         plt.xlabel('Models')
-        plt.ylabel('CER')
+        plt.ylabel('CER (Log Scale)')
+        plt.yscale('log')  # Set y-axis to logarithmic scale
         plt.xticks(rotation=45, ha='right')
         # Display the plot
         plt.tight_layout()
