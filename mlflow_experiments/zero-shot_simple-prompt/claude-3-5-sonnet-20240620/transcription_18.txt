@@ -1,0 +1,17 @@
+Here's a recreation of the content of the table in the image:
+
+| DATES DE DÉPART | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATES DE DÉCÈS OU DE DISPARITION | NOMS, PRÉNOMS | DEGRÉ DE PARENTÉ AVEC LE CHEF DE FAMILLE | PROFESSION | DOMICILE | MONTANT DES VALEURS SUCCESSORALES | ACTIF | PASSIF | REVENU NET | DATE | BUREAU | RECETTE | OBSERVATIONS |
+|-----------------|------------------------------------------------|-----------------------------------|---------------|------------------------------------------|------------|----------|--------------------------------------|-------|--------|------------|------|--------|---------|---------------|
+| | Arrêté le second janvier 1920 (Signed) | | | | | | | | | | | | | |
+| | Arrêté le troisième janvier 1920 (Signed) | | | | | | | | | | | | | |
+| | Arrêté le quatre janvier 1920 Directeur de l'enregt (Signed) | | | | | | | | | | | | | |
+| 12 vingt juin | Castier | Oscar | époux | Cultivateur | Couture (Ille et Vilaine) | | 2775 | 509 | 2266 | | 15 novembre et 30 Août | | 5f 60 227 | |
+| | Arrêté le deux janvier 1920 (Signed) | | | | | | | | | | | | | |
+| | Arrêté le trois janvier 1920 (Signed) | | | | | | | | | | | | | |
+| 13 vingt juin | Louge | Catherine | Femme de Hippolyte | Ménagère | Aubigny (Marne) et autres | | 14242 | - | 14242 | | 15 30 | 24f juin | | non fournie |
+| 14 " | Legain | Emilie Désirée | Femme de | Ménagère | Longpré (Aube) et autres | | 9915 | 3325 | 6590 | | 15 30 | 24 juin | | 5f 60 227 |
+| | Arrêté le quatre janvier 1920 (Signed) | | | | | | | | | | | | | |
+| 15 vingt juin | Kairez | Marie Catherine | Femme de | Ménagère | Chaudeney (Meurthe et Moselle) | | 4590 | - | 4590 | | 15 30 | 15 juin 1920 | | non fournie |
+| 15² " | Douys | Marie Virginie | Femme de | Ménagère | Stenay (Meuse) | | 2000 insuffisant | 2000 | - | | | 15 janvier 21 | | |
+| 15³ " | Vandenbossche | Georges Charles | Célibataire | Employé | Bergues (Nord) | | 8504 | - | 8504 | | | | 600 | |
+| 15⁴ " | Samblanc | Joseph | Marié à | Cultivateur | Chiny (Namur) et autres | | 4299 | 2299 | 2000 | | | | 600 | |

@@ -183,6 +183,47 @@ class Agent:
             base64_image = base64.b64encode(resized_image).decode('utf-8')
         else:
             base64_image = self.encode_image(image_path)
+        
+        prompt = f"""
+            From the example, you learned the handwriting of this Belgian record. You learned which alphabet and which number is written in which way.
+            With this knowledge, now consider the following image to recreate:
+            
+            First, you read a two-level header in the table, which you recognize the same as the example as follows in the form of ("first level", "second level"):
+            ```
+                [("N' d'ordre", " "),
+                ("Date du dépot des déclarations", " "),
+                ("Désignation des personnes décédées ou absentes.:", "Nom."),
+                ("Désignation des personnes décédées ou absentes.:", "Prénoms"),
+                ("Désignation des personnes décédées ou absentes.:", "Domiciles"), 
+                ("Date du décès ou du judgement d'envoi en possession, en cas d'absence.", " "),
+                ("Noms, Prénoms et demeures des parties déclarantes.", " "),
+                ("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Actif. (2)"),
+                ("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Passif. (2)"),
+                ("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Restant NET. (2)"),
+                ("Droit de mutation par déces", "Valeur des immeubles. (2)"), 
+                ("Numéros des déclarations", "Primitives."),
+                ("Numéros des déclarations", "Supplémentaires."), 
+                ("Date", "de l'expiration du délai de rectification."),
+                ("Date", "de l'exigibilité des droits."),
+                ("Numéros de la consignation des droits au sommier n' 28", " "),
+                ("Recette des droits et amendes.", "Date"),
+                ("Recette des droits et amendes.", "N^03"),
+                ("Cautionnements. ", "Numéros de la consignation au sommier n'30"),
+                ("Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)", " ")] 
+            ```
+
+            Context: 
+            - It's written in French language and the names of the people are domiciles are Belgian.
+            - Each row contains information about a dead person for the 20 variables above. Some rows contain information about the service date of the dead person written in the previous row. Such rows begin with texts like "Arrêté le \d{2} \w+ \d{4}( \w+)? servais" under "Nom." variable. 
+            - When you see "Arrêté le \d{2} \w+ \d{4}( \w+)? servais", the subsequent row will be the next serviced day.
+            - N' d'ordre will also follow an order. 
+            - The family name in this column "Noms, Prénoms et demeures des parties déclarantes." may be the same as the family name in "Nom." column.
+            
+            Task: 
+            Please recreate the table by filling in all the information in the record. Pay attention to reading each word and number correctly. 
+                ```plaintext
+        """
+
         prompt = "Recreate the content of the table in this image. Only that, no other information from you."
         
         
@@ -190,7 +231,41 @@ class Agent:
         
         return self.call(prompt, max_tokens=3000, base64_image=base64_image)
 
-    # TODO: Add the image ? 
+    def exampleShot(self, image_path, feedback=""):
+        # {
+        #                     "role": "system", 
+        #                     "content": "You are a helpful assistant who can read old handwriting with a background in history, and you are going to recreate a scanned déclaration de succession from Belgium in a txt format."
+        #                 },
+        #                 {
+        #                     "role": "user",
+        #                     "content": [ 
+        #                     {
+        #                         "type": "text",
+        #                         "text": f"""
+        #                         The ```plaintext block is the example transcription of the example image you saw:
+        #
+        #                         Transcription:
+        #                         ```plaintext
+        #                         {ex2}
+        #                         ```
+        #                         Compare what you read initially and the solution key in ```plaintext block. Learn how each letter and digit is written in the document. 
+        #
+        #                         """
+        #                     },
+        #                     {
+        #                         "type": "image",
+        #                         "source": {
+        #                             "type": "base64",
+        #                             "media_type": "image/jpeg",
+        #                             "data": base64_image,
+        #                         },
+        #                     }
+        #                     ]
+        #                 }
+        #         }
+        pass
+        
+ 
     def refineLayout(self, content, image_path, transcription_lst): 
         transcriptions = ""
         
@@ -203,30 +278,20 @@ class Agent:
         
         prompt = f"""
             Your first draft:
-                ```draft
-                {content}
-                ```
-            
-            Example:
-                ```txt
-                {transcriptions}
-                ```  
+            ```plaintext
+            {content}
+            ```
 
             Errors: 
-                Your first draft in the ```draft block contains some errors. 
-            
-            Context: 
-                The content of your draft in ```draft block should follow the structure in the example in the ```txt block. 
-                Information for 'Actif.', 'Passif.' and 'Restant Net.' should exist for each dead person.
+            Your first transcription you made in ```plaintext block contains some errors.
             
             Task:
-                Refine your first draft based on the example.
-                When you see Arrêté le \d{2} \w+ \d{4}( \w+)? servais, add it to a new key key called 'Note'. 
-                If there is no information of the deceased name but only 'Arrêté le \d{2} \w+ \d{4}( \w+)? servais', add it under an empty name.
-                Make sure to read the names of the people and the location as well as the dates and the numbers correctly.
-                Don't add any other information, just the table.
-            
+            Refine your first trasncription in ```plaintext block. 
+            Make sure to read the names of the people and the location as well as the dates and the numbers correctly.
+            Transcribe as you see in the image.
+            ```plaintext
         """
+
         return self.call(prompt, max_tokens=3000)
     
     """

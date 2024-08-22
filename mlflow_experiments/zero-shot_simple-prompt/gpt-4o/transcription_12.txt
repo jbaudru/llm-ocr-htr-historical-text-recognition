@@ -1,0 +1,14 @@
+| DATE DE DECES | NOM | PRENOM | DOMICILE | DATE DE L'ACTE DE DECES | NOM, PRENOM | DATE | RECETTE | OBSERVATIONS |
+|---------------|-----|--------|----------|------------------------|-------------|------|---------|--------------|
+| 14 Janvier 1919 | Orvillez | Josephine | Jupille | 15 Janvier 1919 | Orvillez Josephine | 1919 | 1919 | |
+| 16 Janvier 1919 | Clabecq | Emmanuel | Malines | 17 Janvier 1919 | Clabecq Emmanuel | 1919 | 1919 | |
+| 16 Janvier 1919 | | | | | | | | |
+| 16 Janvier 1919 | | | | | | | | |
+| 16 Janvier 1919 | | | | | | | | |
+| 16 Janvier 1919 | | | | | | | | |
+| 16 Janvier 1919 | | | | | | | | |
+| 16 Janvier 1919 | | | | | | | | |
+| 16 Janvier 1919 | | | | | | | | |
+| 16 Janvier 1919 | | | | | | | | |
+| 16 Janvier 1919 | | | | | | | | |
+| 16 Janvier 1919 | | | | | | | | |

@@ -1,0 +1,9 @@
+Here's a recreation of the content of the table in the image:
+
+DATE DE NAISSANCE | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | MODE, PRÉNOMS | PROFESSION | LIEU DE NAISSANCE | DOMICILE | DATE DU DÉCÈS | NUMÉRO DE L'ACTE | DATE | NUMÉRO | RECETTE | OBSERVATIONS
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+6 9bre 1826 | Devez | Jean | rentier | à Paris | Sans domicile | 9 11 | 941 | 10/11 1919 | - | - | -
+6 9bre 1826 | Delise | Fidèle | journalier | à Paris | Hospice civil | - | 2292 | 10/11 1919 | - | - | -
+6 9bre 1826 | Boidenghien | Henri | journalier | à Lessines | Anderlecht Bruxelles | - | 22092 | 10/11 1919 | - | - | -
+
+Note: The table contains multiple entries with dates "Samedi 8 mars Novembre 1919 Dimanche" and "Samedi 9 dito Novembre 1919 Dimanche" repeated in the first column, which I've omitted for brevity as they don't contain other information.

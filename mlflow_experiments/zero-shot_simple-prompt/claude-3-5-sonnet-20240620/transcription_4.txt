@@ -1,0 +1,10 @@
+Here's a recreation of the content of the table in the image:
+
+N° D'ORDRE | NOMS ET PRÉNOMS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | NOMS, PRÉNOMS | DOMICILE DE RÉSIDENCE | MONTANT DE LA SUCCESSION | DROITS DE MUTATION | DATE | BUREAU | RECETTE | OBSERVATIONS
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
+6418 | Cloquet | Etienne, Meunier, 20 mai 1919 | Décédé célibataire | 5700 | 5700 | 25 Août 25 mars 1920 | 5 novembre 20
+6419 | Vincent | Etienne, Célestin, 5 mai 1919 | Brigadier forestier retraité | 22000 | 22000 | 25 3° 8 juin 1920 | 5 novembre 1920 N° 3°
+6420 | Bridanghein | Louis, Clément, 19 mai 1919 | Ancien Brigadier retraité | 1787 | 1787 | 1920 25 Août 27 mars 1920 | 5 novembre 1920
+6420' | Lambotte | Ernest, Modeste, 19 Juin 1919 | Lambotte Emile | 522 | 522
+6420'' | Rousseau | Félix, J.B., Alexandre, 20 mai 1919 | Pensionné de l'Etat | 20000 | 20000 | 720
+6421 | Lefranq | Henri, Rudolphe, 5 mai 1919 | Brigadier Pensionné Forestier | 8922 | 268 | 8922 | 12 Août 8 juin 1920 | 5 novembre 1920

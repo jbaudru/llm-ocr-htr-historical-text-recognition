@@ -1,0 +1,10 @@
+| DATE DE DECES | NOM, PRENOM | PROFESSION | DOMICILE | DATE DE L'ACTE DE DECES | NATURE ET DATE DES ACTES DE SUCCESSION | DROIT EN PRINCIPAL | RECU PAR L'ENREGISTREMENT | OBSERVATIONS |
+|---------------|-------------|------------|----------|------------------------|-----------------------------|------------------|--------------------------|----------------|
+| 6 10 Janvier | Deflandre, Gustave Emile | Cultivateur | Baissy | 6 Janvier | Testament olographe | 500 | 6 Janvier 1914 | |
+| 6 10 Janvier | Hyoniel, Jules Jules Louis | Cultivateur | Baissy | 6 Janvier | Testament olographe | 600 | 6 Janvier 1914 | |
+| 6 10 Janvier | Cordena, Louis | Menuisier | Baissy | 6 Janvier | Testament olographe | 800 | 6 Janvier 1914 | |
+| 6 10 Janvier | Decock, Jules | Cultivateur | Baissy | 6 Janvier | Testament olographe | 600 | 6 Janvier 1914 | |
+| 6 10 Janvier | Decock, Louis | Cultivateur | Baissy | 6 Janvier | Testament olographe | 600 | 6 Janvier 1914 | |
+| 6 18 Janvier | Dolondries, Amelie | Cultivateur | Baissy | 6 Janvier | Testament olographe | 800 | 6 Janvier 1914 | |
+| 6 18 Janvier | Rousseau, Jules | Cultivateur | Baissy | 6 Janvier | Testament olographe | 500 | 6 Janvier 1914 | |
+| 6 18 Janvier | Dodoncka, Jules | Cultivateur | Baissy | 6 Janvier | Testament olographe | 600 | 6 Janvier 1914 | |

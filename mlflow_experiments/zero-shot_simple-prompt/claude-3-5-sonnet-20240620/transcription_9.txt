@@ -1,0 +1,16 @@
+Here's a recreation of the content of the table in the image:
+
+| NUMÉRO DU REGISTRE | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATES DES DÉCÈS | MOTIFS, PRÉCISIONS | COMPTE DE SUCCESSION | RECETTE | DÉPENSE | DATE | SOLDE | RECETTE | DÉPENSE | OBSERVATIONS |
+|-------------------|------------------------------------------------|-----------------|-------------------|----------------------|---------|---------|------|-------|---------|---------|---------------|
+| 433 | Gossiaux | Soldat 3e régiment novembre 1918 Décédé | Succession après 2 années | 1891 | 1891 | | 9 mars et 29 juillet 1922 | 1 mars 23 | | | |
+| | | Soldat 3e vingt cinq novembre 1918 Décédé | | | | | | | | | |
+| | | Soldat 3e vingt six novembre 1918 Décédé | | | | | | | | | |
+| | | Soldat 3e vingt sept novembre 1918 Décédé | | | | | | | | | |
+| | | Soldat 3e vingt huit novembre 1918 Décédé | | | | | | | | | |
+| | | Soldat 3e vingt neuf novembre 1918 Décédé | | | | | | | | | |
+| | | Soldat 3e trente novembre 1918 Disparu Décédé | | | | | | | | | |
+| 434 | Painblanc | Joseph | 4 janvier 1919 | Succession après 2 années | 2295 | 2295 | 30/6 1921 | | | | |
+| 435 | Painblanc | Anonyme | " | " | 2294 | 2294 | 30/6 1921 | | | | |
+| | | Soldat 3e janvier Décembre 1918 Décédé | | | | | | | | | |
+| 436 | Charlin | Jean Bte | 23 janvier 1919 | Succession après délai général 2 années | 3500 | 3500 | 31 1921 | | | | |
+| | | Soldat 3e Janvier 1919 Décédé | | | | | | | | | |

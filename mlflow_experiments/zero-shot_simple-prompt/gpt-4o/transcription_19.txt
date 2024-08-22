@@ -1,0 +1,7 @@
+| NATURE DE L'ACTE | DATE DE L'ACTE | NOM, PRÉNOMS | DOMICILE | PROFESSION | OBSERVATIONS |
+|-----------------|----------------|-------------|----------|------------|--------------|
+| Acte de décès | 16 septembre 1920 | Soupart | Roubaix | Rentier | Acte de décès transcrit à Roubaix le 20 septembre 1920 |
+| Acte de décès | 16 septembre 1920 | Feire | Lille | Ouvrier | Acte de décès transcrit à Lille le 20 septembre 1920 |
+| Acte de décès | 16 septembre 1920 | Liraux | Tourcoing | Boulanger | Acte de décès transcrit à Tourcoing le 20 septembre 1920 |
+| Acte de décès | 18 septembre 1920 | Vancleem | Roubaix | Menuisier | Acte de décès transcrit à Roubaix le 22 septembre 1920 |
+| Acte de décès | 18 septembre 1920 | Flemmingjack | Paris | Étudiant | Acte de décès transcrit à Paris le 22 septembre 1920 |

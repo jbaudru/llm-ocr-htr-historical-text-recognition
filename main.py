@@ -4,8 +4,10 @@ from lib.ocr import OCR
 from lib.img import Image
 
 from tqdm import tqdm
+
 import os
 import mlflow
+import time
 
 current_dir = os.getcwd()
 mlflow.set_tracking_uri(f"file:///{current_dir}/mlruns")
@@ -78,7 +80,7 @@ def append_result(texts, key, result):
 
 
 def evaluate():
-    experiment_name = "zero-shot_complex-prompt"
+    experiment_name = "zero-shot_simple-prompt"
     
     # few-shot
     texts = {
@@ -139,9 +141,12 @@ def evaluate():
                 
                 # Save result to file
                 result_file = os.path.join(method_folder, f"transcription_{i+1}.txt")
-                with open(result_file, "w") as f:
+                with open(result_file, "w", encoding="utf-8") as f:
                     f.write(result)
 
+                # add waiting time to avoid overloading the server
+                time.sleep(5)
+                
         ocr_methods = {
             "EasyOCR": ocr.easyOCR,
             "Pytesseract": ocr.pytesseractOCR,
@@ -160,7 +165,7 @@ def evaluate():
                 
                 # Save result to file
                 result_file = os.path.join(method_folder, f"transcription_{i+1}.txt")
-                with open(result_file, "w") as f:
+                with open(result_file, "w", encoding="utf-8") as f:
                     f.write(result)
 
     tools.compare_texts_violin_plot(texts, experiment_name)

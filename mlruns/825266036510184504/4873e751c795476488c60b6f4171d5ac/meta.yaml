@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/4873e751c795476488c60b6f4171d5ac/artifacts
+end_time: 1724328119388
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 4873e751c795476488c60b6f4171d5ac
+run_name: mercurial-sponge-367
+run_uuid: 4873e751c795476488c60b6f4171d5ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724328117178
+status: 3
+tags: []
+user_id: Administrateur

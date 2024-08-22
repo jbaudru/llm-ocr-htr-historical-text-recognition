@@ -1,0 +1,12 @@
+| N° D'ORDRE | NOMS | PRÉNOMS | QUALITÉS | DOMICILE | DATE DE DÉCÈS | NOMS, PRÉNOMS | QUALITÉS | DOMICILE | DATE | NOMS, PRÉNOMS | QUALITÉS | DOMICILE | DATE | OBSERVATIONS |
+|------------|------|---------|----------|----------|----------------|-------------|----------|----------|------|-------------|----------|----------|------|--------------|
+| 429 | Bock | Louis | Menuisier |  |  |  |  |  |  |  |  |  |  |  |
+| 430 | Heucat | Jean |  |  |  |  |  |  |  |  |  |  |  |  |
+| 431 | Romain | Victor |  |  |  |  |  |  |  |  |  |  |  |  |
+| 432 | Poliat |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 433 | Poliat |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 434 | Houtmeyers |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 435 | Thibaut |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 436 | Gausin |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 437 | Delamoy |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 438 | Delatte |  |  |  |  |  |  |  |  |  |  |  |  |  |

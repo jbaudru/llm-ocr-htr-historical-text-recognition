@@ -1,0 +1,9 @@
+| DATE DE DECES | NOM, PRENOMS | DATE | RECUE | OBSERVATIONS |
+|---------------|-------------|------|-------|--------------|
+| 4399 | Renops | 27 Août 1854 | 11 Août 1854 |
+| 440 | Obélique | 1854 | 15 Mai 1854 |
+| 441 | Jacquin | 1854 | 25 Avril 1854 |
+| 442 | Vromane | 1854 | 15 Avril 1854 |
+| 443 | de Latines | 1854 | 15 Avril 1854 |
+| 444 | Heumels | 1854 | 15 Avril 1854 |
+| 445 | Goise | 1854 | 15 Avril 1854 |

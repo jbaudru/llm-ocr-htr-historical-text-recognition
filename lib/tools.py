@@ -140,12 +140,16 @@ class Tools:
     def CER(self, method, text1, gt):
         cer = CharErrorRate()
         cer = cer(text1, gt).item()
-        #print(f"Distance between {method}")
-        #print("=====================================")
-        #print(gt)
-        #print(text1)
-        #print("=====================================")
-        #print(cer)
+        """
+        print(f"\nMethod: {method}")
+        print("=====================================")
+        print(gt)
+        print("-------------------------------------")
+        print(text1)
+        print("=====================================")
+        print(cer)
+        print("\n")
+        """
         return cer
 
     def compare_texts_violin_plot(self, texts, image_name):
@@ -163,7 +167,7 @@ class Tools:
                 for i in range(len(texts[model])):
                     gd = texts["GT"][i]
                     pred = texts[model][i]
-                    jacc, mas, lev, cer = self.compute_distances(gd, pred)
+                    jacc, mas, lev, cer = self.compute_distances(pred, gd)
                     cer_dict[model].append(cer)
         
         # Prepare data for violin plot
@@ -184,7 +188,7 @@ class Tools:
         # Add titles and labels
         plt.title('Character Error Rate (CER)')
         plt.xlabel('Models')
-        plt.ylabel('CER (Log Scale)')
+        plt.ylabel('CER')
         plt.xticks(rotation=45, ha='right')
         # Display the plot
         plt.tight_layout()

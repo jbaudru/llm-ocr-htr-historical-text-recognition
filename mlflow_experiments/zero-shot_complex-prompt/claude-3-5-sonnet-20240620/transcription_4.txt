@@ -2,9 +2,11 @@ Here's a recreation of the content of the table in the image:
 
 N° D'ORDRE | NOMS ET PRÉNOMS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | NOMS, PRÉNOMS | DOMICILE DE RÉSIDENCE | MONTANT DE LA SUCCESSION | DROITS | DATE | RECETTE | OBSERVATIONS
 --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-6418 | Cloquet | Etienne, Meunier, 20 ans | Décédé | 500 | 500 | 4 Nov et 25 mai 1915 | 5 novembre 15 | 
-6419 | Vincent | Etienne, Céles. | 5 mai 1915 | Brigadier, Escadre 4 cuiras. | 25000 | 25000 | 25 3° | 8 juin 1915 | 5 novembre 15 N° 3°
-6420 | Bridanghim | Louis | 15 mai 1915 | Soldat, Escadre 4 cuiras. | 1515 | 1515 | 25 3° 8 juin 1915 | 5 novembre 15
-6420 | Lambotte | Ernest, Nicholas | 15/5/1915 | Escadre 4 cuiras. | 525 | 525 | | | 
-6420 | Rousseau | Théod. J°, Nicholos | 15 mai 1915 | Escadre 4 cuiras. | 20000 | 20000 | 283 | | 
-6421 | Lefranq | Théoni, Rudolp. | 5 mai 1915 | Brigadier, Escadre 4 cuiras. | 8562 | 248 | 8562 | 12 Nov 8 juin 1915 | 5 novembre 15
+6418 | Cloquet | Etienne, Meunier, 20 mai 1909 | Veuve déc. | 5700 | 5700 | 17 Août 25 mai 1910 | 5 novembre 15 |  | 
+6419 | Vincent | Etienne, Céline, 5 mai 1909 | Veuve, Enfants, Frères et soeurs | 25000 | 25000 | 25 " | 5 juin 1910 | 5 novembre 1910 N° 2 | 
+6420 | Boidenghien | Louis, Clément, 17 mai 1909 | Veuve, Enfants, et autres | 1717 | 1717 | 26 " 27 mai 1910 | 5 novembre 1910 | 
+6420 | Lambotte | Ernest, Mathilde, 19 Juin 1909 | Lambotte Emile | | 555 | | | | 
+6420 | Rousseau | Flore, J'ne, Elisabeth, 10 mars 1909 | Rousseau J'ne J'ph | 20000 | 20000 | 28 " | | | 
+6421 | Lefranq | Henri, Rudolp, 5 mai 1909 | Veuf, Enfants, Frères et soeurs | 3922 | 248 | 3922 | 12 Août 5 juin 1910 | 5 novembre 1910 | 
+
+Note: Some cells are left blank as they appear empty in the original image.

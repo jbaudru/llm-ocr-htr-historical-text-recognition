@@ -1,0 +1,8 @@
+| DATE DE L'ACTE | NUMÉRO DE L'ACTE | INDICATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DE DÉCÈS | NOM, PRÉNOMS | PROFESSION | DOMICILE | DATE DE L'OUVERTURE DE LA SUCCESSION | DROIT D'ENREGISTREMENT | DATE | RECETTE | OBSERVATIONS |
+|----------------|------------------|--------------------------------------|-------------|-------------|-------------|---------|--------------------------------|----------------------|------|---------|--------------|
+| 6 | 443 bis 9bre | Cloquet | Cultivateur | Moulins | 29 août 1899 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 |
+| 6 | 419 7bre | Vincent | Cultivateur | Moulins | 22 août 1899 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 |
+| 6 | 420 7bre | Boisdenghien | Cultivateur | Moulins | 22 août 1899 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 |
+| 6 | 420 bis 7bre | Lambotte | Cultivateur | Moulins | 22 août 1899 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 |
+| 6 | 420 ter 7bre | Rousseau | Cultivateur | Moulins | 22 août 1899 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 |
+| 6 | 420 quater 7bre | Lejeune | Cultivateur | Moulins | 22 août 1899 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 |

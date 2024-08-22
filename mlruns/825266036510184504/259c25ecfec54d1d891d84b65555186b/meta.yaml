@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/259c25ecfec54d1d891d84b65555186b/artifacts
+end_time: 1724323428022
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 259c25ecfec54d1d891d84b65555186b
+run_name: stately-squid-828
+run_uuid: 259c25ecfec54d1d891d84b65555186b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724323425672
+status: 3
+tags: []
+user_id: Administrateur

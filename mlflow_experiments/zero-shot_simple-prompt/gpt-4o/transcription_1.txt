@@ -1,0 +1,8 @@
+| DATE DE DÉCÈS | NUMÉRO D'ORDRE | NOM | PRÉNOM | DOMICILE | PROFESSION | DATE DE NAISSANCE | LIEU DE NAISSANCE | DATE DE DÉPÔT | NUMÉRO D'ORDRE | DATE | RECETTE | DATE | OBSERVATIONS |
+|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|
+| 6 | 1927 | tout octobre | Heverent | Jules | Tournai | Ouvrier | 1899 | Tournai | 6 | 1927 | tout octobre | | | |
+| 6 | 1927 | tout octobre | Lefevre | Jules | Tournai | Ouvrier | 1899 | Tournai | 6 | 1927 | tout octobre | | | |
+| 6 | 1927 | tout octobre | Desmedt | Jeanne | Tournai | Retraitée | 1899 | Tournai | 6 | 1927 | tout octobre | | | |
+| 6 | 1927 | tout octobre | Monseur | Albert | Tournai | Retraitée | 1899 | Tournai | 6 | 1927 | tout octobre | | | |
+| 6 | 1927 | tout octobre | Bouly | Albert | Tournai | Retraitée | 1899 | Tournai | 6 | 1927 | tout octobre | | | |
+| 6 | 1927 | tout octobre | Godart | Albert | Tournai | Retraitée | 1899 | Tournai | 6 | 1927 | tout octobre | | | |

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/5f73f806d9a04368a3b73a8abd9d2ea4/artifacts
+end_time: 1724321829104
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 5f73f806d9a04368a3b73a8abd9d2ea4
+run_name: awesome-squid-510
+run_uuid: 5f73f806d9a04368a3b73a8abd9d2ea4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724321818702
+status: 3
+tags: []
+user_id: Administrateur
