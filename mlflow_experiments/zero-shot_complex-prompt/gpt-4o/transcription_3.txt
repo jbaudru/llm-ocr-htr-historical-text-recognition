@@ -1,0 +1,11 @@
+| DATE DE L'ENTREE | INDICATIONS DES PERSONNES DECEDEES OU ABSENTES | NOMS, PRENOMS | DATE DE LA SORTIE | RECETTE | OBSERVATIONS |
+|------------------|---------------------------------------------|-------------|----------------|---------|----------------|
+| 6 Août 1907      | Norblelet, Florent, Cultivateur, 45 ans, Epoux Rivet | 6 Août 1907 | 6 Août 1907 |  |
+| 6 Août 1907      | Chateau, Henri, Cultivateur, 45 ans, Epoux Roffidal | 6 Août 1907 | 6 Août 1907 |  |
+| 6 Août 1907      | Reynes, Louis, Cultivateur, 45 ans, Epoux Gallet | 6 Août 1907 | 6 Août 1907 |  |
+| 6 Août 1907      | Matheieu, Louis, Cultivateur, 45 ans, Epoux Gallet | 6 Août 1907 | 6 Août 1907 |  |
+| 6 Août 1907      | Tonninian, Henri, Cultivateur, 45 ans, Epoux Gallet | 6 Août 1907 | 6 Août 1907 |  |
+| 6 Août 1907      | Oubre, Louis, Cultivateur, 45 ans, Epoux Gallet | 6 Août 1907 | 6 Août 1907 |  |
+| 6 Août 1907      | Heuwels, Henri, Cultivateur, 45 ans, Epoux Gallet | 6 Août 1907 | 6 Août 1907 |  |
+| 6 Août 1907      | Basiqant, Louis, Cultivateur, 45 ans, Epoux Gallet | 6 Août 1907 | 6 Août 1907 |  |
+| 6 Août 1907      | Campinaire, Henri, Cultivateur, 45 ans, Epoux Gallet | 6 Août 1907 | 6 Août 1907 |  |

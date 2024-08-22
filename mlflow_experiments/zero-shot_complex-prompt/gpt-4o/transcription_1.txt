@@ -1,0 +1,8 @@
+| DATE DE DÉCÈS | NUMÉRO D'ORDRE | NOM | PRÉNOM | DOMICILE | PROFESSION | DATE DE NAISSANCE | LIEU DE NAISSANCE | DATE | RECETTE | DATE | OBSERVATIONS |
+|----------------|----------------|---------|-----------|----------------|----------------|--------------------|--------------------|--------|----------|--------|----------------|
+| 6 | 1893 huit octobre | Leboevent | Jules | Tournai | Apprenti | 1879 | Tournai | 6 oct 1893 | | | |
+| 6 | 1893 D | Lefevre | Jules | Tournai | Apprenti | 1879 | Tournai | 6 oct 1893 | | | |
+| 6 | 1893 huit octobre | Desmedt | Jeanne | Tournai | Rentière | 1838 | Tournai | 6 oct 1893 | | | |
+| 6 | 1893 D | Monseur | Jean | Tournai | Rentier | 1838 | Tournai | 6 oct 1893 | | | |
+| 6 | 1893 D | Bouly | Jean | Tournai | Rentier | 1838 | Tournai | 6 oct 1893 | | | |
+| 6 | 1893 D | Godart | Jean | Tournai | Rentier | 1838 | Tournai | 6 oct 1893 | | | |

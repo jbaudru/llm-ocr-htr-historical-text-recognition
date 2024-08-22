@@ -137,9 +137,15 @@ class Tools:
         else:
             return 0
     
-    def CER(self, text1, gt):
-        CER = CharErrorRate()
-        cer = CER(text1, gt).item()
+    def CER(self, method, text1, gt):
+        cer = CharErrorRate()
+        cer = cer(text1, gt).item()
+        #print(f"Distance between {method}")
+        #print("=====================================")
+        #print(gt)
+        #print(text1)
+        #print("=====================================")
+        #print(cer)
         return cer
 
     def compare_texts_violin_plot(self, texts, image_name):

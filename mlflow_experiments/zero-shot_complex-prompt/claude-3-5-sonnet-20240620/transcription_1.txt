@@ -1,0 +1,12 @@
+Here's a recreation of the content of the table in the image:
+
+| CLASSE DES DÉCRETS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | NOMS, PRÉNOMS | QUALITÉ | DOMICILE | DATE DE NAISSANCE | LIEU DE NAISSANCE | DERNIER DOMICILE | DATE DU DÉCÈS | LIEU DU DÉCÈS | DATE DE L'ABSENCE | OBSERVATIONS |
+|-------------------|------------------------------------------------|---------------|---------|----------|-------------------|-------------------|-------------------|---------------|---------------|-------------------|---------------|
+| 398 trente huit | Hoorrent | Alphonse Cyprien (1848) | Horloger | Décédé à Anvers | 22/8 | 1848 | 1848 | 11 Xbre/15 Xbre 1899 | Anvers | | Anvers 1899 |
+| 399 " | Lefevre | Jules | Commis 6e classe | Décédé célibat. | 12/5 | | 1855 | 30/1 | 1899 | | |
+| 400 " | Desmedt | Gustave | Receveur | Contrôleur Postes retraité | 9/10 | 1830 | 1830 | 15 Xbre/19 Xbre 1899 | | 19 Janvier 1900 |
+| 401 " | Monseur | Fernand Henri Ghislain | Etudiant-Soldat | | 29/3/80 | 1880/81 | 81/9/80 | 15 " | 1899/1900 | | |
+| 402 " | Bouhy | Félicien | Commis 4e classe | Receveur Chemins de fer | 20/9/8 | | 20/9/8 | 15 " | 22 Xbre/99 | | Non liquidée |
+| 403 quatre cent trois | Godart | Constant | Facteur | Facteur retraité | 15/5/31 | | 15/5/31 | 30 " | 22 mai/99 | | 13 novembre 1900 |
+
+Note: Some cells are left blank where the information was not provided in the image.

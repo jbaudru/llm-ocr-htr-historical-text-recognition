@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/87bfede9d1a54b2da82a0a821b3e1898/artifacts
+end_time: 1724320023264
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 87bfede9d1a54b2da82a0a821b3e1898
+run_name: trusting-hound-810
+run_uuid: 87bfede9d1a54b2da82a0a821b3e1898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724320005387
+status: 3
+tags: []
+user_id: Administrateur

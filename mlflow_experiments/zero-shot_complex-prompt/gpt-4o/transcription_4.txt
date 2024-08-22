@@ -1,0 +1,8 @@
+| DATE DE L'ACTE | NUMÉRO DE L'ACTE | INDICATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DE DÉCÈS | NOM, PRÉNOMS | PROFESSION | DOMICILE | DATE DE L'ACTE DE DÉCÈS | INDICATION DES ACTES DE SUCCESSION | DROIT D'ENREGISTREMENT | DATE | RECETTE | OBSERVATIONS |
+|----------------|------------------|--------------------------------------|-------------|-------------|-------------|-------------|----------------------|-----------------------------|----------------------|------|---------|--------------|
+| 6 | 443 bis et ter | Cloquet | Cultivateur | Lillers | Lillers | 4 mai 1899 | Arrêté de déchéance du 4 mai 1899 | 4 mai 1899 | 4 mai 1899 | 55 |
+| 6 | 419 ter | Vincent | Cultivateur | Lillers | Lillers | 4 mai 1899 | Arrêté de déchéance du 4 mai 1899 | 4 mai 1899 | 4 mai 1899 | 55 |
+| 6 | 420 quinq. | Boisdenghien | Journalier | Lillers | Lillers | 4 mai 1899 | Arrêté de déchéance du 4 mai 1899 | 4 mai 1899 | 4 mai 1899 | 55 |
+| 6 | 420 sex. | Lambotte | Tonnelier | Lillers | Lillers | 4 mai 1899 | Arrêté de déchéance du 4 mai 1899 | 4 mai 1899 | 4 mai 1899 | 55 |
+| 6 | 420 bis et ter | Rousseau | Charbonnier | Lillers | Lillers | 4 mai 1899 | Arrêté de déchéance du 4 mai 1899 | 4 mai 1899 | 4 mai 1899 | 55 |
+| 6 | 420 bis | Lejeune | Tonnelier | Lillers | Lillers | 4 mai 1899 | Arrêté de déchéance du 4 mai 1899 | 4 mai 1899 | 4 mai 1899 | 55 |

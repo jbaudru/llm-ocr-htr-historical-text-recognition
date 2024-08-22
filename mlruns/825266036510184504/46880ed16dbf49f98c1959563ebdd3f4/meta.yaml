@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/46880ed16dbf49f98c1959563ebdd3f4/artifacts
+end_time: 1724320288837
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 46880ed16dbf49f98c1959563ebdd3f4
+run_name: upset-cub-550
+run_uuid: 46880ed16dbf49f98c1959563ebdd3f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724320270033
+status: 3
+tags: []
+user_id: Administrateur

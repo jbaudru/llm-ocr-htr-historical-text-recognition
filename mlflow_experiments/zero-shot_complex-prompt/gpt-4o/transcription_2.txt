@@ -1,0 +1,11 @@
+| N° | DATE DE DÉCÈS | OBSERVATIONS DES PERSONNES DÉCÉDÉES OU ABSENTES | NOM | PRÉNOM | DOMICILE | PROFESSION | DATE DE L'ACTE | NATURE DES DROITS DE SUCCESSION | IMPÔT | DÉCLARATION | DATE | RECETTE | OBSERVATIONS |
+|----|----------------|-----------------------------------------------|-----|--------|----------|-------------|--------------|--------------------------|------|-------------|------|---------|--------------|
+| 403 | 29 août 1917  | Bazot                                         |     |        |          |             |              |                          |      |             |      |         |              |
+| 404 | 3 sept 1917   | Parlier                                       |     |        |          |             |              |                          |      |             |      |         |              |
+| 405 | 6 sept 1917   | Vandernesse                                    |     |        |          |             |              |                          |      |             |      |         |              |
+| 406 | 6 sept 1917   | Semione                                        |     |        |          |             |              |                          |      |             |      |         |              |
+| 407 | 6 sept 1917   | Hommage                                        |     |        |          |             |              |                          |      |             |      |         |              |
+| 408 | 6 sept 1917   | Godeau Fantine                                 |     |        |          |             |              |                          |      |             |      |         |              |
+| 409 | 6 sept 1917   | Fontaine                                       |     |        |          |             |              |                          |      |             |      |         |              |
+| 410 | 6 sept 1917   | Allard                                         |     |        |          |             |              |                          |      |             |      |         |              |
+| 411 | 6 sept 1917   | Delvitte                                       |     |        |          |             |              |                          |      |             |      |         |              |
