@@ -2,9 +2,11 @@ Here's a recreation of the content of the table in the image:
 
 | CLASSE DES DÉCRETS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | NOMS, PRÉNOMS | QUALITÉ | DOMICILE | DATE DE NAISSANCE | LIEU DE NAISSANCE | OBSERVATIONS |
 |-------------------|------------------------------------------------|---------------|---------|----------|-------------------|-------------------|---------------|
-| 398 Trente huit | Hoorrent | Alphonse | Ouvrier (1849) | Roubaix (Nord) | 22/8/1825 | 1825 | Arrêté du vingt huit octobre 1879 (Absent) |
-| 399 " | Lefebvre | Jules | Ouvrier 6 octobre 1879 | Roubaix (Nord) | 12/5/ | 1823 | Arrêté du trente octobre 1879 (Absent) |
-| 399 bis " | Desmedt | Gustave | Nicollas 18 mars | Courtrai (Belgique) | 9/10 | (30) 49,50 | Arrêté du deux novembre 1879 (Absent) |
-| 400 " | Monseur | Pascal Henri | Célibataire 4 Août 41 | Roubaix-Tourcoing | 29/3/40 | 1840 45 | 55 " " |
-| 401 " | Bouty | Fidèle | Ouvrier 6 octobre 1879 | Roubaix (Nord) | 25/9/ | 25/9/ | 15 " 22 Juillet |
-| 402 quatre cent deux | Godart | Constable | Ouvrier 22 mars | Roubaix (Nord) | 15/5/1 | 1779/1 | 30 " |
+| 398 Trente huit | Hoorrent | Alphonse | Ouvrier (1849) | Renaix | 22.10 1825 | 1825 | 11 30/9 15 7/1849 Remplacé 1849 |
+| 399 " | Lefèvre | Jules | Ouvrier 6 octobre 1849 | Renaix | 1825 | 1825 | 30/9 1849 |
+| 399 bis " | Desmedt | Gustave | Nicollas 18 mars | Everbeke Ober Eenaerde | 9100 | (30) 9130 | 15 30/9 15 mars/1849 15 Juillet 1849 |
+| 400 " | Monsieur | Benoit Henri | Cultivateur 2 Août 1849 | Renaix-Cultur | 29/3/10 | 1810 | 29/7/10 15 août/1849 |
+| 401 " | Bouty | Fidèle | Ouvrier 6 octobre 1849 | Renaix | 1829 | 1829 | 15 " 22 9/1849 Non fourni le |
+| 402 quatre cent deux | Godart | Constable | Ouvrier 22 mars | Renaix | 11815 | 11815 | 30 " 22 mars/1849 15 novembre 1849 |
+
+Note: Some entries are partially filled or left blank in the original image. I've recreated the table structure and content as accurately as possible based on the visible information.

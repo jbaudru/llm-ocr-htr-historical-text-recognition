@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/bbdd91cea3b44807a72f694eff4f54d8/artifacts
+end_time: 1724338468108
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: bbdd91cea3b44807a72f694eff4f54d8
+run_name: unique-perch-38
+run_uuid: bbdd91cea3b44807a72f694eff4f54d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724338465990
+status: 3
+tags: []
+user_id: julien

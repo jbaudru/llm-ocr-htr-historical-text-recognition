@@ -1,12 +1,12 @@
-| N° D'ORDRE | NOMS | PRÉNOMS | QUALITÉS | DOMICILE | DATE DE DÉCÈS | NOMS, PRÉNOMS | QUALITÉS | DOMICILE | DATE | NOMS, PRÉNOMS | QUALITÉS | DOMICILE | DATE | OBSERVATIONS |
-|------------|------|---------|----------|----------|----------------|-------------|----------|----------|------|-------------|----------|----------|------|--------------|
-| 429 | Bock | Louis | Menuisier |  |  |  |  |  |  |  |  |  |  |  |
-| 430 | Heucat | Jean |  |  |  |  |  |  |  |  |  |  |  |  |
-| 431 | Romain | Victor |  |  |  |  |  |  |  |  |  |  |  |  |
-| 432 | Poliat |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 433 | Poliat |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 434 | Houtmeyers |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 435 | Thibaut |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 436 | Gausin |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 437 | Delamoy |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 438 | Delatte |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| N° D'ORDRE | NOMS | PRÉNOMS | QUALITÉS | DOMICILE | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DROIT D'ENREGISTREMENT | DATE | REÇU | DATE | OBSERVATIONS |
+|------------|------|---------|----------|----------|--------------------------------------------|----------------------|------|------|------|--------------|
+| 429        | Bock | Louis   | Ouvrier  |           | Veuve Bock, née Lemoine, décédée en 1919   | 4666                 | 5 mai 1920 | 4666 | 5 mai 1920 |              |
+| 430        | Heraut | Léon  |           |           | Veuve Heraut, née Thérard, décédée en 1919 | 4667                 | 5 mai 1920 | 4667 | 5 mai 1920 |              |
+| 431        | Romain | Octave |           |           | Veuve Romain, née Lemoine, décédée en 1919 | 4668                 | 5 mai 1920 | 4668 | 5 mai 1920 |              |
+| 432        | Poliat | Louis  |           |           | Veuve Poliat, née Lemoine, décédée en 1919 | 4669                 | 5 mai 1920 | 4669 | 5 mai 1920 |              |
+| 433        | Poliat | Antoine |           |           | Veuve Poliat, née Lemoine, décédée en 1919 | 4670                 | 5 mai 1920 | 4670 | 5 mai 1920 |              |
+| 434        | Houtmeyers | Henri | Marchand |           | Veuve Houtmeyers, née Lemoine, décédée en 1919 | 4671                 | 5 mai 1920 | 4671 | 5 mai 1920 |              |
+| 435        | Tribaut | Joseph |           |           | Veuve Tribaut, née Lemoine, décédée en 1919 | 4672                 | 5 mai 1920 | 4672 | 5 mai 1920 |              |
+| 436        | Gausin | Léon   |           |           | Veuve Gausin, née Lemoine, décédée en 1919 | 4673                 | 5 mai 1920 | 4673 | 5 mai 1920 |              |
+| 437        | Delamoy | Albert |           |           | Veuve Delamoy, née Lemoine, décédée en 1919 | 4674                 | 5 mai 1920 | 4674 | 5 mai 1920 |              |
+| 438        | Delbette | Jules |           |           | Veuve Delbette, née Lemoine, décédée en 1919 | 4675                 | 5 mai 1920 | 4675 | 5 mai 1920 |              |

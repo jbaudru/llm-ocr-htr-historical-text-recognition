@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/6c0713994bb44413b217d877b9c7ee7b/artifacts
+end_time: 1724337007586
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 6c0713994bb44413b217d877b9c7ee7b
+run_name: placid-moose-238
+run_uuid: 6c0713994bb44413b217d877b9c7ee7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724336996516
+status: 3
+tags: []
+user_id: julien

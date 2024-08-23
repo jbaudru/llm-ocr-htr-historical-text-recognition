@@ -3,16 +3,12 @@ Here's a recreation of the content of the table in the image:
 | N° D'ORDRE | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DROITS DE SUCCESSION | DROITS DE MUTATION | DATE | RECETTE | OBSERVATIONS |
 |-----------|------------------------------------------------|----------------------|---------------------|------|---------|---------------|
 | NOM, PRÉNOMS | PROFESSION | DOMICILE | LIEU DU DÉCÈS | DATE DU DÉCÈS | DEGRÉ DE PARENTÉ AVEC L'HÉRITIER | ACTIF | PASSIF | ACTIF NET | TAUX % | DROITS | DATE | N° | |
-| 403 | Peyrol | Antoinette | Moulins | 14 mai 1919 | Peyrol Marie s. enfants | 13,999 | 2,735 | 11,264 | 3.60 | 405.50 | 15 Nov 1919 | 48 | non fournie |
-| 404 | Paulin | Antoine | Franchesse | 19 janvier 1919 | Paulin Léonard | 999 | - | 999 | - | - | 15 Nov 1919 | | |
-| 405 | Vandermeersch | Etienne Emile | Châtillon | 6 août 1919 | Brossard Fernand | 1548 | - | 1548 | | | 15 Nov | 49 | non fournie |
-| | Arrêté le quatre novembre 1919 (signé) | | | | | | | | | | | |
-| 406 | Lemoine | Joseph | Tilly | 28 Août | Lemoine Julienne s. enfants | 1555 | - | 1555 | | | 18 Nov 25 nov | | non fournie |
-| 407 | Monnay | Jules | Chazemais | 15 Août | Monnay Désiré s. enfants | | | | | | 19 Nov | | Déclaration à recevoir |
-| 408 | Godeau Saintaine | Clément | Doyet | 17 Août | Godeau Martine s. enfants | 599 | - | 599 | | | 18 Nov 9 avril | | non fournie |
-| | Arrêté le cinq novembre 1919 (signé) | | | | | | | | | | | |
-| | Arrêté le six novembre 1919 (signé) | | | | | | | | | | | |
-| 409 | Fontaine | Benoit | Lurcy | 9 octobre 1919 | Fontaine Germaine | 915 | 666 | 249 | | | 19 Nov 9 avril | | non fournie |
-| 410 | Allard | Joseph | Moulins | 19 mai | Allard Pierre | 9462 | - | 9462 | | | 19 Nov 19 juin | | Usufruit 1/4 |
-| | Arrêté le sept novembre 1919 (signé) | | | | | | | | | | | |
-| 411 | Deluyk | Julienne | Châtillon | 18 mai 1919 | Deluyk Edmond Tuteur | 4849 | 343 | 4506 | | | 20 Nov 15 mai 1920 | | 3 Hérit. 1/6 |
+| 403 | Peyrol | Antoinette | Moulins | 14 mai 1919 | Peyrol Pierre s-préfet | 13,999 | 2,735 | 11,264 | | | 15 9bre 1919 | 48 | non fournie |
+| 404 | Paulin | Antoine | Tronçais | 19 janvier 1919 | Paulin Pierre | 999 | | 999 | | | 10 9bre 1919 | | |
+| 405 | Vandermeersch | Etienne Emile | Châteloy | 6 août 1919 | Brossard Fernand | 504 | | 504 | | | 10 9bre | 49 | non fournie |
+| 406 | Lemoine | Joseph | Ydes | 28 Août | Lemoine Julienne s-enfants | 1115 | | 1115 | | | 18 9bre 25 mars | non fournie | |
+| 407 | Monnay | Jules | Montluçon | 15 Août | Monnay Pierre s-enfants | | | | | | 19 février 20 | | Déclaration à recevoir |
+| 408 | Godeau Saintaine | Clément | Domérat | 17 Août | Godeau Madeleine s-enfants | 500 | | 500 | | | 18 9bre 9 octobre | non fournie | |
+| 409 | Fontaine | Benoit | Cusset | 9 octobre 1919 | Fontaine Germaine | 911 | 666 | 245 | | | 19 9bre 17 avril | non fournie | |
+| 410 | Allard | Joseph | Moulins | 10 mars | Allard Pierre | 9462 | | 9462 | | | 19 9bre 19 mars | Chômage 50 | |
+| 411 | Delusse | Julienne | Châtelus | 18 mars 1919 | Delusse Edmond Tuteur | 4849 | 343 | 4506 | | | 20 9bre 15 mars | 51 février 20 | |

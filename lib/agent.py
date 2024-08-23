@@ -224,7 +224,7 @@ class Agent:
                 ```plaintext
         """
 
-        prompt = "Recreate the content of the table in this image. Only that, no other information from you."
+        #prompt = "Recreate the content of the table in this image. Only that, no other information from you."
         
         
 

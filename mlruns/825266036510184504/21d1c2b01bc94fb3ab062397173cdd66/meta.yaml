@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/21d1c2b01bc94fb3ab062397173cdd66/artifacts
+end_time: 1724337115719
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 21d1c2b01bc94fb3ab062397173cdd66
+run_name: abundant-moth-534
+run_uuid: 21d1c2b01bc94fb3ab062397173cdd66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724337098804
+status: 3
+tags: []
+user_id: julien

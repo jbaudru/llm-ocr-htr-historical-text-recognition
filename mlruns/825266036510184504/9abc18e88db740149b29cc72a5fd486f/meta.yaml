@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/9abc18e88db740149b29cc72a5fd486f/artifacts
+end_time: 1724337098794
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 9abc18e88db740149b29cc72a5fd486f
+run_name: rumbling-yak-331
+run_uuid: 9abc18e88db740149b29cc72a5fd486f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724337083719
+status: 3
+tags: []
+user_id: julien

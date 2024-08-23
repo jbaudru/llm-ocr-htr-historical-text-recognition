@@ -1,7 +1,17 @@
-| NATURE DE L'ACTE | DATE DE L'ACTE | NOM, PRÉNOMS | DOMICILE | PROFESSION | OBSERVATIONS |
-|-----------------|----------------|-------------|----------|------------|--------------|
-| Acte de décès | 16 septembre 1920 | Soupart | Roubaix | Rentier | Acte de décès transcrit à Roubaix le 20 septembre 1920 |
-| Acte de décès | 16 septembre 1920 | Feire | Lille | Ouvrier | Acte de décès transcrit à Lille le 20 septembre 1920 |
-| Acte de décès | 16 septembre 1920 | Liraux | Tourcoing | Boulanger | Acte de décès transcrit à Tourcoing le 20 septembre 1920 |
-| Acte de décès | 18 septembre 1920 | Vancleem | Roubaix | Menuisier | Acte de décès transcrit à Roubaix le 22 septembre 1920 |
-| Acte de décès | 18 septembre 1920 | Flemmingjack | Paris | Étudiant | Acte de décès transcrit à Paris le 22 septembre 1920 |
+| NATURE DU SERVICE | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | NOM, PRÉNOMS | DATE DE L'ACTE | NATURE DE L'ACTE | DATE DE L'ACTE | OBSERVATIONS |
+|-------------------|--------------------------------------------|------------|----------------|----------------|----------------|----------------|
+|                   | Société de Secours Mutuels 1900 Soupart    |            |                |                |                |                |
+|                   | Société de Secours Mutuels 1900 Soupart    |            |                |                |                |                |
+|                   | Société de Secours Mutuels 1900 Soupart    |            |                |                |                |                |
+|                   | Société de Secours Mutuels 1900 Soupart    |            |                |                |                |                |
+|                   | Société de Secours Mutuels 1900 Soupart    |            |                |                |                |                |
+| 16 septembre      | Soupart                                     | Alexandre  | 16 septembre   | Décès          | 16 septembre   |                |
+|                   |                                             |            | 1900           |                | 1900           |                |
+| 16 septembre      | Férez                                       | Alfred     | 16 septembre   | Décès          | 16 septembre   |                |
+|                   |                                             |            | 1900           |                | 1900           |                |
+| 16 septembre      | Siraux                                      | Auguste    | 16 septembre   | Décès          | 16 septembre   |                |
+|                   |                                             |            | 1900           |                | 1900           |                |
+| 18 septembre      | Vancutsem                                   |            | 18 septembre   | Décès          | 18 septembre   |                |
+|                   |                                             |            | 1900           |                | 1900           |                |
+| 18 septembre      | Flemmingjack                                | Félix      | 18 septembre   | Décès          | 18 septembre   |                |
+|                   |                                             |            | 1900           |                | 1900           |                |

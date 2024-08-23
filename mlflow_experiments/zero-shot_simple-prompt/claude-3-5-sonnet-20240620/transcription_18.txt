@@ -1,17 +1,11 @@
 Here's a recreation of the content of the table in the image:
 
-| DATES DE DÉPART | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATES DE DÉCÈS OU DE DISPARITION | NOMS, PRÉNOMS | DEGRÉ DE PARENTÉ AVEC LE CHEF DE FAMILLE | PROFESSION | DOMICILE | MONTANT DES VALEURS SUCCESSORALES | ACTIF | PASSIF | REVENU NET | DATE | BUREAU | RECETTE | OBSERVATIONS |
-|-----------------|------------------------------------------------|-----------------------------------|---------------|------------------------------------------|------------|----------|--------------------------------------|-------|--------|------------|------|--------|---------|---------------|
-| | Arrêté le second janvier 1920 (Signed) | | | | | | | | | | | | | |
-| | Arrêté le troisième janvier 1920 (Signed) | | | | | | | | | | | | | |
-| | Arrêté le quatre janvier 1920 Directeur de l'enregt (Signed) | | | | | | | | | | | | | |
-| 12 vingt juin | Castier | Oscar | époux | Cultivateur | Couture (Ille et Vilaine) | | 2775 | 509 | 2266 | | 15 novembre et 30 Août | | 5f 60 227 | |
-| | Arrêté le deux janvier 1920 (Signed) | | | | | | | | | | | | | |
-| | Arrêté le trois janvier 1920 (Signed) | | | | | | | | | | | | | |
-| 13 vingt juin | Louge | Catherine | Femme de Hippolyte | Ménagère | Aubigny (Marne) et autres | | 14242 | - | 14242 | | 15 30 | 24f juin | | non fournie |
-| 14 " | Legain | Emilie Désirée | Femme de | Ménagère | Longpré (Aube) et autres | | 9915 | 3325 | 6590 | | 15 30 | 24 juin | | 5f 60 227 |
-| | Arrêté le quatre janvier 1920 (Signed) | | | | | | | | | | | | | |
-| 15 vingt juin | Kairez | Marie Catherine | Femme de | Ménagère | Chaudeney (Meurthe et Moselle) | | 4590 | - | 4590 | | 15 30 | 15 juin 1920 | | non fournie |
-| 15² " | Douys | Marie Virginie | Femme de | Ménagère | Stenay (Meuse) | | 2000 insuffisant | 2000 | - | | | 15 janvier 21 | | |
-| 15³ " | Vandenbossche | Georges Charles | Célibataire | Employé | Bergues (Nord) | | 8504 | - | 8504 | | | | 600 | |
-| 15⁴ " | Samblanc | Joseph | Marié à | Cultivateur | Chiny (Namur) et autres | | 4299 | 2299 | 2000 | | | | 600 | |
+| N° D'ORDRE | NOMS, PRÉNOMS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATES DE DÉCÈS | DOMICILE | NOMS ET PRÉNOMS DES HÉRITIERS OU AYANTS DROIT | DEGRÉ DE PARENTÉ | DOMICILE | DATE | BUREAU D'ENREGISTREMENT | RECETTE | OBSERVATIONS |
+|------------|---------------|------------------------------------------------|----------------|----------|------------------------------------------------|-------------------|----------|------|--------------------------|---------|---------------|
+| 12 | Castier | Oscar | 5 janvier 1920 | Couvin | Castier Odile à Couvin | | | 5.775 | 509 | 5.266 | 5 mois et 27 jours | 5 février 20 | |
+| 13 | Longe | Catherine | Veuve de Longe Nicolas | 27 juillet 1919 | Oizy (Namur) | 4 enfants | | 14.242 | - | 14.242 | | 15 3° | 25 février | |
+| 14 | Legain | Emile Désiré | Florennes | 7 août 1919 | Temple (Namur) | 4 enfants | | 9.915 | 3.305 | 6.610 | | 15 3° | 5 février | 5 février 333 |
+| 15 | Kaisin | Marie Catherine | Veuve Kaisin Edouard | 9 août 1919 | Monceau-sur-Sambre | 4 enfants | | 4.390 | - | 4.390 | | 15 3° | 5 juin 1920 | non fournie |
+| 15² | Denys | Marie Virginie | Veuve Denys Edmond | 17 janvier 1920 | Chimay | Denys Emile | | 2.000 | non fournie | 2.000 | | | 5 février 20 | |
+| 15³ | Vandenbossche | Grégoire | Célibataire | 28 mars 1919 | Bergilers (Liège) | | | 25.514 | - | 25.514 | 500 | | | |
+| 15⁴ | Lamblanc | Joseph | Marcinelle | 9 février 1919 | Charleroi | 4 enfants | | 4.299 | 2.299 | 2.000 | | | | |

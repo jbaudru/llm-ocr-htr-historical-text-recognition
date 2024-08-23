@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/009c2687a4714d3eb51b6f6431647c4e/artifacts
+end_time: 1724340127502
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 009c2687a4714d3eb51b6f6431647c4e
+run_name: bright-goat-823
+run_uuid: 009c2687a4714d3eb51b6f6431647c4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724340092345
+status: 3
+tags: []
+user_id: julien

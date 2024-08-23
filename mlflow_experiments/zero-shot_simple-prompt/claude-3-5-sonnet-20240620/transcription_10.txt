@@ -2,10 +2,10 @@ Here's a recreation of the content of the table in the image:
 
 | N° D'ORDRE DU REGISTRE | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DOMICILE | PROFESSION | DATE DU DÉCÈS OU DE LA DISPARITION | OBJETS DE SUCCESSION | SOMMES VERSÉES | NUMÉROS DU COMPTE | DATE | RECETTES | DÉPENSES | OBSERVATIONS |
 |------------------------|------------------------------------------------|----------|------------|-----------------------------------|------------------------|-----------------|---------------------|------|----------|----------|---------------|
-| 6 4539 D | Knops | Bruxelles | Rentier | 27-8-41 | Somme en dépôt | | Dépôt militaire | 41 149 | | | 24 Mars 1942 31 octobre 1943 |
-| 6 4540 | Defalque | Eugies | Rentier | 17/2/1942 | Versement du Crédit Anversois | 6.045 | 6.045 | | 17 Janvier 3 Août 1944 | | 3 mars 1945 1945 |
-| 6 4541 B | Jacquier | Uccle | Epouse | 19/7/1941 | Intérêt bancaire | 14.691 | 14.691 | | 1943/44 30 30/7/44 | | 24 juillet 1945 |
-| 6 4542 | Voussure | Ixelles | Ménagère | 17/7/1939 | Titres Contrat | 75 | 75 | | 43 | | |
-| 6 4543 B | de Lattre | Uccle | Rentier | 8/3/1938 | Sommes versées | 124 | 124 | | 1943 | | |
-| 6 4544 B | Heuvels | Schaerbeek | Rentier | 9/7/1939 | Revenus Titres | | Dépôt militaire | 1944 126 | | | |
-| 4545 | Goisse | Adolphe | | 9/7/1939 | Paiement divers | 716 | 716 | | 1944 | | |
+| 6 4539 D | Knops | Bruxelles | Rentier | 27-8-41 | Somme en espèces | - | Dépôt volontaire | 41 149 | - | - | 24 Mars 1942 31 octobre 1943 |
+| 6 4540 | Defalque | Eugies (Hainaut) | Employé | 17/9/1941 | Valeurs mobilières Belgique | 6.045 | 6.045 | - | 27 janvier 3 février 1944 | 3 mars 1944 | 945 |
+| 6 4541 B | Jacquier | Uccle | Epicier | 14/9/1941 | Fonds d'Commerce | 14.691 | 14.691 | 14.691 30 | 30 mars 1944 | 24 juillet 1945 | - |
+| 6 4542 | Voussure | Ixelles | Ménagère | 17/9/1941 | Titres Contrat | 75 | 75 | 75 | - | - | - |
+| 6 4543 B | de Lattre | Uccle | Rentier | 9/9/1941 | Sommes diverses | 124 | 124 | 123 | - | - | - |
+| 6 4544 B | Heuvels | Schaerbeek | Rentier | 9/9/1941 | Revenus Titres | - | Dépôt volontaire | 718 | - | - | - |
+| 4545 | Goisse | Adolphe | - | 9/9/1941 | Paiement divers | 716 | 716 | 716 | - | - | 1944 |

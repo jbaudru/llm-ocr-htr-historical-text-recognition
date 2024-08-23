@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/fa96b26e77be4885a1ab0f0b0cb90cbf/artifacts
+end_time: 1724337652044
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: fa96b26e77be4885a1ab0f0b0cb90cbf
+run_name: whimsical-ray-115
+run_uuid: fa96b26e77be4885a1ab0f0b0cb90cbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724337633441
+status: 3
+tags: []
+user_id: julien

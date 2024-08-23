@@ -1,5 +1,5 @@
-| DATE DE DÉCÈS | NOM, PRÉNOMS | PROFESSION DU DÉFUNT | DATE DE L'ACTE DE DÉCÈS | NATURE DES DROITS DE SUCCESSION | IMPÔT PRINCIPAL | DÉPARTEMENT | ARRONDISSEMENT | RECETTE | DATE | OBSERVATIONS |
-|----------------|----------------|------------------------|--------------------------|-----------------------------|----------------|----------------|----------------|----------------|----------------|----------------|
-| 6 Septembre 1881 | Devrez | Fermier | Acte du 6 Septembre 1881 | Succession | 944 | 944 | | | |
-| 6 Septembre 1881 | Delice | Rentier | Acte du 6 Septembre 1881 | Succession | 5775 | 5775 | | | |
-| 6 Septembre 1881 | Boisdenghien | Rentier | Acte du 6 Septembre 1881 | Succession | 4509 | 4509 | | | |
+| DATE DE DÉCÈS | NOM, PRÉNOMS | PROFESSION OU QUALITÉ DU DÉFUNT | DATE DE L'ACTE DE DÉCÈS | NATURE DES DROITS DE SUCCESSION | IMPÔT | DATE | RECETTES | OBSERVATIONS |
+|----------------|----------------|--------------------------------|--------------------------|-----------------------------|-------|------|---------|----------------|
+| 6 Septembre 1881 | Devrez | Fermier | Acte du 7 Septembre 1881 | Enregistré | 6 Septembre 1881 | 6 Septembre 1881 | 6 Septembre 1881 | |
+| 6 Septembre 1881 | Delice | Rentier | Acte du 7 Septembre 1881 | Enregistré | 6 Septembre 1881 | 6 Septembre 1881 | 6 Septembre 1881 | |
+| 6 Septembre 1881 | Boisdenghien | Rentier | Acte du 7 Septembre 1881 | Enregistré | 6 Septembre 1881 | 6 Septembre 1881 | 6 Septembre 1881 | |

@@ -1,17 +1,17 @@
 Here's a recreation of the content of the table in the image:
 
-| NUMÉRO DES DÉPARTS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU LIBÉRÉES | DURÉE DES PEINES | DATE DE DÉCÈS OU DE LIBÉRATION | MOTIF DE LA LIBÉRATION | NUMÉRO DU REGISTRE D'ÉCROU | NUMÉRO D'ORDRE DU REGISTRE | DATE | NUMÉRO D'ORDRE | RECETTE | NATURE DES RECETTES | OBSERVATIONS |
-|-------------------|------------------------------------------------|-----------------|--------------------------------|------------------------|----------------------------|---------------------------|------|----------------|---------|---------------------|---------------|
-| 6 8 | Liebereg | Bauer | 5 May 29 | Libéré par expiration de peine | 1900 | 3095 | 1er et 2 Mai 1929 | 6 et 7 | non fourni |  |  |
-| 6 9 | Georgi | Rodolphe François | 15 Août 1911 | Libération conditionnelle |  |  |  |  |  |  |  |
-| 6 9 | Cricq | Alphonse Jn | 15 Mai 31 | Grâcié Décret 3/5/31 |  | 539 |  | 9 Mai 31 |  |  |  |
-|  | Arrêté du Min. Just. janvier 1928 | Evadé |  |  |  |  |  |  |  |  |  |
-|  | Arrêté du Min. Just. janvier 1928 | Réintégration | Evadé |  |  |  |  |  |  |  |  |
-|  | Arrêté du Min. Just. janvier 1928 | Evadé |  |  |  |  |  |  |  |  |  |
-|  | Arrêté du Min. Just. janvier 1928 | Evadé |  |  |  |  |  |  |  |  |  |
-| 6 9 | Becquet | Manuel | 7 mai 1929 | Décédé à Brest |  | 541 |  |  |  |  |  |
-|  | Arrêté du vingt un janvier 1928 | Evadé |  |  |  |  |  |  |  |  |  |
-|  | Arrêté du vingt deux janvier 1928 | Evadé |  |  |  |  |  |  |  |  |  |
-|  | Arrêté du vingt trois janvier 1928 | Evadé |  |  |  |  |  |  |  |  |  |
-| 10 | Durieux | Fleuri | 23 juillet 1929 | Libération conditionnelle | 1906/24 | 1911/24 848 | 1er Janvier 1929 | 1 et 2 | 3 francs 60 | 2 Août 29 |  |
-|  | Arrêté du vingt quatre janvier 1928 | Evadé |  |  |  |  |  |  |  |  |  |
+| NUMÉRO DES DÉPARTS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU LIBÉRÉES | DURÉE DES PEINES | DATE DE DÉCÈS OU DE LIBÉRATION | MOTIF DE LA LIBÉRATION | NUMÉRO DU REGISTRE D'ÉCROU | OBSERVATIONS |
+|-------------------|--------------------------------------------------|------------------|--------------------------------|------------------------|----------------------------|---------------|
+| 6 8 | Liebling Susan | 5 ans de travaux forcés + 5 ans int. spéc. | 1er oct 1944 | Libéré | 3900 | Transféré |
+| 6 9 | Georgi | Détention perpétuelle | Décision 3 août 1944 |  |  | Evadé le 5/10/44 |
+| 6 10 | Crecy | 15 ans de travaux forcés | 5 janvier 1945 |  | 3941 | Evadé le 5/1/45 |
+|  | Arrêté du chef du gouvernement 29.12 | Libéré |  |  |  |  |
+|  | Arrêté du chef du gouvernement 29.12 | Commutation de peine |  |  |  |  |
+|  | Arrêté du chef du gouvernement 29.12 | Libéré |  |  |  |  |
+|  | Arrêté du chef du gouvernement 29.12 | Libéré |  |  |  |  |
+| 6 13 | Becquet | 5 ans de travaux forcés | 1er juillet 1944 |  | 3915 |  |
+|  | Arrêté du vingt-un janvier 1944 | Libéré |  |  |  |  |
+|  | Arrêté du vingt-deux janvier 1944 | Libéré |  |  |  |  |
+|  | Arrêté du vingt-trois janvier 1944 | Libéré |  |  |  |  |
+| 10 | Durieux | 15 ans de travaux forcés | 1er janvier 1945 | 4 janvier 1945 | 3914 | Evadé le 4/1/45 |
+|  | Arrêté du vingt-quatre janvier 1944 | Libéré |  |  |  | 4 janvier 45 |

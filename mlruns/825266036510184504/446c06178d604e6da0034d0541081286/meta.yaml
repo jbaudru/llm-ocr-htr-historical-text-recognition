@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/446c06178d604e6da0034d0541081286/artifacts
+end_time: 1724336929293
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 446c06178d604e6da0034d0541081286
+run_name: clumsy-newt-648
+run_uuid: 446c06178d604e6da0034d0541081286
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724336917810
+status: 3
+tags: []
+user_id: julien

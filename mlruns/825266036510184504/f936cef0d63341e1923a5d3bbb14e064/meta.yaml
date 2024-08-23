@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/f936cef0d63341e1923a5d3bbb14e064/artifacts
+end_time: 1724337382513
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: f936cef0d63341e1923a5d3bbb14e064
+run_name: sedate-cod-998
+run_uuid: f936cef0d63341e1923a5d3bbb14e064
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724337380430
+status: 3
+tags: []
+user_id: julien

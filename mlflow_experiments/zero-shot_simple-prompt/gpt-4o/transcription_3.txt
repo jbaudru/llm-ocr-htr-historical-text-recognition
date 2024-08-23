@@ -1,15 +1,11 @@
-| DATE DE RECEPTION | INDICATIONS DES PERSONNES DECEDEES OU ABSENTES | NOMS, PRENOMS | DATE | RECETTE | OBSERVATIONS |
-|-------------------|---------------------------------------------|-------------|------|---------|----------------|
-|                   | NOMS | PRENOMS | DOMICILE | PROFESSION | AGE | DATE DE DECES | LIEU DE DECES | NATURE DES DROITS | NATURE DES BIENS | REVENUS | VALEUR | DATE | DATE |
-| 6 8bre 1899       | Norbert | Florent | Malakoff | Retraité | 60 ans | 5 8bre 1899 | Eglise Notre-Dame | 1757 | 12 8bre 1899 | 12 8bre 1899 | non liquidé |
-| 6 8bre            | Chateau | Henri | Paris | Employé | 45 ans | 5 8bre 1899 | Hôpital Saint-Louis | 1250 | 12 8bre 1899 | 12 8bre 1899 | non liquidé |
-| 6 8bre            | Reynes | Louis | Paris | Retraité | 70 ans | 5 8bre 1899 | Eglise Saint-Gervais | 1500 | 12 8bre 1899 | 12 8bre 1899 | non liquidé |
-|                   | Arrêté du 8 août nommant M. Gervais | | | | | | | | | | |
-| 6 8bre 1899       | Malbieu | Louis | Paris | Retraité | 65 ans | 5 8bre 1899 | Hôpital Saint-Antoine | 1500 | 12 8bre 1899 | 12 8bre 1899 | non liquidé |
-| 6 8bre            | Tannian | Henri | Paris | Employé | 50 ans | 5 8bre 1899 | Hôpital Saint-Louis | 1500 | 12 8bre 1899 | 12 8bre 1899 | non liquidé |
-| 6 8bre            | Dubu | Louis | Paris | Retraité | 70 ans | 5 8bre 1899 | Eglise Saint-Gervais | 1500 | 12 8bre 1899 | 12 8bre 1899 | non liquidé |
-|                   | Arrêté du 8 août nommant M. Gervais | | | | | | | | | | |
-| 6 8bre 1899       | Heuwels | Louis | Paris | Retraité | 65 ans | 5 8bre 1899 | Hôpital Saint-Antoine | 1500 | 12 8bre 1899 | 12 8bre 1899 | non liquidé |
-| 6 8bre            | Basiquant | Henri | Paris | Employé | 50 ans | 5 8bre 1899 | Hôpital Saint-Louis | 1500 | 12 8bre 1899 | 12 8bre 1899 | non liquidé |
-| 6 8bre            | Campinaire | Louis | Paris | Retraité | 70 ans | 5 8bre 1899 | Eglise Saint-Gervais | 1500 | 12 8bre 1899 | 12 8bre 1899 | non liquidé |
-|                   | Arrêté du 8 août nommant M. Gervais | | | | | | | | | | |
+| DATE DE L'ENTREE | INDICATIONS DES PERSONNES DECEDEES OU ABSENTES | NOMS, PRENOMS | DATE DE LA SORTIE | RECETTE | OBSERVATIONS |
+|------------------|---------------------------------------------|-------------|----------------|---------|----------------|
+| 6 Août 1897      | Norblelet, Florent, Cultivateur, 45 ans, Epoux Rivet | 6 Août 1897 | 6 Août 1897 | 6 Août 1897 | Non payée |
+| 6 Août 1897      | Chateau, Henri, Cultivateur, 54 ans, Epoux Roffidal | 6 Août 1897 | 6 Août 1897 | 6 Août 1897 | Non payée |
+| 6 Août 1897      | Reynes, Louis, Cultivateur, 45 ans, Epoux Gallet | 6 Août 1897 | 6 Août 1897 | 6 Août 1897 | Non payée |
+| 6 Août 1897      | Malblieu, Louis, Cultivateur, 45 ans, Epoux Gallet | 6 Août 1897 | 6 Août 1897 | 6 Août 1897 | Non payée |
+| 6 Août 1897      | Lanniman, Henri, Cultivateur, 45 ans, Epoux Gallet | 6 Août 1897 | 6 Août 1897 | 6 Août 1897 | Non payée |
+| 6 Août 1897      | Oubre, Louis, Cultivateur, 45 ans, Epoux Gallet | 6 Août 1897 | 6 Août 1897 | 6 Août 1897 | Non payée |
+| 6 Août 1897      | Keuwels, Henri, Cultivateur, 45 ans, Epoux Gallet | 6 Août 1897 | 6 Août 1897 | 6 Août 1897 | Non payée |
+| 6 Août 1897      | Basiqant, Henri, Cultivateur, 45 ans, Epoux Gallet | 6 Août 1897 | 6 Août 1897 | 6 Août 1897 | Non payée |
+| 6 Août 1897      | Campinaire, Henri, Cultivateur, 45 ans, Epoux Gallet | 6 Août 1897 | 6 Août 1897 | 6 Août 1897 | Non payée |

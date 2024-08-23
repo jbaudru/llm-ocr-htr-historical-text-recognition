@@ -1,15 +1,14 @@
-| DATE DE DECES | INDICATION DES PERSONNES DECÉDÉES OU ABSENTES | DROIT DE SUCCESSION | DROIT D'ENREGISTREMENT | DATE | RECETTE | OBSERVATIONS |
-|---------------|--------------------------------------------|--------------------|----------------------|------|---------|----------------|
-|               | NOM | PRÉNOM | DOMICILE | DATE DE L'ACTE | NATURE DES BIENS | VALEUR | DATE | N° | DATE | N° |         |
-| 1891          |      |        |          |                 |                    |        |      |     |      |     |         |
-| 6             | 19 Décembre | Slemons | Charles | Ath | 17 Décembre 1891 | Meubles et Immeubles | 1991 | 19 | 19 Décembre 1891 | 121 | 19 | 19 Décembre 1891 | 121 |         |
-| 6             | 23 | Druy |        |          |                 |                    |        |      |     |      |     |         |
-| 6             | 24 | Pieterboons | Jean | Ath | 24 Décembre 1891 | Meubles et Immeubles | 500 | 24 | 24 Décembre 1891 | 122 | 24 | 24 Décembre 1891 | 122 |         |
-| 6             | 24 | Pieterboons | Jean Jn | Ath | 24 Décembre 1891 | Meubles et Immeubles | 500 | 24 | 24 Décembre 1891 | 122 | 24 | 24 Décembre 1891 | 122 |         |
-| 6             | 25 | Desaege | Henri | Ath | 25 Décembre 1891 | Meubles et Immeubles | 2001 | 25 | 25 Décembre 1891 | 123 | 25 | 25 Décembre 1891 | 123 |         |
-| 6             | 25 | Hantier |        |          |                 |                    |        |      |     |      |     |         |
-| 6             | 25 | Melaire |        |          |                 |                    |        |      |     |      |     |         |
-| 6             | 25 | Pieret |        |          |                 |                    |        |      |     |      |     |         |
-| 6             | 26 | Fontignies |        |          |                 |                    |        |      |     |      |     |         |
-| 6             | 27 | Moens | Joseph | Ath | 27 Décembre 1891 | Meubles et Immeubles | 575 | 27 | 27 Décembre 1891 | 124 | 27 | 27 Décembre 1891 | 124 |         |
-| 6             | 28 | Semal |        |          |                 |                    |        |      |     |      |     |         |
+| DATE DE DÉCÈS | NOM | PRÉNOMS | DOMICILE | DATE DE SUCCESSION | DROIT FIXE | ENREGISTREMENT | DATE | REÇU | OBSERVATIONS |
+|---------------|-----|---------|----------|-------------------|------------|----------------|------|-------|--------------|
+| 1891          |      |         |          |                   |            |                |      |       |              |
+| 19 Décembre   | Slemons | Charles | Athus | 1892 | 199 | 19 | 1892 | 121 | 19 Janvier 1892 |
+| 23 "          | Druy | Jean | Athus | 1892 | 199 | 19 | 1892 | 121 | 19 Janvier 1892 |
+| 1er           | Fievet-Jans | Jean Jos. | Athus | 1892 | 199 | 19 | 1892 | 121 | 19 Janvier 1892 |
+| 22 "          | Fievet-Jans | Jean Jos. | Athus | 1892 | 199 | 19 | 1892 | 121 | 19 Janvier 1892 |
+| 23 "          | Desaege | Henri | Athus | 1892 | 199 | 19 | 1892 | 121 | 19 Janvier 1892 |
+| 24 "          | Hantzia | Jean | Athus | 1892 | 199 | 19 | 1892 | 121 | 19 Janvier 1892 |
+| 25 "          | Delaitre | Jean | Athus | 1892 | 199 | 19 | 1892 | 121 | 19 Janvier 1892 |
+| 25 "          | Pieret | Jules | Athus | 1892 | 199 | 19 | 1892 | 121 | 19 Janvier 1892 |
+| 26 "          | Fontignies | Jean | Athus | 1892 | 199 | 19 | 1892 | 121 | 19 Janvier 1892 |
+| 27 "          | Moens | Joseph | Athus | 1892 | 199 | 19 | 1892 | 121 | 19 Janvier 1892 |
+| 28 "          | Semal | Henri | Athus | 1892 | 199 | 19 | 1892 | 121 | 19 Janvier 1892 |

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/6e8d3225d27f4a0283f4435e74524aa0/artifacts
+end_time: 1724339743390
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 6e8d3225d27f4a0283f4435e74524aa0
+run_name: handsome-panda-198
+run_uuid: 6e8d3225d27f4a0283f4435e74524aa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724339731255
+status: 3
+tags: []
+user_id: julien

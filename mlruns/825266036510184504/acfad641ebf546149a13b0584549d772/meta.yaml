@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/acfad641ebf546149a13b0584549d772/artifacts
+end_time: 1724339135989
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: acfad641ebf546149a13b0584549d772
+run_name: efficient-panda-49
+run_uuid: acfad641ebf546149a13b0584549d772
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724339112499
+status: 3
+tags: []
+user_id: julien

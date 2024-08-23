@@ -1,0 +1,62 @@
+Certainly! Here is the recreated table based on the provided image:
+
+```plaintext
+[("N' d'ordre", " "),
+("Date du dépot des déclarations", " "),
+("Désignation des personnes décédées ou absentes.:", "Nom."),
+("Désignation des personnes décédées ou absentes.:", "Prénoms"),
+("Désignation des personnes décédées ou absentes.:", "Domiciles"), 
+("Date du décès ou du judgement d'envoi en possession, en cas d'absence.", " "),
+("Noms, Prénoms et demeures des parties déclarantes.", " "),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Actif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Passif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Restant NET. (2)"),
+("Droit de mutation par déces", "Valeur des immeubles. (2)"), 
+("Numéros des déclarations", "Primitives."),
+("Numéros des déclarations", "Supplémentaires."), 
+("Date", "de l'expiration du délai de rectification."),
+("Date", "de l'exigibilité des droits."),
+("Numéros de la consignation des droits au sommier n' 28", " "),
+("Recette des droits et amendes.", "Date"),
+("Recette des droits et amendes.", "N^03"),
+("Cautionnements. ", "Numéros de la consignation au sommier n'30"),
+("Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)", " ")] 
+
+1. 
+("1", "4 Janv 1899", "Duvillers", "Josephine", "Fosses", "3 Janv 1899", "Duvillers Josephine, Fosses", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ")
+
+2. 
+("2", "4 Janv 1899", "Clabecq", "Emmanuel", "Nivelles", "3 Janv 1899", "Clabecq Emmanuel, Nivelles", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ")
+
+3. 
+("3", "4 Janv 1899", "Arrêté le vingt décembre 1898 servais", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ")
+
+4. 
+("4", "4 Janv 1899", "Arrêté le vingt décembre 1898 servais", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ")
+
+5. 
+("5", "4 Janv 1899", "Gilbert", "Etienne", "Braine-l'Alleud", "3 Janv 1899", "Gilbert Etienne, Braine-l'Alleud", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ")
+
+6. 
+("6", "4 Janv 1899", "Jacquemin", "Marie", "Nivelles", "3 Janv 1899", "Jacquemin Marie, Nivelles", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ")
+
+7. 
+("7", "4 Janv 1899", "Etienne", "Marie", "Braine-l'Alleud", "3 Janv 1899", "Etienne Marie, Braine-l'Alleud", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ")
+
+8. 
+("8", "4 Janv 1899", "Moulin", "Jean", "Nivelles", "3 Janv 1899", "Moulin Jean, Nivelles", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ")
+
+9. 
+("9", "4 Janv 1899", "Arrêté le vingt décembre 1898 servais", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ")
+
+10. 
+("10", "4 Janv 1899", "Arrêté le vingt décembre 1898 servais", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ")
+
+11. 
+("11", "4 Janv 1899", "Cameron", "Edouard", "Nivelles", "3 Janv 1899", "Cameron Edouard, Nivelles", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ")
+
+12. 
+("12", "4 Janv 1899", "Ambroise", "Marie", "Nivelles", "3 Janv 1899", "Ambroise Marie, Nivelles", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ")
+```
+
+Note: The table is recreated based on the visible information in the image. Some cells are left blank as the image does not provide enough detail to fill them in.

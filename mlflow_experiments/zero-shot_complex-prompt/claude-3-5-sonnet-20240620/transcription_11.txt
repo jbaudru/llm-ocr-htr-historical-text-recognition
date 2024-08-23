@@ -1,0 +1,21 @@
+Here's my attempt to recreate the table based on the information visible in the image:
+
+```plaintext
+N' d'ordre | Date du dépot des déclarations | Nom | Prénoms | Domiciles | Date du décès ou du jugement d'envoi en possession, en cas d'absence | Noms, Prénoms et demeures des parties déclarantes | Actif (2) | Passif (2) | Restant NET (2) | Valeur des immeubles (2) | Primitives | Supplémentaires | de l'expiration du délai de rectification | de l'exigibilité des droits | Numéros de la consignation des droits au sommier n' 28 | Date | N^03 | Numéros de la consignation au sommier n'30 | Observations
+-----------|--------------------------------|-----|---------|-----------|-------------------------------------------------------------------|---------------------------------------------------|-----------|------------|-----------------|---------------------------|------------|-----------------|-------------------------------------------|----------------------------|-----------------------------------------------------|------|-----|-------------------------------------------|-------------
+           | Arrêté le trois décembre 1919 servais
+           | Arrêté le six décembre 1919 servais
+6945 n° 26 | Devrez | Jeanne | célibat. | 9 8/19 | Sammy Bruxelles | 941 | | 941 | 941 | | | | | | | | | |
+           | Arrêté le neuf décembre 1919 servais
+6945 n° 26 | Delise | Fidèle | épouse | 1 8/19 | Delfosse veuve | 2974 | | 2974 | | | | | | | | | | |
+           | Arrêté le douze décembre 1919 servais
+           | Arrêté le treize décembre 1919 servais
+           | Arrêté le quatorze décembre 1919 servais
+           | Arrêté le quinze décembre 1919 servais
+           | Arrêté le seize décembre 1919 servais
+6945 n° 26 | Boidenghien | Marie | épouse | 15 8/19 | Andries Désiré, à Rebecq | 42595 | | 42595 | 42595 | | | | | | | | | |
+           | Arrêté le dix huit décembre 1919 servais
+           | Arrêté le dix neuf décembre 1919 servais
+```
+
+Note that I've filled in the information that is clearly visible in the image. Many cells are left blank as the information is not provided or not visible in the given image. The "Arrêté le..." entries are service dates as explained in the context. The N' d'ordre seems to be consistent (6945 n° 26) for the visible entries. I've transcribed the names, dates, and numerical values as accurately as possible based on the handwriting in the image.

@@ -1,8 +1,9 @@
-| DATE DE DEPOT | DESIGNATION DES FERMAGES ENREGISTRES AUX AMORTISSEMENTS | DROITS DE SUCCESSION | DROIT D'ENREGISTREMENT | DROIT DE TIMBRE | INSCRIPTION | DATE | RECETTE | OBSERVATIONS |
-|---------------|------------------------------------------------------|---------------------|----------------------|----------------|-------------|------|---------|--------------|
-| 6 Janvier | Séverin Jules | | | | | | | |
-| 6 Janvier | Dumont Louis | | | | | | | |
-| 6 Janvier | Hoblin Edgard | | | | | | | |
-| 6 Janvier | Séverin Jules | | | | | | | |
-| 6 Janvier | Wanderspergen Henri | | | | | | | |
-| 6 Janvier | Ecolas Jules Joseph | | | | | | | |
+| DATE DE DEPOT | DESIGNATION DES FERMAGES ENREGISTRES AUX AMORTISSEMENTS | DROITS DE SUCCESSION | DROITS D'ENREGISTREMENT | INSCRIPTION | DATE | RECETTE | OBSERVATIONS |
+|---------------|------------------------------------------------------|--------------------|----------------------|-------------|------|---------|----------------|
+|               | BAIL | FERMIER | BAILLEUR | NATURE | LIEU | DATE | DUREE | DATE | NATURE | DATE |               |
+| 6 Janvier | Séverin | Jules | Amodit de fermes janvier 1922 | Censier | Boulain | 1922 | 9 ans | 1922 | 1922 |               |
+| 6 Janvier | Dumont | Louis | Amodit de bois janvier 1922 | Fermier | public | 1922 | 9 ans | 1922 | 1922 |               |
+| 6 Janvier | Roblin | Edgard | Amodit de fermes janvier 1922 | Fermier | public | 1922 | 9 ans | 1922 | 1922 |               |
+| 6 Janvier | Séverin | Jules | Amodit de fermes janvier 1922 | Fermier | public | 1922 | 9 ans | 1922 | 1922 |               |
+| 6 Janvier | Wandragon | Louis | Amodit de bois janvier 1922 | Fermier | public | 1922 | 9 ans | 1922 | 1922 |               |
+| 6 Janvier | Ecolas | Jules | Amodit de bois janvier 1922 | Fermier | public | 1922 | 9 ans | 1922 | 1922 |               |

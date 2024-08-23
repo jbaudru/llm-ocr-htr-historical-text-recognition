@@ -1,18 +1,20 @@
-Here is a recreation of the content of the table in the image:
+Here's a recreation of the table based on the information in the image:
 
-| N° D'ORDRE | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DROITS DE SUCCESSION | DROITS | RECETTE | OBSERVATIONS |
-|-----------|------------------------------------------------|----------------------|--------|---------|---------------|
-| | NOM | PRÉNOMS | DOMICILE | DATE DU DÉCÈS OU DE LA DISPARITION | DEGRÉ DE PARENTÉ AVEC LE DÉFUNT | ACTIF | PASSIF | ACTIF NET | TAUX % | LIQUIDATION | DATE | N° DU REGISTRE | SOMME | DATE |  |
-| 150 | Lambert | Sébastien | Rieulles | 16 mars 1921 | Frère Célibataire et rentier | 41912 | 1629 | 40283 | | | 18 mars 1922 | | | | |
-| 151 | Sereau | Joséphine | Clastres | 9 mars 1921 | Epouse Sereau et rentière | 4385 | | 4385 | | | 17 mars 1922 | | | | |
-| 152 | Dampée | Sidonie | " | 27 Mars 1921 | " | 4706 | 590 | 4116 | | | non produite | | | | |
-| 153 | Delahij | Jean Baptiste Joseph | Caudeval St Ferreol | 5 Janvier 1921 | Epoux avec Contrat Remariage | 2236 | 562 | 1674 | | | non produite | | | | |
-| | | | | Décédé le vingt septembre 1920 à Caudeval | | | | | | | | | | | |
-| 153* | Cloutier | Sébastien | Rieulles | 8 mars 1921 | Veuf Jubilé et Cier | 565 | | | | | 18/3 1922 | | | | |
-| | | | | Décédé le vingt quatre Janvier 1921 à Rieulles | | | | | | | | | | | |
-| | | | | Décédé le vingt sept Janvier 1921 à Villefranche Lauragais | | | | | | | | | | | |
-| 154 | Faumont | Georges | Rieulles | 28 Février 1921 | Veuf Barroumères Juliette | 10902 | 1559 | 9343 | | 115.75 | 17 mars 1922 | | | | |
-| 155 | Morreux | Jean Dit François le Cabanon | 17 mars 1921 | Epouse Morreux et rentière | 2165 | | 2165 | | | non produite | | | | |
-| 156 | Scolari | Jean Joseph | Rieulles St Félix | 6 Mars 1921 | Veuve Jubilé fils et rentier | 2499 | | 2499 | | | id. | | | | |
-| | | | | Décédé le vingt sept Juin 1920 à Rieulles | | | | | | | | | | | |
-| 157 | Delpeque | Marie Jeanne Veuve Marty | 27 Février 1921 | Epouse Delpeque | 19655 | 2320 | 17335 | | | 8 Mars 1922 | | | | |
+```plaintext
+N' d'ordre | Date du dÃ©pot des dÃ©clarations | Nom | PrÃ©noms | Domiciles | Date du dÃ©cÃ¨s ou du judgement d'envoi en possession, en cas d'absence | Noms, PrÃ©noms et demeures des parties dÃ©clarantes | Actif (2) | Passif (2) | Restant NET (2) | Valeur des immeubles (2) | Primitives | SupplÃ©mentaires | de l'expiration du dÃ©lai de rectification | de l'exigibilitÃ© des droits | NumÃ©ros de la consignation des droits au sommier n' 28 | Date | N^03 | NumÃ©ros de la consignation au sommier n'30 | Observations
+150 | | Lambert | Victorine | Roclenge | 16 mars 1921 | Gilis Victorine Ã  Roclenge | 4892 | 1229 | 3663 | | | | | | | 18 mai 1921 | | |
+151 | | Leveau | Josephine | Glabbeek | 9 mars 1921 | Peeters Prosper et consorts | 8985 | | 8985 | | | | | | | 17 juin 1921 | | |
+152 | | VanpÃ©e | Sidonie | " | 27 Mars 1921 | " | 4906 | 598 | 4308 | | | | | | | non fixable | | |
+153 | | Delahij | Jean Joseph | Hougaerde St. Gorgon | 7 mars 1921 | Delahij Jean et consorts | 2236 | 502 | 1734 | | | | | | | non fixable | | |
+| | ArrÃªtÃ© le vingt-quatre juin 1921 Servais | | | | | | | | | | | | | | | | | |
+153* | | Cloutier | Victorine | Roclenge | 8 mars 1921 | Thans Jules Ã  Roux | 565 | | 565 | | | | | | | 24 juin 1921 | | |
+| | ArrÃªtÃ© le vingt-quatre juin 1921 Servais | | | | | | | | | | | | | | | | | |
+| | ArrÃªtÃ© le vingt-cinq juin 1921 Dimanche Servais | | | | | | | | | | | | | | | | | |
+154 | | Froment | Georges | Roclenge | 28 Mars 1921 | Boux Germain Juliette | 10962 | 1329 | 9633 | | | | | | 115/5 | 9 janvier 1922 | | |
+155 | | Moreaux | Jean | Dongelberg | 17 janvier 1921 | Moreaux ThÃ©ophile et consorts | 2163 | | 2163 | | | | | | | non fixable | | |
+156 | | Scolart | Jean Joseph | Glabbeek St. Pierre | 6 Mars 1921 | Scolart Jules fils et consorts | 2499 | | 2499 | | | | | | | id. | | |
+| | ArrÃªtÃ© le vingt-cinq juin 1921 Servais | | | | | | | | | | | | | | | | | |
+157 | | Delfosse | Marie ThÃ©rÃ¨se | Jodoigne | 27 avril 1921 | Delfosse Delphine | 19635 | 4220 | 15395 | | | | | | | 8 AoÃ»t 1921 | | |
+```
+
+Note: Some cells are left blank where the information is not clearly visible or not provided in the image. The table follows the structure and order of entries as shown in the record book.

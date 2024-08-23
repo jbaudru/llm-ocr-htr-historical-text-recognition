@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/ca8105ed72304cd0bd234261d571febe/artifacts
+end_time: 1724339254492
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: ca8105ed72304cd0bd234261d571febe
+run_name: debonair-snake-311
+run_uuid: ca8105ed72304cd0bd234261d571febe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724339252483
+status: 3
+tags: []
+user_id: julien

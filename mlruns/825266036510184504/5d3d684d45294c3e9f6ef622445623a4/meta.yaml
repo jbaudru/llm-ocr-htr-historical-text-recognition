@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/5d3d684d45294c3e9f6ef622445623a4/artifacts
+end_time: 1724337442235
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 5d3d684d45294c3e9f6ef622445623a4
+run_name: magnificent-toad-343
+run_uuid: 5d3d684d45294c3e9f6ef622445623a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724337424687
+status: 3
+tags: []
+user_id: julien

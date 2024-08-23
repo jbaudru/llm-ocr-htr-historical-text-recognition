@@ -3,13 +3,15 @@ Here's a recreation of the table content from the image:
 N° D'ORDRE | NOMS, PRÉNOMS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | SOMME PRÉLEVÉE | DROITS DE SUCCESSION | DROITS | AMENDES | DATE | BUREAU | RECETTE | OBSERVATIONS
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 419 | Siemans Charles Otto | 21 mars 1913 Bruxelles (Belgique) | 1881 | 519 | 1905 | | 30 Avril 1913 29 Juillet 1913 | | |
-420 | Buissy | Alexandrine Femme de Vanwyck Henry Marie s.enfants | 100 | | 100 | | | | Août 1913 5 Janvier 1914 |
-421 | Robertsons | James William Célibataire 17 Janvier Cause inconnue s.enfants | | | | | Juillet 1913 (Juillet 1913) | | |
-422 | Robertsons | James Geo | " | " | 116 | 265 | 661 | | 31 Mai 28 Juillet 1914 | sans formalité
-423 | Désrégea | Samuel Charles Richard | 28 mai 1913 Pétersbourg (Russie) | 2895 | | 2895 | | 26 3° 26 3° | | 17 Juillet 1913
-424 | Haultia | Léonard Bruxelles 23 Juillet 1913 Veuve s.enfants s.ascend. | 10.111 | | 11111 | | 31 Juillet 17 Septembre 22 Décem 1913 | | 16 octobre 1913
-425 | Delattre | Arthur Guillaume François 28 mai 1913 Bruxelles (Belge) 78 a célibat. | 5700 | | 5700 | | " 3° 22 Juillet | | sans formalité
-425 bis | Piercot | Julien | célibataire 17 Janvier Liège (Belgique) s.enfants | | | | | Octobre 1913 (Juillet 1913) | | |
-426 | Soulignis | de | Anatole 23 Juillet 1913 Montdidier (Somme) Fra | 2261 | | 2261 | | " 3° 22 Juillet 1914 | | 28 octobre 1913
-427 | Moens | Joseph | Eveline 17 Juillet 1913 Liège (Belge) s.enfants | 1634 | | 5734 | | " 3° 22 Juillet 1913 | | sans formalité
-428 | Semal | Thomas | Bruxelles 17 Juillet 1913 Veuve s.enfants s.ascend. | 6000 | | 6000 | | 31/12 3° 16 Juillet 1914 | | 12 octobre 1913
+420 | Buissy | Alexandrine Femme de Vanwyck Henry Marie s.p. enfants | 100 | | 100 | | | | Août 1913 5 Janvier 1914 |
+421 | Robertsons | James William célibataire 17 janvier | | | | | | | |
+422 | Robertsons | James Geo. " " | 946 | 263 | 683 | | 31 Mai 28 Juillet 1914 | | sans pénalité |
+423 | Désrégea | Samuel Charles Richard 42 ans 1/2 célibataire décédé | 2895 | | 2895 | | 26 " 26 " | | 17 mars 1915 |
+| | Samedi 26 Juin mille neuf cent quinze (Samedi) | | | | | | | |
+424 | Haultia | Léonard Bruxelles 27 juillet 1914 Veuve 3 enfants s.p. enfants | 10.111 | | 10111 | | 30 Septembre 23 Mars 1915 | | 16 octobre 1915 |
+425 | Delattre | Céline Catherine Joséphine 62 ans 1/2 Bruxelles Veuve 3 fils sp enfants | 5700 | | 5700 | | " " 22 mars 1915 | | sans pénalité |
+| | Samedi dix vingt novembre 1915 (Samedi) | | | | | | | |
+425 | Piercot | Julien célibataire 17 janvier 1915 | | | | | | | |
+426 | Soulignis | de Antony 29 janvier 1915 Bruxelles 3 enfants 3 | 2261 | | 2261 | | " " 22 avril 1915 | | 26 octobre 1915 |
+427 | Moens | Joseph Evelyn 17 juillet 1914 Veuve 2 fils sp enfants | 6534 | | 5734 | | " " 22 mars 1915 | | sans pénalité |
+428 | Semal | Thomas Bruxelles 17 juillet 1914 Veuve 2 fils sp enfants | 6000 | | 6000 | | 30 " 16 avril 1915 | | 14 octobre 1915

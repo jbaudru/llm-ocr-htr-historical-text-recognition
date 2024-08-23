@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/cc1f0339ec4b4204a85cf5facb9d3118/artifacts
+end_time: 1724339003730
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: cc1f0339ec4b4204a85cf5facb9d3118
+run_name: bright-flea-596
+run_uuid: cc1f0339ec4b4204a85cf5facb9d3118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724338992249
+status: 3
+tags: []
+user_id: julien

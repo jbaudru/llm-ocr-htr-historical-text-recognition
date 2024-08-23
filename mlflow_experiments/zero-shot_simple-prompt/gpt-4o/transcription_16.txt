@@ -1,72 +1,62 @@
-| DATE DE DECES | NOM | PRENOM | DOMICILE | DATE | NATURE DE L'ACTE | NOMS, PRENOMS DES SUCCESSIBLES | DEGREE DE PARENTE | DATE | RECEPTION | DATE | OBSERVATIONS |
-|---------------|-----|--------|----------|------|------------------|-----------------------------|------------------|------|-----------|------|--------------|
-| 8 septembre 1930 | Seelercq | Etienne | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres |  |  |  |  |  |
-| 9 | Geerlig | Catherine | Braine |
+| DATE DE DECES | NOM | PRENOM | DOMICILE | DATE DE L'ACTE | NATURE DE L'ACTE | NOMS, PRENOMS DES SUCCESSIBLES | DROIT FIXE | DROIT VARIABLE | DATE | RECETTE | DATE | OBSERVATIONS |
+|---------------|-----|--------|----------|----------------|-----------------|-----------------------------|------------|---------------|------|---------|------|--------------|
+| 8 septembre 1930 | Seelercq | Etienne | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Lelong Victor et autres | 50 | 396 | 17 sept. 1930 | | | |
+| 9 | Geerling | Catherine | Braine

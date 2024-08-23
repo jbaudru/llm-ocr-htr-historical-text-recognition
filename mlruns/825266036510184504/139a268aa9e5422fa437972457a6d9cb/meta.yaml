@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/139a268aa9e5422fa437972457a6d9cb/artifacts
+end_time: 1724338371672
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 139a268aa9e5422fa437972457a6d9cb
+run_name: shivering-swan-432
+run_uuid: 139a268aa9e5422fa437972457a6d9cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724338352906
+status: 3
+tags: []
+user_id: julien

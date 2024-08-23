@@ -1,17 +1,18 @@
-Here is a recreation of the content of the table in the image:
+Here's a recreation of the table based on the information in the image:
 
-| N∞ D'ORDRE | NOMS | PR…NOMS | D…SIGNATION DES PERSONNES D…C…D…ES OU ABSENTES | NOMS, PR…NOMS | DROITS ET R…CLAMATIONS | DROIT | R…CLAMATIONS | DATE | OBSERVATIONS |
-|-----------|------|---------|------------------------------------------------|---------------|------------------------|-------|--------------|------|---------------|
-| 6911 | Toutelet | Pierre | CÈlibataire | Epoux Roux | 3797 | 3797 | 20 Ao˚t/22 juillet 1922 | non fondÈe |
-| 6912 | Chabreau | Marie | Veuve | Isabelle, cÈlibataire et autres | 11742 | 11742 | 20 3∞ 6 octobre | 17 Ao˚t 1922 3∞ 22 Ao˚t 1922 |
-| 6923 | Reynens | Louis | CÈlibat. | GaltiÈ AndrÈ | 1016 | 1016 | 522 | 15 mars 1923 |
-|  |  |  | ArrÍtÈ du 6 Ao˚t nouveau franc 1923 (annexe) |  |  |  |  |  |
-|  |  |  | ArrÍtÈ du 10 mai nouveau franc 1923 (Domaine de l'Etat) |  |  |  |  |  |
-| 413 20 Ao˚t | Marbeau | Constance | CÈlibat. | Bourguignon Auguste | 18879 | 18879 | 22 Ao˚t/17 mars 1922 |  |
-| 6914 | Caminiau | Adrien | Epoux de Galtier | Delphine Veuve et autres | 5799 | 5799 | 22/23 3∞ 2 octobre | 3 mars 1923 3∞ 22 Ao˚t 1922 |
-| 6915 | Dubin | Dominique | CÈlibat. | Delmas Jacques et autres | 950 | 950 | 480 | 22 3∞ 6 octobre | non fondÈe |
-|  |  |  | ArrÍtÈ du 26 novembre 1923 (annexe) |  |  |  |  |  |
-| 6916 moy. 2/3 | Heuvels | Emmanuel | Marielle | Delphine Veuve | 3760 | 3760 | 2393 | 22 Ao˚t/22 octobre 1922 | 3 mars 1923 |
-| 6917 | Bastigant | Marie |  | Despagnet Auguste | 1006 | 1006 | 23 3∞ 715 3∞ | 3 mars 1923 |
-| 6918 | Campanare | Elie | Epoux Cathy | GaltiÈ Auguste | 22272 | 22272 | 222 | 3/4 |  |
-|  |  |  | ArrÍtÈ du 10 mai nouveau franc 1923 (annexe) |  |  |  |  |  |
+```plaintext
+N' d'ordre | Date du d√©pot des d√©clarations | Nom | Pr√©noms | Domiciles | Date du d√©c√®s ou du judgement d'envoi en possession, en cas d'absence | Noms, Pr√©noms et demeures des parties d√©clarantes | Actif (2) | Passif (2) | Restant NET (2) | Valeur des immeubles (2) | Primitives | Suppl√©mentaires | de l'expiration du d√©lai de rectification | de l'exigibilit√© des droits | Num√©ros de la consignation des droits au sommier n' 28 | Date | N^03 | Num√©ros de la consignation au sommier n'30 | Observations
+6411 | 20 ao√ªt 1909 | Toutelet | Pierre | Schaerbeek | 20 ao√ªt 1909 | Epouse Kenis | 7097 | - | 7097 | - | 20 ao√ªt 1909 | 20 ao√ªt 1909 | - | - | - | - | - | - | non fournie
+6412 | " | Chateau | Marie | Bruxelles | 18 ao√ªt 1909 | Isabelle, c√©libataire et autres | 11742 | - | 11742 | - | 20 " | 6 octobre 1909 | 17 mars 1910 | 20 " | 232 | - | - | - | -
+6413 | " | Reymens | Louis | Ixelles | 4 ao√ªt 1909 | Veuve Coch√© | 1916 | - | 1916 | 500 | - | - | 20 mars 1910 | 20 " | 233 | - | - | - | -
+- | Arr√™t√© le 21 ao√ªt mille neuf cent neuf (samedi) | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- | Arr√™t√© le 23 ao√ªt mille neuf cent neuf (dimanche ferm√©) | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+6413 bis | 23 ao√ªt 1909 | Mathieu | Constance | Ixelles | 11 mars 1909 | Pensionnaire Hospice | 4879 | - | 4879 | - | 23 ao√ªt 1909 | 11 mars 1910 | - | - | - | - | - | - | -
+6414 | " | Caminiau | Adolphe | Bruxelles | 6 juillet 1909 | Orphelins R√©unis et autres | 5799 | - | 5799 | - | 23 " | 2 mars 1910 | 23 mars " | 23 ao√ªt 1909 | 234 | - | - | - | -
+6415 | " | Dubru | Jos√©phine | Ixelles | 9 juin 1909 | H√©ritiers l√©gaux et autres | 950 | 85 | 865 | - | 23 " | 6 octobre " | - | - | - | - | - | - | non fournie
+- | Arr√™t√© le 24 novembre 1909 (mardi) | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+6416 moy. 2/3 | Heuvels | Emmanuel | Bruxelles | 22 mars 1909 | H√©ritiers l√©gaux | 9761 | 550 | 9211 | - | 23 ao√ªt 1909 | 22 mars 1910 | 23 mars 1910 | 23 " | 235 | - | - | - | -
+6417 | " | Bastigant | Marie | - | 15 " | Ascendants l√©gaux | 1000 | - | 1000 | - | 23 " | 15 " | - | - | - | - | - | - | -
+6418 | " | Campanaire | Eloi | Bruxelles | 18 juin 1909 | Veuve l√©gataire | 23395 | 23395 | - | 225 | - | - | - | - | - | - | - | - | -
+- | Arr√™t√© le vingt quatre novembre 1909 (mardi) | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+```

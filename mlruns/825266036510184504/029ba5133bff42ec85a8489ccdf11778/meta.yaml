@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/029ba5133bff42ec85a8489ccdf11778/artifacts
+end_time: 1724339338233
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 029ba5133bff42ec85a8489ccdf11778
+run_name: languid-carp-468
+run_uuid: 029ba5133bff42ec85a8489ccdf11778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724339320206
+status: 3
+tags: []
+user_id: julien

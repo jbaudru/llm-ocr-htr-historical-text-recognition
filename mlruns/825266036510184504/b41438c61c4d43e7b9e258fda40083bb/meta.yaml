@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/b41438c61c4d43e7b9e258fda40083bb/artifacts
+end_time: 1724337899669
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: b41438c61c4d43e7b9e258fda40083bb
+run_name: dapper-shark-332
+run_uuid: b41438c61c4d43e7b9e258fda40083bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724337881707
+status: 3
+tags: []
+user_id: julien

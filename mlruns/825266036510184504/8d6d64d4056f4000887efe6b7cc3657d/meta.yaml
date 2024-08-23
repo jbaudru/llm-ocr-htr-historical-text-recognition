@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/8d6d64d4056f4000887efe6b7cc3657d/artifacts
+end_time: 1724339801221
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 8d6d64d4056f4000887efe6b7cc3657d
+run_name: bouncy-hound-655
+run_uuid: 8d6d64d4056f4000887efe6b7cc3657d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724339777224
+status: 3
+tags: []
+user_id: julien

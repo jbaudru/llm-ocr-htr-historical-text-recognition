@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/425b06daa4564b0dba913082e6e3111b/artifacts
+end_time: 1724338553536
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 425b06daa4564b0dba913082e6e3111b
+run_name: serious-hog-390
+run_uuid: 425b06daa4564b0dba913082e6e3111b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724338534714
+status: 3
+tags: []
+user_id: julien

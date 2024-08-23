@@ -1,8 +1,8 @@
-| DATE DE L'ACTE | NUMÉRO DE L'ACTE | INDICATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DE DÉCÈS | NOM, PRÉNOMS | PROFESSION | DOMICILE | DATE DE L'OUVERTURE DE LA SUCCESSION | DROIT D'ENREGISTREMENT | DATE | RECETTE | OBSERVATIONS |
-|----------------|------------------|--------------------------------------|-------------|-------------|-------------|---------|--------------------------------|----------------------|------|---------|--------------|
-| 6 | 443 bis 9bre | Cloquet | Cultivateur | Moulins | 29 août 1899 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 |
-| 6 | 419 7bre | Vincent | Cultivateur | Moulins | 22 août 1899 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 |
-| 6 | 420 7bre | Boisdenghien | Cultivateur | Moulins | 22 août 1899 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 |
-| 6 | 420 bis 7bre | Lambotte | Cultivateur | Moulins | 22 août 1899 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 |
-| 6 | 420 ter 7bre | Rousseau | Cultivateur | Moulins | 22 août 1899 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 |
-| 6 | 420 quater 7bre | Lejeune | Cultivateur | Moulins | 22 août 1899 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 | 6 avril 1900 |
+| DATE DE L'ACTE | NUMÉRO DE L'ACTE | INDICATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DE DÉCÈS | NOM, PRÉNOMS | PROFESSION | DOMICILE | DATE DE L'ACTE | DROIT D'ENREGISTREMENT | DATE | RECETTE DES FINANCES | OBSERVATIONS |
+|----------------|------------------|--------------------------------------|-------------|-------------|-------------|-------------|-------------|----------------------|------|----------------|--------------|
+| 6 | 443 bis 4e vol | Cloquet | Cultivateur | Moulins | 27 mai | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 |
+| 6 | 419 3e | Vincent | Cultivateur | Moulins | 27 mai | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 |
+| 6 | 420 3e | Boisdenghien | Cultivateur | Moulins | 27 mai | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 |
+| 6 | 420 bis 3e | Lambotte | Cultivateur | Moulins | 27 mai | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 |
+| 6 | 420 ter 3e | Rousseau | Cultivateur | Moulins | 27 mai | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 |
+| 6 | 420 quater 3e | Lejeune | Cultivateur | Moulins | 27 mai | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 |

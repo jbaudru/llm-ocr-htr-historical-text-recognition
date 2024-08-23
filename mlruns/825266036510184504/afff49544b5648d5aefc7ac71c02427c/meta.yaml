@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/afff49544b5648d5aefc7ac71c02427c/artifacts
+end_time: 1724339176952
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: afff49544b5648d5aefc7ac71c02427c
+run_name: vaunted-ray-353
+run_uuid: afff49544b5648d5aefc7ac71c02427c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724339158750
+status: 3
+tags: []
+user_id: julien

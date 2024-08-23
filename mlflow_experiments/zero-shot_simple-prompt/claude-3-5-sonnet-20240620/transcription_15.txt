@@ -1,22 +1,17 @@
 Here's a recreation of the content of the table in the image:
 
-No. | DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | JOURS ET HEURES DES CONVOIS | NOMS, PRÉNOMS ET DEMEURES DES DÉCLARANTS | DROITS DE L'HOSPICE | DROITS | MONTANT | DATE | NUMÉRO | RECETTES | OBSERVATIONS
----|---------------|--------------------------------------------------|----------------------------|-------------------------------------------|---------------------|--------|---------|------|--------|----------|-------------
-   |               | NOM,          | PRÉNOMS,      | DOMICILE,        |                            |                     | FIXE  | PROPOR- | des  | des    | FIXE    |
-   |               |               |               |                  |                            |                     |       | TIONNEL | QUIT- | QUIT-  |         |
-   |               |               |               |                  |                            |                     |       |         | TANCES| TANCES |         |
-4  | 3 mars 1920   | Lefebvre      | Gustave Euloge| 10 r. Neuve      | Décédé - Orphelinat Prévost| 6f75               | 6f75  |         | 3/3   |        | 6f75     | 3/3 1920 6.75
-   |               |               |               |                  |                            |                     |       |         | 1920  |        |          | 3/3 1920 6.75
-   |               | Sorti le 4 mai/janvier 1920 Evadé                |                            |                     |       |         |       |        |          |
-   |               | Sorti le 11 mai/janvier 1920 Evadé               |                            |                     |       |         |       |        |          |
-   |               | Sorti le 18 mai/janvier 1920 Evadé               |                            |                     |       |         |       |        |          |
-   |               | Sorti le 25 mai/janvier 1920 Réintégré Evadé     |                            |                     |       |         |       |        |          |
-5  | 5 mai/janvier | Deuet         | Henri         | Orphelinat J. May| Orphelinat Jules May       | 4.50               | 4.50  |         | 5/5   |        | 4.50     | 5/5 1920 4.50
-   |               | Sorti le 5 mai/janvier 1920 Evadé                |                            |                     |       |         | 1920  |        |          |
-6  | 6 mai/janvier | Larivée       | Henri St Maur  | Orphelinat      | Orphelinat Jules May       | 3f91               | 3f91  |         | 20 Je |        | 3f91     | non payable
-   |               | Sorti le 6 mai/janvier 1920 Evadé                |                            |                     |       |         | 1920  |        |          |
-   |               | Sorti le 13 mai/janvier 1920 Evadé               |                            |                     |       |         |       |        |          |
-   |               | Sorti le 20 mai/janvier 1920 Evadé               |                            |                     |       |         |       |        |          |
-   |               | Sorti le 27 mai/janvier 1920 Evadé               |                            |                     |       |         |       |        |          |
-6  | 7 mai/janvier | Michiels      | Julien        | Orphelinat       | Orphelinat Jules May       | 14f25              | 14f25 |         | 7/5   |        | 14f25    | 7 mai 1920
-   |               |               |               |                  |                            |                     |       |         | 1920  |        |          | 14.25 grs
+No. | DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | JOURS ET HEURES | NOMS, PRÉNOMS | DROITS DE SUCCESSION | DROITS | AMENDES | DATE | BUREAU | RECETTES | OBSERVATIONS
+---|---------------|--------------------------------------------------|----------------|---------------|---------------------|--------|---------|------|--------|----------|-------------
+4 | 3 mars 1920 | Lefebvre Gustave Euloge | 10 h 3/4 | Notaire-Suppléant-Commis | 4795 | 4795 | | 23 mars 1920 23 mars 1920 | | |
+ | | Arrêté le huit janvier 1920 | Commis | | | | | | | |
+ | | Arrêté le neuf janvier 1920 | Commis | | | | | | | |
+ | | Arrêté le dix janvier 1920 | Commis | | | | | | | |
+ | | Arrêté le onze janvier 1920 Décembre | Commis | | | | | | | |
+5 | 5 mars 1920 | Deuet | Veuve Beaumont Le Harivel | Propriétaire-Rentière | 4200 | 4200 | | 23 et 24 mars 1920 | | non publié |
+ | | Arrêté le douze janvier 1920 | Commis | | | | | | | |
+6 | 6 mars 1920 | Larivière | Veuve Le Masson Eugène | 17 h 1/2 | Cultivatrice-Rentière | 2841 | 2841 | | 20 3re 24 mars | | non publié |
+ | | Arrêté le treize janvier 1920 | Commis | | | | | | | |
+ | | Arrêté le quatorze janvier 1920 | Commis | | | | | | | |
+ | | Arrêté le quinze janvier 1920 | Commis | | | | | | | |
+ | | Arrêté le seize janvier 1920 | Commis | | | | | | | |
+6 | 7 mars 1920 | Michiels | Veuve | Rentière | 17 h 1/2 | Propriétaire-Rentière | 14624 | 14624 | | 27 mars 29 mars 1920 | | Enregistré 575

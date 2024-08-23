@@ -9,7 +9,7 @@ import keras_ocr
 # On Asus VivoBook & Office PC
 pytesseract.pytesseract.tesseract_cmd = "C:/Program Files/Tesseract-OCR/tesseract.exe"
 # On Home PC
-#pytesseract.pytesseract.tesseract_cmd = "C:/Users/julien/AppData/Local/Programs/Tesseract-OCR/tesseract.exe"
+pytesseract.pytesseract.tesseract_cmd = "C:/Users/julien/AppData/Local/Programs/Tesseract-OCR/tesseract.exe"
 
 class OCR:
     

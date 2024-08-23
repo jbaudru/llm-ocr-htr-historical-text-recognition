@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/0d6c150dc7c742dc962db848077cdc15/artifacts
+end_time: 1724339340601
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 0d6c150dc7c742dc962db848077cdc15
+run_name: monumental-doe-381
+run_uuid: 0d6c150dc7c742dc962db848077cdc15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724339338244
+status: 3
+tags: []
+user_id: julien
