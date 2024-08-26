@@ -2,20 +2,20 @@ Here's my attempt to recreate the table based on the information visible in the 
 
 ```plaintext
 N' d'ordre | Date du dépot des déclarations | Nom. | Prénoms | Domiciles | Date du décès ou du judgement d'envoi en possession, en cas d'absence. | Noms, Prénoms et demeures des parties déclarantes. | Actif. (2) | Passif. (2) | Restant NET. (2) | Valeur des immeubles. (2) | Primitives. | Supplémentaires. | de l'expiration du délai de rectification. | de l'exigibilité des droits. | Numéros de la consignation des droits au sommier n' 28 | Date | N^03 | Numéros de la consignation au sommier n'30 | Observations
-----------|--------------------------------|------|---------|-----------|----------------------------------------------------------|--------------------------------------------------|-----------|------------|-----------------|---------------------------|-------------|------------------|-------------------------------------------|------------------------------|--------------------------------------------------|------|-----|-------------------------------------------|-------------
-434 | Arrêté le vingt quatre novembre 1919 Servais | | | | | | | | | | | | | | | | | | |
-435 | | Gossiaux | Soldat 3^e Lanciers | Beaumont 25/4/19 | Tué à l'ennemi | | 1891 | - | 1891 | | | | 9 mars et 29 juillet 1920 | 9 mars 1920 | | | | | |
- | Arrêté le vingt cinq novembre 1919 Servais | | | | | | | | | | | | | | | | | | |
- | Arrêté le vingt six novembre 1919 Servais | | | | | | | | | | | | | | | | | | |
- | Arrêté le vingt sept novembre 1919 Servais | | | | | | | | | | | | | | | | | | |
- | Arrêté le vingt huit novembre 1919 Servais | | | | | | | | | | | | | | | | | | |
- | Arrêté le vingt neuf novembre 1919 Servais | | | | | | | | | | | | | | | | | | |
- | Arrêté le trente novembre 1919 Dimanche Servais | | | | | | | | | | | | | | | | | | |
-438 | | Painblanc | Joseph | Marcinelle 4 janvier 1919 | Soldat décédé Bruges 12 octobre | | 2195 | - | 2195 | | | | | | | | | | |
-439 | | Painblanc | Anonyme | | | | 2294 | - | 2294 | | | | | | | | | | |
- | Arrêté le premier Décembre 1919 Servais | | | | | | | | | | | | | | | | | | |
-440 | | Charlier | Jean Bte | Solives 25/4/1919 | Soldat décédé Calais 1 May | | 3500 | - | 3500 | | | | | | | | | | |
- | Arrêté le deux décembre 1919 Servais | | | | | | | | | | | | | | | | | | |
+----------|--------------------------------|------|---------|-----------|----------------------------------------------------------|---------------------------------------------------|------------|-------------|------------------|---------------------------|-------------|-------------------|-------------------------------------------|------------------------------|--------------------------------------------------|------|-----|-------------------------------------------|-------------
+4434 | Arrêté le vingt quatre novembre 1919 Servais | | | | | | | | | | | | | | | | | | 
+ | | Gossiaux | Soldat 3^e Lanciers | Beaumont 25/4/14 | Tué au champ d'action | | 1891 | - | 1891 | | | | 9 mars et 29 juillet 1920 | 9 mars 1920 | | | | |
+ | Arrêté le vingt cinq novembre 1919 Servais | | | | | | | | | | | | | | | | | | 
+ | Arrêté le vingt six novembre 1919 Servais | | | | | | | | | | | | | | | | | | 
+ | Arrêté le vingt sept novembre 1919 Servais | | | | | | | | | | | | | | | | | | 
+ | Arrêté le vingt huit novembre 1919 Servais | | | | | | | | | | | | | | | | | | 
+ | Arrêté le vingt neuf novembre 1919 Servais | | | | | | | | | | | | | | | | | | 
+ | Arrêté le trente novembre 1919 Dimanche Servais | | | | | | | | | | | | | | | | | | 
+4435 | | Painblanc | Joseph | Beaumont 4 février 1919 | Beaumont Eugène 6 mois | | 2195 | 2195 | - | | | | | | | | | |
+4436 | | Painblanc | Anonyme | | | | 2294 | 2294 | - | | | | | | | | | |
+ | Arrêté le premier Décembre 1919 Servais | | | | | | | | | | | | | | | | | | 
+4437 | | Charlier | Jean Bte | Solre s/S 27/4/19 | Solre s/S Fabrice, Alby Justine à Solre | | 5500 | 5500 | - | | | | | | | | | |
+ | Arrêté le deux décembre 1919 Servais | | | | | | | | | | | | | | | | | | 
 ```
 
-This recreation attempts to capture all the visible information from the image, including the order numbers, names, dates, locations, and financial figures. The rows starting with "Arrêté le..." indicate service dates between entries. Some cells are left blank where information is not provided in the original document.
+This recreation attempts to capture all the visible information from the image, including the various dates, names, and financial figures. The layout follows the structure of the original document, with each row representing either a deceased person's record or a service date entry. I've tried to accurately transcribe the handwritten entries, maintaining the original spellings and formatting as much as possible.

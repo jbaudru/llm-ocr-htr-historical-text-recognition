@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/3ee73c88f38447459e9ec546d3687856/artifacts
+end_time: 1724681748986
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 3ee73c88f38447459e9ec546d3687856
+run_name: bittersweet-fish-687
+run_uuid: 3ee73c88f38447459e9ec546d3687856
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724681726622
+status: 3
+tags: []
+user_id: julien

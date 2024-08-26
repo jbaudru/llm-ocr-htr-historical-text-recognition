@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/c3d56718c8864b2d8dc8592cb0c72059/artifacts
+end_time: 1724683177130
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: c3d56718c8864b2d8dc8592cb0c72059
+run_name: caring-fox-272
+run_uuid: c3d56718c8864b2d8dc8592cb0c72059
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724683150654
+status: 3
+tags: []
+user_id: julien

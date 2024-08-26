@@ -2,21 +2,17 @@ Here's a recreation of the content of the table in the image:
 
 No. | DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | JOURS ET HEURES DES CONVOIS | NOMS, PRÉNOMS ET DEMEURES DES DÉCLARANTS | DROITS DE L'HOSPICE | DROITS | MONTANT | DATE | NUMÉRO | RECETTES | OBSERVATIONS
 ---|---------------|--------------------------------------------------|----------------------------|-------------------------------------------|---------------------|--------|---------|------|--------|----------|-------------
-   |               | NOM,          | PRÉNOMS,      | DOMICILE,        |                            |                     | FIXE  | PROPOR- | des  | des    | FIXE    |
-   |               |               |               |                  |                            |                     |       | TIONNEL | QUIT- | QUIT-  |         |
-   |               |               |               |                  |                            |                     |       |         | TANCES| TANCES |         |
-4  | 3 mars 1920   | Lefebvre      | Gustave Euloge| 10 r. Neuve      | Décédé - Orphelinat Prévost| 6f75               | 6f75  |         | 3/3   |        | 6f75     | 3/3 1920 6.75
-   |               |               |               |                  |                            |                     |       |         | 1920  |        |          | 3/3 1920 6.75
-   |               | Sorti le 4 mai/janvier 1920 Evadé                |                            |                     |       |         |       |        |          |
-   |               | Sorti le 11 mai/janvier 1920 Evadé               |                            |                     |       |         |       |        |          |
-   |               | Sorti le 18 mai/janvier 1920 Evadé               |                            |                     |       |         |       |        |          |
-   |               | Sorti le 25 mai/janvier 1920 Réintégré Evadé     |                            |                     |       |         |       |        |          |
-5  | 5 mai/janvier | Deuet         | Henri         | Orphelinat J. May| Orphelinat Jules May       | 4.50               | 4.50  |         | 5/5   |        | 4.50     | 5/5 1920 4.50
-   |               | Sorti le 5 mai/janvier 1920 Evadé                |                            |                     |       |         | 1920  |        |          |
-6  | 6 mai/janvier | Larivée       | Henri St Maur  | Orphelinat      | Orphelinat Jules May       | 3f91               | 3f91  |         | 20 Je |        | 3f91     | non payable
-   |               | Sorti le 6 mai/janvier 1920 Evadé                |                            |                     |       |         | 1920  |        |          |
-   |               | Sorti le 13 mai/janvier 1920 Evadé               |                            |                     |       |         |       |        |          |
-   |               | Sorti le 20 mai/janvier 1920 Evadé               |                            |                     |       |         |       |        |          |
-   |               | Sorti le 27 mai/janvier 1920 Evadé               |                            |                     |       |         |       |        |          |
-6  | 7 mai/janvier | Michiels      | Julien        | Orphelinat       | Orphelinat Jules May       | 14f25              | 14f25 |         | 7/5   |        | 14f25    | 7 mai 1920
-   |               |               |               |                  |                            |                     |       |         | 1920  |        |          | 14.25 grs
+   |               | NOM,          | PRÉNOMS,      | DOMICILE,        |                            |                     | FIXE  | CASUEL |      |        |          |
+4  | 3 mars        | Lefebvre      | Gustave Euloge | 10 r. Neuve      | Veuvière-Lefebvre, soeur   | 6.75               | 6.75  |        | 3/3   |        | 13.50    | 3/3 mars 13.50
+   |               |               |               |                  | Arrêté le 3 mars 1920 à    | Convoi             |       |        |      |        |          |
+   |               |               |               |                  | Arrêté le 11 mars 1920 à   | Convoi             |       |        |      |        |          |
+   |               |               |               |                  | Arrêté le 11 mars 1920 à   | Convoi             |       |        |      |        |          |
+   |               |               |               |                  | Arrêté le 20 mars 1920 à   | Décembre Convoi    |       |        |      |        |          |
+5  | 5 mars        | Deuet         | Thérèse        | Communal 2e étage | Angeville Jules, voisin    | 4.50               | 4.50  |        | 5/3   |        | 9.00     | 5/3 9.00
+   |               |               |               |                  | Arrêté le 5 mars 1920 à    | Convoi             |       |        |      |        |          |
+6  | 6 mars        | Larivée       | Marie Thérèse  | 17 r. Neuve      | Chantigny, nièce à soeur   | 3.91               | 3.91  |        | 20/3  | 47     | 7.82     | non payable
+   |               |               |               |                  | Arrêté le 6 mars 1920 à    | Convoi             |       |        |      |        |          |
+   |               |               |               |                  | Arrêté le 17 mars 1920 à   | Convoi             |       |        |      |        |          |
+   |               |               |               |                  | Arrêté le 17 mars 1920 à   | Convoi             |       |        |      |        |          |
+   |               |               |               |                  | Arrêté le 20 mars 1920 à   | Convoi             |       |        |      |        |          |
+6  | 7 mars        | Michiels      | Melanie        | 17 r. Neuve      | Petronghère, nièce à soeur | 11.25              | 11.25 |        | 7/3   |        | 22.50    | 8 mars 22.50

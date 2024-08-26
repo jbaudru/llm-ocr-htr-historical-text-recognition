@@ -81,7 +81,7 @@ def append_result(texts, key, result):
 
 def evaluate():
     experiment_name = "zero-shot_simple-prompt"
-    #experiment_name = "zero-shot_complex-prompt"
+    experiment_name = "zero-shot_complex-prompt"
     
     # few-shot
     texts = {

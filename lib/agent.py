@@ -241,7 +241,7 @@ class Agent:
                 ```plaintext
         """
 
-        prompt = "Recreate the content of the table in this image. Only that, no other information from you."
+        #prompt = "Recreate the content of the table in this image. Only that, no other information from you."
 
         return self.call(prompt, max_tokens=3000, base64_image=base64_image)
 

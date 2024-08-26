@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/e8fe1c22c3304d04b89b6d0fc265655d/artifacts
+end_time: 1724680418971
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: e8fe1c22c3304d04b89b6d0fc265655d
+run_name: selective-newt-801
+run_uuid: e8fe1c22c3304d04b89b6d0fc265655d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724680392943
+status: 3
+tags: []
+user_id: julien

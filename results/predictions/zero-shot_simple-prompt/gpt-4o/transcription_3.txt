@@ -1,11 +1,14 @@
-| DATE DE L'ENTREE | INDICATIONS DES PERSONNES DECEDEES OU ABSENTES | NOMS, PRENOMS | DATE DE LA SORTIE | RECETTE | OBSERVATIONS |
-|------------------|---------------------------------------------|-------------|----------------|---------|----------------|
-| 6 Août 1907      | Norblelet, Florent, Cultivateur, 45 ans, Epoux Rivet | Norblelet, Florent | 10 Août 1907 | 4 fr 50 | non payée |
-| 6 Août 1907      | Chatean, Henri, Cultivateur, 45 ans, Epoux Roffidal | Chatean, Henri | 10 Août 1907 | 4 fr 50 | non payée |
-| 6 Août 1907      | Reynes, Louis, Cultivateur, 45 ans, Epoux Gallet | Reynes, Louis | 10 Août 1907 | 4 fr 50 | non payée |
-| 13 Août 1907     | Malblieu, Louis, Cultivateur, 45 ans, Epoux Gallet | Malblieu, Louis | 17 Août 1907 | 4 fr 50 | non payée |
-| 14 Août 1907     | Lanniman, Henri, Cultivateur, 45 ans, Epoux Gallet | Lanniman, Henri | 18 Août 1907 | 4 fr 50 | non payée |
-| 15 Août 1907     | Dubru, Louis, Cultivateur, 45 ans, Epoux Gallet | Dubru, Louis | 19 Août 1907 | 4 fr 50 | non payée |
-| 16 Août 1907     | Heuwels, Henri, Cultivateur, 45 ans, Epoux Gallet | Heuwels, Henri | 20 Août 1907 | 4 fr 50 | non payée |
-| 17 Août 1907     | Basiqant, Louis, Cultivateur, 45 ans, Epoux Gallet | Basiqant, Louis | 21 Août 1907 | 4 fr 50 | non payée |
-| 18 Août 1907     | Campinaire, Henri, Cultivateur, 45 ans, Epoux Gallet | Campinaire, Henri | 22 Août 1907 | 4 fr 50 | non payée |
+| DATE DE RECEPTION | INDICATIONS DES PERSONNES DECEDEES OU ABSENTES | NOMS, PRENOMS | DATE DE L'ACTE DE DECES | DROITS DE SUCCESSIONS | DEPOT | DATE | RECETTE | OBSERVATIONS |
+|-------------------|---------------------------------------------|-------------|----------------------|----------------------|-------|------|---------|----------------|
+|                   | NOM | PRENOMS | DOMICILE | PROFESSION | DATE | NATURE | VALEUR | DATE | NATURE | DATE |
+| 6 10bre 1897      | Norbert | Florent | Malakoff | Retraité | 30 7bre 1897 | Epoux Rivet | 1777 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | Non réclamés |
+| 6 10bre           | Chateau | Henri | Paris | Employé | 5 8bre 1897 | Epouse veuve | 1250 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | Non réclamés |
+| 6 10bre           | Reynes | Louis | Paris | Retraité | 15 8bre 1897 | Epouse veuve | 1500 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | Non réclamés |
+|                   | Arrêté du motif novembre 1897 | | | | | | | | | | | |
+| 13 10bre 1897     | Malbieu | Louis | Paris | Employé | 22 8bre 1897 | Epouse veuve | 1500 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | Non réclamés |
+| 14 10bre          | Tanninan | Henri | Paris | Employé | 15 8bre 1897 | Epouse veuve | 1500 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | Non réclamés |
+| 14 10bre          | Dubru | Louis | Paris | Employé | 15 8bre 1897 | Epouse veuve | 1500 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | Non réclamés |
+|                   | Arrêté du motif novembre 1897 | | | | | | | | | | | |
+| 16 10bre 1897     | Heuwels | Louis | Paris | Employé | 22 8bre 1897 | Epouse veuve | 1500 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | Non réclamés |
+| 17 10bre          | Basiquant | Henri | Paris | Employé | 15 8bre 1897 | Epouse veuve | 1500 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | Non réclamés |
+| 17 10bre          | Campinaire | Louis | Paris | Employé | 15 8bre 1897 | Epouse veuve | 1500 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | Non réclamés |

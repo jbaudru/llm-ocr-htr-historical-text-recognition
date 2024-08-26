@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/e552903a55224b1fad34c8145e1840b0/artifacts
+end_time: 1724679169154
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: e552903a55224b1fad34c8145e1840b0
+run_name: casual-mole-8
+run_uuid: e552903a55224b1fad34c8145e1840b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724679155752
+status: 3
+tags: []
+user_id: julien

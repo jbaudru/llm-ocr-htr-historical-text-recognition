@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/2cc0ef69dce14f9fb920e240ce6ecac9/artifacts
+end_time: 1724679539643
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 2cc0ef69dce14f9fb920e240ce6ecac9
+run_name: charming-grub-180
+run_uuid: 2cc0ef69dce14f9fb920e240ce6ecac9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724679488217
+status: 3
+tags: []
+user_id: julien

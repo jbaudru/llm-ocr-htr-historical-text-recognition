@@ -1,11 +1,7 @@
-| DATE DE DÉCÈS | RÉGIMENT OU FORMATION D'APPARTENANCE OU ARMÉE | NOM, PRÉNOM | DATE | NATURE DE L'ACTE | NUMÉRO D'ORDRE | DATE | RÉCÉPISSÉ DE L'ACTE | DATE | OBSERVATIONS |
-|----------------|--------------------------------------------|----------------|------|----------------|----------------|------|----------------|------|----------------|
-| 6 août 1914    | 3e zouaves                                 | Tibiéault      |      |                |                |      |                |      |                |
-|                |                                            |                |      |                |                |      |                |      |                |
-| 6 août 1914    | 3e zouaves                                 | Wauthier       |      |                |                |      |                |      |                |
-|                |                                            |                |      |                |                |      |                |      |                |
-| 6 août 1914    | 3e zouaves                                 | Jacquet        |      |                |                |      |                |      |                |
-|                |                                            |                |      |                |                |      |                |      |                |
-| 6 août 1914    | 3e zouaves                                 | Danglaire      |      |                |                |      |                |      |                |
-|                |                                            |                |      |                |                |      |                |      |                |
-| 6 août 1914    | 3e zouaves                                 | Blasman        |      |                |                |      |                |      |                |
+| DATE DE DÉCÈS | RÉGIMENT OU FORMATION PRÉCÉDENTE OU ACTUELLE | NOM, PRÉNOM | DATE | ÉTAT CIVIL | DATE | OBSERVATIONS |
+|----------------|--------------------------------------------|----------------|------|------------|------|--------------|
+| 6 août 1945    | Soldat de 2e classe, décédé le 6 août 1945 | Tibiault       |      |            |      |              |
+|                | Soldat de 2e classe, décédé le 6 août 1945 | Wautbiez       |      |            |      |              |
+| 6 août 1945    | Soldat de 2e classe, décédé le 6 août 1945 | Jacquet        |      |            |      |              |
+| 6 août 1945    | Soldat de 2e classe, décédé le 6 août 1945 | Vanglaire      |      |            |      |              |
+| 6 août 1945    | Soldat de 2e classe, décédé le 6 août 1945 | Blasman        |      |            |      |              |

@@ -101,11 +101,15 @@ class Tools:
 
     def compute_distances(self, pred, gt):
         CER = CharErrorRate()
+        """
         stop_words = set(stopwords.words('french')) 
         pred = pred.translate(str.maketrans('', '', string.punctuation)).lower()
         gt = gt.translate(str.maketrans('', '', string.punctuation)).lower()
         pred = [i for i in word_tokenize(pred) if not i in stop_words]
         gt = [i for i in word_tokenize(gt) if not i in stop_words]
+        """
+        #gt = gt.split("\n")
+        #pred = pred.split("\n")
         
         set1 = set(ngrams(pred, n=1))
         set2 = set(ngrams(gt, n=1))
@@ -124,13 +128,13 @@ class Tools:
             levenshtein = 0
         try:
             cer = CER(pred, gt).item()
+            print("DEBUG: CER", cer)
         except:
             cer = 0
-        try:
-            bleu_metric = evaluate.load("bleu")
-            bleu = bleu_metric.compute(predictions=[pred], references=[[gt]])['bleu']
-        except:
-            bleu = 0
+        
+        bleu_metric = evaluate.load("bleu")
+        bleu = bleu_metric.compute(predictions=[pred], references=[[gt]])['bleu']
+        
             
         return jaccard, masi, levenshtein, cer, bleu
     

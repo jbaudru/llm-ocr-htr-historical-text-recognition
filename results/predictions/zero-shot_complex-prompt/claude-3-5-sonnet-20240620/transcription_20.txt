@@ -2,20 +2,20 @@ Here's my attempt to recreate the table based on the information visible in the 
 
 ```plaintext
 N' d'ordre | Date du dépot des déclarations | Nom | Prénoms | Domiciles | Date du décès ou du judgement d'envoi en possession, en cas d'absence. | Noms, Prénoms et demeures des parties déclarantes. | Actif. (2) | Passif. (2) | Restant NET. (2) | Valeur des immeubles. (2) | Primitives. | Supplémentaires. | de l'expiration du délai de rectification. | de l'exigibilité des droits. | Numéros de la consignation des droits au sommier n' 28 | Date | N^03 | Numéros de la consignation au sommier n'30 | Observations
------------|--------------------------------|-----|---------|-----------|----------------------------------------------------------|--------------------------------------------------|-----------|------------|-----------------|---------------------------|-------------|-------------------|-------------------------------------------|-------------------------------|--------------------------------------------------|------|-----|-------------------------------------------|-------------
+-----------|--------------------------------|-----|---------|-----------|----------------------------------------------------------|--------------------------------------------------|-----------|------------|-----------------|---------------------------|-------------|-------------------|-----------------------------------------------|-------------------------------|--------------------------------------------------|------|-----|-------------------------------------------|-------------
            | Arrêté le vingt janvier mil neuf cent vingt servais
            | Arrêté le quatre février 1920 servais
            | Arrêté le quinze février 1920 Dimanche servais
            | Arrêté le vingt février 1920 servais
 18         | 20 février | Calineau | Louis | Tilff | 7 janvier | Calineau Louis à Tilff | 97 | - | - | - | - | - | - | - | - | - | - | - | -
-19         | 5 " | Deblij | Jules | " | 10 Mars | Deblij Gérardine à Esneux | 101 | 101 | 270 | 270 | - | - | - | - | - | - | - | - | -
-           | Arrêté le dix sept février 1920 servais
+18bis      | "          | Dechef   | Jules | "     | Décédé 7 janvier à Tilff | 101 | 101 | - | 101 | - | - | - | - | - | - | - | - | -
+           | Arrêté le dix huit février 1920 servais
            | Arrêté le vingt février 1920 servais
-19         | 20 février | Pétriaux | Emile | Méry | 10 avril | Pétriaux Barthelemy | 2179 | - | - | - | - | - | - | - | - | - | - | - | -
-19         | 5 " | Dubois | Alexandre | Esneux | 28 1919 | Dubois Jean fils à Esneux | 310 | - | 310 | 1920 | - | - | - | - | - | - | - | - | -
+19         | 20 février | Pétriaux | Emile | Nessonvaux | 16 avril | Défunt domicilié à | 2179 | - | - | - | - | - | - | - | - | - | - | - | -
+19bis      | "          | Dubois   | Alexandre | Fraipont | 16/1919 | Dubois Jean fils à Nessonvaux | 150 | - | 150 | 150/150 | - | - | - | - | - | - | - | - | -
            | Arrêté le dix neuf février 1920 servais
            | Arrêté le vingt février 1920 servais
-19         | 20 février | Remience | Jean fils | Esneux | 27 février | Remience François | 600 | - | 600 | 1665 | - | - | - | - | - | - | - | - | -
+19ter      | 20 février | Remience | Jean fils | Fraipont | 27 janvier | Remience François | 600 | - | 600 | 600 | - | - | - | - | - | - | - | - | -
 ```
 
-Note that some cells are left blank where the information is not clearly visible or not provided in the image. The dates and numbers are transcribed as they appear in the handwritten text.
+This recreation attempts to capture all the visible information from the image, including the handwritten entries and the structure of the table. Some cells are left blank ("-") where no information was provided or visible in the image.

@@ -5,7 +5,7 @@ N' d'ordre | Date du dépot des déclarations | Nom | Prénoms | Domiciles | Dat
 -----------|--------------------------------|-----|---------|-----------|-------------------------------------------------------------------|---------------------------------------------------|-----------|------------|-----------------|---------------------------|------------|-----------------|-------------------------------------------|----------------------------|-----------------------------------------------------|------|-----|-------------------------------------------|-------------
            | Arrêté le trois décembre 1919 servais
            | Arrêté le six décembre 1919 servais
-6945 n° 26 | Devez | Jeanne | célibat. | 9 8/19 | Sammy Bruxelles | 941 | | 941 | 941 | | | | | | | | | |
+6945 n° 26 | Devrez | Jeanne | célibat. | 9 8/19 | Sammy Bruxelles | 941 | | 941 | 941 | | | | | | | | | |
            | Arrêté le neuf décembre 1919 servais
 6945 n° 26 | Delise | Fidèle | épouse | 1 8/19 | Delfosse veuve | 2974 | | 2974 | | | | | | | | | | |
            | Arrêté le douze décembre 1919 servais
@@ -18,4 +18,4 @@ N' d'ordre | Date du dépot des déclarations | Nom | Prénoms | Domiciles | Dat
            | Arrêté le dix neuf décembre 1919 servais
 ```
 
-Note that I've filled in the information that is clearly visible in the image. Many cells are left blank as the information is not provided or not visible in the given image. The dates in the second column are written as "Arrêté le [date] servais" which indicates the service dates as you mentioned. The N' d'ordre follows the pattern 6945 n° 26 for the entries that are filled. Some details like specific dates, addresses, and numerical values in columns not clearly visible have been omitted.
+Note that I've filled in the information that is clearly visible in the image. Many cells are left blank as the information is not provided or not visible in the given image. The "Arrêté le..." entries are service dates as explained in the context. The N' d'ordre seems to be consistent (6945 n° 26) for the visible entries. I've transcribed the names, dates, and numerical values as accurately as possible based on the handwriting in the image.

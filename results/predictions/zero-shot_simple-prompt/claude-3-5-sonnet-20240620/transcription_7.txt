@@ -2,8 +2,10 @@ Here's a recreation of the content of the table in the image:
 
 | DATE DE DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DEGRÉ DE SUCCESSION | NOMS, PRÉNOMS | DATES DE NAISSANCE ET LIEU D'ORIGINE | DOMICILE | PROFESSION | DATE | OBSERVATIONS |
 |---------------|------------------------------------------------|---------------------|---------------|--------------------------------------|----------|------------|------|---------------|
-| 145 22 Septembre | Sauger | Charles Louis Raymond | 15 Juillet 1822 | Sous-officier prisonnier de guerre | | | 28855 | 1918 | 28862 | | | 28 Août 1918 26 Février 1921 | |
-| 146 22 Septembre | Moisson | Jean Bte Amédée | 15 Juillet 1822 | Sous-officier | | | 28855 | 575 | 28829 | | | 31 8 1919 1/9 | |
-| 147 vingt sept juin | Leblicq | Jean Bte Constant | 17 mars 1822 | Sous-officier prisonnier de guerre | | | 1902 | 586 | 1825 | | | | non trouvable |
-| 148 vingt quatre | Dassel | Emmanuel Joseph | 19 juillet 1822 | Sous-officier de carrière | | | 1909 | 1823 | 1825 | | | 9 janvier 1920 1920 | |
-| 149 " | Hegelart | Laurent J. | François Mathieu | 17 novembre 1822 | Sergent-Fourrier de carrière | | | 1908 | 585 | 1914 | | | | non trouvable |
+| 145 22 septembre | Sauger | Charles Louis Raymond | 15 juillet 1822 | Lille (Nord) fabricant de sucre |  | 22885 | 1918 | 22882 |  | 28 Juin 1918 26 Juillet 1921 |  |
+| 146 22 septembre | Moisson | Jean Bte Amédée | 15 juillet 1820 | Lille (Nord) |  | 22885 | 575 | 22329 |  | 31 8 1921 (?) |  |
+| 147 vingt sept juin | Leblicq | Jean Bte Constant | 17 mars 1822 | Lille (Nord) fabricant de sucre | 1902 | 586 | 1826 |  | non trouvable |  |
+| 148 vingt quatre | Dassel | Emmanuel Joseph | 19 juillet 1822 | Lille (Nord) n. rentier | 1909 | 2223 | 1912 |  | 9 janvier 1920 |  |
+| 149 " | Hegelart | Laurent Jh | 15 novembre 1822 | Houplines (Nord) n. rentier | 1918 | 585 | 1914 |  | non trouvable |  |
+
+Note: Some entries in the table are partially filled or left blank, as they appear in the original image.

@@ -1,8 +1,8 @@
-| DATE DE DÉPÔT | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DE LA MORT | LIEU DE LA MORT | DATE DE L'ACTE DE DÉCÈS | DATE DE L'ACTE DE NOTORIÉTÉ | DATE DU JUGEMENT | DATE DE L'ACTE DE VACANCE | DATE DE L'ACTE DE SUCCESSION | DATE DE L'INVENTAIRE | DATE DE L'ENVOI EN POSSESSION | DATE DE LA VENTE | DATE DE LA RÉPARTITION | OBSERVATIONS |
-|----------------|----------------------------------------|----------------|----------------|----------------------|----------------------|----------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|----------------------|
-| 6 Janvier | Séverin Jules | 4 Janvier 1920 | Cramant, Marne | | | | | | | | | |
-| 6 Janvier | Dumont Louis | 5 Janvier 1920 | Ludes, Marne | | | | | | | | | | |
-| 6 Janvier | Hobin Edgard | 5 Janvier 1920 | Reims, Marne | | | | | | | | | | |
-| 6 Janvier | Séverin Jules | 5 Janvier 1920 | Cramant, Marne | | | | | | | | | |
-| 6 Janvier | Wanderspergen Marie | 5 Janvier 1920 | Reims, Marne | | | | | | | | | |
-| 6 Janvier | Ecolas Jules | 5 Janvier 1920 | Reims, Marne | | | | | | | | | | |
+| DATE DE DÉPÔT | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DE LA MORT OU DE L'ABSENCE | DROITS DE SUCCESSION | DROIT D'ENREGISTREMENT | DATE | RECETTE | OBSERVATIONS |
+|----------------|------------------------------------------------|-----------------------------|----------------------|----------------------|------|---------|----------------|
+| 6 Janvier 1906 | Séverin Jules | 4 Janvier 1906 |  |  |  |  |  |
+| 6 Janvier 1906 | Dumont Louis | 5 Janvier 1906 |  |  |  |  |  |
+| 6 Janvier 1906 | Hobin Edgard | 5 Janvier 1906 |  |  |  |  |  |
+| 6 Janvier 1906 | Séverin Jules | 4 Janvier 1906 |  |  |  |  |  |
+| 6 Janvier 1906 | Wanderspergen Marie | 5 Janvier 1906 |  |  |  |  |  |
+| 6 Janvier 1906 | Ecolas Jules Joseph | 5 Janvier 1906 |  |  |  |  |  |

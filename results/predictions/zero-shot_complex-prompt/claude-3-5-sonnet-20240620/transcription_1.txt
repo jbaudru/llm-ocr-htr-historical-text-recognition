@@ -5,17 +5,17 @@ N' d'ordre | Date du dépot des déclarations | Nom. | Prénoms | Domiciles | Da
 -----------|--------------------------------|------|---------|-----------|--------------------------------------------------------|---------------------------------------------------|------------|-------------|------------------|---------------------------|-------------|-------------------|-----------------------------------------------|-------------------------------|--------------------------------------------------|------|-----|-------------------------------------------|-------------
 398 | Arrêté le vingt huit octobre 1919 (servais) | | | | | | | | | | | | | | | | | | 
 399 | Arrêté le vingt neuf octobre 1919 (servais) | | | | | | | | | | | | | | | | | | 
-400 | Hoorrent | Alphonse | Ophain (1848) | Décédé à Ophain | Hoorrent Denis à Ophain | 2280 | 1285 | 995 | | | | 11 Mai/15 Mai 1919 | | (servais) 400 | | | | 
-| Arrêté le trente octobre 1919 (servais) | | | | | | | | | | | | | | | | | | 
-401 | Lefèvre | Jules | Braine l'Alleud | Décédé à Braine l'Alleud | | 4125 | | 4125 | | | | 30/1919 | | | | | | 
-| Arrêté le trente un octobre 1919 (servais) | | | | | | | | | | | | | | | | | | 
-| Arrêté le premier novembre 1919 (servais) | | | | | | | | | | | | | | | | | | 
-| Arrêté le deux novembre 1919 (Bruxelles) (servais) | | | | | | | | | | | | | | | | | | 
-402 | Desmedt | Jeanne | Nivelles 18 mars 1849 | Célibataire Braine l'Alleud | | 9100 | 530 | 8570 | | | | 15 Mai/15 Novembre 1919 | | 19 Juillet 400 | | | | 
-403 | Monseur | Pascal Henri | Ottignies 2 Août 1845 | Décédé à Ottignies | | 282340 | 34815 | 247525 | | | | 15 Mai/15 Novembre 1919 | | | | | | 
-404 | Bouhy | Félicie | Braine l'Alleud 6 Octobre 1849 | Décédé à Braine l'Alleud | | 22875 | | 22875 | | | | 15 Mai/22 Mai 1919 | | Non (servais) | | | | 
-| Arrêté le trois novembre 1919 (servais) | | | | | | | | | | | | | | | | | | 
-405 | Godart | Rosalie | Ophain 22 mars 1849 | Décédé à Ophain | | 17525 | 17525 | | | | | 22 Mai/22 Novembre 1919 | | 13 Novembre 400 | | | | 
+400 | Hoorrent | Alphonse | Ophain (1/8/47) | Décédé à Ophain | Hoorrent Denis à Ophain | 2280 | 1285 | 995 | | | | 11 28/4/20 15 7/20 | | | 3 mai 1920 | 168 | | 
+401 | Lefevre | Jules | Braine l'Alleud 6/1/39 | Décédé à Braine l'Alleud | | 4225 | | 4225 | 250 | 1919 | | | | | | | | 
+ | Arrêté le trente octobre 1919 (servais) | | | | | | | | | | | | | | | | | | 
+ | Arrêté le trente un octobre 1919 (servais) | | | | | | | | | | | | | | | | | | 
+ | Arrêté le premier novembre 1919 (Toussaint) (servais) | | | | | | | | | | | | | | | | | | 
+ | Arrêté le deux novembre 1919 (Dimanche) (servais) | | | | | | | | | | | | | | | | | | 
+402 | Desmedt | Jeanne | Nivelles 18/11/49 | Célibataire à Braine l'Alleud | | 9100 | 530 | 8570 | | 15 28/4/20 15 5/20 | | 15 février 1920 | | | | | | 
+403 | Monseur | Pascal Henri | Ottignies 2/10/45 | Décédé à Ottignies | | 282340 | 38815 | 243525 | | 15 30 | 3 mai 1920 | | | | | | | 
+404 | Bouhy | Félicie | Braine l'Alleud 6/10/1839 | Décédé à Braine l'Alleud | | 22595 | | 22595 | 15 30 | 22 5/1920 | | Non liquidable | | | | | | 
+ | Arrêté le trois novembre 1919 (servais) | | | | | | | | | | | | | | | | | | 
+405 | Godart | Constance | Nivelles 22/11/49 | Décédé à Ophain | | 11051 | | 11051 | | 30 | 22 mai 1920 | | 15 novembre 1920 | | | | | 
 ```
 
-This recreation follows the structure and content visible in the image, including the dates, names, locations, and financial information where provided. The entries are organized chronologically, with service dates (Arrêté le...) interspersed between individual records. Some fields are left blank where information is not provided in the original document.
+This recreation includes all the visible information from the image, following the structure of the table as outlined. Some cells are left blank where information was not provided in the original document.

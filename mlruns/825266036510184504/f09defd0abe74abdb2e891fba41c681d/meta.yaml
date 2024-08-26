@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/f09defd0abe74abdb2e891fba41c681d/artifacts
+end_time: 1724680480585
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: f09defd0abe74abdb2e891fba41c681d
+run_name: serious-stoat-888
+run_uuid: f09defd0abe74abdb2e891fba41c681d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724680464853
+status: 3
+tags: []
+user_id: julien

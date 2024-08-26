@@ -1,12 +1,12 @@
-| N° D'ORDRE | NOMS | PRÉNOMS | QUALITÉS | DOMICILE | DATE DE DÉCÈS | OBSERVATIONS |
-|------------|------|---------|----------|----------|----------------|----------------|
-| 429 | Bock | Louis | Menuisier |  |  |  |
-| 430 | Heucat | Jean |  |  |  |  |
-| 431 | Romain | Victor |  |  |  |  |
-| 432 | Poliat |  |  |  |  |  |
-| 433 | Poliat |  |  |  |  |  |
-| 434 | Houtmeyers |  |  |  |  |  |
-| 435 | Thibaut |  |  |  |  |  |
-| 436 | Gausin |  |  |  |  |  |
-| 437 | Delamoy |  |  |  |  |  |
-| 438 | Delatte |  |  |  |  |  |
+| N° D'ORDRE | NOMS | PRÉNOMS | QUALITÉS | DOMICILE | DATE DE NAISSANCE | N° DE LA CARTE | DATE DE LA DÉLIVRANCE | OBSERVATIONS |
+|-----------|------|---------|----------|----------|------------------|----------------|---------------------|----------------|
+| 429 | Bobk | Louis | Ouvrier |  |  |  |  |  |
+| 430 | Heucat | Luc | Ouvrier |  |  |  |  |  |
+| 431 | Romain | Adrien | Ouvrier |  |  |  |  |  |
+| 432 | Poliat |  | Ouvrier |  |  |  |  |  |
+| 433 | Poliat |  | Ouvrier |  |  |  |  |  |
+| 434 | Houtmeyers | Henri | Ouvrier |  |  |  |  |  |
+| 435 | Tribaut |  | Ouvrier |  |  |  |  |  |
+| 436 | Gausin |  | Ouvrier |  |  |  |  |  |
+| 437 | Delamoy |  | Ouvrier |  |  |  |  |  |
+| 438 | Delatte | Jules | Ouvrier |  |  |  |  |  |

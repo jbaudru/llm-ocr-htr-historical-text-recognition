@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/8455e635657a47bc8c73a7572ef7f42d/artifacts
+end_time: 1724680080628
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 8455e635657a47bc8c73a7572ef7f42d
+run_name: funny-cod-509
+run_uuid: 8455e635657a47bc8c73a7572ef7f42d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724680067177
+status: 3
+tags: []
+user_id: julien

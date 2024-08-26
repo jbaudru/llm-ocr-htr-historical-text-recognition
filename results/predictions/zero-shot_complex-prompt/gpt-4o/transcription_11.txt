@@ -1,4 +1,4 @@
-Based on the provided image and the given context, here is the recreated table with the information filled in:
+Certainly! Here is the recreated table based on the provided image:
 
 ```plaintext
 [("N' d'ordre", " "),
@@ -22,29 +22,15 @@ Based on the provided image and the given context, here is the recreated table w
 ("Cautionnements. ", "Numéros de la consignation au sommier n'30"),
 ("Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)", " ")] 
 
-1. 
-("6", "Arrêté le 6 Janvier 1891 servais", "Louis de Camp Hemelberg", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ")
-
-2. 
-("6", " ", "Devrez", "Jérôme", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ")
-
-3. 
-("6", " ", "Arrêté le 6 Janvier 1891 servais", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ")
-
-4. 
-("6", " ", "Delice", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ")
-
-5. 
-("6", " ", "Arrêté le 6 Janvier 1891 servais", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ")
-
-6. 
-("6", " ", "Arrêté le 6 Janvier 1891 servais", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ")
-
-7. 
-("6", " ", "Boisdeghien", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ")
-
-8. 
-("6", " ", "Arrêté le 6 Janvier 1891 servais", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ")
+| N' d'ordre | Date du dépot des déclarations | Nom. | Prénoms | Domiciles | Date du décès ou du jugement d'envoi en possession, en cas d'absence. | Noms, Prénoms et demeures des parties déclarantes. | Actif. (2) | Passif. (2) | Restant NET. (2) | Valeur des immeubles. (2) | Primitives. | Supplémentaires. | Date de l'expiration du délai de rectification. | Date de l'exigibilité des droits. | Numéros de la consignation des droits au sommier n' 28 | Date | N^03 | Numéros de la consignation au sommier n'30 | Observations |
+|------------|-------------------------------|------|---------|-----------|-------------------------------------------------|-------------------------------------------------|-------------|-------------|-----------------|-------------------------|-------------|----------------|--------------------------------------------|--------------------------------|--------------------------------------------|------|------|--------------------------------------------|--------------|
+| 6          |                               | Servais |         |           | Arrêté le 6 août 1891 | Servais |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 6          |                               | Devrez | Félicien | Athus | 6 août 1891 | Servais |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 6          |                               | Servais |         |           | Arrêté le 6 août 1891 | Servais |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 6          |                               | Delice | Vital | Quaregnon | 6 août 1891 | Lefebvre |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 6          |                               | Servais |         |           | Arrêté le 6 août 1891 | Servais |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 6          |                               | Boisdenghien | Marie | Quaregnon | 6 août 1891 | André |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 6          |                               | Servais |         |           | Arrêté le 6 août 1891 | Servais |  |  |  |  |  |  |  |  |  |  |  |  |  |
 ```
 
-Note: The table is filled with the information visible in the image. Some cells are left blank as the image does not provide enough information to fill them.
+This table captures the information from the image, including the headers and the data for each row. The "N' d'ordre" column follows an order, and the "Nom." column contains the names of the deceased or absent persons. The "Noms, Prénoms et demeures des parties déclarantes." column may have the same family name as the "Nom." column.

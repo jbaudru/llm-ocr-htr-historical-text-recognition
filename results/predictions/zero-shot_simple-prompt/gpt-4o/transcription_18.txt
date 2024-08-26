@@ -1,13 +1,11 @@
-DATE DE DÉCÈS | OBSERVATIONS DES PERSONNES DÉCÉDÉES OU ABSENTES | NOM, PRÉNOMS | DROITS DE SUCCESSION | DROIT DE MUTATION | DATE | RECETTE | OBSERVATIONS
---- | --- | --- | --- | --- | --- | --- | ---
-12 janvier | Arrêté de Renard janvier 1852 | Carlier Victor |  |  |  |  | 
- | Arrêté de Renard janvier 1852 |  |  |  |  |  | 
- | Arrêté de François janvier 1852 |  |  |  |  |  | 
- | Arrêté de Renard février 1852 |  |  |  |  |  | 
- | Arrêté de Renard février 1852 |  |  |  |  |  | 
-13 janvier | Arrêté de Renard janvier 1852 | Songe |  |  |  |  | 
-14 janvier | Arrêté de Renard janvier 1852 | Legain |  |  |  |  | 
-15 janvier | Arrêté de Renard janvier 1852 | Klauwz |  |  |  |  | 
- | Arrêté de Renard janvier 1852 | Denys |  |  |  |  | 
- | Arrêté de Renard janvier 1852 | Vanhooten |  |  |  |  | 
- | Arrêté de Renard janvier 1852 | Sainblane Joseph |  |  |  |  |
+| DATE DE DÉCÈS | OBSERVATIONS DES PERSONNES DÉCÉDÉES OU ABSENTES | NOM, PRÉNOMS | DROITS DE SUCCESSION | DROIT D'ENREGISTREMENT | DATE | RECETTE | OBSERVATIONS |
+|----------------|------------------------------------------------|-------------|---------------------|----------------------|------|---------|--------------|
+|                | NOM | PRÉNOM | DOMICILE | DATE | PARIS | DÉPT | ÉTRANGER | VARIÉ | DATE | NATURE | DATE | NATURE | DATE | 
+|                |     |        |          |      |       |      |           |       |      |        |      |        |      |
+| 12 janvier     | Carlier | Victor | 9 janvier 1893 | Amiens | 6  | 6  | 6  | 6  | 6  | 6  | 6  | 6  | 6  |
+| 13 janvier     | Songe |        | 9 janvier 1893 | Amiens | 6  | 6  | 6  | 6  | 6  | 6  | 6  | 6  | 6  |
+| 14 janvier     | Legain |        | 9 janvier 1893 | Amiens | 6  | 6  | 6  | 6  | 6  | 6  | 6  | 6  | 6  |
+| 15 janvier     | Klawz |        | 9 janvier 1893 | Amiens | 6  | 6  | 6  | 6  | 6  | 6  | 6  | 6  | 6  |
+| 15 janvier     | Denys |        | 9 janvier 1893 | Amiens | 6  | 6  | 6  | 6  | 6  | 6  | 6  | 6  | 6  |
+| 15 janvier     | Vanhoobrouck |        | 9 janvier 1893 | Amiens | 6  | 6  | 6  | 6  | 6  | 6  | 6  | 6  | 6  |
+| 15 janvier     | Sainblane | Joseph | 9 janvier 1893 | Amiens | 6  | 6  | 6  | 6  | 6  | 6  | 6  | 6  | 6  |

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/a33599e5d4d94e9ebaf84cd51458b03e/artifacts
+end_time: 1724679560702
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: a33599e5d4d94e9ebaf84cd51458b03e
+run_name: defiant-squid-594
+run_uuid: a33599e5d4d94e9ebaf84cd51458b03e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724679539657
+status: 3
+tags: []
+user_id: julien

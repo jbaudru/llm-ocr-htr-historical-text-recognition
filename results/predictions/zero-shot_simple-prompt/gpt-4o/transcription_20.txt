@@ -1,12 +1,17 @@
-| DATE DE L'ACTE | INDICATION DES PERSONNES DÉCÉDÉES OU ABSENTES | NOM, PRÉNOMS | DATE | RECETTE | OBSERVATIONS |
-|----------------|--------------------------------------------|-------------|------|---------|----------------|
-|                |                                            |             |      |         |                |
-|                |                                            |             |      |         |                |
-|                |                                            |             |      |         |                |
-|                |                                            |             |      |         |                |
-|                |                                            |             |      |         |                |
-| 6 18           |                                            | Caburreau   |      |         |                |
-| 6 18           |                                            | Declefs     |      |         |                |
-| 6 19           |                                            | Pélissier   |      |         |                |
-| 6 19           |                                            | Dubois      |      |         |                |
-| 6 19           |                                            | Remience    |      |         |                |
+| DATE DE L'ACTE | INDICATION DES PERSONNES DÉCÉDÉES OU ABSENTES | NOM, PRÉNOM | DATE | RECETTE | OBSERVATIONS |
+|----------------|--------------------------------------------|-----------|------|---------|----------------|
+|                |                                            |           |      |         |                |
+|                |                                            |           |      |         |                |
+|                |                                            |           |      |         |                |
+|                |                                            |           |      |         |                |
+|                |                                            |           |      |         |                |
+| 6 18           |                                            |           |      |         |                |
+| 6 18           | Caburcau                                   | Louis     |      |         |                |
+| 6 18           |                                            |           |      |         |                |
+| 6 18           | Decbes                                     | Jules     |      |         |                |
+| 6 19           |                                            |           |      |         |                |
+| 6 19           | Féliciano                                  | Louis     |      |         |                |
+| 6 19           |                                            |           |      |         |                |
+| 6 19           | Dubois                                     |           |      |         |                |
+| 6 19           |                                            |           |      |         |                |
+| 6 19           | Remience                                   |           |      |         |                |

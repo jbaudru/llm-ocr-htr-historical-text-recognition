@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/a49b5038ae034f74b674406328a25951/artifacts
+end_time: 1724682508535
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: a49b5038ae034f74b674406328a25951
+run_name: nosy-slug-457
+run_uuid: a49b5038ae034f74b674406328a25951
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724682481449
+status: 3
+tags: []
+user_id: julien

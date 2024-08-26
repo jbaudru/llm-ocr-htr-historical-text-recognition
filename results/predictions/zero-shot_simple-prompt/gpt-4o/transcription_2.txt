@@ -1,11 +1,11 @@
-| N° | DATE DE DÉCÈS | OBSERVATIONS DES PERSONNES DÉCÉDÉES OU ABSENTES | NOM | PRÉNOM | DOMICILE | PROFESSION | DATE DE LA SUCCESSION | DROITS DE SUCCESSION | IMPÔT | DÉCLARATION | DATE | RECETTE | OBSERVATIONS |
-|----|----------------|-----------------------------------------------|-----|--------|----------|-------------|----------------------|------------------|-------|--------------|------|---------|----------------|
-| 403 | 29 août 1917  | Bazot                                         |     |        |          |             |                      |                  |       |              |      |         |                |
-| 404 | 3 sept 1917   | Parlier                                       |     |        |          |             |                      |                  |       |              |      |         |                |
-| 405 | 6 sept 1917   | Vandernesse                                    |     |        |          |             |                      |                  |       |              |      |         |                |
-| 405 | 6 sept 1917   | Semione                                       |     |        |          |             |                      |                  |       |              |      |         |                |
-| 406 | 6 sept 1917   | Hommayé                                       |     |        |          |             |                      |                  |       |              |      |         |                |
-| 407 | 6 sept 1917   | Godeau                                        |     |        |          |             |                      |                  |       |              |      |         |                |
-| 408 | 6 sept 1917   | Fontaine                                      |     |        |          |             |                      |                  |       |              |      |         |                |
-| 409 | 6 sept 1917   | Allard                                        |     |        |          |             |                      |                  |       |              |      |         |                |
-| 410 | 6 sept 1917   | Delvitte                                      |     |        |          |             |                      |                  |       |              |      |         |                |
+| Numéro d'ordre | Nom | Prénoms | Profession | Domicile | Date de décès | Nature des successions | Droits de succession | Dépôt des déclarations | Date | Recette des finances | Observations |
+|----------------|-----|---------|------------|----------|--------------|----------------------|---------------------|---------------------|------|--------------------|-----------------|
+| 403 | Bayet | - | - | - | - | - | - | - | - | - | - |
+| 404 | Parlier | - | - | - | - | - | - | - | - | - | - |
+| 405 | Vandernesse | - | - | - | - | - | - | - | - | - | - |
+| 406 | Semione | - | - | - | - | - | - | - | - | - | - |
+| 407 | Hommayé | - | - | - | - | - | - | - | - | - | - |
+| 408 | Godeau | - | - | - | - | - | - | - | - | - | - |
+| 409 | Fontaine | - | - | - | - | - | - | - | - | - | - |
+| 410 | Allard | - | - | - | - | - | - | - | - | - | - |
+| 411 | Delvotte | - | - | - | - | - | - | - | - | - | - |
