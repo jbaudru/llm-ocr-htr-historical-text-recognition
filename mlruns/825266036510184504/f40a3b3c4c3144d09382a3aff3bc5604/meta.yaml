@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/f40a3b3c4c3144d09382a3aff3bc5604/artifacts
+end_time: 1724659108604
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: f40a3b3c4c3144d09382a3aff3bc5604
+run_name: persistent-bug-507
+run_uuid: f40a3b3c4c3144d09382a3aff3bc5604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724659098249
+status: 3
+tags: []
+user_id: Administrateur

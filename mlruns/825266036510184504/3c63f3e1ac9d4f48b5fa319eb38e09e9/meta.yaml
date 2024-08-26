@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/3c63f3e1ac9d4f48b5fa319eb38e09e9/artifacts
+end_time: 1724662603369
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 3c63f3e1ac9d4f48b5fa319eb38e09e9
+run_name: classy-dolphin-745
+run_uuid: 3c63f3e1ac9d4f48b5fa319eb38e09e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724662581828
+status: 3
+tags: []
+user_id: Administrateur

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/58ceded319ab428eb885871f86f5ab0c/artifacts
+end_time: 1724657647643
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 58ceded319ab428eb885871f86f5ab0c
+run_name: rogue-rat-885
+run_uuid: 58ceded319ab428eb885871f86f5ab0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724657599767
+status: 3
+tags: []
+user_id: Administrateur

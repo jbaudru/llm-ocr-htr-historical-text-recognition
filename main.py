@@ -80,7 +80,7 @@ def append_result(texts, key, result):
 
 
 def evaluate():
-    experiment_name = "zero-shot_complex-prompt"
+    experiment_name = "zero-shot_simple-prompt"
     
     # few-shot
     texts = {
@@ -117,7 +117,7 @@ def evaluate():
         img_lst.append(image_path)
     
     # Create experiment folder
-    experiment_folder = os.path.join("mlflow_experiments", experiment_name)
+    experiment_folder = os.path.join("results/predictions/", experiment_name)
     os.makedirs(experiment_folder, exist_ok=True)
     
     for i in tqdm(range(len(img_lst)), ascii=' >='):
@@ -136,7 +136,8 @@ def evaluate():
                 mlflow.log_param("method", model)
                 result = askLLMAgentOneShot(image_path, trans_lst, model)
                 mlflow.log_param("method", model)
-                mlflow.log_metric("cer", (tools.CER(model, result, transcription)))
+                mlflow.log_metric("cer", (tools.compute_distances(result, transcription)[-2]))
+                mlflow.log_metric("bleu", (tools.compute_distances(result, transcription)[-1]))
                 append_result(texts, model, result)
                 
                 # Save result to file
@@ -160,7 +161,8 @@ def evaluate():
                 mlflow.log_param("method", key)
                 result = method(image_path)
                 mlflow.log_param("method", key)
-                mlflow.log_metric("cer", (tools.CER(key, result, transcription)))
+                mlflow.log_metric("cer", (tools.compute_distances(result, transcription)[-2]))
+                mlflow.log_metric("bleu", (tools.compute_distances(result, transcription)[-1]))
                 append_result(texts, key, result)
                 
                 # Save result to file

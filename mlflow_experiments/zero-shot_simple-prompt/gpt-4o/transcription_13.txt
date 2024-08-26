@@ -1,7 +1,0 @@
-| DATE DE DÉCÈS | NOM, PRÉNOMS | DATE | RÉCÉPÉ | OBSERVATIONS |
-|---------------|-------------|------|--------|--------------|
-| 6 août 1945   | Tibihaut     |      |        |              |
-| 6 août 1945   | Wautbiez     |      |        |              |
-| 6 août 1945   | Jacquet      |      |        |              |
-| 6 août 1945   | Danglaire    |      |        |              |
-| 6 août 1945   | Blasman      |      |        |              |

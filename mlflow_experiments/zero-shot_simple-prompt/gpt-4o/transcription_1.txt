@@ -1,8 +1,0 @@
-| DATE DE DÉCÈS | NOM | PRÉNOM | DOMICILE | PROFESSION | DATE DE NAISSANCE | LIEU DE NAISSANCE | DATE DE DÉPÔT | NATURE DU DÉPÔT | DATE DE L'ACTE DE DÉCÈS | DATE DE L'ACTE DE NAISSANCE | OBSERVATIONS |
-|---------------|-----|--------|-----------|-------------|----------------|----------------|--------------|----------------|----------------------|----------------------|----------------|
-| 6 | 1923 huit octobre | Heverent | Jules | Tournai | Ouvrier | 6 avril 1879 | Tournai | 6 oct 1923 | 6 oct 1923 | 6 avril 1879 | |
-| 6 | 1923 D | Lefevre | Jules | Tournai | Journalier | 6 avril 1879 | Tournai | 6 oct 1923 | 6 oct 1923 | 6 avril 1879 | |
-| 6 | 1923 huit octobre | Desmedt | Jeanne | Tournai | Rentière | 6 avril 1879 | Tournai | 6 oct 1923 | 6 oct 1923 | 6 avril 1879 | |
-| 6 | 1923 D | Monseur | Albert | Tournai | Rentier | 6 avril 1879 | Tournai | 6 oct 1923 | 6 oct 1923 | 6 avril 1879 | |
-| 6 | 1923 D | Bouly | Albert | Tournai | Rentier | 6 avril 1879 | Tournai | 6 oct 1923 | 6 oct 1923 | 6 avril 1879 | |
-| 6 | 1923 D | Godart | Albert | Tournai | Rentier | 6 avril 1879 | Tournai | 6 oct 1923 | 6 oct 1923 | 6 avril 1879 | |

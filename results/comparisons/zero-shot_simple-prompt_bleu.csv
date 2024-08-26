@@ -1,0 +1,11 @@
+,Model,BLEU
+0,gpt-4o,0.0
+1,gpt-4o,0.0
+2,claude-3-5-sonnet-20240620,0.0
+3,claude-3-5-sonnet-20240620,0.041749987828986146
+4,EasyOCR,0.0
+5,EasyOCR,0.0
+6,Pytesseract,0.02141672483610357
+7,Pytesseract,0.0
+8,KerasOCR,0.0
+9,KerasOCR,0.0
