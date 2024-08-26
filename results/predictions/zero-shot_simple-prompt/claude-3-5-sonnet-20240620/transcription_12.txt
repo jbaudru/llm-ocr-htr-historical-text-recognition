@@ -1,0 +1,17 @@
+Here's a recreation of the content of the table in the image:
+
+| N° D'ORDRE | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | NOMS, PRÉNOMS | DOMICILE | PROFESSION | DATE DE NAISSANCE | LIEU DE NAISSANCE | SITUATION DE FAMILLE | NOMS DES PÈRE ET MÈRE | DATE DE DÉCÈS | LIEU DE DÉCÈS | DATE D'ABSENCE | LIEU DE DISPARITION | DATE | NUMÉRO | DATE | NUMÉRO | OBSERVATIONS |
+|------------|------------------------------------------------|---------------|----------|------------|-------------------|-------------------|----------------------|------------------------|---------------|---------------|-----------------|----------------------|------|--------|------|--------|---------------|
+| 6440 | Devillas | Gustave | Absent | Employé | 2 octobre 1899 | Amettes (Pas de Calais) |  |  | 30/5/1940 |  |  |  |  |  |  |  |  |
+| 6441 | Clabecq | Fernand | Marbier | Marbrier | Lisbonne (Portugal) |  |  |  | 1941 |  |  |  |  |  |  |  |  |
+|  |  | Arrêté le dix neuf décembre 1938 (Convoi) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Arrêté le vingt février 1943 (Convoi) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Arrêté le vingt sept décembre 1943 (Compiègne) (Convoi) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 6442 | Gilbert | Clémentin | Célibat. | 25/8/1899 | Longpré les Corps Saints (Somme) |  |  | 1945 |  | 1945 |  |  |  | 5 février 25 février 1946 |  |  |
+| 6443 | Baesmans | Henri | Absent | S/ emploi | Baesrode (Belgique) |  |  | 1945 |  | 1945 | 1945 |  |  | 5 février 1946 |  |  |
+| 6444 | Heinne | Alexis | Absent | 4 avril 1902 | Heinsch (Belgique) |  |  | 1945 |  | 1945 | 1945 |  |  | 5 février 1946 |  |  |
+| 6445 | Mathieu | Benjamin | Absent | 11 mars 1909 | Boulogne sur Mer (P.d.C.) |  |  | 14/5/41 |  | 14/5/41 |  |  |  |  |  |  |
+|  |  | Arrêté le vingt deux décembre 1943 (Convoi) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  | Arrêté le vingt trois décembre 1943 (Convoi) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 6446 | Cauwenberg | Victor Joseph | Marié | 15/8/1897 | Epinois (Belgique) |  |  | 1945 | 1945 | 1945 |  |  |  |  |  |  |
+| 6447 | Anthoine | Sylva | Célibat. | 30/5/1919 | Rethel (Ardennes) |  |  | 1945 |  | 1945 |  |  |  | 15 février 25 février 1946 |  | non publié |

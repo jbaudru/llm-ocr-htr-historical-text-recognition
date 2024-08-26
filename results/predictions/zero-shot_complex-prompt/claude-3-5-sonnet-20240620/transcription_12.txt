@@ -1,0 +1,18 @@
+Here's a recreation of the table based on the information in the image:
+
+```plaintext
+N' d'ordre | Date du dépot des déclarations | Nom | Prénoms | Domiciles | Date du décès ou du judgement d'envoi en possession, en cas d'absence | Noms, Prénoms et demeures des parties déclarantes | Actif (2) | Passif (2) | Restant NET (2) | Valeur des immeubles (2) | Primitives | Supplémentaires | de l'expiration du délai de rectification | de l'exigibilité des droits | Numéros de la consignation des droits au sommier n' 28 | Date | N^03 | Numéros de la consignation au sommier n'30 | Observations
+6440 | 30 mai 1919 | Devilles | Gustave Auguste | Ghlin | 9 janvier 1919 | Devilles Jules à Ghlin | 749 | - | 749 | - | - | - | - | - | - | - | - | - | -
+6441 | 30 | Clabecq | Ferdinand Mathieu | Houdeng-Aimeries | 28 février 1919 | - | 291 | - | 291 | - | - | - | - | - | - | - | - | - | -
+- | - | Arrêté le vingt cinq décembre 1919 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- | - | Arrêté le vingt décembre 1919 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- | - | Arrêté le vingt sept décembre 1919 Commandant servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+6442 | 30 mai 1919 | Gilbert | Clémentine Clotilde | La Louvière | 29 avril 1919 | Epoux Gilbert à La Louvière | 7497 | - | 7497 | - | - | - | 30 novembre 1920 | 30 mai 1920 | - | - | - | - | -
+6443 | 30 | Baesmans | Henri | Boussu N' 63 rue de | Baesmans Henri | 7151 | - | 7151 | 6151 | - | - | - | 30 novembre 1920 | 30 mai 1920 | - | - | - | - | -
+6444 | 30 | Hénin | Alexis | Mons | 4 avril 1919 | Velouve Jules | 1626 | - | 1626 | 500 | - | - | 30 novembre 1920 | 30 mai 1920 | - | - | - | - | -
+6445 | 30 | Mathieu | Joséphine Edmée | 31 mars 1919 | Boulengier Léopold | 14974 | - | 14974 | 625 | - | - | - | - | - | - | - | - | - | -
+- | - | Arrêté le vingt deux décembre 1919 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- | - | Arrêté le vingt trois décembre 1919 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+6446 | 30 mai 1919 | Cauvemberg | Victor Joseph | Baudour | 29 août 1918 | Epouse Cabouy à Baudour | 262 | - | 262 | 108 | - | - | - | - | - | - | - | - | -
+6447 | 30 | Antoine | Sylvie | Obourg | 30 mars 1919 | Enfant Antoine Obourg | 1826 | - | 1826 | - | - | - | 30 novembre 1920 | 30 mai 1920 | - | - | - | - | non passible
+```

@@ -1,0 +1,11 @@
+Here's a recreation of the content of the table in the image:
+
+| N° D'ORDRE | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | NOMS, PRÉNOMS | QUALITÉ OU PROFESSION | DOMICILE | DATES DES DÉCÈS OU DES DERNIÈRES NOUVELLES | DATE | DURÉE | RECETTE | OBSERVATIONS |
+|-----------|--------------------------------------------------|---------------|----------------------|----------|----------------------------------------------|------|--------|---------|---------------|
+| 6465 | Thibault | Maurice Louis | Caporal | Légion étrangère 2e régiment | 1914 | 1914 | - | - | - |
+| 6466 | Waultier | Emile | Employé au Ministère des Colonies | 1884 | 1884 | 30 ans 1920 | 30 ans 1921 | - |
+| 6465 | Jacquet | Germaine Henriette | 32 ans | Jacquet Emile | 1919 | 1919 | 24.04 | 30 30 | 30 30 |
+| 6466 | Danglaire | Guillaume Antoine | 37 ans | Danglaire Henri et Lesueur | 1915 | 1915 | - | 30 30 1920 | non publiée |
+| 6467 | Plasman | Maurice | Employé | Plagy Pierre et autres | 1915 | 1915 | - | 30 1921 | - |
+
+Note: The table contains additional handwritten notes and dates in some cells, particularly in the "OBSERVATIONS" column for the entry "Danglaire". These are not fully transcribed due to their complexity and partial visibility.

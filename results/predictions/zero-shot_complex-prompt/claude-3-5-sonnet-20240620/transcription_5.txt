@@ -1,0 +1,19 @@
+Here's a recreation of the table based on the information in the image:
+
+```plaintext
+N' d'ordre | Date du dépot des déclarations | Nom. | Prénoms | Domiciles | Date du décès ou du judgement d'envoi en possession, en cas d'absence. | Noms, Prénoms et demeures des parties déclarantes. | Actif. (2) | Passif. (2) | Restant NET. (2) | Valeur des immeubles. (2) | Primitives. | Supplémentaires. | de l'expiration du délai de rectification. | de l'exigibilité des droits. | Numéros de la consignation des droits au sommier n' 28 | Date | N^03 | Numéros de la consignation au sommier n'30 | Observations
+-----------|--------------------------------|------|---------|-----------|----------------------------------------------------------|--------------------------------------------------|------------|-------------|------------------|---------------------------|-------------|-------------------|-----------------------------------------------|--------------------------------|--------------------------------------------------------|------|-----|-----------------------------------------------|-------------
+419 | 29 novembre 1913 | Siemans | Charles | Etter | 21 octobre 1913 | Siemans Celestine | 1581 | 591 | 1095 | - | 44 | - | 29 mai 1914 | 29 mai 1914 | - | - | - | - | -
+420 | " | Buissy | Antoinette | Bruxelles | 9 juillet 1913 | Buissy Henry Marie et autres | 100 | - | 100 | - | 45 | - | " " | " " | - | - | - | - | -
+421 | " | Robertsons | Jean William | Ixelles | 17 juillet 1913 | Veuve Robertsons et autres | - | - | - | - | 46 | - | " " | " " | - | - | - | - | -
+422 | " | Robertsons | Jean Geo | " | " | " | 146 | 245 | - | - | - | - | " " | 28 mars 1914 | - | - | - | - | sans famille
+423 | " | Désaeger | Samuel Charles Richard | 42 ans 1/2 | Célibataire décédé | 2895 | - | 2895 | - | - | 47 | - | " " | " " | - | 17 mars 1914 | - | - | -
+- | Arrêté le vingt neuf novembre 1913 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+424 | 1 décembre 1913 | Hautier | Léonie | Bruxelles | 27 juillet 1913 | Veuve Hautier et autres | 20111 | - | 20111 | - | 48 | - | 1 juin 1914 | 31 mars 1914 | - | 30 mars 1914 | 121 | - | -
+425 | " | Delaitre | Arthur Guillaume François | 42 ans 1/2 | Employé Jean 1/2 et autres | 5700 | - | 5700 | - | - | 49 | - | " " | 22 mars 1914 | - | - | - | - | sans famille
+- | Arrêté le vingt novembre 1913 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+425 | 2 décembre 1913 | Piercot | Julien | Ixelles | 17 juillet 1913 | Veuve Piercot et autres | - | - | - | - | 50 | - | 2 juin 1914 | - | - | - | - | - | -
+426 | " | Soulignis | de | Ixelles | 20 juillet 1913 | Veuve Soulignis Jeanne Ida | 2261 | - | 2261 | - | 51 | - | " " | 22 mars 1914 | - | 20 mars 1914 | 122 | - | -
+427 | " | Moens | Joseph | Evere | 17 juillet 1913 | Veuve Moens et autres | 1634 | - | 1634 | - | 52 | - | " " | 22 mars 1914 | - | - | - | - | sans famille
+428 | " | Semal | Thomas | Bruxelles | 17 juillet 1913 | Veuve Semal et autres | 6000 | - | 6000 | - | 53 | - | " " | 16 mars 1914 | - | 14 mars 1914 | 123 | - | -
+```

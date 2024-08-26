@@ -81,6 +81,7 @@ def append_result(texts, key, result):
 
 def evaluate():
     experiment_name = "zero-shot_simple-prompt"
+    #experiment_name = "zero-shot_complex-prompt"
     
     # few-shot
     texts = {
@@ -146,7 +147,7 @@ def evaluate():
                     f.write(result)
 
                 # add waiting time to avoid overloading the server
-                time.sleep(5)
+                time.sleep(2)
                 
         ocr_methods = {
             "EasyOCR": ocr.easyOCR,

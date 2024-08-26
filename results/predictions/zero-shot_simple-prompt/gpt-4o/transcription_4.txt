@@ -1,0 +1,8 @@
+| DATE DE L'ACTE | NUMÉRO DE L'ACTE | INDICATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DE DÉCÈS | NOM, PRÉNOMS | PROFESSION | DOMICILE | DATE DE L'OUVERTURE DE LA SUCCESSION | DROIT D'ENREGISTREMENT | DATE | RECETTE | OBSERVATIONS |
+|----------------|------------------|--------------------------------------|-------------|-------------|-------------|---------|--------------------------------|----------------------|------|---------|--------------|
+| 6 | 443 bis 9bre | Cloquet | Cultivateur | Lillers | Lillers | 22 mai 1904 | 27 juin 1904 | 55 | |
+| 6 | 419 7bre | Vincent | Rentier | Lillers | Lillers | 22 mai 1904 | 27 juin 1904 | 55 | |
+| 6 | 420 7bre | Boisdenghien | Rentier | Guarbecque | Guarbecque | 22 mai 1904 | 27 juin 1904 | 55 | |
+| 6 | 420 bis 7bre | Lambotte | Rentier | Guarbecque | Guarbecque | 22 mai 1904 | 27 juin 1904 | 55 | |
+| 6 | 420 ter 7bre | Rousseau | Rentier | Guarbecque | Guarbecque | 22 mai 1904 | 27 juin 1904 | 55 | |
+| 6 | 420 quater 7bre | Lespagnol | Rentier | Guarbecque | Guarbecque | 22 mai 1904 | 27 juin 1904 | 55 | |

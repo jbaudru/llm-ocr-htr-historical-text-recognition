@@ -1,0 +1,11 @@
+| DATE DE L'ENTREE | INDICATIONS DES PERSONNES DECEDEES OU ABSENTES | NOMS, PRENOMS | DATE DE LA SORTIE | RECETTE | OBSERVATIONS |
+|------------------|---------------------------------------------|-------------|----------------|---------|----------------|
+| 6 Août 1907      | Norblelet, Florent, Cultivateur, 45 ans, Epoux Rivet | Norblelet, Florent | 10 Août 1907 | 4 fr 50 | non payée |
+| 6 Août 1907      | Chatean, Henri, Cultivateur, 45 ans, Epoux Roffidal | Chatean, Henri | 10 Août 1907 | 4 fr 50 | non payée |
+| 6 Août 1907      | Reynes, Louis, Cultivateur, 45 ans, Epoux Gallet | Reynes, Louis | 10 Août 1907 | 4 fr 50 | non payée |
+| 13 Août 1907     | Malblieu, Louis, Cultivateur, 45 ans, Epoux Gallet | Malblieu, Louis | 17 Août 1907 | 4 fr 50 | non payée |
+| 14 Août 1907     | Lanniman, Henri, Cultivateur, 45 ans, Epoux Gallet | Lanniman, Henri | 18 Août 1907 | 4 fr 50 | non payée |
+| 15 Août 1907     | Dubru, Louis, Cultivateur, 45 ans, Epoux Gallet | Dubru, Louis | 19 Août 1907 | 4 fr 50 | non payée |
+| 16 Août 1907     | Heuwels, Henri, Cultivateur, 45 ans, Epoux Gallet | Heuwels, Henri | 20 Août 1907 | 4 fr 50 | non payée |
+| 17 Août 1907     | Basiqant, Louis, Cultivateur, 45 ans, Epoux Gallet | Basiqant, Louis | 21 Août 1907 | 4 fr 50 | non payée |
+| 18 Août 1907     | Campinaire, Henri, Cultivateur, 45 ans, Epoux Gallet | Campinaire, Henri | 22 Août 1907 | 4 fr 50 | non payée |

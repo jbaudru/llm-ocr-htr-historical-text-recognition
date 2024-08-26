@@ -1,0 +1,11 @@
+Here's a recreation of the content of the table in the image:
+
+| DATES DE DÉPART | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATES DE DÉCÈS OU DE DISPARITION | NOMS, PRÉNOMS | DEGRÉ DE PARENTÉ AVEC LE CHEF DE FAMILLE | PROFESSION | DOMICILE | MONTANT DES VALEURS SUCCESSORALES | ACTIF | PASSIF | REVENU NET | DATE | BUREAU | RECETTE | OBSERVATIONS |
+|-----------------|------------------------------------------------|-----------------------------------|---------------|------------------------------------------|------------|----------|--------------------------------------|-------|--------|------------|------|--------|---------|---------------|
+| 12 juin | Castier | Oscar | époux | Employé postal à Amiens | 5775 | 509 | 5266 | | 8 novembre et 28 août | 5 février 45 | |
+| 13 | Longe | Catherine | Femme de ménage | Employée | Aubigny Artois - 6 enfants | 1636 | - | 1636 | | 15 3e | 15 février | non fournie |
+| 14 | Legain | Emile Désiré | Plombier | 7 enfants | Employé postal à Amiens | 9915 | 3365 | 6550 | | 15/3 3e | 5 février | 5 février 555 |
+| 15 | Kairez | Marie Catherine | Femme de ménage | Parent | Cheminot retraité à Amiens | 4590 | - | 4590 | | 15 3e | 5 juin 1946 | non fournie |
+| 15b | Douys | Marie Virginie | épouse | 17 mars 1945 | Amiens - Somme | | | 3665 | - | | | 5 février 45 | |
+| 15c | Vandenbossche | Georges | Ouvrier charpentier | 29 mars 1945 | Bergues - Nord | 8504 | - | 8504 | 600 | | | |
+| 15d | Samblanc | Joseph | Manoeuvre | 9 février 1945 | Crouy Aisne - 2 enfants | 4699 | 2294 | 2405 | | | | |

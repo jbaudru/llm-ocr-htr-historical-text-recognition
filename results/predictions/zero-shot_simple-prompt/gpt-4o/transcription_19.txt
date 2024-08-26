@@ -1,0 +1,7 @@
+| NATURE DE L'ACTE | DATE DE L'ACTE | NOM, PRÉNOMS | PROFESSION | DOMICILE | NATURE DES BIENS | DIRECT | SUCCESSION | DATE | RECETTE | OBSERVATIONS |
+|------------------|----------------|-------------|------------|----------|----------------|--------|------------|------|---------|--------------|
+| Acte de décès | 16 septembre 1920 | Soupart | Rentier | Bruxelles | Mobilier |  |  |  |  |  |
+| Acte de décès | 16 septembre 1920 | Feire | Employé gvt. | Liège | Mobilier |  |  |  |  |  |
+| Acte de décès | 16 septembre 1920 | Siraure | Avocat | Bruxelles | Mobilier |  |  |  |  |  |
+| Acte de décès | 18 septembre 1920 | Vancleem | Employé | Bruxelles | Mobilier |  |  |  |  |  |
+| Acte de décès | 18 septembre 1920 | Flemmingjack | Félicie | Bruxelles | Mobilier |  |  |  |  |  |

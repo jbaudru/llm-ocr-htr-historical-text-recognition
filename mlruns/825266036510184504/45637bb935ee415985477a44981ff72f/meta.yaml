@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/45637bb935ee415985477a44981ff72f/artifacts
+end_time: 1724668156142
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 45637bb935ee415985477a44981ff72f
+run_name: languid-shark-992
+run_uuid: 45637bb935ee415985477a44981ff72f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724668135658
+status: 3
+tags: []
+user_id: Administrateur

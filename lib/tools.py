@@ -77,10 +77,10 @@ class Tools:
 
     def xlsx_to_string(self, filepath):
         df = pd.read_excel(filepath)
-        string = df.to_string(index=False).replace("NaN", "").replace("\t", "")
+        string = df.to_string(index=False, header=False).replace("NaN", "")
         string = re.sub(' +', ' ', string)  # Replace multiple spaces with a single space
-        string = string.replace("\n", " ")  # Replace line breaks with a space
-        print(string)
+        string = string.replace(" ", " | ")  # Add '|' between each column cell
+        string = string.replace("\n", " \n")  # Ensure each new row starts on a new line
         return string
 
     def getData(self):
@@ -101,13 +101,15 @@ class Tools:
 
     def compute_distances(self, pred, gt):
         CER = CharErrorRate()
-        #stop_words = set(stopwords.words('french')) 
-        #pred = pred.translate(str.maketrans('', '', string.punctuation)).lower()
-        #gt = gt.translate(str.maketrans('', '', string.punctuation)).lower()
-        #pred = [i for i in word_tokenize(pred) if not i in stop_words]
-        #gt = [i for i in word_tokenize(gt) if not i in stop_words]
+        stop_words = set(stopwords.words('french')) 
+        pred = pred.translate(str.maketrans('', '', string.punctuation)).lower()
+        gt = gt.translate(str.maketrans('', '', string.punctuation)).lower()
+        pred = [i for i in word_tokenize(pred) if not i in stop_words]
+        gt = [i for i in word_tokenize(gt) if not i in stop_words]
+        
         set1 = set(ngrams(pred, n=1))
         set2 = set(ngrams(gt, n=1))
+        
         try:
             jaccard = jaccard_distance(set1, set2)
         except:
@@ -126,7 +128,7 @@ class Tools:
             cer = 0
         try:
             bleu_metric = evaluate.load("bleu")
-            bleu = bleu_metric.compute(predictions=[pred], references=[gt])['bleu']
+            bleu = bleu_metric.compute(predictions=[pred], references=[[gt]])['bleu']
         except:
             bleu = 0
             

@@ -1,0 +1,18 @@
+Here's a recreation of the content of the table in the image:
+
+| N° D'ORDRE | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | MOTIFS DE L'INSCRIPTION | DROITS DE SUCCESSION | DROITS DE MUTATION | DATE | RECETTE | OBSERVATIONS |
+|------------|------------------------------------------------|------------------------|----------------------|---------------------|------|---------|---------------|
+| NOM, PRÉNOMS | QUALITÉ | DOMICILE | RÉSIDENCE | LIEU ET DATE DU DÉCÈS OU DE LA DISPARITION | DEGRÉ DE PARENTÉ AVEC L'ABSENT | ACTIF | PASSIF | ACTIF NET | TAUX % | DROITS | DATE | N° | |
+| 403 | Peyrol | Antoinette | Mariée | 14 mai 1919 | Peyrol Pierre s. enfants | 13,999 | 3,735 | 10,264 | 3.60 | 369.50 | 15 Déc 1919 | 46 | |
+| 404 | Paulin | Antoine | Veuf de | 9 Janvier 1919 | Paulin Pierre | 999 | - | 999 | | | 10 Fév. 1920 | | |
+| 404 | Vandermeersch | Etienne Emm. | Célibataire | 6 Août 1919 | Héritiers Etrangers | 1504 | - | 1504 | | | 10 " | 9 janvier 1920 | non familial |
+| Arrêté le premier novembre 1919 (Signé) |
+| 405 | Lemoine | Joseph | Veuf | 28 Août 1919 | Lemoine Julienne s. enfants | 1555 | - | 1555 | | | 18 Mars 23 mars 1920 | non familial |
+| 406 | Monnaye | Jules | Célibataire | 15 Août 1919 | Monnaye Pierre s. enfants | | | | | | 15 Janvier 1920 | |
+| 407 | Godeau Saintaine | Clément | Veuf depuis 17 Août 1919 | 17 Août 1919 | Godeau Madeleine s. enfants | 599 | - | 599 | | | 18 Fév. 9 avril 1920 | non familial |
+| Arrêté le cinq novembre 1919 (Signé) |
+| Arrêté le dix novembre 1919 (Signé) |
+| 408 | Fontaine | Ernest | Veuf de | 9 octobre 1919 | Héritiers collatéraux | 915 | 666 | 249 | | | 19 Fév. 15 avril 1920 | non familial |
+| 409 | Allard | Joseph | Marié | 10 mars 1919 | Allard Pierre | 9462 | - | 9462 | | | 19 " | 19 mars 1920 | Usufruit 1/4 |
+| Arrêté le sept novembre 1919 (Signé) |
+| 410 | Debrulle | Joséphine | Célibataire | 18 mars 1919 | Debrulle Edmond Frère | 4849 | 343 | 4506 | | | 20 " | 15 mars 1920 | 3 Avril 1920 |

@@ -1,0 +1,22 @@
+Here's my attempt to recreate the table based on the information visible in the image:
+
+```plaintext
+N' d'ordre | Date du dépot des déclarations | Nom. | Prénoms | Domiciles | Date du décès ou du judgement d'envoi en possession, en cas d'absence. | Noms, Prénoms et demeures des parties déclarantes. | Actif. (2) | Passif. (2) | Restant NET. (2) | Valeur des immeubles. (2) | Primitives. | Supplémentaires. | de l'expiration du délai de rectification. | de l'exigibilité des droits. | Numéros de la consignation des droits au sommier n' 28 | Date | N^03 | Numéros de la consignation au sommier n'30 | Observations
+-----------|--------------------------------|------|---------|-----------|----------------------------------------------------------|---------------------------------------------------|------------|-------------|------------------|---------------------------|-------------|-------------------|-----------------------------------------------|-------------------------------|--------------------------------------------------|------|-----|-----------------------------------------------|-------------
+6445 | Arrêté le vingt quatre décembre 1919 servais | | | | | | | | | | | | | | | | | | |
+ | Arrêté le vingt cinq décembre 1919 Noël servais | | | | | | | | | | | | | | | | | | |
+6446 | Thibault | Marie Louise | Genappe | 27/4/1919 | Legros Désiré à Genappe | 1919 | 4447 | - | - | - | - | | | | | | | |
+6447 | Arrêté le vingt six décembre 1919 servais | | | | | | | | | | | | | | | | | | |
+ | Arrêté le vingt sept décembre 1919 servais | | | | | | | | | | | | | | | | | | |
+6448 | Wautbier | Lucie | Bousval | 19/3/1919 | Wautbier Désiré à Bousval | 10044 | | 10044 | | | | 30 juin 1920 | 30 juin 1920 | | | | | |
+6449 | Jacquet | Germaine Henriette | 29 ans | Jacquet Emile | 1919 | 2312 | 2000 | | | | | 9 30^e 20 | 9 30^e 20 | | | | | |
+ | Arrêté le vingt huit décembre 1919 servais | | | | | | | | | | | | | | | | | | |
+ | Arrêté le vingt neuf décembre 1919 dimanche servais | | | | | | | | | | | | | | | | | | |
+6450 | Danglaire | Guillaume Antoine | 57 ans | Nivelles (Bois d'Amont) | 1919 | 500 | | | | | | 4 30^e 1920 | | | | | | non passible
+ | Arrêté le vingt neuf décembre 1919 servais | | | | | | | | | | | | | | | | | | |
+ | Arrêté le trente décembre 1919 servais | | | | | | | | | | | | | | | | | | |
+6451 | Plasman | Rosalie | Nivelles | 10 mars 1919 | Piery Pierre à Nivelles | 745 | | 745 | | | | 30^e 1920 | | | | | | |
+ | Arrêté le trente un décembre 1919 servais | | | | | | | | | | | | | | | | | | |
+```
+
+Please note that some cells are left blank where the information was not clearly visible or not provided in the image. The table structure follows the headers you provided, and I've attempted to fill in the information as accurately as possible based on what can be seen in the handwritten record.

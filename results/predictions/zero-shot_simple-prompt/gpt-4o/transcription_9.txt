@@ -1,0 +1,19 @@
+| DATE DE DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | NOM, PRÉNOM | DATE | RECETTE | OBSERVATIONS |
+|----------------|--------------------------------------------|----------------|------|---------|----------------|
+| 1899 6 Janvier | Arrêté du vingt-quatre novembre 1899 Conseil | Gossiaux | 1899 | 1er janvier 1899 | 1er mai 1899 |
+|                |                                             |               |      |         |                |
+|                | Arrêté du vingt-quatre novembre 1899 Conseil |               |      |         |                |
+|                |                                             |               |      |         |                |
+|                | Arrêté du vingt-quatre novembre 1899 Conseil |               |      |         |                |
+|                |                                             |               |      |         |                |
+|                | Arrêté du vingt-quatre novembre 1899 Conseil |               |      |         |                |
+|                |                                             |               |      |         |                |
+|                | Arrêté du vingt-quatre novembre 1899 Conseil |               |      |         |                |
+|                |                                             |               |      |         |                |
+|                | Arrêté du trente novembre 1899 Annuaire Conseil |               |      |         |                |
+| 1899 7 Janvier | Saintblane | Joseph | 1899 | 1er janvier 1899 | 1er mai 1899 |
+| 1899 8 Janvier | Saintblane | Laurent | 1899 | 1er janvier 1899 | 1er mai 1899 |
+| 1899 10 Janvier | Arrêté du premier décembre 1899 Conseil |               |      |         |                |
+|                |                                             |               |      |         |                |
+| 1899 12 Janvier | Charlier | Jean dit Adrien | 1899 | 1er janvier 1899 | 1er mai 1899 |
+|                | Arrêté du deux décembre 1899 Conseil |               |      |         |                |

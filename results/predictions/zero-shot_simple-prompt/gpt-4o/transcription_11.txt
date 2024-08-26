@@ -1,0 +1,5 @@
+| DATE DE DÉCÈS | NOM, PRÉNOMS | DATE | RECETTES | OBSERVATIONS |
+|---------------|-------------|------|----------|--------------|
+| 6 Septembre 1881 | Devrez | 6 Septembre 1881 |  |  |
+| 6 Septembre 1881 | Delice | 6 Septembre 1881 |  |  |
+| 6 Septembre 1881 | Boisdenghien | 6 Septembre 1881 |  |  |
