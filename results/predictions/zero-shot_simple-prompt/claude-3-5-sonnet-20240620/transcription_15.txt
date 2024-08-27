@@ -1,0 +1,18 @@
+Here's a recreation of the content of the table in the image:
+
+No. | DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | JOURS ET HEURES DES CONVOIS | NOMS, PRÉNOMS ET DEMEURES DES DÉCLARANTS | DROITS DE L'HOSPICE | DROITS | MONTANT | DATE | NUMÉRO | RECETTES | OBSERVATIONS
+---|---------------|--------------------------------------------------|----------------------------|-------------------------------------------|---------------------|--------|---------|------|--------|----------|-------------
+   |               | NOM,          | PRÉNOMS,      | DOMICILE,        |                            |                     | FIXE  | CASUEL |      |        |          |
+4  | 3 mars        | Lefebvre      | Gustave Euloge | 10 r. Neuve      | Veuvière-Lefebvre, soeur   | 6.75               | 6.75  |        | 3/3   |        | 13.50    | 3/3 mars 13.50
+   |               |               |               |                  | Arrêté le 3 mars 1920 à    | Convoi             |       |        |      |        |          |
+   |               |               |               |                  | Arrêté le 11 mars 1920 à   | Convoi             |       |        |      |        |          |
+   |               |               |               |                  | Arrêté le 11 mars 1920 à   | Convoi             |       |        |      |        |          |
+   |               |               |               |                  | Arrêté le 20 mars 1920 à   | Décembre Convoi    |       |        |      |        |          |
+5  | 5 mars        | Deuet         | Thérèse        | Communal 2e étage | Angeville Jules, voisin    | 4.50               | 4.50  |        | 5/3   |        | 9.00     | 5/3 9.00
+   |               |               |               |                  | Arrêté le 5 mars 1920 à    | Convoi             |       |        |      |        |          |
+6  | 6 mars        | Larivée       | Marie Thérèse  | 17 r. Neuve      | Chantigny, nièce à soeur   | 3.91               | 3.91  |        | 20/3  | 47     | 7.82     | non payable
+   |               |               |               |                  | Arrêté le 6 mars 1920 à    | Convoi             |       |        |      |        |          |
+   |               |               |               |                  | Arrêté le 17 mars 1920 à   | Convoi             |       |        |      |        |          |
+   |               |               |               |                  | Arrêté le 17 mars 1920 à   | Convoi             |       |        |      |        |          |
+   |               |               |               |                  | Arrêté le 20 mars 1920 à   | Convoi             |       |        |      |        |          |
+6  | 7 mars        | Michiels      | Melanie        | 17 r. Neuve      | Petronghère, nièce à soeur | 11.25              | 11.25 |        | 7/3   |        | 22.50    | 8 mars 22.50

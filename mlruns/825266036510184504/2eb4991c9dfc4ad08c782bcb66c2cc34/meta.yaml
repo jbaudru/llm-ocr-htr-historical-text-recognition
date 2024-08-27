@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/2eb4991c9dfc4ad08c782bcb66c2cc34/artifacts
+end_time: 1724669052894
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 2eb4991c9dfc4ad08c782bcb66c2cc34
+run_name: suave-robin-552
+run_uuid: 2eb4991c9dfc4ad08c782bcb66c2cc34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724669015524
+status: 3
+tags: []
+user_id: Administrateur

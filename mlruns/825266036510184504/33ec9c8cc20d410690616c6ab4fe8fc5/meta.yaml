@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/33ec9c8cc20d410690616c6ab4fe8fc5/artifacts
+end_time: 1724681562597
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 33ec9c8cc20d410690616c6ab4fe8fc5
+run_name: brawny-tern-649
+run_uuid: 33ec9c8cc20d410690616c6ab4fe8fc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724681549662
+status: 3
+tags: []
+user_id: julien

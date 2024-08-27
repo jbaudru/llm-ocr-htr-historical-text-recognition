@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/50e440e077d84fbc8c2a0089eeeccb88/artifacts
+end_time: 1724656370150
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 50e440e077d84fbc8c2a0089eeeccb88
+run_name: masked-seal-764
+run_uuid: 50e440e077d84fbc8c2a0089eeeccb88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724656367738
+status: 3
+tags: []
+user_id: Administrateur

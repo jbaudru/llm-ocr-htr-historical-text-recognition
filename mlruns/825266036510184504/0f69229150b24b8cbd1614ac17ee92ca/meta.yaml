@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/0f69229150b24b8cbd1614ac17ee92ca/artifacts
+end_time: 1724680450405
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 0f69229150b24b8cbd1614ac17ee92ca
+run_name: dazzling-donkey-219
+run_uuid: 0f69229150b24b8cbd1614ac17ee92ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724680446136
+status: 3
+tags: []
+user_id: julien

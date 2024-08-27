@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/b963241110a7430b87ea8a77d99bb570/artifacts
+end_time: 1724680038483
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: b963241110a7430b87ea8a77d99bb570
+run_name: serious-pig-684
+run_uuid: b963241110a7430b87ea8a77d99bb570
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724680022315
+status: 3
+tags: []
+user_id: julien

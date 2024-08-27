@@ -1,0 +1,13 @@
+| NATURE DU SERVICE | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | NOM, PRÉNOMS | DATE DE L'ACTE | NATURE DE L'ACTE | DATE DE L'ACTE | OBSERVATIONS |
+|-------------------|--------------------------------------------|------------|----------------|----------------|----------------|----------------|
+|                   | Société de Secours Mutuels 1900 (Anciens)  |            |                |                |                |                |
+|                   | Société de Secours Mutuels 1912 (Anciens)  |            |                |                |                |                |
+|                   | Société de Secours Mutuels 1912 (Anciens)  |            |                |                |                |                |
+|                   | Société de Secours Mutuels 1912 (Anciens)  |            |                |                |                |                |
+|                   | Société de Secours Mutuels 1912 (Anciens)  |            |                |                |                |                |
+|                   | Société de Secours Mutuels 1912 (Anciens)  |            |                |                |                |                |
+| 6                 | Soupart                                      | Alexandre | 16 avril 1912  | Décès          | 16 avril 1912  |                |
+| 6                 | Feire                                        | Alfred    | 16 avril 1912  | Décès          | 16 avril 1912  |                |
+| 6                 | Siraux                                       | Auguste   | 16 avril 1912  | Décès          | 16 avril 1912  |                |
+| 6                 | Vancleem                                     |           | 18 mai 1912    | Décès          | 18 mai 1912    |                |
+| 6                 | Flemmingjack                                 | Félix     | 18 mai 1912    | Décès          | 18 mai 1912    |                |

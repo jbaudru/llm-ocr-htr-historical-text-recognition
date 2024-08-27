@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/db574fc30ed040308b50e0a13cdec48d/artifacts
+end_time: 1724679105362
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: db574fc30ed040308b50e0a13cdec48d
+run_name: glamorous-pig-130
+run_uuid: db574fc30ed040308b50e0a13cdec48d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724679090372
+status: 3
+tags: []
+user_id: julien

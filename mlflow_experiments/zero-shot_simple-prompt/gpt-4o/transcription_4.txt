@@ -1,8 +1,0 @@
-| DATE DE L'ACTE | NUMÉRO DE L'ACTE | INDICATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DE DÉCÈS | NOM, PRÉNOMS | PROFESSION | DOMICILE | DATE DE L'ACTE | DROIT D'ENREGISTREMENT | DATE | RECETTE DES FINANCES | OBSERVATIONS |
-|----------------|------------------|--------------------------------------|-------------|-------------|-------------|-------------|-------------|----------------------|------|----------------|--------------|
-| 6 | 443 bis 4e vol | Cloquet | Cultivateur | Moulins | 27 mai | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 |
-| 6 | 419 3e | Vincent | Cultivateur | Moulins | 27 mai | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 |
-| 6 | 420 3e | Boisdenghien | Cultivateur | Moulins | 27 mai | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 |
-| 6 | 420 bis 3e | Lambotte | Cultivateur | Moulins | 27 mai | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 |
-| 6 | 420 ter 3e | Rousseau | Cultivateur | Moulins | 27 mai | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 |
-| 6 | 420 quater 3e | Lejeune | Cultivateur | Moulins | 27 mai | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 | 27 mai 1911 |

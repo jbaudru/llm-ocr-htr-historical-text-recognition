@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/34e68d41801d4a7e9bd1be70b7f83576/artifacts
+end_time: 1724682186845
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 34e68d41801d4a7e9bd1be70b7f83576
+run_name: marvelous-goose-351
+run_uuid: 34e68d41801d4a7e9bd1be70b7f83576
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724682182693
+status: 3
+tags: []
+user_id: julien

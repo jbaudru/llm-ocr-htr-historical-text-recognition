@@ -80,75 +80,92 @@ class Agent:
     # LLM CALLS
     #===========================================================================
     
-    def call(self, prompt, max_tokens=5000, base64_image=None):
+    def call(self, prompt, max_tokens=5000, base64_image=None, message=None):
         if("claude" in self.model):
-            res = self.callAnthropic(prompt, max_tokens=max_tokens, base64_image=base64_image)
+            res = self.callAnthropic(prompt, max_tokens=max_tokens, base64_image=base64_image, message=message)
         else:
-            res = self.callOpenAI(prompt, max_tokens=max_tokens, base64_image=base64_image)
+            res = self.callOpenAI(prompt, max_tokens=max_tokens, base64_image=base64_image, message=message)
         return res
     
     
-    def callAnthropic(self, prompt, max_tokens=5000, base64_image=None):
+    def callAnthropic(self, prompt, max_tokens=5000, base64_image=None, message=None):
         client = anthropic.Anthropic(api_key=self.anthropic_API_KEY)  
         try:
-            response = client.messages.create(
-                model=self.model,
-                max_tokens=max_tokens,
-                messages=[
-                    {
-                        "role": "user",
-                        "content": [
-                            {
-                                "type": "image",
-                                "source": {
-                                    "type": "base64",
-                                    "media_type": "image/jpeg",
-                                    "data": base64_image,
+            if(message==None):
+                response = client.messages.create(
+                    model=self.model,
+                    max_tokens=max_tokens,
+                    messages=[
+                        {
+                            "role": "user",
+                            "content": [
+                                {
+                                    "type": "image",
+                                    "source": {
+                                        "type": "base64",
+                                        "media_type": "image/jpeg",
+                                        "data": base64_image,
+                                    },
                                 },
-                            },
-                            {
-                                "type": "text",
-                                "text": prompt,
-                            }
-                        ],
-                    }
-                ],
-                temperature=0,
-            )
+                                {
+                                    "type": "text",
+                                    "text": prompt,
+                                }
+                            ],
+                        }
+                    ],
+                    temperature=0,
+                )
+            else:
+                response = client.messages.create(
+                    model=self.model,
+                    max_tokens=max_tokens,
+                    messages=message,
+                    temperature=0,
+                )
+            
             return response.to_dict()["content"][0]["text"]
         except Exception as e:
             print(f"[ERROR] callAnthropic failed! {e}")
             return None
     
-    def callOpenAI(self, prompt, max_tokens=5000, base64_image=None):
+    def callOpenAI(self, prompt, max_tokens=5000, base64_image=None, message=None):
         headers = {
             "Content-Type": "application/json",
             "Authorization": f"Bearer {self.openai_API_KEY}"
         } 
         model_vision = "gpt-4o"
         if(base64_image):  
-            payload = {
-                "model": model_vision, # only gpt-4o can handle images
-                "messages": [
-                {
-                    "role": "user",
-                    "content": [
+            if(message==None):
+                payload = {
+                    "model": model_vision, # only gpt-4o can handle images
+                    "messages": [
                     {
-                        "type": "text",
-                        "text": prompt
-                    },
-                    {
-                        "type": "image_url",
-                        "image_url": {
-                        "url": f"data:image/jpeg;base64,{base64_image}"
+                        "role": "user",
+                        "content": [
+                        {
+                            "type": "text",
+                            "text": prompt
+                        },
+                        {
+                            "type": "image_url",
+                            "image_url": {
+                            "url": f"data:image/jpeg;base64,{base64_image}"
+                            }
                         }
+                        ]
                     }
-                    ]
+                    ],
+                    "max_tokens": max_tokens,
+                    "temperature": 0
                 }
-                ],
-                "max_tokens": max_tokens,
-                "temperature": 0
-            }
+            else:
+                payload = {
+                    "model": model_vision, # only gpt-4o can handle images
+                    "messages": message,
+                    "max_tokens": max_tokens,
+                    "temperature": 0
+                }
         else:
             payload = {
                 "model": self.model,
@@ -225,45 +242,83 @@ class Agent:
         """
 
         #prompt = "Recreate the content of the table in this image. Only that, no other information from you."
-        
-        
 
-        
         return self.call(prompt, max_tokens=3000, base64_image=base64_image)
 
-    def exampleShot(self, image_path, feedback=""):
-        # {
-        #                     "role": "system", 
-        #                     "content": "You are a helpful assistant who can read old handwriting with a background in history, and you are going to recreate a scanned déclaration de succession from Belgium in a txt format."
-        #                 },
-        #                 {
-        #                     "role": "user",
-        #                     "content": [ 
-        #                     {
-        #                         "type": "text",
-        #                         "text": f"""
-        #                         The ```plaintext block is the example transcription of the example image you saw:
-        #
-        #                         Transcription:
-        #                         ```plaintext
-        #                         {ex2}
-        #                         ```
-        #                         Compare what you read initially and the solution key in ```plaintext block. Learn how each letter and digit is written in the document. 
-        #
-        #                         """
-        #                     },
-        #                     {
-        #                         "type": "image",
-        #                         "source": {
-        #                             "type": "base64",
-        #                             "media_type": "image/jpeg",
-        #                             "data": base64_image,
-        #                         },
-        #                     }
-        #                     ]
-        #                 }
-        #         }
-        pass
+
+    def exampleShot(self, example, image_path, feedback=""):
+        if("claude" in self.model):
+            resized_image = self.resize_image(image_path)
+            base64_image = base64.b64encode(resized_image).decode('utf-8')
+        else:
+            base64_image = self.encode_image(image_path)
+        
+        if("claude" in self.model):
+            message = [
+                {
+                    "role": "system", 
+                    "content": "You are a helpful assistant who can read old handwriting with a background in history, and you are going to recreate a scanned déclaration de succession from Belgium in a txt format."
+                },
+                {
+                    "role": "user",
+                    "content": [ 
+                    {
+                        "type": "text",
+                        "text": f"""
+                        The ```plaintext block is the example transcription of the example image you saw:
+
+                        Transcription:
+                        ```plaintext
+                        {example}
+                        ```
+                        Compare what you read initially and the solution key in ```plaintext block. Learn how each letter and digit is written in the document. 
+
+                        """
+                    },
+                    {
+                        "type": "image",
+                        "source": {
+                            "type": "base64",
+                            "media_type": "image/jpeg",
+                            "data": base64_image,
+                        },
+                    }
+                    ]
+                }
+            ]
+        else:
+            message = [
+                {
+                    "role": "system", 
+                    "content": "You are a helpful assistant who can read old handwriting with a background in history, and you are going to recreate a scanned déclaration de succession from Belgium in a txt format."
+                },
+                {
+                    "role": "user",
+                    "content": [ 
+                    {
+                        "type": "text",
+                        "text": f"""
+                        The ```plaintext block is the example transcription of the example image you saw:
+
+                        Transcription:
+                        ```plaintext
+                        {example}
+                        ```
+                        Compare what you read initially and the solution key in ```plaintext block. Learn how each letter and digit is written in the document. 
+
+                        """
+                    },
+                    {
+                        "type": "image_url",
+                        "image_url": {
+                        "url": f"data:image/jpeg;base64,{base64_image}"
+                        }
+                    }
+                    ]
+                }
+            ]
+        
+        return self.call(prompt="", max_tokens=3000, base64_image=base64_image, message=message)
         
  
     def refineLayout(self, content, image_path, transcription_lst): 
@@ -291,6 +346,7 @@ class Agent:
             Transcribe as you see in the image.
             ```plaintext
         """
+
 
         return self.call(prompt, max_tokens=3000)
     

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/e555708c34f5439ab83daa9887645f31/artifacts
+end_time: 1724681639633
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: e555708c34f5439ab83daa9887645f31
+run_name: sneaky-moose-711
+run_uuid: e555708c34f5439ab83daa9887645f31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724681619242
+status: 3
+tags: []
+user_id: julien

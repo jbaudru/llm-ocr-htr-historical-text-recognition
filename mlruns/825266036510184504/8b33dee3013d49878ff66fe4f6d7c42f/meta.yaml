@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/8b33dee3013d49878ff66fe4f6d7c42f/artifacts
+end_time: 1724667198069
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 8b33dee3013d49878ff66fe4f6d7c42f
+run_name: sedate-moose-67
+run_uuid: 8b33dee3013d49878ff66fe4f6d7c42f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724667171358
+status: 3
+tags: []
+user_id: Administrateur

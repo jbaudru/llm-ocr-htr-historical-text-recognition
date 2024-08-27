@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/d4cc5f89784843e9894a94e538744de5/artifacts
+end_time: 1724679737226
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: d4cc5f89784843e9894a94e538744de5
+run_name: upset-fawn-139
+run_uuid: d4cc5f89784843e9894a94e538744de5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724679715239
+status: 3
+tags: []
+user_id: julien

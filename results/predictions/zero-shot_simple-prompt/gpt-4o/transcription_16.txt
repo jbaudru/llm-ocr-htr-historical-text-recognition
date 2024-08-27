@@ -1,0 +1,10 @@
+| DATE DE DECES | NOM | PRENOM | DOMICILE | DATE | NATURE DE L'ACTE | NOMS, PRENOMS DES SUCCESSIBLES | DEGREE DE PARENTE | DATE | RECEPTION | DATE | OBSERVATIONS |
+|---------------|-----|--------|----------|------|------------------|-----------------------------|------------------|------|-----------|------|--------------|
+| 8 septembre 1930 | Seelbreck | Etienne | Braine | 8 sept. 1930 | Acte de décès | Légataire Didier et autres | | | | | |
+| 9 | Geerling | Catherine | Braine | 8 sept. 1930 | Acte de décès | Légataire Massin | | | | | |
+| 9 | Accq | Alphonse G. | Braine | 8 sept. 1930 | Acte de décès | Epouse Massin Géo | | | | | |
+| 9 | | | | | | Accord du 8 sept. 1930 | Donnant | Donné | | | | |
+| 9 | | | | | | Accord du 8 sept. 1930 | Donnant | Donné | | | | |
+| 9 | | | | | | Accord du 8 sept. 1930 | Donnant | Donné | | | | |
+| 9 | Becquet | Marcel | Braine | 7 sept. 1930 | Acte de décès | Epouse Massin | | | | | |
+| 10 septembre | Ouvrieux | Henri | Braine | 9 sept. 1930 | Acte de décès | Légataire Didier et autres | | | | | |

@@ -1,0 +1,20 @@
+Here's a recreation of the table based on the information in the image:
+
+```plaintext
+N' d'ordre | Date du dépot des déclarations | Nom | Prénoms | Domiciles | Date du décès ou du judgement d'envoi en possession, en cas d'absence. | Noms, Prénoms et demeures des parties déclarantes. | Actif. (2) | Passif. (2) | Restant NET. (2) | Valeur des immeubles. (2) | Primitives. | Supplémentaires. | de l'expiration du délai de rectification. | de l'exigibilité des droits. | Numéros de la consignation des droits au sommier n' 28 | Date | N^03 | Numéros de la consignation au sommier n'30 | Observations
+-----------|--------------------------------|-----|---------|-----------|----------------------------------------------------------|--------------------------------------------------|-----------|------------|-----------------|---------------------------|-------------|------------------|-------------------------------------------|-------------------------------|--------------------------------------------------|------|-----|-------------------------------------------|-------------
+429 | 6 novembre 1919 | Beets | Henri | Ottre | 25 mai 1915 | Beets Louis | 9990 | 9990 | - | - | 1 janvier 1920 | 1 juillet 1920 | 1 janvier 1920 | 279 | - | - | -
+430 | " | Huart | Ida | " | 11 août 1915 | Huart Joseph et autres | 44495 | 1145 | 43350 | - | " | 19 avril 1920 | 6 octobre 1920 | 280 | - | - | -
+431 | " | Romain | Marie | " | 10 février 1915 | Romain Edmond et autres | 30315 | - | 30315 | - | " | 19 juillet 1920 | 19 juillet 1920 | 281 | - | - | -
+432 | " | Polart | Louis | " | 15 août 1915 | Polart Clémence et autres | 951 | 251 | 700 | 700 | " | 15 mai 1920 | 15 octobre 1920 | 282 | - | - | -
+433 | " | Polart | Arthur | " | 18 " | " | 951 | 251 | 700 | 700 | " | 15 " | " | " | - | - | -
+434 | " | Houtmayers | Louis | Houtain-le-Val | 20 mai 1918 | Houtmayers Gustave | 2020 | 595 | 1425 | - | " | 25 mai 1920 | 1 août 1920 | 283 | - | - | -
+435 | " | Thibaut | Marie Louise | Genappe | 6 août 1915 | Thibaut Louis et autres | 4195 | 10250 | - | 4195 | " | 5 juillet 1920 | non passible | - | - | - | -
+436 | " | Gaussin | Jean | Bousval | 22 août 1915 | Gaussin Désiré | 1060 | 792 | 268 | - | " | 20 mai 1920 | non passible | - | - | - | -
+437 | " | Delamoy | Clémentine | " | 28 janvier 1915 | Delamoy Désiré | 4195 | 3586 | 609 | - | " | 25 janvier 1920 | 25 janvier 1920 | 284 | - | - | -
+438 | " | Debutte | Jules | Houtain-le-Val | 25 août 1915 | Debutte Arthur | 9580 | 1075 | 8505 | - | " | 25 avril 1920 | 25 avril 1920 | 285 | - | - | -
+- | Arrêté le vingt-six novembre 1919 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- | Arrêté le vingt-sept novembre 1919 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+```
+
+Note: Some cells are left empty (-) where the information is not provided in the image or is not clearly legible.

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/551d225d9dd34cb7a219bbccd01f1f2c/artifacts
+end_time: 1724664544183
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 551d225d9dd34cb7a219bbccd01f1f2c
+run_name: popular-ray-137
+run_uuid: 551d225d9dd34cb7a219bbccd01f1f2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724664525592
+status: 3
+tags: []
+user_id: Administrateur

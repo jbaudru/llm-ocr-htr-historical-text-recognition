@@ -1,0 +1,21 @@
+Here's a recreation of the table based on the information in the image:
+
+```plaintext
+N' d'ordre | Date du dépot des déclarations | Nom. | Prénoms | Domiciles | Date du décès ou du judgement d'envoi en possession, en cas d'absence. | Noms, Prénoms et demeures des parties déclarantes. | Actif. (2) | Passif. (2) | Restant NET. (2) | Valeur des immeubles. (2) | Primitives. | Supplémentaires. | de l'expiration du délai de rectification. | de l'exigibilité des droits. | Numéros de la consignation des droits au sommier n' 28 | Date | N^03 | Numéros de la consignation au sommier n'30 | Observations
+-----------|--------------------------------|------|---------|-----------|----------------------------------------------------------|--------------------------------------------------|------------|-------------|------------------|---------------------------|-------------|-------------------|-----------------------------------------------|-------------------------------|--------------------------------------------------|------|-----|--------------------------------------------|--------------
+419 | 29 mai 1913 | Siemans | Charles | Otto | 21 mars 1913 | Siemans Célestine | 1581 | 591 | 1095 | - | - | - | 29 Nov. 1913 | 29 Nov. 1913 | - | - | - | - | -
+420 | " | Durig | Andréas | Franc fort s/mein | 9 janvier 1913 | Durig Marie et autres | 100 | - | 100 | - | - | - | " " | " " | - | - | - | - | -
+421 | " | Robertsons | James John | Bruxelles | 17 janvier 1913 | Cause étrangère à notifier | - | - | - | - | - | - | - | - | - | - | - | - | -
+422 | " | Robertsons | James Geo | " | " | " | 146 | 23 | 123 | - | - | - | 29 Nov. 1913 | 29 Nov. 1913 | - | - | - | - | non produite
+423 | " | Désrégea | Samuel Emile Richard | 42 ans 1/2 | Célibataire décédé | 2895 | - | 2895 | - | - | - | " " | " " | - | 17 mars 1913 | - | - | -
+- | Arrêté le vingt septembre mil neuf cent treize servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+424 | 30 mai 1913 | Haultia | Léonard | Bruxelles | 27 juillet 1912 | Veuve Haultia et autres | 10111 | - | 10111 | - | - | - | 30 novembre 1913 | 30 novembre 1913 | - | 30 octobre 1913 | - | - | -
+425 | " | Delaitre | Arthur Catherine François | 42 ans 1/2 | Employé époux Jh. et autres | 5700 | - | 5700 | - | - | - | " " | " " | - | - | - | - | non produite
+- | Arrêté le vingt novembre mil neuf cent treize servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+425 bis | 30 mai 1913 | Piercot | Julien | Bruxelles | 17 janvier 1913 | Veuve Piercot et autres | - | - | - | - | - | - | - | - | - | - | - | - | Dossier incomplet
+426 | " | Soulignis | Ste | Aubry | 20 janvier 1913 | Veuve Soulignis Léonard Jh. | 2261 | - | 2261 | - | - | - | " " | 22 août 1913 | - | 22 octobre 1913 | - | - | -
+427 | " | Moens | Joseph | Evely | 17 juillet 1912 | Veuve Moens et autres | 1634 | 574 | - | - | - | - | " " | 22 août 1913 | - | non produite | - | - | -
+428 | " | Semal | Thomas | Bruxelles | 17 juillet 1912 | Veuve Semal et autres | 6000 | - | 6000 | - | - | - | " " | 16 août 1913 | - | 16 octobre 1913 | - | - | -
+```
+
+This table recreation includes all the information visible in the image, following the structure and headers provided. I've attempted to accurately transcribe the handwritten entries, including dates, names, and numerical values. The rows starting with "Arrêté le..." indicate service dates as mentioned in the context.

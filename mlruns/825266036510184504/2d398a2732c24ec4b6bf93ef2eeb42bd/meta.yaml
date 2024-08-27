@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/2d398a2732c24ec4b6bf93ef2eeb42bd/artifacts
+end_time: 1724666797735
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 2d398a2732c24ec4b6bf93ef2eeb42bd
+run_name: defiant-elk-1
+run_uuid: 2d398a2732c24ec4b6bf93ef2eeb42bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724666792977
+status: 3
+tags: []
+user_id: Administrateur

@@ -1,7 +1,0 @@
-| NUMÉRO DE L'ARTICLE | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | NOM, PRÉNOM | DATE DE DÉCÈS OU DE L'ABSENCE | DERNIER DOMICILE | NOM DU SUCCESSIBLE | DEGRÉ DE PARENTE | DOMICILE | DATE DE L'ENVOI DE L'AVIS | RÉCEPTION DE L'AVIS | OBSERVATIONS |
-|---------------------|--------------------------------------|----------------|--------------------------|----------------|------------------|----------------|----------------|----------------------|----------------------|----------------|
-| 146 bis rectifié par | Eugée | Louis Jean Désiré | 23 juin 1912 | | | | | | | 23 juin 1912 |
-| 146 bis bis rectifié par | Morison | Jean | 1913 | | | | | | | 1913 |
-| 146 bis rectifié par | Leblicq | Jean | 1914 | | | | | | | 1914 |
-| 146 bis rectifié par | Dassel | | | | | | | | | |
-| 149 | Hégelant | | | | | | | | | |

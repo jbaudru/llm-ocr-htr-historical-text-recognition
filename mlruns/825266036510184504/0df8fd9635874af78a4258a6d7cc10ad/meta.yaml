@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/0df8fd9635874af78a4258a6d7cc10ad/artifacts
+end_time: 1724680464833
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 0df8fd9635874af78a4258a6d7cc10ad
+run_name: wistful-stoat-776
+run_uuid: 0df8fd9635874af78a4258a6d7cc10ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724680450423
+status: 3
+tags: []
+user_id: julien

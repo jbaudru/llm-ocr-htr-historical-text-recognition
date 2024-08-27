@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/cf85f261140c4b659beb01082a1796bb/artifacts
+end_time: 1724680216703
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: cf85f261140c4b659beb01082a1796bb
+run_name: powerful-sheep-649
+run_uuid: cf85f261140c4b659beb01082a1796bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724680194547
+status: 3
+tags: []
+user_id: julien

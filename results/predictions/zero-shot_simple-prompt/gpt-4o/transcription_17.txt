@@ -1,0 +1,10 @@
+| DATE DE DECES | NOM, PRENOM | PROFESSION | DOMICILE | DATE DE L'ACTE | NATURE DE L'ACTE | DATE DE L'ENREGISTREMENT | VOLUME | FOLIO | OBSERVATIONS |
+|---------------|-------------|-------------|----------|---------------|----------------|----------------------|--------|-------|----------------|
+| 10 janvier    | Deflandre, Gustave Emile | Cultivateur | Baissy | 10 janvier 1923 | Acte de décès | 10 janvier 1923 | 499 | 509 |                 |
+| 10 janvier    | Hyspeel, Jules Julien Emile | Cultivateur | Baissy | 10 janvier 1923 | Acte de décès | 10 janvier 1923 | 499 | 509 |                 |
+| 10 janvier    | Cordens, Louis | Menuisier | Baissy | 10 janvier 1923 | Acte de décès | 10 janvier 1923 | 499 | 509 |                 |
+| 10 janvier    | Decock, Julien | Cultivateur | Baissy | 10 janvier 1923 | Acte de décès | 10 janvier 1923 | 499 | 509 |                 |
+| 10 janvier    | Decock, Adèle | Cultivateur | Baissy | 10 janvier 1923 | Acte de décès | 10 janvier 1923 | 499 | 509 |                 |
+| 11 janvier    | Dolendries, Amélie | Cultivateur | Baissy | 11 janvier 1923 | Acte de décès | 11 janvier 1923 | 499 | 509 |                 |
+| 11 janvier    | Rousseau, Gustave | Menuisier | Baissy | 11 janvier 1923 | Acte de décès | 11 janvier 1923 | 499 | 509 |                 |
+| 11 janvier    | Dodoncka, Adèle | Cultivateur | Baissy | 11 janvier 1923 | Acte de décès | 11 janvier 1923 | 499 | 509 |                 |

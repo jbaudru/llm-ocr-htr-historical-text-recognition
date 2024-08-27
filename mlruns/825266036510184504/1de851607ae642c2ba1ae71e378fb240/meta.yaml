@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/1de851607ae642c2ba1ae71e378fb240/artifacts
+end_time: 1724682904319
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 1de851607ae642c2ba1ae71e378fb240
+run_name: languid-moose-182
+run_uuid: 1de851607ae642c2ba1ae71e378fb240
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724682884063
+status: 3
+tags: []
+user_id: julien

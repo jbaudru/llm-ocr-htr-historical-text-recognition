@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/6b112cded0594a2ea09fc28693c9d035/artifacts
+end_time: 1724661510333
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 6b112cded0594a2ea09fc28693c9d035
+run_name: selective-dog-115
+run_uuid: 6b112cded0594a2ea09fc28693c9d035
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724661499633
+status: 3
+tags: []
+user_id: Administrateur

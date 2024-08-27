@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/1404e09c5c2f468ea8a6d7b80a28b098/artifacts
+end_time: 1724679090350
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 1404e09c5c2f468ea8a6d7b80a28b098
+run_name: gaudy-goose-235
+run_uuid: 1404e09c5c2f468ea8a6d7b80a28b098
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724679074435
+status: 3
+tags: []
+user_id: julien

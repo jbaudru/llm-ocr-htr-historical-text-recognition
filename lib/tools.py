@@ -11,6 +11,7 @@ import os
 
 import nltk 
 from nltk.metrics.distance import jaccard_distance, masi_distance
+import evaluate
 from nltk.util import ngrams
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
@@ -20,6 +21,7 @@ nltk.download('stopwords')
 import string
 from Levenshtein import distance as levenshtein_distance
 from torchmetrics.text import CharErrorRate
+import jiwer
 
 import requests
 from bs4 import BeautifulSoup
@@ -75,9 +77,10 @@ class Tools:
 
     def xlsx_to_string(self, filepath):
         df = pd.read_excel(filepath)
-        string = df.to_string(index=False).replace("NaN", "").replace("\t", "")
+        string = df.to_string(index=False, header=False).replace("NaN", "")
         string = re.sub(' +', ' ', string)  # Replace multiple spaces with a single space
-        string = string.replace("\n", " ")  # Replace line breaks with a space
+        string = string.replace(" ", " | ")  # Add '|' between each column cell
+        string = string.replace("\n", " \n")  # Ensure each new row starts on a new line
         return string
 
     def getData(self):
@@ -96,15 +99,21 @@ class Tools:
                 else:
                     print(f"Failed to get the webpage: {response.status_code}")
 
-    def compute_distances(self, text1, text2):
+    def compute_distances(self, pred, gt):
         CER = CharErrorRate()
+        """
         stop_words = set(stopwords.words('french')) 
-        text1 = text1.translate(str.maketrans('', '', string.punctuation)).lower()
-        text2 = text2.translate(str.maketrans('', '', string.punctuation)).lower()
-        text1 = [i for i in word_tokenize(text1) if not i in stop_words]
-        text2 = [i for i in word_tokenize(text2) if not i in stop_words]
-        set1 = set(ngrams(text1, n=1))
-        set2 = set(ngrams(text2, n=1))
+        pred = pred.translate(str.maketrans('', '', string.punctuation)).lower()
+        gt = gt.translate(str.maketrans('', '', string.punctuation)).lower()
+        pred = [i for i in word_tokenize(pred) if not i in stop_words]
+        gt = [i for i in word_tokenize(gt) if not i in stop_words]
+        """
+        #gt = gt.split("\n")
+        #pred = pred.split("\n")
+        
+        set1 = set(ngrams(pred, n=1))
+        set2 = set(ngrams(gt, n=1))
+        
         try:
             jaccard = jaccard_distance(set1, set2)
         except:
@@ -114,15 +123,22 @@ class Tools:
         except:
             masi = 0
         try:
-            levenshtein = levenshtein_distance(text1, text2)
+            levenshtein = levenshtein_distance(pred, gt)
         except:
             levenshtein = 0
         try:
-            cer = CER(text1, text2).item()
+            cer = CER(pred, gt).item()
+            print("DEBUG: CER", cer)
         except:
             cer = 0
-        return jaccard, masi, levenshtein, cer
+        
+        bleu_metric = evaluate.load("bleu")
+        bleu = bleu_metric.compute(predictions=[pred], references=[[gt]])['bleu']
+        
+            
+        return jaccard, masi, levenshtein, cer, bleu
     
+        
     def CERreduction(self, prev_pred, curr_pred, gt):
         CERred = (self.CER(prev_pred, gt) - self.CER(curr_pred, gt)) / self.CER(prev_pred, gt)
         return CERred
@@ -137,20 +153,6 @@ class Tools:
         else:
             return 0
     
-    def CER(self, method, text1, gt):
-        cer = CharErrorRate()
-        cer = cer(text1, gt).item()
-        """
-        print(f"\nMethod: {method}")
-        print("=====================================")
-        print(gt)
-        print("-------------------------------------")
-        print(text1)
-        print("=====================================")
-        print(cer)
-        print("\n")
-        """
-        return cer
 
     def compare_texts_violin_plot(self, texts, image_name):
         cer_dict = {
@@ -160,6 +162,15 @@ class Tools:
             "Pytesseract": [],
             "KerasOCR": [],
         }
+        
+        blue_dict = {
+            "gpt-4o": [],
+            "claude-3-5-sonnet-20240620": [],
+            "EasyOCR": [],
+            "Pytesseract": [],
+            "KerasOCR": [],
+        }
+        
         models = list(cer_dict.keys())
         
         for model in texts:
@@ -167,33 +178,44 @@ class Tools:
                 for i in range(len(texts[model])):
                     gd = texts["GT"][i]
                     pred = texts[model][i]
-                    jacc, mas, lev, cer = self.compute_distances(pred, gd)
+                    jacc, mas, lev, cer, blue = self.compute_distances(pred, gd)
                     cer_dict[model].append(cer)
+                    blue_dict[model].append(blue)
         
-        # Prepare data for violin plot
+        # CER
         data = []
         for model in models:
             for cer in cer_dict[model]:
                 data.append((model, cer))
-        
         df = pd.DataFrame(data, columns=["Model", "CER"])
-
-        # save the dataframe to a file
         df.to_csv("results/comparisons/" + image_name + "_cer.csv")
-            
-        # Create the violin plot
         plt.figure(figsize=(12, 12))
         sns.violinplot(x="Model", y="CER", data=df, palette="Set3")
-
-        # Add titles and labels
         plt.title('Character Error Rate (CER)')
         plt.xlabel('Models')
         plt.ylabel('CER')
         plt.xticks(rotation=45, ha='right')
-        # Display the plot
         plt.tight_layout()
         plt.grid(axis='y')
-        plt.savefig("results/comparisons/" + image_name + "_violinplot.png")
+        plt.savefig("results/comparisons/" + image_name + "_violinplot_cer.png")
+        plt.show()
+        
+        # BLEU
+        data_blue = []
+        for model in models:
+            for blue in blue_dict[model]:
+                data_blue.append((model, blue))
+        df2 = pd.DataFrame(data_blue, columns=["Model", "BLEU"])
+        df2.to_csv("results/comparisons/" + image_name + "_bleu.csv")
+        plt.figure(figsize=(12, 12))
+        sns.violinplot(x="Model", y="BLEU", data=df2, palette="Set3")
+        plt.title('BLEU Score')
+        plt.xlabel('Models')
+        plt.ylabel('BLEU')
+        plt.xticks(rotation=45, ha='right')
+        plt.tight_layout()
+        plt.grid(axis='y')
+        plt.savefig("results/comparisons/" + image_name + "_violinplot_bleu.png")
         plt.show()
 
 

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/7304af7fe71c4c5aad2c3a94510522dc/artifacts
+end_time: 1724663369338
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 7304af7fe71c4c5aad2c3a94510522dc
+run_name: casual-crow-16
+run_uuid: 7304af7fe71c4c5aad2c3a94510522dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724663345347
+status: 3
+tags: []
+user_id: Administrateur

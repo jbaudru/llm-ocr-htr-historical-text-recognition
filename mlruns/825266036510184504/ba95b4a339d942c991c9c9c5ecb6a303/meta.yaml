@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/ba95b4a339d942c991c9c9c5ecb6a303/artifacts
+end_time: 1724682956561
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: ba95b4a339d942c991c9c9c5ecb6a303
+run_name: luminous-robin-486
+run_uuid: ba95b4a339d942c991c9c9c5ecb6a303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724682920260
+status: 3
+tags: []
+user_id: julien

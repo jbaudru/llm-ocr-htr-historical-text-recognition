@@ -1,0 +1,17 @@
+Here's a recreation of the content of the table in the image:
+
+| DATES DE DÉPART | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATES DE DÉCÈS OU DE DISPARITION | NOMS, PRÉNOMS | DEGRÉ DE PARENTÉ AVEC LE CHEF DE FAMILLE | PROFESSION | DOMICILE | MONTANT DES VALEURS SUCCESSORALES | ACTIF | PASSIF | REVENU NET | DROITS | RECETTE | DATE | N° | OBSERVATIONS |
+|-----------------|------------------------------------------------|-----------------------------------|---------------|------------------------------------------|------------|----------|--------------------------------------|-------|--------|------------|--------|---------|------|---|---------------|
+| Samedi 22 Janvier janvier 1920 Convoi | | | | | | | | | | | | | | | |
+| Samedi 24 Janvier janvier 1920 Convoi | | | | | | | | | | | | | | | |
+| Samedi 24 janvier janvier 1920 Dunkerque Convoi | | | | | | | | | | | | | | | |
+| 12 | Carlier | Oscar | Epoux | 57 ans | Contre Maître d'usine | | 2775 | 509 | 2266 | | | 9 janvier 21 | 36/227 | 15 |
+| Samedi 24 mars janvier 1920 Convoi | | | | | | | | | | | | | | | |
+| Samedi 24 Août janvier 1920 Convoi | | | | | | | | | | | | | | | |
+| 13 | Longe | Catherine | Femme de 67 ans | Ménagère | Aubigny Artois 2 enfants | | 14242 | - | 14242 | | | 15 3° 24/3/1921 | | non fournie |
+| 14 | Legain | Emilie Irma | Femme de 57 ans | | Simple Rentière | | 9915 | 3325 | 6590 | | | 15/3° 1° 3/4/21 | 3/4/21 | 333 |
+| Samedi 24 janvier janvier 1920 Convoi | | | | | | | | | | | | | | | |
+| 15 | Kairez | Marie Catherine | Femme de 71 ans | Marchande retraitée | Arras | | 4390 | - | 4390 | | | 15 3° 5 juin 1920 | | non fournie |
+| 15² | Douez | Marie Virginie | Femme de 77 ans | Rentière | Arras | | 20687 non [illegible] | 2687 | - | | | 5 janvier 21 | | |
+| 15³ | Vanliefferenghe | Virginie | Femme célibataire de 39 ans | Couturière | Arras | | 8504 | - | 8504 | | | | 400 | 1921 |
+| 15⁴ | Samblanc | Joseph | Menuisier de 54 ans | Ouvr. Menuisier | Arras | | 4299 | 2299 | 2000 | | | | 400 | 1921 |

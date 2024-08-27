@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/53e6a1c2f7574d29b05a68eeccb72a43/artifacts
+end_time: 1724683150637
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 53e6a1c2f7574d29b05a68eeccb72a43
+run_name: capricious-cat-892
+run_uuid: 53e6a1c2f7574d29b05a68eeccb72a43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724683115267
+status: 3
+tags: []
+user_id: julien

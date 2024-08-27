@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/b651013d956b4d55bc39440f67c89350/artifacts
+end_time: 1724679969104
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: b651013d956b4d55bc39440f67c89350
+run_name: gaudy-shrike-466
+run_uuid: b651013d956b4d55bc39440f67c89350
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724679947770
+status: 3
+tags: []
+user_id: julien

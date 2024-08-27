@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/09f56b6a676e430fbd0a8fdd8d4f4527/artifacts
+end_time: 1724659594758
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 09f56b6a676e430fbd0a8fdd8d4f4527
+run_name: dashing-kite-301
+run_uuid: 09f56b6a676e430fbd0a8fdd8d4f4527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724659571702
+status: 3
+tags: []
+user_id: Administrateur

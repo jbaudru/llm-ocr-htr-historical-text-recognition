@@ -1,0 +1,14 @@
+| DATE DE RECEPTION | INDICATIONS DES PERSONNES DECEDEES OU ABSENTES | NOMS, PRENOMS | DATE DE L'ACTE DE DECES | DROITS DE SUCCESSIONS | DEPOT | DATE | RECETTE | OBSERVATIONS |
+|-------------------|---------------------------------------------|-------------|----------------------|----------------------|-------|------|---------|----------------|
+|                   | NOM | PRENOMS | DOMICILE | PROFESSION | DATE | NATURE | VALEUR | DATE | NATURE | DATE |
+| 6 10bre 1897      | Norbert | Florent | Malakoff | Retraité | 30 7bre 1897 | Epoux Rivet | 1777 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | Non réclamés |
+| 6 10bre           | Chateau | Henri | Paris | Employé | 5 8bre 1897 | Epouse veuve | 1250 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | Non réclamés |
+| 6 10bre           | Reynes | Louis | Paris | Retraité | 15 8bre 1897 | Epouse veuve | 1500 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | Non réclamés |
+|                   | Arrêté du motif novembre 1897 | | | | | | | | | | | |
+| 13 10bre 1897     | Malbieu | Louis | Paris | Employé | 22 8bre 1897 | Epouse veuve | 1500 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | Non réclamés |
+| 14 10bre          | Tanninan | Henri | Paris | Employé | 15 8bre 1897 | Epouse veuve | 1500 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | Non réclamés |
+| 14 10bre          | Dubru | Louis | Paris | Employé | 15 8bre 1897 | Epouse veuve | 1500 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | Non réclamés |
+|                   | Arrêté du motif novembre 1897 | | | | | | | | | | | |
+| 16 10bre 1897     | Heuwels | Louis | Paris | Employé | 22 8bre 1897 | Epouse veuve | 1500 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | Non réclamés |
+| 17 10bre          | Basiquant | Henri | Paris | Employé | 15 8bre 1897 | Epouse veuve | 1500 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | Non réclamés |
+| 17 10bre          | Campinaire | Louis | Paris | Employé | 15 8bre 1897 | Epouse veuve | 1500 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | 12 8bre 97 | Non réclamés |

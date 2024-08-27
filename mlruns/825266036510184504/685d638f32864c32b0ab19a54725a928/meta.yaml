@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/685d638f32864c32b0ab19a54725a928/artifacts
+end_time: 1724679126994
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 685d638f32864c32b0ab19a54725a928
+run_name: traveling-ox-142
+run_uuid: 685d638f32864c32b0ab19a54725a928
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724679105375
+status: 3
+tags: []
+user_id: julien

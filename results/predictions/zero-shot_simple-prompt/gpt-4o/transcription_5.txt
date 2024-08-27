@@ -1,0 +1,17 @@
+| DATE DE DECES | INDICATION DES PERSONNES DECÉDÉES OU ABSENTES | DROIT DE SUCCESSION | DROIT D'ENREGISTREMENT | DATE | RECETTE | OBSERVATIONS |
+|---------------|--------------------------------------------|--------------------|----------------------|------|---------|----------------|
+|               | NOM | PRÉNOM | DOMICILE | DATE DE L'ACTE | NATURE DES BIENS | VALEUR | DATE | N° | DATE | N° |        |
+| 1891          |      |        |          |                 |                   |        |      |     |      |     |        |
+| 19 Décembre   | Slemons | Charles | Athus | 19 Décembre 1891 |  |  |  |  |  |  |  |
+| 23 "          | Druy |  |  |  |  |  |  |  |  |  |  |
+| 1 "           | Fievet-Jans |  |  |  |  |  |  |  |  |  |  |
+| 22 "          | Fievet-Jans | Jean Jos |  |  |  |  |  |  |  |  |  |
+| 23 "          | Desaege | Henri |  |  |  |  |  |  |  |  |  |
+|               | Succession de Desaege mentionnée ci-dessus |  |  |  |  |  |  |  |  |  |  |
+| 24 "          | Hantine |  |  |  |  |  |  |  |  |  |  |
+| 25 "          | Delaitre |  |  |  |  |  |  |  |  |  |  |
+|               | Succession de Delaitre mentionnée ci-dessus |  |  |  |  |  |  |  |  |  |  |
+| 25 "          | Pieret |  |  |  |  |  |  |  |  |  |  |
+| 26 "          | Fontignies |  |  |  |  |  |  |  |  |  |  |
+| 27 "          | Moens | Joseph |  |  |  |  |  |  |  |  |  |
+| 28 "          | Semal | Henri |  |  |  |  |  |  |  |  |  |  |

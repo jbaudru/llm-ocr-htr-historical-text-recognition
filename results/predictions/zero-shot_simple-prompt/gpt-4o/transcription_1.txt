@@ -1,0 +1,8 @@
+| DATE DE DÉCÈS | NOM | PRÉNOM | DOMICILE | PROFESSION | DATE DE NAISSANCE | LIEU DE NAISSANCE | DATE DE DÉPÔT | NATURE DU DÉPÔT | DATE DE L'ACTE DE DÉCÈS | DATE DE L'ACTE DE NAISSANCE | OBSERVATIONS |
+|---------------|-----|--------|-----------|-------------|----------------|----------------|--------------|----------------|----------------------|----------------------|--------------|
+| 6 1923 (mois illisible) | Heverent | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) |
+| 6 1923 (mois illisible) | Lefevre | Jules | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) |
+| 6 1923 (mois illisible) | Desmedt | Jeanne | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) |
+| 6 1923 (mois illisible) | Monseur | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) |
+| 6 1923 (mois illisible) | Bouly | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) |
+| 6 1923 (mois illisible) | Godart | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) | (illisible) |

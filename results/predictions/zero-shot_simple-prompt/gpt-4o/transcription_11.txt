@@ -1,0 +1,5 @@
+| DATE DE DÉCÈS | NOM, PRÉNOMS | PROFESSION OU QUALITÉ DU DÉFUNT | DATE DE L'ACTE DE DÉCÈS | NATURE DES DROITS DE SUCCESSION | IMPÔT PRINCIPAL | DÉPARTEMENT OU PAYS ÉTRANGER | ARRONDISSEMENT | VALEUR | DATE | RECETTE | OBSERVATIONS |
+|----------------|----------------|--------------------------------|--------------------------|-----------------------------|----------------|--------------------------|----------------|--------|------|---------|----------------|
+| 6 Septembre 1881 | Devrez | Fermier | Acte de décès du 6 septembre 1881 | Enregistré à Camp le 7 septembre 1881 | 921 | 921 |  |
+| 6 Septembre 1881 | Delice | Rentier | Acte de décès du 6 septembre 1881 | Enregistré à Camp le 7 septembre 1881 | 5775 | 5775 |  |
+| 6 Septembre 1881 | Boisdenghien | Rentier | Acte de décès du 6 septembre 1881 | Enregistré à Camp le 7 septembre 1881 | 4509 | 4509 |  |

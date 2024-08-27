@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/a8c5001ee8d74a85b2f5f1ac9d35799d/artifacts
+end_time: 1724673027375
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: a8c5001ee8d74a85b2f5f1ac9d35799d
+run_name: upset-fox-654
+run_uuid: a8c5001ee8d74a85b2f5f1ac9d35799d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724672991574
+status: 3
+tags: []
+user_id: Administrateur

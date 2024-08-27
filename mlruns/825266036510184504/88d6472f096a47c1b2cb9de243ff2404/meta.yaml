@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/88d6472f096a47c1b2cb9de243ff2404/artifacts
+end_time: 1724680158084
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 88d6472f096a47c1b2cb9de243ff2404
+run_name: clumsy-asp-747
+run_uuid: 88d6472f096a47c1b2cb9de243ff2404
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724680145329
+status: 3
+tags: []
+user_id: julien

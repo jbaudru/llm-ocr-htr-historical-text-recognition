@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/a4f1d6a7ae3941f5a01fb5d29e69cdd5/artifacts
+end_time: 1724672520979
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: a4f1d6a7ae3941f5a01fb5d29e69cdd5
+run_name: mercurial-shrew-135
+run_uuid: a4f1d6a7ae3941f5a01fb5d29e69cdd5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724672476885
+status: 3
+tags: []
+user_id: Administrateur

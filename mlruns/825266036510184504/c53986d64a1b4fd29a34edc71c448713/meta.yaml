@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/c53986d64a1b4fd29a34edc71c448713/artifacts
+end_time: 1724681440211
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: c53986d64a1b4fd29a34edc71c448713
+run_name: classy-shrike-22
+run_uuid: c53986d64a1b4fd29a34edc71c448713
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724681418522
+status: 3
+tags: []
+user_id: julien

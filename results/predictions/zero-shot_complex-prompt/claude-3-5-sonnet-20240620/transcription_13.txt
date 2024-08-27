@@ -1,0 +1,20 @@
+Here's my attempt to recreate the table based on the information visible in the image:
+
+```plaintext
+N' d'ordre | Date du dépot des déclarations | Nom. | Prénoms | Domiciles | Date du décès ou du judgement d'envoi en possession, en cas d'absence. | Noms, Prénoms et demeures des parties déclarantes. | Actif. (2) | Passif. (2) | Restant NET. (2) | Valeur des immeubles. (2) | Primitives. | Supplémentaires. | de l'expiration du délai de rectification. | de l'exigibilité des droits. | Numéros de la consignation des droits au sommier n' 28 | Date | N^03 | Numéros de la consignation au sommier n'30 | Observations
+-----------|--------------------------------|------|---------|-----------|----------------------------------------------------------|--------------------------------------------------|------------|-------------|------------------|---------------------------|-------------|-------------------|-----------------------------------------------|-------------------------------|--------------------------------------------------|------|-----|-------------------------------------------|-------------
+6445 | Arrêté le vingt quatre décembre 1919 servais | | | | | | | | | | | | | | | | | | |
+ | Arrêté le vingt cinq décembre 1919 Noël servais | | | | | | | | | | | | | | | | | | |
+6446 | Thibault | Marie Louise | Genappe | 27/4/1919 | Legros Désiré à Genappe | 1919 | | 1919 | | | | | | | | | | |
+6447 | Wautbier | Emile | Bousval | 19/3/1919 | Héritiers directs | 10049 | | 10049 | | | | 30 juin 1920 | 30 juin 1920 | | | | |
+6448 | Jacquet | Germaine Florentine | 29 ans | Jacquet Emile | 1919 | 2919 | 2400 | | | | 9 30 | 29 30 | | 9 mois 29 |
+ | Arrêté le vingt six décembre 1919 servais | | | | | | | | | | | | | | | | | | |
+ | Arrêté le vingt sept décembre 1919 dimanche servais | | | | | | | | | | | | | | | | | | |
+6449 | Danglaire | Guillaume Antoine | 57 ans | Bousval (Noirhat) | 1919 | 500 | | | | 30 septembre 1920 | | | | non passible | [multiple entries] |
+ | Arrêté le vingt neuf décembre 1919 servais | | | | | | | | | | | | | | | | | | |
+ | Arrêté le trente décembre 1919 servais | | | | | | | | | | | | | | | | | | |
+6450 | Plasman | Rosalie | Mariée | 80 ans | Bierge (Braine le Château) | 745 | | 745 | | | | 30 juin 1920 | | | | | | |
+ | Arrêté le trente un décembre 1919 servais | | | | | | | | | | | | | | | | | | |
+```
+
+Please note that some cells are left blank where the information was not clearly visible or not provided in the image. The "Observations" column for entry 6449 contains multiple entries that were not fully transcribed due to space constraints.

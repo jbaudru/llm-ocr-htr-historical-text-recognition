@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/5e04cf5d6b6743f581e1869381af356a/artifacts
+end_time: 1724667909623
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 5e04cf5d6b6743f581e1869381af356a
+run_name: resilient-finch-373
+run_uuid: 5e04cf5d6b6743f581e1869381af356a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724667890573
+status: 3
+tags: []
+user_id: Administrateur
