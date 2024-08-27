@@ -80,21 +80,22 @@ class Agent:
     # LLM CALLS
     #===========================================================================
     
-    def call(self, prompt, max_tokens=5000, base64_image=None, message=None):
+    def call(self, prompt, max_tokens=5000, base64_image=None, message=None, system=None):
         if("claude" in self.model):
-            res = self.callAnthropic(prompt, max_tokens=max_tokens, base64_image=base64_image, message=message)
+            res = self.callAnthropic(prompt, max_tokens=max_tokens, base64_image=base64_image, message=message, system=system)
         else:
             res = self.callOpenAI(prompt, max_tokens=max_tokens, base64_image=base64_image, message=message)
         return res
     
     
-    def callAnthropic(self, prompt, max_tokens=5000, base64_image=None, message=None):
+    def callAnthropic(self, prompt, max_tokens=5000, base64_image=None, message=None, system=None):
         client = anthropic.Anthropic(api_key=self.anthropic_API_KEY)  
         try:
             if(message==None):
                 response = client.messages.create(
                     model=self.model,
                     max_tokens=max_tokens,
+                    system = system,
                     messages=[
                         {
                             "role": "user",
@@ -246,7 +247,11 @@ class Agent:
         return self.call(prompt, max_tokens=3000, base64_image=base64_image)
 
 
-    def exampleShot(self, example, image_path, feedback=""):
+    def exampleShot(self, image_path, feedback=""):
+        # example
+        example_xlsx = "data/transcriptions/transcription_ex" + str(2) + ".xlsx"
+        example = tools.xlsx_to_string(example_xlsx)
+        
         if("claude" in self.model):
             resized_image = self.resize_image(image_path)
             base64_image = base64.b64encode(resized_image).decode('utf-8')
@@ -255,10 +260,6 @@ class Agent:
         
         if("claude" in self.model):
             message = [
-                {
-                    "role": "system", 
-                    "content": "You are a helpful assistant who can read old handwriting with a background in history, and you are going to recreate a scanned déclaration de succession from Belgium in a txt format."
-                },
                 {
                     "role": "user",
                     "content": [ 
@@ -271,7 +272,7 @@ class Agent:
                         ```plaintext
                         {example}
                         ```
-                        Compare what you read initially and the solution key in ```plaintext block. Learn how each letter and digit is written in the document. 
+                        Compare what you read initially and the solution key in ```plaintext block. Recreate the content of the table in this image. Only that, no other information from you.
 
                         """
                     },
@@ -286,6 +287,9 @@ class Agent:
                     ]
                 }
             ]
+            
+            system_prompt =  "You are a helpful assistant who can read old handwriting with a background in history, and you are going to recreate a scanned déclaration de succession from Belgium in a txt format."
+            
         else:
             message = [
                 {
@@ -304,7 +308,7 @@ class Agent:
                         ```plaintext
                         {example}
                         ```
-                        Compare what you read initially and the solution key in ```plaintext block. Learn how each letter and digit is written in the document. 
+                        Compare what you read initially and the solution key in ```plaintext block. Recreate the content of the table in this image. Only that, no other information from you.
 
                         """
                     },
@@ -317,8 +321,9 @@ class Agent:
                     ]
                 }
             ]
-        
-        return self.call(prompt="", max_tokens=3000, base64_image=base64_image, message=message)
+
+            system_prompt = None
+        return self.call(prompt="", max_tokens=3000, base64_image=base64_image, message=message, system=system_prompt)
         
  
     def refineLayout(self, content, image_path, transcription_lst): 
