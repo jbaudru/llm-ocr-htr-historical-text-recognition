@@ -247,10 +247,15 @@ class Agent:
         return self.call(prompt, max_tokens=3000, base64_image=base64_image)
 
 
-    def exampleShot(self, image_path, feedback=""):
+    def exampleShot(self, image_path, NbExamples=1):
         # example
         example_xlsx = "data/transcriptions/transcription_ex" + str(2) + ".xlsx"
         example = tools.xlsx_to_string(example_xlsx)
+        
+        if(NbExamples==2):
+            # example
+            example_xlsx2 = "data/transcriptions/transcription_ex" + str(3) + ".xlsx"
+            example += tools.xlsx_to_string(example_xlsx2)
         
         if("claude" in self.model):
             resized_image = self.resize_image(image_path)

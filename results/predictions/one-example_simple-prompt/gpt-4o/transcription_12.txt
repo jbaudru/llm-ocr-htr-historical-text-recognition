@@ -1,0 +1,14 @@
+```plaintext
+| Date de décès | Numéro d'ordre | Nom | Prénoms | Domiciles | Actif | Passif | Restant Net | Valeur des immeubles | Date de l'expiration du délai de rectification | Date de l'exigibilité des droits | Date de la recette | Observations |
+|---------------|----------------|-----|---------|-----------|-------|--------|-------------|----------------------|---------------------------------------------|-------------------------------|--------------------|---------------|
+| 16 Janvier 1919 | 403 | Duvillers | Josephine | Braine l'Alleud | 1919 | 1919 | | | | | | |
+| 4 Avril 1918 | 404 | Clabecq | Edouard | Marie | 500 | 500 | | | | | | |
+| 5 Septembre 1918 | 405 | Gilbert | Etienne | Marie | 1885 | 1885 | | | | | | |
+| 5 Septembre 1918 | 406 | Saemons | Marie | Etienne | 800 | 800 | | | | | | |
+| 5 Septembre 1918 | 407 | Monnaye | Julie | Monstreux | 37 | 37 | | | | | | |
+| 5 Septembre 1918 | 408 | Godeau | Clément | Oisquercq | 202 | 202 | | | | | | |
+| 5 Septembre 1918 | 409 | Allard | Prosper | Nivelles | 7310 | 7310 | | | | | | |
+| 5 Septembre 1918 | 410 | Debutte | Justinien | Waterloo | 12068 | 12068 | | | | | | |
+| 5 Septembre 1918 | 411 | Cambron | Edouard | Tubize | 252 | 252 | | | | | | |
+| 5 Septembre 1918 | 412 | Ambroise | Marie | Braine l'Alleud | 176 | 176 | | | | | | |
+```

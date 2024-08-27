@@ -29,6 +29,7 @@ def evaluate():
     experiment_name = "zero-shot_simple-prompt"
     experiment_name = "zero-shot_complex-prompt"
     experiment_name = "one-example_simple-prompt"
+    experiment_name = "two-example_simple-prompt"
     
     # few-shot
     texts = {
@@ -86,8 +87,12 @@ def evaluate():
                 
                 # Zero-shot
                 #result = agent.draft(image_path)
-                # One-example
-                result = agent.exampleShot(image_path)
+                
+                # One-example / Two-example
+                result = agent.exampleShot(image_path, NbExamples=2)
+                
+                # Refine
+                # TODO: add refine method
                 
                 mlflow.log_param("method", model)
                 mlflow.log_metric("cer", (tools.compute_distances(result, transcription)[-2]))

@@ -1,0 +1,14 @@
+| N° | DATE DES DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DOMICILE | NOMS, PRÉNOMS | ACTIF | PASSIF | RESTANT NET | DATE | OBSERVATIONS |
+|---|----------------|---------------------------------------------------|----------|---------------|-------|--------|-------------|------|---------------|
+| 439 D | trois novembre 1919 | Knops | Braine-le-Château | Rosalie Thérèse | Décédée antérieurement | 41 179 | - | - | 24 Xbre 1921 11 novembre 1921 |
+| Arrêté le quatre novembre 1919 (Servais) |
+| 440 cinq 9bre | Defalque | Eugène | Braine-l'Alleud | Defalque Eugène | 4026 | - | 4026 | 15 janvier 5 février 1920 | 5 mars 1920 96 |
+| Arrêté le cinq novembre 1919 (Servais) |
+| 441 six 9bre | Jacqmin | Charles | Ophain | Jacqmin François | 14691 | - | 14691 | 16/17 9bre 1919 | 29 juillet 1920 |
+| 442 " | Voussure | Jules | Braine-le-Château | Gilles Emile | 95 | - | 95 | 28/1 - | - |
+| Arrêté le six novembre 1919 (Servais) |
+| Arrêté le sept novembre 1919 (Servais) |
+| 443 huit novembre | de Lalieux | Emile | Nivelles | Lecomte Charles | 224 | - | 224 | 19/1 1920 | - |
+| Arrêté le huit novembre 1919 (Servais) |
+| 444 neuf 9bre | Heuvels | Alphonsine | Nivelles | Heuvels Emile | Décédée antérieurement | 2118 1000 | - | - | - |
+| 445 " | Goisse | Adolphe | " | Flahaut Elisa | 916 | 700 | 216 1919 | - | - |

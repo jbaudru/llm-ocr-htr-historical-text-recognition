@@ -130,7 +130,6 @@ class Tools:
             
         try:
             cer = CER(pred, gt).item()
-            print("DEBUG: CER", cer)
         except:
             cer = 0
             
