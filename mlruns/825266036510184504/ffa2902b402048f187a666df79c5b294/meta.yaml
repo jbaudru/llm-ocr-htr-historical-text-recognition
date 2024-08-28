@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/ffa2902b402048f187a666df79c5b294/artifacts
+end_time: 1724773748910
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: ffa2902b402048f187a666df79c5b294
+run_name: intelligent-rat-255
+run_uuid: ffa2902b402048f187a666df79c5b294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724773738584
+status: 3
+tags: []
+user_id: Administrateur

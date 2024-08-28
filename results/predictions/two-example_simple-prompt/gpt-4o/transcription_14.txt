@@ -1,0 +1,10 @@
+```plaintext
+| Date de dépôt | Désignation des personnes décédées ou absentes | Date de la mort ou de l'absence | Domicile | Actif brut | Passif | Actif net | Droits de succession | Date de l'exigibilité des droits | Date de la recette | Observations |
+|---------------|-----------------------------------------------|-------------------------------|----------|------------|--------|-----------|---------------------|-----------------------------|------------------|--------------|
+| 6 janvier     | Séverin Jules                                | 4 janvier 1920                | Braine l'Alleud | 35000 | 5000   | 30000     | 1500                | 4 janvier 1920              | 4 juillet 1920   |              |
+| 2 janvier     | Dumont Louis                                 | 2 janvier 1920                | Nivelles | 6000  | 1000   | 5000      | 250                 | 2 janvier 1920               | 2 avril 1920     |              |
+| 6 janvier     | Hobin Edgard                                 | 5 janvier 1920                | Tubize | 7000  | 2000   | 5000      | 250                 | 5 janvier 1920               | 5 juillet 1920   |              |
+| 3 janvier     | Séverin Jules                                | 4 janvier 1920                | Braine l'Alleud | 35000 | 5000   | 30000     | 1500                | 4 janvier 1920              | 4 juillet 1920   |              |
+| 3 janvier     | Vandevoorde Maria                            | 3 janvier 1920                | Nivelles | 8000  | 1500   | 6500      | 325                 | 3 janvier 1920               | 3 juillet 1920   |              |
+| 6 janvier     | Ecolas Julien Joseph                         | 5 janvier 1920                | Braine l'Alleud | 4500  | 1000   | 3500      | 175                 | 5 janvier 1920               | 5 juillet 1920   |              |
+```

@@ -1,0 +1,5 @@
+| N° | DATE DE DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | NOMS, PRÉNOMS | DEGRÉ DE PARENTÉ | ACTIF | PASSIF | RESTANT NET | DATE | RECETTE | OBSERVATIONS |
+|---|---------------|---------------------------------------------------|---------------|-------------------|------|--------|-------------|------|---------|---------------|
+| 648 nov 26 | Devrez | Jeanne | célibat. 9 8/12 | Soeur germaine | 941 | - | 941 | 26/5 1919 | - | - |
+| 649 nov 26 | Delise | Fidèle | épouse 1° 8/12 | Epouse surv. | - | 2974 | 2974 | - | - | - |
+| 650 nov 27/12 | Boidenghien | Henri | épouse 15 11/12 | Andrée Marthe & autres | 42898 | - | 42898 | 27/5 1919 | - | - |

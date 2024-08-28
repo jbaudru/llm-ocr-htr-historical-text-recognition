@@ -1,0 +1,7 @@
+```plaintext
+| Date du décès | Nom | Prénoms | Domiciles | Actif | Passif | Restant à partager | Droits de succession | Date | Recette | Observations |
+|---------------|-----|---------|-----------|-------|--------|--------------------|----------------------|------|---------|--------------|
+| 6 sept 1918   | Devrez | Félicien | Waterloo | 6 sept 1918 | 6 sept 1918 | 6 sept 1918 | 6 sept 1918 | 6 sept 1918 | 6 sept 1918 | 6 sept 1918 |
+| 6 sept 1918   | Delire | Victor | Quenast | 6 sept 1918 | 6 sept 1918 | 6 sept 1918 | 6 sept 1918 | 6 sept 1918 | 6 sept 1918 | 6 sept 1918 |
+| 6 sept 1918   | Boisdenghien | Marie | Quenast | 6 sept 1918 | 6 sept 1918 | 6 sept 1918 | 6 sept 1918 | 6 sept 1918 | 6 sept 1918 | 6 sept 1918 |
+```

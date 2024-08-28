@@ -1,0 +1,18 @@
+Here is a recreation of the content of the table in the image:
+
+| N° | DATE DE DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DEGRÉ DE PARENTÉ | NOMS, PRÉNOMS | MONTANT DE LA SUCCESSION | OBSERVATIONS |
+|---|----------------|------------------------------------------------|-------------------|---------------|----------------------------|---------------|
+| | | NOM. | PRÉNOMS | DOMICILES | | HÉRITIERS OU AUTRES AYANTS-DROIT | ACTIF | PASSIF | RESTANT NET | | | |
+| | Arrêté le treize janvier 1920 (Servais) | | | | | | | | | | | |
+| | Arrêté le quatorze janvier 1920 (Servais) | | | | | | | | | | | |
+| | Arrêté le quinze janvier 1920 (Dimanche) (Servais) | | | | | | | | | | | |
+| 12 | seize janvier | Carlier | Oscar | Genappe | 17 janvier 1919 | Carlier Adèle & autres | 2175 | 509 | 1666 | | 17 novembre et 3* décès | 17 juillet 20 |
+| | Arrêté le dix-sept janvier 1920 (Servais) | | | | | | | | | | | |
+| | Arrêté le dix-huit janvier 1920 (Servais) | | | | | | | | | | | |
+| 13 | dix-neuf janvier | Longe | Catherine | Braine-le-Château | 17 juillet 1919 | Delcroix Philibert & autres | 14236 | - | 14236 | | 19 3* 20 février | non passible |
+| 14 | d° | Legain | Emilie Jeanne Marie | Plancenoit | 17 août 1919 | Legain Adèle & autres | 9715 | 5525 | 4190 | | 19 3* et 17 février | 2 février 333 |
+| | Arrêté le vingt janvier 1920 (Servais) | | | | | | | | | | | |
+| 15 | vingt janvier | Raines | Marie Catherine Joséphine | Braine-le-Château | 9 août 1919 | Rombaut Alphonse & autres | 4590 | - | 4590 | | 20 3* 9 juin 1920 | non passible |
+| 15² | d° | Denys | Marie Virginie Ghislaine | Ophain | 17 août 1919 | Denans Emile | | usufruit seulement | | | | 5 février 62 |
+| 15³ | d° | Vanderborght | Georges Charles Alphonse | Braine-l'Alleud | 28 mars 1919 | Bergmans Emile | 8504 | - | 8504 | | 602 | |
+| 15⁴ | d° | Lamblanc | Joseph | Monstreux | 9 février 1919 | Clery Floribert & autres | 4299 | 2294 | 2005 | | | |

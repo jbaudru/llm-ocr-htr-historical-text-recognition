@@ -1,0 +1,11 @@
+```plaintext
+| DATE DE DÉCÈS | NOM | PRÉNOMS | DOMICILES | DATE DE L'ACTE DE DÉCÈS | DATE DE L'ACTE DE SUCCESSION | NOMS, PRÉNOMS ET QUALITÉS DES HÉRITIERS | DROIT DE SUCCESSION | DATE | RECETTE | OBSERVATIONS |
+|---------------|-----|---------|-----------|-------------------------|----------------------------|----------------------------------------|---------------------|------|---------|--------------|
+| 439^9bre | Renops | Adélaïde | Tubize | 27^7bre 1918 | Arrêté le trois novembre 1919 | Renops Marie et autres | 47 | 1919 | 11^9bre 1919 | |
+| 440 cinq 9bre | Debaillie | Eugène | Nivelles | 27^7bre 1919 | Arrêté le quatre novembre 1919 | Debaillie Eugène | 500 | 1919 | 11^9bre 1919 | |
+| 441 six 9bre | Jacquin | Marie | Ittre | 19^8bre 1919 | Arrêté le cinq novembre 1919 | Jacquin Marie | 144 | 1919 | 11^9bre 1919 | |
+| 442 sept 9bre | Vromans | Félix | Braine l'Alleud | 16^9bre 1919 | Arrêté le six novembre 1919 | Vromans Félix | 75 | 1919 | 11^9bre 1919 | |
+| 443 huit 9bre | de Laittre | Louise | Nivelles | 12^8bre 1919 | Arrêté le huit novembre 1919 | de Laittre Louise | 87 | 1919 | 11^9bre 1919 | |
+| 444 neuf 9bre | Heuvels | Adolphe | Nivelles | 15^8bre 1919 | Arrêté le neuf novembre 1919 | Heuvels Adolphe | 100 | 1919 | 11^9bre 1919 | |
+| 445 dix 9bre | Goirse | Adolphe | Nivelles | 20^8bre 1919 | Arrêté le dix novembre 1919 | Goirse Adolphe | 200 | 1919 | 11^9bre 1919 | |
+```

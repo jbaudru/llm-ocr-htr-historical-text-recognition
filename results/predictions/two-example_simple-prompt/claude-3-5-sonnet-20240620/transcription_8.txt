@@ -1,0 +1,17 @@
+Here is a recreation of the content of the table in the image:
+
+| N° D'ORDRE | NOM. | PRÉNOMS | DOMICILES | DATE DU DÉCÈS | NOMS, PRÉNOMS ET DOMICILES DES PARTIES DÉCLARANTES | ACTIF. | PASSIF. | RESTANT NET. | DATE DE L'EXPIRATION DU DÉLAI DE RECTIFICATION | DATE DE L'EXIGIBILITÉ DES DROITS | OBSERVATIONS. |
+|------------|------|----------|-----------|---------------|---------------------------------------------------|--------|---------|---------------|--------------------------------------------------|----------------------------------|----------------|
+| Arrêté le vingt-six novembre 1919 (Servais) |
+| 429 vingt-neuf novembre | Delcq | Henri | Ittre | 25/7/1919 | Plisnier Louis | 7110 | | 7110 | 3 janvier - 25 mars 1920 | 17 juillet 1920 279 |
+| 430 " | Huart | Ida | " | 11/8/1919 | Plisnier Joseph & autres | 66295 | 1165 | 65130 | 3 " | 19 avril 1920 | 2 octobre 1922 97 juin 1923 215 |
+| 431 " | Romain | Marie | " | 10/7/1919 | Romain Désiré & autres | 4035 | | 4035 | 3 " | 19 juillet 1920 | 10/8/1920 105 |
+| 432 " | Poliart | Léon | " | 17/8/1919 | Plisnier Clémence & autres | 971 | 521 | 450 | 450/3 3" | 17 août 1920 | 15 avril 1921 56 |
+| 433 " | Poliart | Arthur | " | 18 " | " | 795 | 401 | 394 | 394/3 3" | 18 " | " 77 |
+| 434 " | Houtmayers | Louis | Rebecq | 23 mai 1919 | Delporte Colette | 2020 | 575 | 1445 | 5 " | 23 mars 1920 | 5 avril 1920 55 |
+| 435 " | Thibaut | Marie Louise | Genappe | 6/8/1919 | Taquin Louis & autres | 4191 | | 4191 | 455/3 " | 6 février 1920 | non passible |
+| 436 " | Gaussin | Jean | Braine le Château | 22/8/1919 | Gaussin Fernand | 1060 | 792 | 268 | 5 3" | 22 août 1920 | non passible |
+| 437 " | Delannoy | Clémentine | " | 28 janvier 1919 | Lebrun veuve | 4197 | 3998 | 199 | 6 3" | 28 janvier 1920 | 10/11/20 183 |
+| 438 " | Debutte | Jules | Waterloo | 19/8/1919 | Debutte veuve | 9130 | 4025 | 5105 | 3 " | 29 août 1920 | 29 mars 1921 103 5 avril 1921 105 |
+| Arrêté le vingt-neuf novembre 1919 (Servais) |
+| Arrêté le trente novembre 1919 (Dimanche) (Servais) |

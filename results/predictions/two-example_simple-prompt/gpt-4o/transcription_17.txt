@@ -1,0 +1,12 @@
+```plaintext
+| Date de décès | Nom | Prénoms | Domiciles | Actif | Passif | Restant | NET | Valeur des immeubles | Primitives | Supplémentaires | de l'expiration du délai de rectification | de l'exigibilité des droits | Date | Numéros de la consignation au sommier | Observations |
+|---------------|-----|---------|-----------|-------|--------|---------|-----|----------------------|------------|-----------------|----------------------------------------|-----------------------------|------|--------------------------------------|--------------|
+| 10 9bre 1918  | Deflandre | Gustave Emile | Ittre | 500 | 500 | | | | | | | | | | |
+| 10 9bre 1918  | Hysvoiel | Jules Julien | Ittre | 500 | 500 | | | | | | | | | | |
+| 10 9bre 1918  | Cordonnier | Louis | Monstreux | 500 | 500 | | | | | | | | | | |
+| 10 9bre 1918  | Decock | Julien | Ittre | 500 | 500 | | | | | | | | | | |
+| 10 9bre 1918  | Decock | Adèle | Ittre | 500 | 500 | | | | | | | | | | |
+| 18 9bre 1918  | Dolendries | Amélie | Ittre | 500 | 500 | | | | | | | | | | |
+| 11 9bre 1918  | Rousseau | Gustave | Nivelles | 500 | 500 | | | | | | | | | | |
+| 13 9bre 1918  | Dodoncka | Adèle | Ittre | 500 | 500 | | | | | | | | | | |
+```
