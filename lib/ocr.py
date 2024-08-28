@@ -14,7 +14,7 @@ pytesseract.pytesseract.tesseract_cmd = "C:/Program Files/Tesseract-OCR/tesserac
 class OCR:
     
     def easyOCR(self, image_path):
-        reader = easyocr.Reader(['en'])
+        reader = easyocr.Reader(['fr'])
         img = cv2.imread(image_path)
         results = reader.readtext(img)
         output = []
