@@ -1,0 +1,10 @@
+```plaintext
+| Date de décès | Numéros des personnes décédées ou absentes | Nom | Prénoms | Domiciles | Actif | Passif | Restant net | Valeur des immeubles | Primitives | Supplémentaires | Date de l'expiration du délai de rectification | Date de l'exigibilité des droits | Date | Numéros de la consignation au sommier | Observations |
+|---------------|-------------------------------------------|-----|---------|-----------|-------|--------|-------------|----------------------|------------|-----------------|---------------------------------------------|-------------------------------|------|-------------------------------|--------------|
+| 6 | 418 cinq 9bre | Cloquet | Catherine | Tubize | 5000 | 5000 | | | | | Arrêté le vingt novembre 1919 Servais | | | | |
+| 6 | 419 9bre | Vincent | Charles | Ittre | 12000 | 12000 | | | | | Arrêté le vingt novembre 1919 Servais | | | | |
+| 6 | 420 cinq 9bre | Boissdonghein | Henri | Quenast | 1771 | 1771 | | | | | Arrêté le vingt novembre 1919 Servais | | | | |
+| 6 | 420 bis cinq 9bre | Lambotte | Ernest | Ittre | 5000 | 5000 | | | | | Arrêté le vingt novembre 1919 Servais | | | | |
+| 6 | 420 ter cinq 9bre | Rousseau | Charles | Ittre | 5000 | 5000 | | | | | Arrêté le vingt novembre 1919 Servais | | | | |
+| 6 | 420 quater cinq 9bre | Lejeune | Henri | Ittre | 5000 | 5000 | | | | | Arrêté le vingt novembre 1919 Servais | | | | |
+```

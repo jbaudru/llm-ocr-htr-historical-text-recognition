@@ -1,0 +1,13 @@
+```plaintext
+| DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES BÉNÉFICIAIRES OU AMENDATAIRES | NOM, PRÉNOMS | DOMICILE | DATE DE L'ACTE | NATURE DES DROITS DÉCLARÉS | DROIT | DATE | RECETTE | OBSERVATIONS |
+|---------------|---------------------------------------------------------|-------------|----------|---------------|--------------------------|-------|------|---------|--------------|
+| 6 9bre 1919   | Gosiaux                                                  | Victorine   | Braine l'Alleud | Arrêté le vingt-quatre novembre 1919 | Servais | | | | |
+|               |                                                          |             |                  | Arrêté le vingt-quatre novembre 1919 | Servais | | | | |
+|               |                                                          |             |                  | Arrêté le vingt-quatre novembre 1919 | Servais | | | | |
+|               |                                                          |             |                  | Arrêté le vingt-quatre novembre 1919 | Servais | | | | |
+|               |                                                          |             |                  | Arrêté le vingt-quatre novembre 1919 | Servais | | | | |
+|               |                                                          |             |                  | Arrêté le trente novembre 1919 | Dimanche | | | | |
+| 6 9bre 1919   | Painblanc                                                | Joseph      | Nivelles         | Arrêté le premier décembre 1919 | Servais | | | | |
+| 6 9bre 1919   | Painblanc                                                | Amandine    |                  | Arrêté le premier décembre 1919 | Servais | | | | |
+| 6 9bre 1919   | Charlier                                                 | Jean-Bte    | Ittre            | Arrêté le deux décembre 1919 | Servais | | | | |
+```
