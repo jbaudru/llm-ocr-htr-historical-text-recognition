@@ -1,0 +1,8 @@
+```plaintext
+| 6 | 398 | huit | octobre | Leboevent | Adélaïde | Ophain | 16 | janvier | 1919 | Leboevent | Henri | & | autres | Arrêté | le | vingt | huit | octobre | 1919 | Servais |  
+| 6 | 399 | D | Lefèvre | Jules | Nivelles | 4 | janvier | 1919 | Lefèvre | Félicie | Arrêté | le | vingt | neuf | octobre | 1919 | Servais |  
+| 6 | 400 | D | Desmedt | Jeanne | Nivelles | 4 | janvier | 1919 | Desmedt | Marie | & | autres | Arrêté | le | trois | novembre | 1919 | Servais |  
+| 6 | 401 | D | Monseur | Marie | Anne | Clabecq | 4 | janvier | 1919 | Monseur | Edouard | Arrêté | le | trois | novembre | 1919 | Servais |  
+| 6 | 402 | D | Bouffy | Marie | Anne | Ittre | 24 | août | 1918 | Bouffy | Juliette | & | autres | Arrêté | le | trois | novembre | 1919 | Servais |  
+| 6 | 403 | D | Godart | Clément | Oisquercq | 7 | août | 1919 | Godart | Hortens | & | autres | Arrêté | le | trois | novembre | 1919 | Servais |  
+```

@@ -1,0 +1,15 @@
+```plaintext
+| Date de décès | Numéros des déclarations de succession | Nom | Prénoms | Domiciles | Actif | (2) | Passif | (2) | Restant | NET | (2) | Valeur des immeubles | (2) | Primitives | Supplémentaires | de l'expiration du délai de rectification | de l'exigibilité des droits | Date | N^03 | Numéros de la consignation au sommier n'30 | (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présente colonne.) |
+| 6 8bre 1919 | 411 | Wautlet | Florent | Waterloo | 16 8bre 1919 | 1777 | 1777 | 16 8bre 1919 | non passible |
+| 6 8bre 1919 | 412 | Chateau | Henri | Braine l'Alleud | 16 8bre 1919 | 12500 | 12500 | 16 8bre 1919 | non passible |
+| 6 8bre 1919 | 413 | Reyners | Louis | Ittre | 16 8bre 1919 | 1500 | 1500 | 16 8bre 1919 | non passible |
+| Arrêté le neuf novembre 1919 | servais |
+| 6 8bre 1919 | 414 | Wautlet | Louis | Nivelles | 16 8bre 1919 | 500 | 500 | 16 8bre 1919 | non passible |
+| 6 8bre 1919 | 415 | Taminiau | Henri | Braine l'Alleud | 16 8bre 1919 | 3500 | 3500 | 16 8bre 1919 | non passible |
+| 6 8bre 1919 | 416 | Dubru | Antoine | Ittre | 16 8bre 1919 | 500 | 500 | 16 8bre 1919 | non passible |
+| Arrêté le dix novembre 1919 | servais |
+| 6 8bre 1919 | 417 | Keuwels | Henri | Nivelles | 16 8bre 1919 | 6000 | 6000 | 16 8bre 1919 | non passible |
+| 6 8bre 1919 | 418 | Baeckant | Louis | Braine l'Alleud | 16 8bre 1919 | 12500 | 12500 | 16 8bre 1919 | non passible |
+| 6 8bre 1919 | 419 | Campinaire | Henri | Ittre | 16 8bre 1919 | 2500 | 2500 | 16 8bre 1919 | non passible |
+| Arrêté le onze novembre 1919 | servais |
+```

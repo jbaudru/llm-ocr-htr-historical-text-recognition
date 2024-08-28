@@ -1,0 +1,7 @@
+| Nom. | Prénoms | Domiciles | Actif. | (2) | Passif. | (2) | Restant | NET. | (2) | Date | N^03 |
+|------|---------|-----------|-------|-----|---------|-----|---------|------|-----|------|------|
+| Soupart | Germaine | Nivelles | 9191 | - | 9191 | - | - | - | - | 27 mars 1920 14 mars 1923 | - |
+| Petre | Alfred gh | Ittre | 2000 | - | 2000 | - | - | - | - | 29 mars 1920 | 99 |
+| Preaux | Augustin | Rebecq | 2025 | - | 1025 | - | 1000 | - | - | - | - |
+| Vandeubom | Julien | Braine l'Alleud | 11520 | - | 11520 | - | - | - | - | 29 mars 1920 15 mars 1923 | - |
+| Hennigars | Julie | Nivelles | 97594 | - | - | - | - | - | - | 29 Juillet 1920 | - |

@@ -1,0 +1,55 @@
+```plaintext
+| Date du décès | Nom | Prénoms | Domiciles | Actif | Passif | Restant NET | Valeur des immeubles | Primitives | Supplémentaires | de l'expiration du délai de rectification | de l'exigibilité des droits | Date | Numéros de la consignation au sommier | Observations |
+|---------------|-----|---------|-----------|-------|--------|-------------|----------------------|------------|-----------------|------------------------------------------|-----------------------------|------|----------------------------------------|--------------|
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |  |  |  |  | Arrêté le vingt-quatre novembre 1919 Servais |
+| 6 9bre 1919   | Gosiaux | Adolphe | Nivelles |  |  |  |  |  |  |

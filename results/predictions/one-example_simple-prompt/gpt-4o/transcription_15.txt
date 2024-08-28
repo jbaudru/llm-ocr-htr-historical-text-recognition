@@ -1,0 +1,8 @@
+```plaintext
+| Date de décès | Déclaration des personnes décédées ou absentes | Nom, Prénoms | Domiciles | Droits de succession | Date | Recette | Observations |
+|---------------|------------------------------------------------|--------------|-----------|----------------------|------|---------|--------------|
+| 4 janvier 1920 | Lefebvre | Arthur | Ittre | 6750 | 15/4/1920 | 15/4/1920 | 15/4/1920 |
+| 5 janvier 1920 | Druex | Marie | Nivelles | 1200 | 15/4/1920 | 15/4/1920 | 15/4/1920 |
+| 6 janvier 1920 | Lacroix | Michel | Ittre | 2500 | 15/4/1920 | 15/4/1920 | 15/4/1920 |
+| 6 janvier 1920 | Michiels | Albert | Nivelles | 4000 | 15/4/1920 | 15/4/1920 | 15/4/1920 |
+```

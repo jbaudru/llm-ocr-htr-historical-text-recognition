@@ -1,0 +1,15 @@
+| N° | DATE DE DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DEGRÉ DE PARENTÉ avec les héritiers ou légataires | ACTIF | PASSIF | RESTANT NET | DATE | RECETTE | OBSERVATIONS |
+|---|---------------|---------------------------------------------------|-------------------------------------------|-------|--------|-------------|------|---------|---------------|
+| 439 | 29 mars 1919 | Siemans Charles | Ittre | Cousins héritiers | 1591 | 291 | 1300 | 29 Sept 1919 | - | 20 Avril 1922 29 Janv 1923 |
+| 440 | " | Durig Antoine | Braine le Château | Epouse légataire universelle | 100 | - | 100 | 30 Sept 1919 | - | 2 Mai 1921 9 Janv 1922 |
+| 441 | " | Pieterboons Jean Baptiste | Waterloo 17 Juillet 1919 | Veuve héritière et autres | - | - | (Déclar. négative) | - | - | - |
+| 442 | " | Pieterboons Jean Gre | " | " | 116 | 25 | 691 | 8 Nov 1919 | non passible | - |
+| 443 | " | Desreger Henri Charles Richard | 22 mai 1919 | Héritiers légaux | 2895 | - | 2895 | 30 " | 30 " | 17 mars 1920 |
+|    |               | Arrêté le dix neuf novembre 1919 (Signed) |                                           |       |        |             |      |         |               |
+| 444 | vingt 9bre | Hautier Désiré | Bruxelles 29 Juillet 1919 | Héritiers légitimes et autres | 10111 | - | 10111 | 19 Janvier 1920 22 mars 1920 | - | 16 octobre 1923 |
+| 445 | " | Delaitre | Ophain Bois Seigneur Isaac 12 mai 1919 | Epouse légataire JB et autres | 9700 | - | 9700 | " " | 22 mars 1920 | non passible |
+|    |               | Arrêté le vingt novembre 1919 (Signed) |                                           |       |        |             |      |         |               |
+| 445 | vingt et un 9bre | Piercot | Juliette | Waterloo 15 Janvier 1919 | Légataires universels | (Déclar. négative) | - | - | - | - |
+| 446 | " | Soulignier | Ste | Rebecq 29 Juillet 1919 | Petits-enfants légataires Jus | 2261 | - | 2261 | " " | 22 mars 1920 | 26 octobre 1923 |
+| 447 | " | Mevens | Joseph | Tubize 17 Juillet 1919 | Veuve héritière et autres | 1534 | - | 1534 | " " | 22 mars 1920 | non passible |
+| 448 | " | Semal | Thomas | Nivelles 17 Juillet 1919 | Enfants héritiers et autres | 6000 | - | 6000 | 19/1 1920 | 16 mars 1920 | 12 octobre 1923 |

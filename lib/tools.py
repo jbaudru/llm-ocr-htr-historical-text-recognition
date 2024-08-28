@@ -110,31 +110,37 @@ class Tools:
         """
         #gt = gt.split("\n")
         #pred = pred.split("\n")
-        
         set1 = set(ngrams(pred, n=1))
         set2 = set(ngrams(gt, n=1))
-        
+
         try:
             jaccard = jaccard_distance(set1, set2)
         except:
             jaccard = 0
+            
         try:
             masi = masi_distance(set1, set2)
         except:
             masi = 0
+            
         try:
             levenshtein = levenshtein_distance(pred, gt)
         except:
             levenshtein = 0
+            
         try:
             cer = CER(pred, gt).item()
-            print("DEBUG: CER", cer)
         except:
             cer = 0
-        
-        bleu_metric = evaluate.load("bleu")
-        bleu = bleu_metric.compute(predictions=[pred], references=[[gt]])['bleu']
-        
+            
+        try:
+            if len(pred) == 0:
+                bleu = 0
+            else:
+                bleu_metric = evaluate.load("bleu")
+                bleu = bleu_metric.compute(predictions=[pred], references=[[gt]])['bleu']
+        except:
+            bleu = 0
             
         return jaccard, masi, levenshtein, cer, bleu
     
