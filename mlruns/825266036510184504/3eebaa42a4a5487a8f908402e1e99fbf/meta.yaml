@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/3eebaa42a4a5487a8f908402e1e99fbf/artifacts
+end_time: 1725366949813
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 3eebaa42a4a5487a8f908402e1e99fbf
+run_name: redolent-grub-429
+run_uuid: 3eebaa42a4a5487a8f908402e1e99fbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725366933396
+status: 3
+tags: []
+user_id: julien

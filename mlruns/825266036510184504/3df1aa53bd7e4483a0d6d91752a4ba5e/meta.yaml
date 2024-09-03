@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/3df1aa53bd7e4483a0d6d91752a4ba5e/artifacts
+end_time: 1725366981337
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 3df1aa53bd7e4483a0d6d91752a4ba5e
+run_name: orderly-roo-934
+run_uuid: 3df1aa53bd7e4483a0d6d91752a4ba5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725366978261
+status: 3
+tags: []
+user_id: julien

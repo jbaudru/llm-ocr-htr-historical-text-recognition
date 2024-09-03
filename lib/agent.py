@@ -92,23 +92,41 @@ class Agent:
         client = anthropic.Anthropic(api_key=self.anthropic_API_KEY)  
         try:
             if(message==None):
-                print("DEBUG")
-                response = client.messages.create(
+                if(base64_image):
+                    response = client.messages.create(
+                        model=self.model,
+                        max_tokens=max_tokens,
+                        #system = system,
+                        messages=[
+                            {
+                                "role": "user",
+                                "content": [
+                                    {
+                                        "type": "image",
+                                        "source": {
+                                            "type": "base64",
+                                            "media_type": "image/jpeg",
+                                            "data": base64_image,
+                                        },
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": prompt,
+                                    }
+                                ],
+                            }
+                        ],
+                        temperature=0,
+                    )
+                else:
+                    response = client.messages.create(
                     model=self.model,
                     max_tokens=max_tokens,
-                    system = system,
+                    #system = system,
                     messages=[
                         {
                             "role": "user",
                             "content": [
-                                {
-                                    "type": "image",
-                                    "source": {
-                                        "type": "base64",
-                                        "media_type": "image/jpeg",
-                                        "data": base64_image,
-                                    },
-                                },
                                 {
                                     "type": "text",
                                     "text": prompt,
@@ -122,7 +140,7 @@ class Agent:
                 response = client.messages.create(
                     model=self.model,
                     max_tokens=max_tokens,
-                    system = system,
+                    #system = system,
                     messages=message,
                     temperature=0,
                 )
