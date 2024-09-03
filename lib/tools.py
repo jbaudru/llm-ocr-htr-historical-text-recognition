@@ -77,9 +77,12 @@ class Tools:
 
     def xlsx_to_string(self, filepath):
         df = pd.read_excel(filepath)
-        string = df.to_string(index=False, header=False).replace("NaN", "")
+        
+        # Drop rows that don't have any information in any columns
+        df = df.dropna(how='all')
+
+        string = df.to_string(index=False, header=False)
         string = re.sub(' +', ' ', string)  # Replace multiple spaces with a single space
-        string = string.replace(" ", " | ")  # Add '|' between each column cell
         string = string.replace("\n", " \n")  # Ensure each new row starts on a new line
         return string
 

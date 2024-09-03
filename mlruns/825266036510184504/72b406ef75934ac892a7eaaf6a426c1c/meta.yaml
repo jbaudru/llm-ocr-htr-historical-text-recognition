@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/72b406ef75934ac892a7eaaf6a426c1c/artifacts
+end_time: 1725365739317
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 72b406ef75934ac892a7eaaf6a426c1c
+run_name: angry-gull-846
+run_uuid: 72b406ef75934ac892a7eaaf6a426c1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725365738140
+status: 4
+tags: []
+user_id: julien

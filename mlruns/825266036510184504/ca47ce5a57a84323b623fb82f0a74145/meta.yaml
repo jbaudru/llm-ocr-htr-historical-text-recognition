@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/ca47ce5a57a84323b623fb82f0a74145/artifacts
+end_time: 1725366394633
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: ca47ce5a57a84323b623fb82f0a74145
+run_name: silent-turtle-108
+run_uuid: ca47ce5a57a84323b623fb82f0a74145
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725366386636
+status: 4
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/12b28d3019f4449c8edfb1f8aa55a5bb/artifacts
+end_time: 1725366578046
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 12b28d3019f4449c8edfb1f8aa55a5bb
+run_name: bedecked-koi-273
+run_uuid: 12b28d3019f4449c8edfb1f8aa55a5bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725366562635
+status: 3
+tags: []
+user_id: julien

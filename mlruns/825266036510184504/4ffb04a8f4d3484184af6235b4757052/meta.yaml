@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/4ffb04a8f4d3484184af6235b4757052/artifacts
+end_time: 1725362949170
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 4ffb04a8f4d3484184af6235b4757052
+run_name: gentle-crow-291
+run_uuid: 4ffb04a8f4d3484184af6235b4757052
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725362942468
+status: 4
+tags: []
+user_id: julien

@@ -4,10 +4,12 @@ from lib.ocr import OCR
 from lib.img import Image
 
 from tqdm import tqdm
+import pandas as pd
 
 import os
 import mlflow
 import time
+import glob
 
 current_dir = os.getcwd()
 mlflow.set_tracking_uri(f"file:///{current_dir}/mlruns")
@@ -26,10 +28,10 @@ def append_result(texts, key, result):
 
 
 def evaluate():
-    experiment_name = "zero-shot_simple-prompt"
-    experiment_name = "zero-shot_complex-prompt"
-    experiment_name = "one-example_simple-prompt"
-    experiment_name = "two-example_simple-prompt"
+    experiment_name = "zero-shot_simple-prompt-lines"
+    #experiment_name = "zero-shot_complex-prompt"
+    #experiment_name = "one-example_simple-prompt"
+    #experiment_name = "two-example_simple-prompt"
     
     # few-shot
     texts = {
@@ -55,21 +57,34 @@ def evaluate():
         "KerasOCR": [],
     }
     
+    all = []
     trans_lst = []
     img_lst = []
+    
     for i in tqdm(range(0, 20), ascii=' >='): #20 max
         i += 1
         trans = "data/transcriptions/transcription_ex" + str(i) + ".xlsx"
-        trans_lst.append(tools.xlsx_to_string(trans))
+        txt_trans = tools.xlsx_to_string(trans)
+        line_trans = txt_trans.split("\n")
+        trans_lst += line_trans
         
-        image_path = "data/Archives_LLN_Nivelles_I_1921_REG 5193/example" + str(i) + ".jpeg"
-        img_lst.append(image_path)
+        image_path = f"data/lines/example{i}_"
+        pattern = f"{image_path}*"
+        image_path = glob.glob(pattern)
+        img_lst += image_path
+
+    print(f"Number of image lines: {len(img_lst)}")
+    print(f"Number of trans lines: {len(trans_lst)}")    
     
     # Create experiment folder
     experiment_folder = os.path.join("results/predictions/", experiment_name)
     os.makedirs(experiment_folder, exist_ok=True)
     
     for i in tqdm(range(len(img_lst)), ascii=' >='):
+        print("Processing image", img_lst[i])
+        file_i = i + 1
+        line_i = img_lst[i].split("_")[-1].split(".")[0]
+        
         transcription = trans_lst[i]
         image_path = img_lst[i]
 
@@ -86,10 +101,11 @@ def evaluate():
                 mlflow.log_param("method", model)
                 
                 # Zero-shot
-                #result = agent.draft(image_path)
+                res = agent.draft(image_path)
+                result = agent.callPostProcessing(res)
                 
                 # One-example / Two-example
-                result = agent.exampleShot(image_path, NbExamples=2)
+                #result = agent.exampleShot(image_path, NbExamples=2)
                 
                 # Refine
                 # TODO: add refine method
@@ -99,13 +115,15 @@ def evaluate():
                 mlflow.log_metric("bleu", (tools.compute_distances(result, transcription)[-1]))
                 append_result(texts, model, result)
                 
+                all.append({'file': file_i, 'line': line_i,'model': model, 'res': result})
+                
                 # Save result to file
                 result_file = os.path.join(method_folder, f"transcription_{i+1}.txt")
                 with open(result_file, "w", encoding="utf-8") as f:
                     f.write(result)
 
                 # add waiting time to avoid overloading the server
-                time.sleep(2)
+                time.sleep(1)
                 
         ocr_methods = {
             "EasyOCR": ocr.easyOCR,
@@ -125,10 +143,16 @@ def evaluate():
                 mlflow.log_metric("bleu", (tools.compute_distances(result, transcription)[-1]))
                 append_result(texts, key, result)
                 
+                all.append({'file': file_i, 'line': line_i,'model': key, 'res': result})
+                
                 # Save result to file
                 result_file = os.path.join(method_folder, f"transcription_{i+1}.txt")
                 with open(result_file, "w", encoding="utf-8") as f:
                     f.write(result)
+
+    all_df = pd.DataFrame(all)
+    all_df.to_csv(f"results/predictions/{experiment_name}/all.csv")
+    print(all_df)
 
     tools.compare_texts_violin_plot(texts, experiment_name)
     
