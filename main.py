@@ -118,7 +118,7 @@ def evaluate():
                 all.append({'file': file_i, 'line': line_i,'model': model, 'res': result})
                 
                 # Save result to file
-                result_file = os.path.join(method_folder, f"transcription_{i+1}.txt")
+                result_file = os.path.join(method_folder, f"transcription{file_i}_{line_i}.txt")
                 with open(result_file, "w", encoding="utf-8") as f:
                     f.write(result)
 
@@ -146,7 +146,7 @@ def evaluate():
                 all.append({'file': file_i, 'line': line_i,'model': key, 'res': result})
                 
                 # Save result to file
-                result_file = os.path.join(method_folder, f"transcription_{i+1}.txt")
+                result_file = os.path.join(method_folder, f"transcription{file_i}_{line_i}.txt")
                 with open(result_file, "w", encoding="utf-8") as f:
                     f.write(result)
 

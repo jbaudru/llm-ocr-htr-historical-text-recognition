@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/f3c35c53176a4d549b10409b68ba0550/artifacts
+end_time: 1725367029833
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: f3c35c53176a4d549b10409b68ba0550
+run_name: tasteful-bird-56
+run_uuid: f3c35c53176a4d549b10409b68ba0550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725367022684
+status: 3
+tags: []
+user_id: julien
