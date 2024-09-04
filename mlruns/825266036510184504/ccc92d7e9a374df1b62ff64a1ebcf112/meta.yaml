@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/ccc92d7e9a374df1b62ff64a1ebcf112/artifacts
+end_time: 1725372258066
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: ccc92d7e9a374df1b62ff64a1ebcf112
+run_name: upset-whale-826
+run_uuid: ccc92d7e9a374df1b62ff64a1ebcf112
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725372244941
+status: 3
+tags: []
+user_id: julien

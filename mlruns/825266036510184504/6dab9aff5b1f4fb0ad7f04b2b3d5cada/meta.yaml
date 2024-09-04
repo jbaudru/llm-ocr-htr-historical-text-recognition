@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/6dab9aff5b1f4fb0ad7f04b2b3d5cada/artifacts
+end_time: 1725367616910
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 6dab9aff5b1f4fb0ad7f04b2b3d5cada
+run_name: nosy-boar-769
+run_uuid: 6dab9aff5b1f4fb0ad7f04b2b3d5cada
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725367616714
+status: 3
+tags: []
+user_id: julien

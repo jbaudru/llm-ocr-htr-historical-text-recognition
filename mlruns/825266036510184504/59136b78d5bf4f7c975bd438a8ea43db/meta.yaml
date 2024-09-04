@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/59136b78d5bf4f7c975bd438a8ea43db/artifacts
+end_time: 1725371568759
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 59136b78d5bf4f7c975bd438a8ea43db
+run_name: chill-grub-508
+run_uuid: 59136b78d5bf4f7c975bd438a8ea43db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725371558871
+status: 3
+tags: []
+user_id: julien

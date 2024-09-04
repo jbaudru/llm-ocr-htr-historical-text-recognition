@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/c4d606d1d5ad4d44b26365087879385f/artifacts
+end_time: 1725376498106
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: c4d606d1d5ad4d44b26365087879385f
+run_name: stately-tern-304
+run_uuid: c4d606d1d5ad4d44b26365087879385f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725376497861
+status: 3
+tags: []
+user_id: julien

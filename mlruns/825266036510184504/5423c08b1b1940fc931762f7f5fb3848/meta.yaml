@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/5423c08b1b1940fc931762f7f5fb3848/artifacts
+end_time: 1725377970994
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 5423c08b1b1940fc931762f7f5fb3848
+run_name: learned-goat-579
+run_uuid: 5423c08b1b1940fc931762f7f5fb3848
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725377966317
+status: 3
+tags: []
+user_id: julien

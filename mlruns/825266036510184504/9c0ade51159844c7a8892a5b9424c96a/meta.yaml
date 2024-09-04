@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/9c0ade51159844c7a8892a5b9424c96a/artifacts
+end_time: 1725372207888
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 9c0ade51159844c7a8892a5b9424c96a
+run_name: clean-roo-52
+run_uuid: 9c0ade51159844c7a8892a5b9424c96a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725372193956
+status: 3
+tags: []
+user_id: julien

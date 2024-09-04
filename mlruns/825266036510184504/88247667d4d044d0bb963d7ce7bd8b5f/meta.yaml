@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/88247667d4d044d0bb963d7ce7bd8b5f/artifacts
+end_time: 1725368480049
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 88247667d4d044d0bb963d7ce7bd8b5f
+run_name: flawless-horse-643
+run_uuid: 88247667d4d044d0bb963d7ce7bd8b5f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725368477696
+status: 3
+tags: []
+user_id: julien

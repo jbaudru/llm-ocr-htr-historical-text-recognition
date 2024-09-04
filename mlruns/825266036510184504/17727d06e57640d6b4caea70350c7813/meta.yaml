@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/17727d06e57640d6b4caea70350c7813/artifacts
+end_time: 1725370698179
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 17727d06e57640d6b4caea70350c7813
+run_name: clean-penguin-561
+run_uuid: 17727d06e57640d6b4caea70350c7813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725370692726
+status: 3
+tags: []
+user_id: julien

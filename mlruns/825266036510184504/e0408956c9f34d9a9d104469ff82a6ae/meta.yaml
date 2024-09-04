@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/e0408956c9f34d9a9d104469ff82a6ae/artifacts
+end_time: 1725375691376
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: e0408956c9f34d9a9d104469ff82a6ae
+run_name: skittish-stag-373
+run_uuid: e0408956c9f34d9a9d104469ff82a6ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725375669429
+status: 3
+tags: []
+user_id: julien

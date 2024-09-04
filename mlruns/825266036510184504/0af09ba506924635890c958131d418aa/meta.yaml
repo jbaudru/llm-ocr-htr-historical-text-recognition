@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/0af09ba506924635890c958131d418aa/artifacts
+end_time: 1725371997887
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 0af09ba506924635890c958131d418aa
+run_name: bouncy-finch-127
+run_uuid: 0af09ba506924635890c958131d418aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725371997596
+status: 3
+tags: []
+user_id: julien

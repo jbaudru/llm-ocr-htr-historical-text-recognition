@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/cc0fb46eeb594bb6bf800e1eb6f79f80/artifacts
+end_time: 1725370299395
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: cc0fb46eeb594bb6bf800e1eb6f79f80
+run_name: fun-mouse-924
+run_uuid: cc0fb46eeb594bb6bf800e1eb6f79f80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725370297385
+status: 3
+tags: []
+user_id: julien

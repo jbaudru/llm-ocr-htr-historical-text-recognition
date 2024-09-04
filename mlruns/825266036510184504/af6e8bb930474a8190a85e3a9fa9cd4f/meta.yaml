@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/af6e8bb930474a8190a85e3a9fa9cd4f/artifacts
+end_time: 1725367190098
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: af6e8bb930474a8190a85e3a9fa9cd4f
+run_name: kindly-seal-10
+run_uuid: af6e8bb930474a8190a85e3a9fa9cd4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725367182609
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/c0704ab84c0645aabf589cb3a3054212/artifacts
+end_time: 1725370182560
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: c0704ab84c0645aabf589cb3a3054212
+run_name: nebulous-hare-206
+run_uuid: c0704ab84c0645aabf589cb3a3054212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725370170587
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/a9e3a9a82af14ff1822b27702ed71a31/artifacts
+end_time: 1725378097398
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: a9e3a9a82af14ff1822b27702ed71a31
+run_name: wise-boar-537
+run_uuid: a9e3a9a82af14ff1822b27702ed71a31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725378092257
+status: 3
+tags: []
+user_id: julien

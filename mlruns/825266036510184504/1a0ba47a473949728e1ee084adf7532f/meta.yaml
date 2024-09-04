@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/1a0ba47a473949728e1ee084adf7532f/artifacts
+end_time: 1725368242501
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 1a0ba47a473949728e1ee084adf7532f
+run_name: sophisticated-koi-51
+run_uuid: 1a0ba47a473949728e1ee084adf7532f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725368240380
+status: 3
+tags: []
+user_id: julien

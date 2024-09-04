@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/dca46df37f044648a61b91dbd22f069f/artifacts
+end_time: 1725371586467
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: dca46df37f044648a61b91dbd22f069f
+run_name: mercurial-bear-573
+run_uuid: dca46df37f044648a61b91dbd22f069f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725371586142
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/d850268b9d704249b1866597678d3add/artifacts
+end_time: 1725372635053
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: d850268b9d704249b1866597678d3add
+run_name: unique-grub-812
+run_uuid: d850268b9d704249b1866597678d3add
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725372628279
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/aae698e82b1f46f9be3645674bf12f4e/artifacts
+end_time: 1725371767556
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: aae698e82b1f46f9be3645674bf12f4e
+run_name: casual-fly-486
+run_uuid: aae698e82b1f46f9be3645674bf12f4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725371760718
+status: 3
+tags: []
+user_id: julien

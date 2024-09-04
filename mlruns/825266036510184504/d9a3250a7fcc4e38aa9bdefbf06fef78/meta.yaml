@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/d9a3250a7fcc4e38aa9bdefbf06fef78/artifacts
+end_time: 1725371623850
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: d9a3250a7fcc4e38aa9bdefbf06fef78
+run_name: auspicious-duck-442
+run_uuid: d9a3250a7fcc4e38aa9bdefbf06fef78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725371618377
+status: 3
+tags: []
+user_id: julien

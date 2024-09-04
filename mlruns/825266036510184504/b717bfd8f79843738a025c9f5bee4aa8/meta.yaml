@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/b717bfd8f79843738a025c9f5bee4aa8/artifacts
+end_time: 1725374483254
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: b717bfd8f79843738a025c9f5bee4aa8
+run_name: capable-hare-183
+run_uuid: b717bfd8f79843738a025c9f5bee4aa8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725374470838
+status: 3
+tags: []
+user_id: julien

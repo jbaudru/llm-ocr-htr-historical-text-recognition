@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/2f32df2dc93541fa8c9e3c4986160ab3/artifacts
+end_time: 1725371304288
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 2f32df2dc93541fa8c9e3c4986160ab3
+run_name: clumsy-perch-729
+run_uuid: 2f32df2dc93541fa8c9e3c4986160ab3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725371289244
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/1ddc2868ce43465a8f2e0163fd4191f2/artifacts
+end_time: 1725367709678
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 1ddc2868ce43465a8f2e0163fd4191f2
+run_name: judicious-deer-240
+run_uuid: 1ddc2868ce43465a8f2e0163fd4191f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725367703626
+status: 3
+tags: []
+user_id: julien

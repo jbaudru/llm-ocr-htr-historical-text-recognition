@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/7b8b2ec9207c4297ad89aa3a5ead3cdb/artifacts
+end_time: 1725377266441
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 7b8b2ec9207c4297ad89aa3a5ead3cdb
+run_name: big-stoat-680
+run_uuid: 7b8b2ec9207c4297ad89aa3a5ead3cdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725377261173
+status: 3
+tags: []
+user_id: julien

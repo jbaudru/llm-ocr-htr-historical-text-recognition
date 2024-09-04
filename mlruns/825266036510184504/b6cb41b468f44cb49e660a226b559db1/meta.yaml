@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/b6cb41b468f44cb49e660a226b559db1/artifacts
+end_time: 1725374136843
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: b6cb41b468f44cb49e660a226b559db1
+run_name: nebulous-mare-146
+run_uuid: b6cb41b468f44cb49e660a226b559db1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725374125604
+status: 3
+tags: []
+user_id: julien

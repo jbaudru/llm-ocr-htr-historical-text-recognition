@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/5dc3784282214718a6c9a3143348dd0e/artifacts
+end_time: 1725367513901
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 5dc3784282214718a6c9a3143348dd0e
+run_name: grandiose-fish-572
+run_uuid: 5dc3784282214718a6c9a3143348dd0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725367508646
+status: 3
+tags: []
+user_id: julien

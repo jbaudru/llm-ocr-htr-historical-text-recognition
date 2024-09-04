@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/559a02c2b46b4d6a9b227cb35b0e031b/artifacts
+end_time: 1725372907023
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 559a02c2b46b4d6a9b227cb35b0e031b
+run_name: languid-cub-765
+run_uuid: 559a02c2b46b4d6a9b227cb35b0e031b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725372893616
+status: 3
+tags: []
+user_id: julien

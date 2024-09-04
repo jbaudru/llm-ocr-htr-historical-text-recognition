@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/1ddb8d9fcbd342f4a994a40c5c1d2f07/artifacts
+end_time: 1725377408459
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 1ddb8d9fcbd342f4a994a40c5c1d2f07
+run_name: auspicious-fawn-821
+run_uuid: 1ddb8d9fcbd342f4a994a40c5c1d2f07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725377401934
+status: 3
+tags: []
+user_id: julien

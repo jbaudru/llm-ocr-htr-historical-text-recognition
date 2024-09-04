@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/4a631fa46e374b17b421c8b1eb2fc8db/artifacts
+end_time: 1725373616390
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 4a631fa46e374b17b421c8b1eb2fc8db
+run_name: resilient-dog-971
+run_uuid: 4a631fa46e374b17b421c8b1eb2fc8db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725373594779
+status: 3
+tags: []
+user_id: julien

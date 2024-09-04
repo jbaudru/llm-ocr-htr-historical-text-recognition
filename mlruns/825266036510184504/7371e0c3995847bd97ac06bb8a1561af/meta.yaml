@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/7371e0c3995847bd97ac06bb8a1561af/artifacts
+end_time: 1725370684902
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 7371e0c3995847bd97ac06bb8a1561af
+run_name: receptive-flea-437
+run_uuid: 7371e0c3995847bd97ac06bb8a1561af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725370672291
+status: 3
+tags: []
+user_id: julien

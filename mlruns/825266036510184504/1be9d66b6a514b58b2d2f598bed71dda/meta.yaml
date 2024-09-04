@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/1be9d66b6a514b58b2d2f598bed71dda/artifacts
+end_time: 1725371962741
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 1be9d66b6a514b58b2d2f598bed71dda
+run_name: likeable-perch-657
+run_uuid: 1be9d66b6a514b58b2d2f598bed71dda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725371957545
+status: 3
+tags: []
+user_id: julien

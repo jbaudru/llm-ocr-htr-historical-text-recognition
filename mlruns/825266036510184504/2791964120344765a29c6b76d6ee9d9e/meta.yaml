@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/2791964120344765a29c6b76d6ee9d9e/artifacts
+end_time: 1725368300937
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 2791964120344765a29c6b76d6ee9d9e
+run_name: salty-vole-816
+run_uuid: 2791964120344765a29c6b76d6ee9d9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725368295283
+status: 3
+tags: []
+user_id: julien

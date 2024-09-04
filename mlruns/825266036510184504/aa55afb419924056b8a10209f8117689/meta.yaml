@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/aa55afb419924056b8a10209f8117689/artifacts
+end_time: 1725374725969
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: aa55afb419924056b8a10209f8117689
+run_name: dapper-rat-881
+run_uuid: aa55afb419924056b8a10209f8117689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725374705338
+status: 3
+tags: []
+user_id: julien

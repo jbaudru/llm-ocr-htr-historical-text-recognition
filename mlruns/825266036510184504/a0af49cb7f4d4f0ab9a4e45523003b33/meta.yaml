@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/a0af49cb7f4d4f0ab9a4e45523003b33/artifacts
+end_time: 1725370736991
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: a0af49cb7f4d4f0ab9a4e45523003b33
+run_name: selective-whale-381
+run_uuid: a0af49cb7f4d4f0ab9a4e45523003b33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725370730955
+status: 3
+tags: []
+user_id: julien

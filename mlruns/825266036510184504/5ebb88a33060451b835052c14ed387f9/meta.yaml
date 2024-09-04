@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/5ebb88a33060451b835052c14ed387f9/artifacts
+end_time: 1725373254212
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 5ebb88a33060451b835052c14ed387f9
+run_name: blushing-cat-816
+run_uuid: 5ebb88a33060451b835052c14ed387f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725373243829
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/4cbe8b6b52944826b11a73edf583f498/artifacts
+end_time: 1725370571782
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 4cbe8b6b52944826b11a73edf583f498
+run_name: fearless-shrike-718
+run_uuid: 4cbe8b6b52944826b11a73edf583f498
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725370566826
+status: 3
+tags: []
+user_id: julien

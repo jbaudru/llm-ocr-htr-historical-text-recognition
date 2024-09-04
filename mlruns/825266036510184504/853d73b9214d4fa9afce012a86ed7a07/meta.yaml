@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/853d73b9214d4fa9afce012a86ed7a07/artifacts
+end_time: 1725373873553
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 853d73b9214d4fa9afce012a86ed7a07
+run_name: placid-mouse-619
+run_uuid: 853d73b9214d4fa9afce012a86ed7a07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725373858418
+status: 3
+tags: []
+user_id: julien

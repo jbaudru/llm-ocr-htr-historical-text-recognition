@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/10c875d7283d48fd87549bdab45f24ef/artifacts
+end_time: 1725376562211
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 10c875d7283d48fd87549bdab45f24ef
+run_name: sincere-grouse-923
+run_uuid: 10c875d7283d48fd87549bdab45f24ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725376550072
+status: 3
+tags: []
+user_id: julien

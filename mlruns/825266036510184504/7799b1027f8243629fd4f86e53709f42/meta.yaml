@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/7799b1027f8243629fd4f86e53709f42/artifacts
+end_time: 1725378108865
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 7799b1027f8243629fd4f86e53709f42
+run_name: whimsical-foal-161
+run_uuid: 7799b1027f8243629fd4f86e53709f42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725378097460
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/098c071d4a2c4507bdc6c453ea07b8e2/artifacts
+end_time: 1725369990517
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 098c071d4a2c4507bdc6c453ea07b8e2
+run_name: sassy-lynx-648
+run_uuid: 098c071d4a2c4507bdc6c453ea07b8e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725369984841
+status: 3
+tags: []
+user_id: julien

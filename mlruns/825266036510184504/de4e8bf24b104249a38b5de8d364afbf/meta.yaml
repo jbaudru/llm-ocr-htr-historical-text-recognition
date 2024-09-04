@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/de4e8bf24b104249a38b5de8d364afbf/artifacts
+end_time: 1725372017215
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: de4e8bf24b104249a38b5de8d364afbf
+run_name: capricious-bear-557
+run_uuid: de4e8bf24b104249a38b5de8d364afbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725372004766
+status: 3
+tags: []
+user_id: julien

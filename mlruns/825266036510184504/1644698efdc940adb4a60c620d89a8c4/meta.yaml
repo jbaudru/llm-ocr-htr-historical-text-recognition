@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/1644698efdc940adb4a60c620d89a8c4/artifacts
+end_time: 1725378500288
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 1644698efdc940adb4a60c620d89a8c4
+run_name: suave-gnat-546
+run_uuid: 1644698efdc940adb4a60c620d89a8c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725378497786
+status: 3
+tags: []
+user_id: julien

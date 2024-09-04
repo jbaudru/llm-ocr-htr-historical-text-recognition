@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/b40ad93f9d6d4aba95fd1df4a0e5d704/artifacts
+end_time: 1725372509532
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: b40ad93f9d6d4aba95fd1df4a0e5d704
+run_name: burly-finch-133
+run_uuid: b40ad93f9d6d4aba95fd1df4a0e5d704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725372496518
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/9edbd3e8cf394e56ba64cc1411931f0c/artifacts
+end_time: 1725371892957
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 9edbd3e8cf394e56ba64cc1411931f0c
+run_name: sedate-grouse-905
+run_uuid: 9edbd3e8cf394e56ba64cc1411931f0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725371890382
+status: 3
+tags: []
+user_id: julien

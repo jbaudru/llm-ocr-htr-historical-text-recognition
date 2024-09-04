@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/1a44c53d9269485ba370c4d8245422da/artifacts
+end_time: 1725378507013
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 1a44c53d9269485ba370c4d8245422da
+run_name: upset-dove-576
+run_uuid: 1a44c53d9269485ba370c4d8245422da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725378500351
+status: 3
+tags: []
+user_id: julien

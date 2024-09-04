@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/6ba46bc58da844c8a3fb8fabcfa85d92/artifacts
+end_time: 1725372299058
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 6ba46bc58da844c8a3fb8fabcfa85d92
+run_name: languid-hawk-570
+run_uuid: 6ba46bc58da844c8a3fb8fabcfa85d92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725372285665
+status: 3
+tags: []
+user_id: julien

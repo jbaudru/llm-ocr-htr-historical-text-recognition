@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/19ebb1b2d2ca4db5906df95fc295a97d/artifacts
+end_time: 1725371087915
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 19ebb1b2d2ca4db5906df95fc295a97d
+run_name: silent-moose-586
+run_uuid: 19ebb1b2d2ca4db5906df95fc295a97d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725371075117
+status: 3
+tags: []
+user_id: julien

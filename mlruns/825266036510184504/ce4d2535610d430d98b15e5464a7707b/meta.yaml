@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/ce4d2535610d430d98b15e5464a7707b/artifacts
+end_time: 1725367882043
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: ce4d2535610d430d98b15e5464a7707b
+run_name: angry-goose-155
+run_uuid: ce4d2535610d430d98b15e5464a7707b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725367873058
+status: 3
+tags: []
+user_id: julien

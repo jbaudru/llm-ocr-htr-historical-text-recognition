@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/249eb08f6b9449d09c733861bfdda89a/artifacts
+end_time: 1725371229900
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 249eb08f6b9449d09c733861bfdda89a
+run_name: masked-stork-903
+run_uuid: 249eb08f6b9449d09c733861bfdda89a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725371201829
+status: 3
+tags: []
+user_id: julien

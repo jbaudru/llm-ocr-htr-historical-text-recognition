@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/7a96d4353b4f4e6fb15fe7a91494da18/artifacts
+end_time: 1725368421625
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 7a96d4353b4f4e6fb15fe7a91494da18
+run_name: calm-bug-422
+run_uuid: 7a96d4353b4f4e6fb15fe7a91494da18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725368414518
+status: 3
+tags: []
+user_id: julien

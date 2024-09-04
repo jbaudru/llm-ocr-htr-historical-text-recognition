@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/4dfe1b1621aa4b79898cf5561869a550/artifacts
+end_time: 1725367322684
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 4dfe1b1621aa4b79898cf5561869a550
+run_name: auspicious-stag-284
+run_uuid: 4dfe1b1621aa4b79898cf5561869a550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725367322475
+status: 3
+tags: []
+user_id: julien

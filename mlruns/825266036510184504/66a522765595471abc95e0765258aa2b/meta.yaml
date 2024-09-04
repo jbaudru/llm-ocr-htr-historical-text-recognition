@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/66a522765595471abc95e0765258aa2b/artifacts
+end_time: 1725367733025
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 66a522765595471abc95e0765258aa2b
+run_name: shivering-bird-388
+run_uuid: 66a522765595471abc95e0765258aa2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725367726408
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/63983b7b538f45cab64110412c13c1fb/artifacts
+end_time: 1725371425213
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 63983b7b538f45cab64110412c13c1fb
+run_name: intelligent-croc-484
+run_uuid: 63983b7b538f45cab64110412c13c1fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725371413969
+status: 3
+tags: []
+user_id: julien

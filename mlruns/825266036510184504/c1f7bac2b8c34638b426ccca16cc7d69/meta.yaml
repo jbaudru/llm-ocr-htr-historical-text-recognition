@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/c1f7bac2b8c34638b426ccca16cc7d69/artifacts
+end_time: 1725377799396
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: c1f7bac2b8c34638b426ccca16cc7d69
+run_name: victorious-mole-468
+run_uuid: c1f7bac2b8c34638b426ccca16cc7d69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725377794651
+status: 3
+tags: []
+user_id: julien

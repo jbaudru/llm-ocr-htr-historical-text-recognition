@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/4d7f633e36ab4eb7aa5d392d33a2ccba/artifacts
+end_time: 1725375085985
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 4d7f633e36ab4eb7aa5d392d33a2ccba
+run_name: able-smelt-662
+run_uuid: 4d7f633e36ab4eb7aa5d392d33a2ccba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725375066047
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/262690192e5e4bfdae34c6a0b9e46e66/artifacts
+end_time: 1725375317605
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 262690192e5e4bfdae34c6a0b9e46e66
+run_name: agreeable-finch-430
+run_uuid: 262690192e5e4bfdae34c6a0b9e46e66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725375308700
+status: 3
+tags: []
+user_id: julien

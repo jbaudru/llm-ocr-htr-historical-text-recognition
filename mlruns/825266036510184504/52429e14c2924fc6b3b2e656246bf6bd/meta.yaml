@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/52429e14c2924fc6b3b2e656246bf6bd/artifacts
+end_time: 1725376403700
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 52429e14c2924fc6b3b2e656246bf6bd
+run_name: orderly-mare-451
+run_uuid: 52429e14c2924fc6b3b2e656246bf6bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725376361983
+status: 3
+tags: []
+user_id: julien

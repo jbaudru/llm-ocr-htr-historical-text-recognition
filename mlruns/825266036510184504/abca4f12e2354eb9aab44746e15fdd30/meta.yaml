@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/abca4f12e2354eb9aab44746e15fdd30/artifacts
+end_time: 1725370924409
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: abca4f12e2354eb9aab44746e15fdd30
+run_name: resilient-wren-150
+run_uuid: abca4f12e2354eb9aab44746e15fdd30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725370895275
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/ff452d93a8d0418998fcf53f3cf22238/artifacts
+end_time: 1725375867623
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: ff452d93a8d0418998fcf53f3cf22238
+run_name: judicious-gnat-502
+run_uuid: ff452d93a8d0418998fcf53f3cf22238
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725375856096
+status: 3
+tags: []
+user_id: julien

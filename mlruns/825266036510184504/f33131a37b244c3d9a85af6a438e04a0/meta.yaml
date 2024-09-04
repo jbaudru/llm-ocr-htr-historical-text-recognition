@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/f33131a37b244c3d9a85af6a438e04a0/artifacts
+end_time: 1725370123317
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: f33131a37b244c3d9a85af6a438e04a0
+run_name: unruly-lynx-680
+run_uuid: f33131a37b244c3d9a85af6a438e04a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725370123089
+status: 3
+tags: []
+user_id: julien

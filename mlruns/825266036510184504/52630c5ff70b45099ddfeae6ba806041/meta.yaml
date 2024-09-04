@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/52630c5ff70b45099ddfeae6ba806041/artifacts
+end_time: 1725377971324
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 52630c5ff70b45099ddfeae6ba806041
+run_name: debonair-fish-285
+run_uuid: 52630c5ff70b45099ddfeae6ba806041
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725377971054
+status: 3
+tags: []
+user_id: julien

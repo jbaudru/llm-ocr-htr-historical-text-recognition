@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/791177dff7344c1895e23acda18509dd/artifacts
+end_time: 1725367971175
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 791177dff7344c1895e23acda18509dd
+run_name: gaudy-worm-924
+run_uuid: 791177dff7344c1895e23acda18509dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725367966065
+status: 3
+tags: []
+user_id: julien

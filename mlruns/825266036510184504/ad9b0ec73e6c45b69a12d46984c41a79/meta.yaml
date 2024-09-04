@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/ad9b0ec73e6c45b69a12d46984c41a79/artifacts
+end_time: 1725371201804
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: ad9b0ec73e6c45b69a12d46984c41a79
+run_name: gregarious-horse-442
+run_uuid: ad9b0ec73e6c45b69a12d46984c41a79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725371192934
+status: 3
+tags: []
+user_id: julien

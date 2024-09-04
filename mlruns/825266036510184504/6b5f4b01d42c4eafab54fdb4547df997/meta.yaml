@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/6b5f4b01d42c4eafab54fdb4547df997/artifacts
+end_time: 1725370749158
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 6b5f4b01d42c4eafab54fdb4547df997
+run_name: fearless-toad-302
+run_uuid: 6b5f4b01d42c4eafab54fdb4547df997
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725370737013
+status: 3
+tags: []
+user_id: julien

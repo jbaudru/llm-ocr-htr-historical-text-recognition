@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/0d24a594a8a84a748f56377e38c45aa5/artifacts
+end_time: 1725378131358
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 0d24a594a8a84a748f56377e38c45aa5
+run_name: enthused-lamb-512
+run_uuid: 0d24a594a8a84a748f56377e38c45aa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725378129450
+status: 3
+tags: []
+user_id: julien

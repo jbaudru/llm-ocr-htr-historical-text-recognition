@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/85de3f0a30c24822837df2c1f7125e20/artifacts
+end_time: 1725376742812
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 85de3f0a30c24822837df2c1f7125e20
+run_name: peaceful-mule-241
+run_uuid: 85de3f0a30c24822837df2c1f7125e20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725376742542
+status: 3
+tags: []
+user_id: julien

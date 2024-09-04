@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/cebba20e5ace4b589d726020b9c0d7e7/artifacts
+end_time: 1725367866258
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: cebba20e5ace4b589d726020b9c0d7e7
+run_name: bright-stork-354
+run_uuid: cebba20e5ace4b589d726020b9c0d7e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725367861103
+status: 3
+tags: []
+user_id: julien

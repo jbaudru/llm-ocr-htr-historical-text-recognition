@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/fce36f4fc46d4aa892bea1fcb4476a91/artifacts
+end_time: 1725376912132
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: fce36f4fc46d4aa892bea1fcb4476a91
+run_name: sassy-pug-591
+run_uuid: fce36f4fc46d4aa892bea1fcb4476a91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725376894506
+status: 3
+tags: []
+user_id: julien

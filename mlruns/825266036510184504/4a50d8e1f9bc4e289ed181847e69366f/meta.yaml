@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/4a50d8e1f9bc4e289ed181847e69366f/artifacts
+end_time: 1725368006225
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 4a50d8e1f9bc4e289ed181847e69366f
+run_name: salty-cub-405
+run_uuid: 4a50d8e1f9bc4e289ed181847e69366f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725367994172
+status: 3
+tags: []
+user_id: julien

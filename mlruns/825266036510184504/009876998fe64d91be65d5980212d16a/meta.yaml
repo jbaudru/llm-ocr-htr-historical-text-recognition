@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/009876998fe64d91be65d5980212d16a/artifacts
+end_time: 1725378312190
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 009876998fe64d91be65d5980212d16a
+run_name: indecisive-asp-696
+run_uuid: 009876998fe64d91be65d5980212d16a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725378307747
+status: 3
+tags: []
+user_id: julien

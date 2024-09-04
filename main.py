@@ -123,7 +123,7 @@ def evaluate():
                     f.write(result)
 
                 # add waiting time to avoid overloading the server
-                time.sleep(1)
+                time.sleep(5)
                 
         ocr_methods = {
             "EasyOCR": ocr.easyOCR,
@@ -150,9 +150,10 @@ def evaluate():
                 with open(result_file, "w", encoding="utf-8") as f:
                     f.write(result)
 
-    all_df = pd.DataFrame(all)
-    all_df.to_csv(f"results/predictions/{experiment_name}/all.csv")
-    print(all_df)
+        # save progressively to avoid losing data
+        all_df = pd.DataFrame(all)
+        all_df.to_csv(f"results/predictions/{experiment_name}/all.csv")
+    #print(all_df)
 
     tools.compare_texts_violin_plot(texts, experiment_name)
     

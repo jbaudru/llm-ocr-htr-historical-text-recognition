@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/66697260c6db40cc9e0f21ab9de46865/artifacts
+end_time: 1725371663838
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 66697260c6db40cc9e0f21ab9de46865
+run_name: nimble-grub-535
+run_uuid: 66697260c6db40cc9e0f21ab9de46865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725371663507
+status: 3
+tags: []
+user_id: julien

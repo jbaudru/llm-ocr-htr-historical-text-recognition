@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/e2a29dab739d40359afd0c92f29c21fe/artifacts
+end_time: 1725375931598
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: e2a29dab739d40359afd0c92f29c21fe
+run_name: mysterious-wasp-823
+run_uuid: e2a29dab739d40359afd0c92f29c21fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725375907602
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/f1a24b13878140f1a82c4691a4a0a61e/artifacts
+end_time: 1725369984827
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: f1a24b13878140f1a82c4691a4a0a61e
+run_name: luminous-bird-838
+run_uuid: f1a24b13878140f1a82c4691a4a0a61e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725369982500
+status: 3
+tags: []
+user_id: julien

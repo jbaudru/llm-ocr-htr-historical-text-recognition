@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/697c09676f774d6e9221c777fd37c127/artifacts
+end_time: 1725370473664
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 697c09676f774d6e9221c777fd37c127
+run_name: skittish-frog-203
+run_uuid: 697c09676f774d6e9221c777fd37c127
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725370466626
+status: 3
+tags: []
+user_id: julien

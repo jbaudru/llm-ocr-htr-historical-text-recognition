@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/b4fbdd7f7fc84d34bb9d43eae0eb226a/artifacts
+end_time: 1725367894932
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: b4fbdd7f7fc84d34bb9d43eae0eb226a
+run_name: puzzled-lamb-684
+run_uuid: b4fbdd7f7fc84d34bb9d43eae0eb226a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725367889044
+status: 3
+tags: []
+user_id: julien

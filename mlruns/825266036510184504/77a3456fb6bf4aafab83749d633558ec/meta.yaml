@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/77a3456fb6bf4aafab83749d633558ec/artifacts
+end_time: 1725370937144
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 77a3456fb6bf4aafab83749d633558ec
+run_name: rumbling-loon-555
+run_uuid: 77a3456fb6bf4aafab83749d633558ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725370924432
+status: 3
+tags: []
+user_id: julien

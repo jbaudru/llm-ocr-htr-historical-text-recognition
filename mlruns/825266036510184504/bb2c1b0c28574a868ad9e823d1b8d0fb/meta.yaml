@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/bb2c1b0c28574a868ad9e823d1b8d0fb/artifacts
+end_time: 1725370728685
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: bb2c1b0c28574a868ad9e823d1b8d0fb
+run_name: brawny-stoat-25
+run_uuid: bb2c1b0c28574a868ad9e823d1b8d0fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725370723959
+status: 3
+tags: []
+user_id: julien

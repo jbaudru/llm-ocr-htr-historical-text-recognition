@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/dedf57686b964919af7cfa33daa5e9ec/artifacts
+end_time: 1725373178867
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: dedf57686b964919af7cfa33daa5e9ec
+run_name: useful-lark-702
+run_uuid: dedf57686b964919af7cfa33daa5e9ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725373164580
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/148e349faaf64992a257f2280e59650a/artifacts
+end_time: 1725371530503
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 148e349faaf64992a257f2280e59650a
+run_name: receptive-snail-718
+run_uuid: 148e349faaf64992a257f2280e59650a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725371518992
+status: 3
+tags: []
+user_id: julien

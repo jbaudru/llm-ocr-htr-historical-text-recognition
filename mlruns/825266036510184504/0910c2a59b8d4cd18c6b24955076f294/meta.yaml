@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/0910c2a59b8d4cd18c6b24955076f294/artifacts
+end_time: 1725377665469
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 0910c2a59b8d4cd18c6b24955076f294
+run_name: melodic-turtle-377
+run_uuid: 0910c2a59b8d4cd18c6b24955076f294
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725377663582
+status: 3
+tags: []
+user_id: julien

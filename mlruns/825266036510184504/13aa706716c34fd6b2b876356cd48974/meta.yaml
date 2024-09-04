@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/13aa706716c34fd6b2b876356cd48974/artifacts
+end_time: 1725377302815
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 13aa706716c34fd6b2b876356cd48974
+run_name: bold-hawk-848
+run_uuid: 13aa706716c34fd6b2b876356cd48974
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725377300706
+status: 3
+tags: []
+user_id: julien

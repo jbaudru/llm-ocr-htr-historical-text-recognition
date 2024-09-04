@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/faa0c5777de14235aaa30d78f64fcf84/artifacts
+end_time: 1725378490392
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: faa0c5777de14235aaa30d78f64fcf84
+run_name: selective-ray-208
+run_uuid: faa0c5777de14235aaa30d78f64fcf84
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725378463905
+status: 3
+tags: []
+user_id: julien

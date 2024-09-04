@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/27eab3003bc2497fb2a6e3b3e2f3d48b/artifacts
+end_time: 1725367849468
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 27eab3003bc2497fb2a6e3b3e2f3d48b
+run_name: bittersweet-fly-130
+run_uuid: 27eab3003bc2497fb2a6e3b3e2f3d48b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725367841072
+status: 3
+tags: []
+user_id: julien

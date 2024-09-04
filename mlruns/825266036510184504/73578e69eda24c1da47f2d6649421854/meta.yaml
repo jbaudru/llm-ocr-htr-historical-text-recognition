@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/73578e69eda24c1da47f2d6649421854/artifacts
+end_time: 1725370867767
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 73578e69eda24c1da47f2d6649421854
+run_name: calm-auk-365
+run_uuid: 73578e69eda24c1da47f2d6649421854
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725370854999
+status: 3
+tags: []
+user_id: julien

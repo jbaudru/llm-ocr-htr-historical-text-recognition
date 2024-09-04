@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/0b3b81cd24e5437ea7a0e9ec452e57be/artifacts
+end_time: 1725374927423
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 0b3b81cd24e5437ea7a0e9ec452e57be
+run_name: bouncy-shad-863
+run_uuid: 0b3b81cd24e5437ea7a0e9ec452e57be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725374916068
+status: 3
+tags: []
+user_id: julien

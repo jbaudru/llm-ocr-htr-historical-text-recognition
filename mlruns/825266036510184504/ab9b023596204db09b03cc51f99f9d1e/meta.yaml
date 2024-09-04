@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/ab9b023596204db09b03cc51f99f9d1e/artifacts
+end_time: 1725370024777
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: ab9b023596204db09b03cc51f99f9d1e
+run_name: bald-squirrel-107
+run_uuid: ab9b023596204db09b03cc51f99f9d1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725370017601
+status: 3
+tags: []
+user_id: julien

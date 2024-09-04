@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/1abf88167d20432dbe0665d9d7b98c53/artifacts
+end_time: 1725373452550
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 1abf88167d20432dbe0665d9d7b98c53
+run_name: sneaky-zebra-5
+run_uuid: 1abf88167d20432dbe0665d9d7b98c53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725373433993
+status: 3
+tags: []
+user_id: julien

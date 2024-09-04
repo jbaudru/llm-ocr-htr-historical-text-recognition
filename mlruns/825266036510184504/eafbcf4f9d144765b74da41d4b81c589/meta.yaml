@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/eafbcf4f9d144765b74da41d4b81c589/artifacts
+end_time: 1725367238302
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: eafbcf4f9d144765b74da41d4b81c589
+run_name: invincible-duck-502
+run_uuid: eafbcf4f9d144765b74da41d4b81c589
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725367238062
+status: 3
+tags: []
+user_id: julien

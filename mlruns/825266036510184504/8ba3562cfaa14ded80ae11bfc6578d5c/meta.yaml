@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/8ba3562cfaa14ded80ae11bfc6578d5c/artifacts
+end_time: 1725371489341
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 8ba3562cfaa14ded80ae11bfc6578d5c
+run_name: popular-pig-904
+run_uuid: 8ba3562cfaa14ded80ae11bfc6578d5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725371477847
+status: 3
+tags: []
+user_id: julien

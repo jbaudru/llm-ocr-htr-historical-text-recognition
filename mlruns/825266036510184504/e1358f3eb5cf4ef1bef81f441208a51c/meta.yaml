@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/e1358f3eb5cf4ef1bef81f441208a51c/artifacts
+end_time: 1725377990310
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: e1358f3eb5cf4ef1bef81f441208a51c
+run_name: nimble-stork-760
+run_uuid: e1358f3eb5cf4ef1bef81f441208a51c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725377976644
+status: 3
+tags: []
+user_id: julien

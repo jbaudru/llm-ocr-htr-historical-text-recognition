@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/758d6aabab6f4d2a8235011082987442/artifacts
+end_time: 1725367322459
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 758d6aabab6f4d2a8235011082987442
+run_name: efficient-moth-68
+run_uuid: 758d6aabab6f4d2a8235011082987442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725367318121
+status: 3
+tags: []
+user_id: julien

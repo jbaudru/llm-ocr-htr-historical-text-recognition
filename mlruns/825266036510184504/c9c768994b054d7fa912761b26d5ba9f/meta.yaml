@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/c9c768994b054d7fa912761b26d5ba9f/artifacts
+end_time: 1725374869445
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: c9c768994b054d7fa912761b26d5ba9f
+run_name: receptive-worm-406
+run_uuid: c9c768994b054d7fa912761b26d5ba9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725374855323
+status: 3
+tags: []
+user_id: julien

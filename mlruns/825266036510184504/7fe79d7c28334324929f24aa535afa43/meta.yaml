@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/7fe79d7c28334324929f24aa535afa43/artifacts
+end_time: 1725378268429
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 7fe79d7c28334324929f24aa535afa43
+run_name: gentle-shrew-163
+run_uuid: 7fe79d7c28334324929f24aa535afa43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725378264071
+status: 3
+tags: []
+user_id: julien

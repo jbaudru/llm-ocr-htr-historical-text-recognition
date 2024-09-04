@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/45337120e9634acba7fc24b2d7bbefb1/artifacts
+end_time: 1725376087484
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 45337120e9634acba7fc24b2d7bbefb1
+run_name: adaptable-kite-793
+run_uuid: 45337120e9634acba7fc24b2d7bbefb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725376043173
+status: 3
+tags: []
+user_id: julien

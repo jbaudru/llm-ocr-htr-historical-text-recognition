@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/bfa7a5bc5bce4ded966c3a78537a39bf/artifacts
+end_time: 1725368068018
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: bfa7a5bc5bce4ded966c3a78537a39bf
+run_name: popular-moose-985
+run_uuid: bfa7a5bc5bce4ded966c3a78537a39bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725368061102
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/a6535db4c0c84770b4c2bcdd4de67b5a/artifacts
+end_time: 1725376445897
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: a6535db4c0c84770b4c2bcdd4de67b5a
+run_name: classy-shrew-394
+run_uuid: a6535db4c0c84770b4c2bcdd4de67b5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725376431309
+status: 3
+tags: []
+user_id: julien
