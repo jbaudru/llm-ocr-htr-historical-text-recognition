@@ -1,11 +1,2 @@
-```
-Date de décès | Nom, Prénoms | Observations des personnes décédées ou absentes | Date | Observations
-10 janvier | Deflandre | Gustave Emile | 10 janvier | 
-10 janvier | Hyspeel | Jules Jules Louis | 10 janvier | 
-10 janvier | Cordena | Louis | 10 janvier | 
-10 janvier | Decock | Louis | 10 janvier | 
-10 janvier | Decock | Adèle | 10 janvier | 
-18 janvier | Dolendries | Amelie Marie | 18 janvier | 
-18 janvier | Rousseau | Gaston Jules | 18 janvier | 
-18 janvier | Dodoncka | Adèle | 18 janvier | 
-```
+DATE DU DECES | DESIGNATION DES PERSONNES DECEDES OU ABSENTES | DATE DE REGIE | NOMS, PRENOMS
+COLLATION | NOMS | PRENOMS | DOMICILE | PROFESSION | LIEU DE NAISSANCE | DATE DE NAISSANCE | ACTE | PARIS | NUMEROS | DATE | RECETTE | OBSERVATIONS

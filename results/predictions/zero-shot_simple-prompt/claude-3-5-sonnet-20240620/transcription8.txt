@@ -1,17 +1,28 @@
-NUMÉRO DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DEGRÉ DE PARENTÉ | NOMS, PRÉNOMS | DOMICILE DES PARTIES DÉCLARANTES | DROITS DE SUCCESSION | AMENDES | INTÉRÊTS | DATE | RECETTE | OBSERVATIONS
+N° DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DU DÉCÈS et du DOMICILE à l'époque du décès | NOMS, PRÉNOMS | DROITS DE SUCCESSION | RECETTE | OBSERVATIONS
+   DE LA         |                                                |                                                 |               | (en toutes lettres)  |        |
+DÉCLARATION      | NOMS.        | PRÉNOMS.   | DOMICILE.          |                                                 |               | MUTATION PAR DÉCÈS   |        |
+                 |              |            |                    |                                                 |               | ACTIF.  PASSIF.  RESTANT |    |
 
-433 | Gossiaux | décédé le 30 Novembre 1919 | Bruxelles | épse 2 noces | 1891 | - | 5.78 | 9 Janvier 1920 | 1 mars 1920 | -
-    | Samedi le vingt quatre novembre 1923 décédé |
-    | Samedi le vingt cinq novembre 1923 décédé |
-    | Samedi le vingt six novembre 1923 décédé |
-    | Samedi le vingt sept novembre 1923 décédé |
-    | Samedi le vingt huit novembre 1923 décédé |
-    | Samedi le vingt neuf novembre 1923 décédé |
-    | Samedi le trente novembre 1923 Dimanche décédé |
+438 vingt-cinq   | Gossiaux     | Antoine Jos | Roucourt 20/9/1849 | Roucourt époux à assister | 1095  -  1095      | 6 janvier 28 juillet | 3 mars 1920 69f |
+    fév          |              |             |                    |                           |                    |      1920     1920   |                |
+                 |              |             |                    |                           |                    |                      |                |
+    Décédé le vingt quatre novembre 1919 Roucourt                  |                           |                    |                      |                |
+    Décédé le vingt cinq novembre 1919 Roucourt                    |                           |                    |                      |                |
+    Décédé le vingt six novembre 1919 Roucourt                     |                           |                    |                      |                |
+    Décédé le vingt sept novembre 1919 Roucourt                    |                           |                    |                      |                |
+    Décédé le vingt huit novembre 1919 Roucourt                    |                           |                    |                      |                |
+    Décédé le vingt neuf novembre 1919 Roucourt                    |                           |                    |                      |                |
+    Décédé le trente novembre 1919 Dimanche Roucourt               |                           |                    |                      |                |
 
-438 | Sainblanc | Joseph | Marié le 15 Août 1909 | Schaerbeek | épouse 2 noces | 2295 | - | 6.95 | - | - | -
-439 | Sainblanc | Germaine | " | " | " | 2294 | - | 6.95 | - | - | -
-    | Samedi le premier Décembre 1923 décédé |
+439² trente      | Painblanc    | Joseph      | 1° janvier         | Painblanc Joseph à         | 1296   -   296    |        -             |                |
+    janvier 920  |              | François    | Roucourt           | assister                   |                   |                      |                |
 
-440 | Charlier | Jean Bte | Célibat. | 20/4/1849 | Schaerbeek | Frères et Soeurs | 3800 | - | 11.53 | - | - | -
-    | Samedi le 8 Décembre 1923 décédé |
+439³ d°          | Painblanc    | Emmanuel    | d°                 | d°                         | 2292   -   2292   |        -             |                |
+
+    Décédé le premier décembre 1919 Roucourt                       |                           |                    |                      |                |
+
+439⁴ deux fév    | Charlier     | Jean Bte    | Péruwelz 29/9/1845 | Péruwelz 7 rue du          | 3000   -   3000   |        -             |                |
+                 |              |             |                    | Jardinet jubilé Péru-      |                   |                      |                |
+                 |              |             |                    | welz à assister            |                   |                      |                |
+
+    Décédé le deux décembre 1919 Roucourt                          |                           |                    |                      |                |

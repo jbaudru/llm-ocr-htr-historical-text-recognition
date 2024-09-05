@@ -1,33 +1,40 @@
-DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | NOMS, PRÉNOMS | DROITS DE SUCCESSION | DROIT | AMENDES | DATE | RECETTE | OBSERVATIONS
+DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DU DÉCÈS | NOMS, PRÉNOMS | DROITS DE SUCCESSION | DROIT | NUMÉROS | RECETTE | DATE | OBSERVATIONS
+ou de                                           | ou de        | DOMICILE DES | DE LEURS SUCCESSEURS | de     | des      |         |      |
+l'ouverture                                     | l'ouverture  | PARTIES      | MUTATION PAR DÉCÈS   | muta-  | articles |         |      |
+de la                                           | de la        | DÉCLARANTES  |                      | tion   |          |         |      |
+déclaration                                     | succession   |              | ACTIF | PASSIF | MONTANT NET |          |         |      |
 
-Arrêté du premier janvier 1920 Excercice courant
+Arrêté le premier janvier 1920 Circulation fermée
 
-6 1 deux janvier Severin Jules Bruxelles 6 juillet Relations: Célibataire et 31882      rentier | 31882 | | 4/1 janvier 2 mars 1920 | 4 janvier 1920
-             1920                                                                                                1920
+1 deux janvier 1920 | Séverin Jules | Bruxelles, 6 juillet | Débitaire. Droits fixés et | 38742 | - | 38742 | 3/10 | 1 janvier à mars | 5 juillet 1919 | -
+                    |               | 1919                | autres                     |       |   |       | 1920 | 1920             |                |
 
-6 2 3e Dumont Louis Bruxelles 3 3e Témoin: Célibataire et | 319 10 10 | | 10 3e 10 3e | 10 janvier 1920
-                                rentier                                                1920
+2 do               | Dumont Louis  | Nivelles 3 do       | Héritier judiciaire et autres| 569  | 4010 | - | 13 02 | 3 02 | 23 janvier 1920 | -
 
-Arrêté du deux janvier 1920 courant
-Arrêté du trois janvier 1920 courant
-Arrêté du quatre janvier 1920 Excercice courant
+Arrêté le deux janvier 1920 fermé
 
-6 3 cinq janvier Houbin Edgard Arthur Bruxelles Avocat: Célibataire | 7097 76 | 7097 76 | 17/5 janvier 7 mars | 17 janvier 1920
-             1920                                                                           1920   1920
+Arrêté le trois janvier 1920 fermé
 
-6 3e 3e Severin Jules Bruxelles Rentier: Célibataire | 30162 | | 5/22 | -
-                 6 juillet                                    1922
-                   1919
+Arrêté le quatre janvier 1920 Circulation fermée
 
-6 3e 3e Vanderspypen Henri Nicolas 22 avril Rentier: Veuve | 7615 | 7615 | 10/22 | -
-                                1849                                1922
+3 cinq janvier    | Houlin Edgard  | Rebecq 5 juillet    | Avocat. Héritier réservataire | 117742 | - | 117742 | 117 | 10 février à mars | 25 juillet | 125
+                  |                | 1919                |                               |        |   |        | 1920 | 1920             | 6 juillet | 125
+                                                                                                                                         | 1920     |
 
-Arrêté du cinq janvier 1920 courant
+32 do             | Séverin Jules  | Bruxelles 6 juillet | Héritier. Léger              | 36962  | - | -      | 1    | 1920             | -         | -
+                  |                | 1919                |                               |        |   |        | 1920 |                  |           |
 
-6 4 six janvier Seclas Victor Joseph Bruxelles Rentier: Veuf de | 9199 | 9199 | 17 janvier 22 juillet | 17 janvier 1920
-             1920        22 juillet        Vandenbergh Joseph et                    1920   1920
-                           1848            rentier
+33 do             | Wanderpepen    | Nivelles 29 Avril   | Directeur. Divers            | 2636   | - | 75 45  | 1925 | -                | 25 janvier| -
+   (1)            | Marie          | 1919                |                               |        |   |        | 1917 |                  | 1920      |
 
-Arrêté du six janvier 1920 courant
+Arrêté le cinq janvier 1920 fermé
 
-Arrêté du sept janvier 1920 courant
+4 six janvier     | Declas Victor  | Genappe 25 Avril    | Receveur Enreg. Epoux et     | 9859   | - | 9859   | 15 février au 5    | 5 juillet | 125
+                  | Joseph Désiré  | 1919                | autres                       |        |   |        | juillet 1920       | 1920      |
+
+Arrêté le six janvier 1920 fermé
+
+Arrêté le sept janvier 1920 fermé
+
+(1) Les déclarations rectificatives et supplémentaires portent le numéro de la déclaration qu'elles complètent, affecté d'un exposant. (Circ. n° 1274, § 5, note 1.)
+(2) Négliger les centimes.

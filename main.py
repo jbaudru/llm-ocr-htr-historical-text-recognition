@@ -30,7 +30,7 @@ def append_result(texts, key, result):
 
 def evaluate():
     experiment_name = "zero-shot_simple-prompt"
-    #experiment_name = "zero-shot_complex-prompt"
+    experiment_name = "zero-shot_complex-prompt"
     #experiment_name = "one-example_simple-prompt"
     #experiment_name = "two-example_simple-prompt"
     
@@ -76,8 +76,8 @@ def evaluate():
         image_path = f"data/Archives_LLN_Nivelles_I_1921_REG 5193/example{i}.jpeg"
         img_lst.append(image_path)
 
-    print(f"Number of image lines: {len(img_lst)}")
-    print(f"Number of trans lines: {len(trans_lst)}")    
+    print(f"Number of image: {len(img_lst)}")
+    print(f"Number of trans: {len(trans_lst)}")    
     
     # Create experiment folder
     experiment_folder = os.path.join("results/predictions/", experiment_name)

@@ -1,53 +1,30 @@
-[Left page]
+N°  DATE DU DÉCÈS  DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES  NOMS, PRÉNOMS
+    MOIS  PRÉNOMS  DOMICILE
 
-DATE DU DÉCÈS   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES   DEGRÉ DE PARENTÉ   NOM, PRÉNOMS
-ou de             avec le                                        avec
-la déclaration    NOM,       PRÉNOMS,     DOMICILE               de cujus           DOMICILE DES AUTRES DÉCLARANTS
+18° 28 Septembre  Cabureau  Louis  Félix  Courcelles  Bouchaud Louis & autres
+18° 3°            Decbef    Jules            Le Roeulx  Decbef Gustave & autres
 
-                  Décédé le vingt janvier mil neuf
-                  
-                  Décédé le quatre février 1940 à Anvers
-                  
-                  Décédé le quinze février 1940 Bruxelles (Evere)
-                  
-                  Décédé le sept février 1940 à Anvers
+19  26 Août       Pelaiaux  Léonie  Mathilde  Le Roeulx  Pelaiaux Constantine
+19° 3°            Dubois    Alexandre  Ghislain  Houdeng  Dubois Jean Bte & autres
 
-18 mai 1940      Caluweau    Louis   Père    7 mai 1940 Brasschaet Louis Anvers
+19° 5 Septembre   Remience  Jean Bte  Morelles  Houdeng  Remience Florine
 
-18   "   "       Derbef      Jules   "       10 Mars   Anserf Gendarmerie à Anvers
+DROITS DE SUCCESSION  DROIT  NUMÉROS  DATE  RECETTE
+DE MUTATION EN LIGNE DIRECTE  D'ORDRE  DES  DE  DROITS PERÇUS
+ACTIF  PASSIF  RESTANT  ARTICLES  L'ENREGISTREMENT  DATE  N°
+NET
 
-                  Décédé le dix huit février 1940 à Anvers
-                  
-                  Décédé le dix neuf février 1940 à Anvers
+                                      91
+                                      471
+102             102                   372
+                                      1919
+6750                                  31 mars  22 juin  19 juillet  125
+                                      1920     1920     1920
+350             350                   160
+                                      1919
 
-19 décembre "    Petiaux     Emile   Veuve   20 mai 1940 Schaerbeek Bruxelles
+400             400                   165
+                                      1919
 
-19   "   "       Dubois      Alexandre Epoux 28 1940  Anderlecht Jean fils à Anvers
-
-                  Décédé le dix neuf février 1940 à Anvers
-                  
-                  Décédé le vingt février 1940 à Anvers
-
-19 septembre "   Remience    Jean fils Célibat. 27 février Remience Jeanne
-                                               1940
-
-[Right page]
-
-DROITS DE SUCCESSION   MONTANT   MONTANT   DATE   NUMÉRO   RECETTE   OBSERVATIONS
-et (ou) de mutation    des       des                du      locale
-par décès              DROITS    AMENDES            RÉCÉ-   DATE
-                                                    PISSÉ
-
-                       97 -
-
-                       101 -     501 -     24/5    244
-                                            40
-
-                       4170 -             31 mars  447 mars 31 mars
-                                           1941     1941    1941
-
-                       510 -     510 -    15/2     1704
-                                           41       41
-
-                       6500 -    6500 -   18/3     1865
-                                           41       41
+OBSERVATIONS:
+(1) Les déclarations en 4 pages à l'état brut sont à classer dans l'ordre alphabétique.

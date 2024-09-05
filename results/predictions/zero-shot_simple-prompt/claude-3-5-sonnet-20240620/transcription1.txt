@@ -1,10 +1,38 @@
-N° D'ORDRE DES DÉCLARATIONS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | NOM ET PRÉNOMS DES HÉRITIERS, LÉGATAIRES ET AUTRES AYANTS DROIT | DEGRÉ DE PARENTÉ | DOMICILE | DATE DE NAISSANCE | PROFESSION | DATE | BUREAU | RECETTE | OBSERVATIONS
-403 suite fol. | Bayot | Antoinette Marie Cathérine | 14 mai 1873 | Bayot Marie Antoinette | 13.999 | 5.735 | 13.999 | 5.735 | 15 Avril 1919 | 15 mai 1919
-404 " | Pauline | Antoinette Isabelle | 13 janvier 1843 | Pauline Isabelle | 999 | 999 | 999 | - | - | 10 Avril 1919
-405 " | Vandermeer | Eliane Emma Ghislaine | 6 avril 1915 | Brasseur Fernand | 1500 | 1500 | - | 10 " | 6 janvier 1920 | non produite
-406 " | Lemoine | Joseph Felix | 28 Août 1845 | Lemoine Julienne et autres | 1555 | 1555 | - | 28 Août 23 mai 1919 | non produite
-407 " | Monnaye | Jules | Bruxelles 12 Août 1841 | Monnaye Emile et autres | Déclaration d'absence | - | - | 15 janvier 1920
-408 " | Godeau Santerre | Clément Grégoire | 17 Août 1839 | Godeau Hortense et autres | 500 | 500 | - | 18 Août 9 octobre | non produite
-409 " | Fontaine | Ernest | Evelyn | 9 octobre 1845 | Fontaine Germaine | 918 | 666 | 252 | - | 19 Déc. 15 mai 1919 | non produite
-410 " | Allard | Joseph | Nivelles | 10 mars 1845 | Allard Désiré | 9400 | 9400 | - | 19 " | 19 janvier 1920 | Chômage 150
-411 " | Delrutte | Julienne | Châtelet | 18 mars 1871 | Delrutte Edmond Julien | 12.639 | 525 | 12.114 | - | 20 " | 15 mars 1920 | 3 février 1920
+N°   DATE DU DÉCÈS   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES   DATE DE DÉCÈS   NOMS, PRÉNOMS   DROITS DE SUCCESSION   DROIT   NUMÉROS   DATE   RECETTE   OBSERVATIONS
+     ou de la        NOM   PRÉNOMS   DOMICILE   ou de l'absence                     ACTIF   PASSIF   RESTANT   DE MUTATION   DES   de la      BUREAU   MONTANT
+     DÉCLARATION                                                                                     NET                    ARTICLES   déclaration   DATE   N°
+
+1919
+403  quatre 9bre   Payzot   Antoinette   Bruxelles   16 mai 1919   Payzot Marie et autres   12971   6291   6780   6780   1er   16 9bre 1919   13 mars   
+                                         (Etterbeek)                                        56/5    56/5   56/5                             1920
+
+405  D°            Paillot   Victoire   Ixelles   25 janvier 1919   Charles Honoré           5941           5941   5941                     10 9bre 1919
+                                                                                             59/1           59/1   59/1
+
+404  D°            Vandermeers   Marie Anne   Etterbeek   4 avril 1919   Beuselinck Edouard    500            500           10 D°   9 janvier   non passible
+                                                                                                                                    1920
+
+     Arrêté le quatre novembre 1919 (Signé)
+
+405  cinq 9bre     Lemoine   Joseph   Ixelles   25 Août 1919   Lemoine Juliette et autres   1115           1115           15 9bre 15 avril   non passible
+                                                                                                                                 1920
+
+406  D°            Monnaye   Jules   Schaerbeek   16 février 1919   Lemoine Anne et autres                                                   15 février 1920
+
+407  D°            Godeau     Clément   Cappellen   7 août 1919   Godeau Florimond et autres  500            500           16 9bre 7 avril    non passible
+     Saintelette                                                                                                                  1920
+
+     Arrêté le cinq novembre 1919 (Signé)
+     
+     Arrêté le dix novembre 1919 (Signé)
+
+408  sept 9bre     Fontaine   Honoré   Cureghem   15 octobre 1919   Brasseur Germaine         878    622    256            19 9bre 15 avril   non passible
+                                                                                              126    126                           1920
+
+409  D°            Allard   Prosper   Ixelles   16 avril 1919   Allard Marie               9260           9260           17 D°   19 juin    15 novembre 1920
+                                                                                                                                  1920
+
+     Arrêté le sept novembre 1919 (Signé)
+
+410  huit 9bre     Debrulle   Victorine   Ixelles   16 octobre 1919   Debrulle Bernard        12639   569   12067          20 D°   16 mars    29 février 1920
+                                                                                              56/5   56/5   56/5                   1920

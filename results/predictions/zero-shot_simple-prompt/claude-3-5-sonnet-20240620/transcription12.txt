@@ -1,30 +1,52 @@
-DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | NOMS, PRÉNOMS | [Additional columns for dates, amounts, and observations]
+[Left page]
 
-Samedi le vingt quatre décembre 1910 (Samedi)
+N° | DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DE NAISSANCE | NOM, PRÉNOMS
+   |               | NOM        | PRÉNOM   | DOMICILE |               | HÉRITIERS OU PARTIES RÉCLAMANTES
 
-Samedi le vingt-cinq décembre 1910 (Noël) (Samedi)
+6 | 444 vingt-trois | Thibaut    | Marie Louise | Genappe 5/8/1843 | Legat Henri & autres
+  | décembre        |            |              |                  |
+  | Arrêté du vingt-quatre décembre 1919 terminé |                 |
+  | Arrêté du vingt-cinq décembre 1919 Noël terminé |              |
+  | Arrêté du vingt-six décembre 1919 terminé     |                |
 
-6465 vingt sept déc | Thibault | Marie Louise | épouse | 57 ans | Legros Louis & autres
+6 | 444 vingt-sept | Wautbier   | Elise  | Boussu  14/3/1841 | Boussu Abel
+  | décembre       |            |        |                   |
 
-Samedi le vingt-huit décembre 1919 (Samedi)
+6 | 445 -          | Jacquet    | Germaine Henriette | 29 3° | Jacquet Louis
 
-6466 vingt-neuf déc | Wauthier | Adèle | Célibataire | 69 ans | Wauthier Adèle
+  | Arrêté du vingt-sept décembre 1919 terminé |
+  | Arrêté du vingt-huit décembre 1919 Dimanche terminé |
 
-6465 -- | Jacquet | Joséphine | Célibataire | 69 ans | Jacquet Emile
+6 | 446 vingt-neuf | Vanglaire  | Guillaume François | 14/8/1843 | Vanglaire Henri & autres
+  | décembre       |            |                    |           |
 
-Samedi le vingt-neuf décembre 1919 (Samedi)
+  | Arrêté du vingt-neuf décembre 1919 terminé |
+  | Arrêté du trente décembre 1919 terminé |
 
-Samedi le vingt-huit décembre 1919 (Dimanche) (Samedi)
+6 | 446 trente-un  | Plasman    | Rosalie Flamine | 10 mars | Dony Henri & autres
+  | décembre       |            | Célinie         | 1844    |
 
-6466 vingt neuf déc | Danglaire | Guillaume | Epoux de | 57 ans | Danglaire Henri & Lambert
+  | Arrêté du trente-un décembre 1919 terminé |
 
-Samedi le vingt neuf décembre 1919 (Samedi)
+[Right page]
 
-Samedi le trente décembre 1919 (Samedi)
+DROITS DE SUCCESSION | DROIT | NUMÉROS | DATE | RECETTE | OBSERVATIONS
+(à porter en compte)  |       | DES     |      |         |
+                      |       | ARTICLES|      |         |
+MUTATIONS | LEGS PARTICULIERS |         |      |         |
+ACTIF | PASSIF | NET           |         |      |         |
 
-6466 trente déc | Plasman | Rosalie | Veuve de | 80 ans | Piery Pierre & autres
-                |         | Rosalie | Célibat. | 80 ans |
-
-Samedi le trente-un décembre 1919 (Samedi)
-
-Les déclarations mentionnées au présent registre ont été reçues aux dates indiquées en la colonne 11.
+Thibaut:    | - | - | 1000 | - | 645/919 | - | - | - | - | -
+Wautbier:   | 11899 | - | 11899 | - | - | 17 janvier | 28 janvier | 28 janvier | 91 |
+Jacquet:    | 58931 | 2395 | 56536 | - | - | 9 3° | 29 3° | 19 avril 1920 | 95 |
+Vanglaire:  | 100 | - | 100 | - | - | 9 3° | 15 juillet | non produite | Voir feuille 1919 pour répartitions entre
+            |     |   |     |   |   |      | 1920      |              | 1916 - 99
+            |     |   |     |   |   |      |           |              | 1918 - 288
+            |     |   |     |   |   |      |           |              | 1919 - 100  191 288 389 488
+            |     |   |     |   |   |      |           |              | 589 688 787 886 985 1084
+            |     |   |     |   |   |      |           |              | Annuités à paiement de
+            |     |   |     |   |   |      |           |              | 1915 100 195
+            |     |   |     |   |   |      |           |              | 1916 288 291 386 486
+            |     |   |     |   |   |      |           |              | 1917 - 391 486 581 676 771
+            |     |   |     |   |   |      |           |              | 866 961
+Plasman:    | 145 | - | 145 | - | 30/1919 | - | - | - | - | Le décès en 1919

@@ -1,17 +1,39 @@
-[HEADER ROW]
-N° D'ORDRE | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DEGRÉ DE PARENTÉ | NOMS, PRÉNOMS | DOMICILE DES HÉRITIERS | DROITS DE SUCCESSION | DROIT | AMENDES | DATE | NUMÉRO | RECETTE | OBSERVATIONS
+N° DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DE DÉCÈS | NOMS, PRÉNOMS | DROITS DE SUCCESSION | DROIT | NUMÉROS | DATE | RECETTE | OBSERVATIONS
+   |              |                                                | ou de         |                | en cette attestation | de     | des      |      |         |
+   |              |                                                | présomption   |                |                      | muta-  | articles |      |         |
+   |              |                                                | d'absence     |                |                      | tion   |          |      |         |
+   | ANNÉE | MOIS | NOMS | PRÉNOMS | DOMICILE                      |               | HÉRITIERS DES PARTIES DÉCLARANTES | ACTIF | PASSIF | RESTE NET | VALEUR |   |   |   |   |   |
 
-[ENTRIES]
-641 | Devillers | Gustave | Fernand | Célibat. | Devillers Jules et al. | 24/12/1919 | - | - | - | - | -
-642 | Clabecq | Fernand | Mathilde | Veuve de | Lebrun Victor | 29/1/1919 | - | - | - | - | -
-    | Décédé le dix-neuf décembre 1918 (Bruxelles)
-    | Décédé le vingt décembre 1918 (Bruxelles)
-    | Décédé le vingt-sept décembre 1918 (Etterbeek-Bruxelles)
-643 | Gillibert | Clémentine | Célibat. | 29/8/1919 | Sœur germaine | 7507 | - | 7507 | - | 2 février 20 février 1920 | -
-644 | Baesmans | Henri | Époux de | O'Donnel | Baesmans Henri | 7551 | - | 7551 | 5517/1919 | - | 2 février 20 février 1920
-645 | Hénin | Maria | Célibat. | 4 avril 1919 | Hénin Jules | 1626 | - | 1626 | 561/1919 | - | 9 janvier 1920
-646 | Mathieu | Joséphine | Épouse | 1er mai 1919 | Boulangier Léopold | 14974 | - | 14974 | 617/1919 | - | -
-    | Décédé le vingt-deux décembre 1918 (Bruxelles)
-    | Décédé le vingt-trois décembre 1919 (Bruxelles)
-647 | Cauwenberg | Jean-Joseph | Marié le | 29 Août 1919 | Épouse: Colson et enfants | 262 | - | 262 | 1207/1919 | - | -
-648 | Antoine | Léon | Célibat. | 30 Mai 1919 | Maillard Marie Claire et al. | 1526 | - | 1526 | - | 19 janvier 20 janvier 1920 | non publiée
+441 22 mai 1919 Devillers Joséphine Renaix 9 février 1919 Devillers Jules et autres | solde négatif | | 499 | | | | | |
+                                                                                                                        1919
+
+442 30    Clabecq Fernand Renaix Frameries Delaunois Fernand | | | 541 | | | | | |
+                                                                                                                        1919
+
+          Décédé le vingt neuf décembre 1919 domicil
+
+          Décédé le vingt février 1919 domicil
+
+          Décédé le vingt un décembre 1919 Péronnes domicil
+
+442 vingt juin Gilbert Clémentine Châtelet 20 février Draguet née Draguet Marie | 7415 | | 7415 | | 5 février 20 7415 | 4 juillet 37 |
+                                                1919  & consorts 3°                                                    1920     1920
+
+442² 30    Paesmans René Renaix 61 31 mars Paesmans Marie | 9551 | | 9551 | 445 | | 6 février 34 |
+                           années  1915                                           1919              1920
+
+442³ 30    Winne Maria Renaix 5 avril Winne Jules | 1646 | | 1646 | 160 | | 7 janvier 31 |
+                                 1915                                             1919
+
+442⁴ 30    Mathieu Fortunnée Renaix 11 mars Bourgeois Alfred | 115731 | | 115731 | 675 | | | |
+                                    1919                                                 1919
+
+          Décédé le vingt deux décembre 1919 domicil
+
+          Décédé le vingt trois décembre 1919 domicil
+
+442⁵ vingt quatre Cauwenberg Victor Joseph Renaix 16 juillet Goossens célibat. s. enf. | 2662 | | 2662 | 100 | | | |
+    juin                                       1919                                                  1919
+
+443 30    Anthoine Alphonse Renaix 10 mai Anthoine Marguerite & autres | 1526 | | 1526 | | 6 février 21 avril | non passible |
+                                   1919                                                              1920     1920

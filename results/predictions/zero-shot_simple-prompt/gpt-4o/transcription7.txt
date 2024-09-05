@@ -1,23 +1,78 @@
-```
-N° D'ORDRE DES DECES | NOM | PRENOMS | PROFESSION | DOMICILE | DATE DE DECES | HEURE | LIEU | CAUSE | OBSERVATIONS
+```plaintext
+DATE DE DÉCÈS
+ou
+DÉCLARATION
+D'ABSENCE
 
-429 | Bobs | Louis | Ouvrier |  |  |  |  |  | 
+DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES
 
-430 | Heurat |  |  |  |  |  |  |  | 
+NOMS, PRÉNOMS
 
-431 | Romain |  |  |  |  |  |  |  | 
+DATE DE L'ENREGISTREMENT
+des déclarations de successions
 
-432 | Poliat |  |  |  |  |  |  |  | 
+NOMS, PRÉNOMS
 
-433 | Poliat |  |  |  |  |  |  |  | 
+DOMICILE
 
-434 | Houtmeyers |  |  |  |  |  |  |  | 
+NOMS, PRÉNOMS
 
-435 | Tribaut |  |  |  |  |  |  |  | 
+DROITS DE SUCCESSION
+MUTATION EN LIGNE DIRECTE
+ACTE
+PASSÉ
+RESTANT
+NET
 
-436 | Gausin |  |  |  |  |  |  |  | 
+DROIT DE MUTATION
+ENTRE VIFS
+ACTE
+PASSÉ
+RESTANT
+NET
 
-437 | Delamoy |  |  |  |  |  |  |  | 
+DATE
 
-438 | Dolrite |  |  |  |  |  |  |  | 
+REÇU
+DÉBITÉ
+
+REÇU
+DÉBITÉ
+
+OBSERVATIONS
+
+Sontés le vingt-six novembre 1919 Conseil
+
+429
+429
+430
+431
+432
+433
+434
+435
+436
+437
+
+Beth
+Huart
+Romain
+Poliart
+Poliart
+Houtmeyers
+Thibaut
+Gausin
+Delannoy
+Delatte
+
+Louis
+Jean
+Félicie
+Léon
+Achille
+Henri
+Eloi
+Ernest
+Ernest
+Louis
 ```

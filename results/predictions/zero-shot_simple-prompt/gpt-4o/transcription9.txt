@@ -1,10 +1,73 @@
 ```
-DATE DE DECES | NOM, PRENOMS | DATE | RECETTE | OBSERVATIONS
-4399 | Renops | 27 Août 1889 | 
-440 | Obélique | 1889 | 
-441 | Jacopini | 1889 | 
-442 | Vourane | 1889 | 
-443 | de Satires | 1889 | 
-444 | Heurvels | 1889 | 
-445 | Goise | 1889 | 
+DATE DE DECES
+DATE DE L'ACTE
+DECES
+NOM, PRENOMS
+DESIGNATION DES PERSONNES DECEDES OU ABSENTES
+NOM, PRENOMS
+DOMICILE
+DATE DE RECU
+NOMS, PRENOMS
+DROITS DE SUCCESSION
+MUTATIONS EN LIGNE DIRECTE
+ACTE
+PARIS
+ENREGISTRE
+N°
+VALEUR
+DATE
+NUMEROS
+RECEITTE
+DATE
+OBSERVATIONS
+6
+439
+Knops
+Societe le trois decembre 1919
+Bruxelles
+Nicolas
+Bruxelles
+Nicolas
+27 fevrier 1919
+Societe
+6
+440
+Despalque
+Societe le quatre decembre 1919
+Eugene
+Eugene
+Paris
+Paris
+6
+441
+Jacqmin
+Societe le cinq decembre 1919
+Petits
+Petits
+6
+442
+Vonsure
+Societe le six decembre 1919
+Elie
+Elie
+Paris
+Paris
+6
+443
+de Laleine
+Societe le huit decembre 1919
+Emile
+Emile
+6
+444
+Heumels
+Societe le dix decembre 1919
+Alphonse
+Alphonse
+6
+445
+Goisse
+Societe le onze decembre 1919
+Adolphe
+Adolphe
 ```

@@ -1,19 +1,26 @@
-N° DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | NOMS, PRÉNOMS | DROITS DE SUCCESSION | DROITS | AMENDES | DATE | NUMÉRO | RECETTES | OBSERVATIONS
-   JOUR MOIS ANNÉE | NOMS, | PRÉNOMS, | DOMICILES | ET QUALITÉS DES PARTIES INTÉRESSÉES | ACTIF | PASSIF | RESTANT NET | D'ENREG. | DE TIMBRE |  | DU REGISTRE | DROITS | AMENDES
+N°  DATE DE DÉPÔT  DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES  NOM, PRÉNOMS  DROITS DE SUCCESSION  DROIT  NUMÉROS  DATE  RECETTE  OBSERVATIONS
+                   NOMS          PRÉNOMS       DOMICILES           NOMS DES PARTIES DÉCLARANTES  ACTIF  PASSIF  NET   DES ARTICLES  DE L'ENREGISTREMENT  N°  DATE
 
-4 3 mars 1920 | Lefebvre | Gustave Euloge | 18/4/1841 Nivelles - Célibataire rentier | 6750 | | 6750 | 675 | | | 22/9/1920 675 | |
-                Décédé le 3 mars 1920 à Genappe
-                Décédé le 22 mai 1920 à Genappe
-                Décédé le 3 juin 1920 à Genappe
-                Décédé le 29 juin 1920 à Bousval Genappe
+4   huit janvier   Lefebvre      Gustave       Aubel              Wintgens Euphémie, rentière    8750         8750   1175   23 février  211   Non produite 520
+    1920                                       30 8/1919                                                                    1920
 
-6 5 mai 1920 | Denet | Flore Constance | 2/5/1839 Arquennes fille célibataire | 4200 | | 4200 | 420 | | 27/10/1920 | 420 | |
-                Décédée le 5 mai 1920 à Genappe
+    Soussigné le huit janvier 1920 décédé
+    Soussigné le neuf janvier 1920 décédé
+    Soussigné le dix janvier 1920 décédé
+    Soussigné le onze janvier 1920 Mémandre décédé
 
-6 6 mai 1920 | Lacroix | Marie Catherine | 17/9/1846 Plancenoit célibataire rentière | 2491 | | 2491 | | | 20 9bre 47 50 | | non passible
-                Décédée le 6 mai 1920 à Genappe
-                Décédée le 27 mai 1920 à Genappe
-                Décédée le 29 mai 1920 à Genappe
-                Décédée le 3 juin 1920 à Genappe
+5   deux janvier   Beuret        Florent       Goesnes, le neuf   Dejardin Jules, rentier        1200         1200   248    24 janvier  2 mars  Non produite
+    1920                                       1919                                                                         1920    1920
 
-6 7 mai 1920 | Michiels | Melanie | 27/9/1846 Plancenoit célibataire rentière | 18629 | | 18629 | | | 7/10/1920 1862 90 | | Exempte art
+    Soussigné le deux janvier 1920 décédé
+
+6   huit janvier   Lacroix       Marie Catherine Virginie  Pepinster  Pétronin, célibataire       3691         3691          28 9bre  15 mars  Non produite
+    1920                                       7/1/1920                                                                            1920
+
+    Soussigné le trois janvier 1920 décédé
+    Soussigné le quatre janvier 1920 décédé
+    Soussigné le cinq janvier 1920 décédé
+    Soussigné le six janvier 1920 décédé
+
+7   six février    Michiels      Hélène        Bressoux           Petronghini, débit de boissons  18125        18125         29 janvier  29 mars 1920  Taxé 1920 520
+    1920                                       29 juillet 1919                                                                   1920

@@ -1,114 +1,220 @@
 ```
-DATE DE DEPOT | DENOMINATION DES PIECES DEPOSEES OU REMISES | NOMS, PRENOMS
-              | NATURE | NOMBRE | NUMEROS | NOMS, PRENOMS
-              |        |        |         | DES PERSONNES QUI ONT FAIT LE DEPOT
+DATE DU DÉCÈS
+ou
+DÉCLARATION
 
-6  |  1915  |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |  1      |  1      |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arrêté de réquisition décembre 1914  |  Tibiéault
-    |        |         |         |  Arr
+DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES
+
+NOMS, PRÉNOMS
+
+Droits de succession
+MUTATION EN LIGNE DIRECTE
+ACTE
+PARIS
+NUMÉROS
+RELEVÉ
+N° de l'Acte
+DATE
+REÇU
+DATE
+OBSERVATIONS
+NOMS
+PRÉNOMS
+DOMICILE
+DATE DE RÉGIE
+NUMÉRO DE PARTIE DÉCLARATIVE
+VALEUR
+DROIT
+DE
+MUTATION
+DROIT
+DE
+PARTAGE
+REÇU
+DATE
+REÇU
+DATE
+
+6
+444
+inscrit
+décembre
+1919
+Société de vérification décembre 1919
+Noël
+Louis
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification décembre 1919
+Société de vérification
+```

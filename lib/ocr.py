@@ -25,6 +25,7 @@ class OCR:
         text = ' '.join([i[0] for i in output])
         return text
     
+    # TO test
     def trOCR(self, image_path):
         processor = TrOCRProcessor.from_pretrained("microsoft/trocr-base-handwritten")
         model = VisionEncoderDecoderModel.from_pretrained("microsoft/trocr-base-handwritten")

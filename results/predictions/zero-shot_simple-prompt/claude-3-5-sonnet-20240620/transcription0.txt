@@ -1,32 +1,36 @@
-[Header of the document]
-DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES                                                                 NOMS, PRÉNOMS                                                   DATE                                RECETTE
+N°  DATE DU DÉCÈS  DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES  DATE DE DÉPÔT  NOMS, PRÉNOMS  DROITS DE SUCCESSION  DROIT  NUMÉROS  DATE  RECETTE  OBSERVATIONS
+    ou de la        de la                                         MUTATION EN LIGNE DIRECTE  de la taxe  des        de        droits et
+    DÉCLARATION  NOMS        PRÉNOMS     DOMICILES                                           VALEUR     articles   l'enregis-  amendes
+                                                                  ACTIF     PASSIF   NET                           trement    perçus
 
-[Entries]
-Arrêté du vingt huit octobre 1919 (Annexe)
+    Arrêté du vingt-huit octobre 1919 (Jeudi)
 
-Arrêté du vingt neuf octobre 1919 (Annexe)
+    Arrêté du vingt-neuf octobre 1919 (Jeudi)
 
-398 Heerens     Alphonse Cyprien (1848/1)  Heerens Denis & autres     2280  1285  2285                  31/3/19 15/5/19      Courtrai 168
-399 "   Lefèvre     Jules     Francois & 6 janvier   Lefevre Charles              2285    -   2285      30/1                 "
-                                1879
+398 Trente   Everaert    Alphonse    Ophain  18/8/1919  Everaert Denis et autres  2280   1115   1165                11 29/10  15 14/11/19  (illisible) 365
+    octobre
 
-Arrêté du douze octobre 1919 (Annexe)
+398 "        Lefèvre     Jules       Braine  13 janvier Souris Charles            2225         2225                 216        1919
+                                     l'Alleud 1919                                                                  1919
 
-Arrêté du trente un octobre 1919 (Annexe)
+    Arrêté du trente octobre 1919 (Jeudi)
 
-Arrêté du premier novembre 1919 (Enregistrement Annexe)
+    Arrêté du trente-un octobre 1919 (Jeudi)
 
-Arrêté du deux novembre 1919 (Enregistrement Annexe)
+    Arrêté du premier novembre 1919 (Samedi) (Jeudi)
 
-400 Desmedt     Joanna     Nicolaas 18 mars   Catholique Belge célibataire  9100  630  95,30            17/3/19 13/5/19      19 feuillet 98
-                            1849                                                                                              Renaix
+    Arrêté du deux novembre 1919 (Dimanche) (Jeudi)
 
-401 Monsieur    Renaud Henri Ghislain  2 Août 1845  Monsieur Ghislain       292140 3281,57 295421,57    27/3    6/5/19
+399 trois 9bre Desmedt    Jeanne     Nivelles 13 mai    Willocq et Vve Desmedt    9670   630   9040                 15 3/11/19 13 mars      10 feuilles 35
+                                              1919                                                                            1920
 
-402 Bouty       Floriné    Désiré 6 octobre    Bouty Désiré & Sœur           2295    -    2295          15/3   22/3/19      Non feuillet
-                            1859
+400 "        Monseux     Renault     Chastre  4 8/1918  Monseux Gustave           69520  24415 45105                35 "      4 mars       
+                          Henri                                                                                               1920
 
-Arrêté du trois novembre 1919 (Annexe)
+401 "        Bouty       Flore       Braine  25 janvier Bouty Désiré et Vve       22195        22195                35 "      22 3/1920    non feuilles
+                                     l'Alleud 1919
 
-403 Goelant     Rosalie    Charles 22 mars    Goelant Gustave              17551  177,51  17728,51      30/4   22/5/19      13 novembre 16
-                            1845
+    Arrêté du trois novembre 1919 (Jeudi)
+
+402 quatre 9bre Godart   Rosalie     Wavre   22 mai     Themon Gustave            11559        11559                216 4/11  22 mars      15 articles 176
+                                              1919                                                                   1919     1920

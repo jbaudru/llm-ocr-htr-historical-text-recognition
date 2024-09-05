@@ -1,48 +1,39 @@
-[Left page]
-DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DEGRÉ DE PARENTÉ | NOMS, PRÉNOMS
-DES           |                                                | avec le défunt   | ET
-DÉCLARATIONS  | NOMS      | PRÉNOMS   | DOMICILE               | ou l'absent      | DOMICILE DES PARTIES INTÉRESSÉES
+N° DATE DE DÉPÔT | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DU DÉCÈS | NOMS, PRÉNOMS | DROITS DE SUCCESSION | DROIT | NUMÉROS | DATE | RECETTE | OBSERVATIONS
+   DES           |                                                | ou de         |                | MUTATION EN LIGNE DIRECTE | DE     | des      |      |         |
+DÉCLARATIONS     | NOMS        | PRÉNOMS     | DOMICILE           | l'ouverture   | DEMEURES DES PARTIES DÉCLARANTES | ACTIF | PASSIF | RESTANT | MUTATION | ARTICLES |   de   | du    |         |
+                 |             |             |                    | de            |                |       |        | NET    |         |          | l'enre- | borde- |         |
+                 |             |             |                    | succession    |                |       |        |        |         |          | gistre- | reau   |         |
+                 |             |             |                    |               |                |       |        |        |         |          | ment    |        |         |
 
-1920
-150 vingt quatre| Lambert   | Victorine | Rièzes   | de cujus  | Epse Charlier s. enfants
-    février     |
-151    "        | Severin   | Josephine | Chimay   | 3 cousins | Enfants Severin s. enfants
-152    "        | Danhiez   | Sidonie   | "        | 2e degré  | "
-153    "        | Delahij   | Jean Jos. | Forge    | cousins   | Epse née Bodson Marie
-                | Joseph    | Philippe  | Philippe | germains  |
-                |           |           |          |           | Décédé le vingt septembre 1920 à Chimay
-154 vingt cinq  | Charlier  | Victorine | Rièzes   | 4 cousins | Neus Jules & Cons
-    février     |           |           |          |           |
-                |           |           |          |           | Décédé le vingt quatre juin 1921 à Couvin
-                |           |           |          |           |
-                |           |           |          |           | Décédé le vingt sept juin 1921 à Gonrieux, Couvin
-154 vingt six   | Froment   | Georges   | Rièzes   | 2e degré  | Vve Devergnies Juliette
-    février     |
-155    "        | Devereux  | Jean Jos. | Presgaux | 3 cousins | Enfants Meunier s. enfants
-                |           |           | Chimay   | germains  |
-156    "        | Scolart   | Jean Jos. | Rièzes   | 6e degré  | Enfants Jules fils s. enfants
-                |           |           |          |           |
-                |           |           |          |           | Décédé le vingt sept juin 1920 à Couvin
-157 vingt huit  | Delfosse  | Marie Ther.| Forge   | 3e degré  | Delfosse Delphine
-    février     | Josephine | Philippe  | Philippe |           |
+6 150 vingt et juin | Lambeck    | Valentine   | Bruxelles         | 15 mars 1921  | Epoux Cauchie et autres | 18178 | 6497  | 11681  |         |          |        |        | 15 mai  | 19
+                                                                                                                                                                              1922
 
-[Right page]
-DROITS DE SUCCESSION | DROIT | AMENDES | DATE | BUREAU | RECETTE | OBSERVATIONS
-OU DE MUTATION       |       |         |      |        |         |
-PAR DÉCÈS            |       |         |      |        |         |
-ACTIF | PASSIF | ACTIF NET |       |         |      |        |         |
+6 151 "            | Serveau    | Joséphine   | Etterbeek         | 9 mars 1921   | Veuve Jh. Servais & autres | 6115 |       | 6115  |         |          |        |        | 9 févr. | 619
+                                                                                                                                                                              1922
 
-4870  | 1427  | 3443    |      |         |      |        | 18 mars 1920
-                                                         | 7 juillet 1920
-4385  |       | 4385    |      |         |      |        | non passible
-4706  | 590   | 4116    |      |         |      |        | non passible
-2236  | 502   | 1734    |      |         |      |        | non passible
+6 152 "            | Vanpée     | Fabrice     | "                 | 29 févr. 1920 | "                          | 9406 | 1396  | 8010  |         |          |        |        | non passible
 
-525   |       |  525    |      |         | 525  |        | 18 mars 1920
-                                           1925
+6 153 "            | Delabij    | Joachim Joseph | Bruxelles       | 15 janvier    | Veuve Jhin Delabij, Bruxelles | 2290 | 566   | 1724  |         |          |        |        | non passible
+                                                                    1922
 
-10702 | 1529  | 9173    | 917  |         |      |        | 9 mars 1920
-2165  |       | 2165    |      |         |      |        | non passible
-2499  |       | 2499    |      |         |      |        | id.
+         Arrêté le vingt et quatre juin 1924 (Signé)
 
-19655 | 4120  | 15535   |      |         |      |        | 3 Mars 1920
+6 153* vingt et cinq | Charlier   | Florianne   | Bruxelles         | 8 avril       | Veuve Jules & Cie           | 861  |       |       |         |          | 685    |        |
+         juin                                                       1922                                                                                      1922
+
+         Arrêté le vingt cinq juin 1924 (Signé)
+
+         Arrêté le vingt six juin 1924 Dimanche (Signé)
+
+6 154 vingt sept | Froment    | Georges     | Bruxelles         | 28 févr. 1921 | Veuve Demeure, Juliette     | 118,958| 1369 | 117,589|         |          | 16/5   |        | 9 janvier| 629
+                                                                                                                                                             1923               1923
+
+6 155 "          | Devreux    | Jean Bte    | Nouvelle Chaussée | 15 janvier    | Héritiers Devreux, & autres | 2669 |       | 2669  |         |          |        |        | non passible
+                                             Bruxelles           1922
+
+6 156 "          | Scolart    | Jean Joseph | Bruxelles         | 6 févr. 1920  | Veuve Jules Fils et autres  | 2691 |       | 2691  |         |          |        |        | id.
+
+         Arrêté le vingt sept juin 1924 (Signé)
+
+157 vingt huit " | Dehaigue   | Charles François | Brugge        | 29 déc. 1920  | Enfants Dehaigue           | 18126 | 7326 | 10800 |         |          |        |        | 9 févr. | 619
+                               Joseph        | Schaerbeek                                                                                                                    1923

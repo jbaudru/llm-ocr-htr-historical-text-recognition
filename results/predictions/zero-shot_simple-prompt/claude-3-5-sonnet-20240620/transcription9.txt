@@ -1,23 +1,34 @@
-N° D'ORDRE DU REGISTRE | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DEGRÉ DE PARENTÉ avec le défunt | NOMS, PRÉNOMS | DROITS DE SUCCESSION | NUMÉROS DU SOMMIER | DATE | RECETTE | OBSERVATIONS
-DES DÉCLARATIONS | NOMS | PRÉNOMS | DOMICILES | PROFESSIONS | DOMICILES DES PARTIES DÉCLARANTES | ACTIF | PASSIF | DROITS | DES ARTICLES | DE LA DÉCLARATION | DU PAYEMENT | DATE | N° | SOMMES PAYÉES
+N° DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DE DÉCÈS | NOMS, PRÉNOMS | DROITS DE SUCCESSION | DROIT | NUMÉROS | DATE | RECETTE | OBSERVATIONS
+   ou des        |                                                | ou de la      |                | (en francs)           | DE     | DES      |      |         |
+   DÉCLARATIONS  | NOMS,        PRÉNOMS,     DOMICILE,            | PRÉSOMPTION   | DÉBITEURS DES PARTIES DÉCLARANTES | ACTIF | PASSIF | MONTANT | MUTATION | ARTICLES |      |         |
+                 |              PROFESSION   ou RÉSIDENCE         | D'ABSENCE     |                |       |       | NET    |         |         |      |         |
 
-6 4539 Knops | Victorine | Rosalie | 27-8-41 | Namur Veuve | - | Décédé célibataire | 41 | 41 | - | - | 14 Mars 1919 | 14 novembre 1919
-D                                                                                                 179
+6 439° Samedi 3 Knops      Catherine Niselle 7°8°41  Knops Théodore        Décédé antérieurement  14    -    -    14 Juin 1941  -   -
+D  décembre 1919 Jemelle                                                                         179                17 août 1941
 
-6 4540 Defalque | Eugène | Armand | 17/10/46 | Wanfercée-Baulet | Veuf | 6.026 | - | 6.026 | - | 27 janvier 27 février | 5 mars 1919 | 976
-                                                                                                                           1919
+   Samedi 13 quatre décembre 1919 Jemelle
 
-6 4541 Jacquier | Emile | Ephrem | 19/7/1877 | Jumet Gohyssart | - | 14.691 | - | 14.691 | 30 | 30 juillet | 29 juillet 1919 | -
-B                                                                                                 1919
+6 440 cinq déc. Defalque   Eugénie François 17 juin 1919 Wanlin Villa Eugénie  4426   -   4426   15 Janvier Janvier 3 mars 1920 96
+D                          (veuve Collard)                                                       1920     1920
 
-6 4542 Rousseau | Jules | Prosper | 17/7/1879 | Gilly Sart Culpart | - | 75 | - | 75 | 28 | - | - | -
-"
+   Samedi le vingt décembre 1919 Jemelle
 
-6 4543 de Lalieux | Emile | Nicolas | 9/8/1938 | Seneffe rentier | - | 624 | - | 624 | 183 | - | - | -
-B                                                                                                 1919
+6 441 six déc. Jacqmin     Odile   épicière  24 juillet Jassogne François      56411   -  56411  10° 7° 20  25 août    16 juillet 115
+D                                  1919                                                1920      1920
 
-6 4544 Heuvels | Alphonsine | Rosalie | 9/1/1849 | Bruxelles Veuve | - | Décédé célibataire | 718 | - | 718 | - | - | -
-B                                                                                                 1919
+6 442° "      Voussure    Elise   Rentière  28 février Gilles André    75     -    75   24 -      -    -       -    -
+                                   à Jemelle 1919
 
-6 4545 Goisse | Adolphe | - | 9/1/1849 | Flénu[?]al mineur | - | 916 | - | 916 | 246 | - | - | -
-"                                                                                                 1919
+   Samedi le dix décembre 1919 Jemelle
+
+   Samedi le sept décembre 1919 Rochefort Jemelle
+
+6 443° huit décemb. de Lalieux  Emile   Rentier  7°8°1919  Anciaux Marie  629    -   629   1919    -    -       -    -
+
+   Samedi le huit décembre 1919 Jemelle
+
+6 444° neuf déc. Heuvels    Alphonsine Rentière 6 janvier Heuvels Louis  Décédé antérieurement  454    -    -       -    -
+D                                         1919                                         1919
+
+6 445° "      Goisse     Adolphe   "      6 janvier Schoonbroodt Clara  710    -   710   1919    -    -       -    -
+D                                         1919                                         1919

@@ -1,56 +1,33 @@
-[Left page]
+N°  DATE DU DÉCÈS  DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES  NOMS, PRÉNOMS
+    DÉCLARATIONS  NOMS    PRÉNOMS    DOMICILES   DES HÉRITIERS OU PARTIES DÉCLARANTES
 
-DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES
-NUMÉRO D'ORDRE | NOM | PRÉNOMS | DOMICILE | DATE DU DÉCÈS ou de la présomption d'absence
+    Arrêté le trente janvier 1920 (Signé)
+    Arrêté le trente un janvier 1920 (Signé)
+    Arrêté le premier février 1920 Dimanche (Signé)
 
-12 vingt juin | Castier | Oscar | Grammont | 9 janvier 1920 | Grammont, célibataire
+12  deux février  Carlier   Oscar    Quarouble  15 février  Carlier Vital à Jemappes
+                                     1920
 
-    Décédé le 22 août janvier 1920 à Grammont
-    Décédé le 4 septembre janvier 1920 à Grammont
-    Décédé le 12 janvier février 1920 à Grammont, célibataire
-    Décédé le deux février 1920 à Grammont
-    Décédé le trois février 1920 à Grammont
+    Arrêté le deux février 1920 (Signé)
+    Arrêté le trois février 1920 (Signé)
 
-13 vingt juin | Songe | Catherine | Renaix 20 | 17 juillet | Renaix, Veuve J. Cambier
-                                     juillet 1919
+13  vingt-quatre  Longe     Célestin  Boussu Lez 29 juillet Delaby Thomas à Boussu
+    janvier 1920                      Walcourt  1919
 
-14 20 | Legain | Emilie Irma | Renaix 17 | 17 août | Renaix, Veuve J. Cambier
-                               août 1919
+14  d°            Segain    Emile Henri Florennes 1 Août    Tonglet Jules à Florennes
+                                                 1919
 
-    Décédé le 19 octobre février 1920 à Grammont
+    Arrêté le quatre février 1920 (Signé)
 
-15 vingt juin | Raings | Marie Catherine | Renaix | 9 août | Marchande colporteur à Renaix
-                         Françoise        1919
+15  cinq février  Kaivers   Louis Catherine Boussu 9 août    Blondiau Alphonse à
+                            François Lez      1919          Boussu
+                                     Walcourt
 
-15² 20 | Denys | Marie Virginie | Grammont | 17 | Renaix, Veuve
-                                  août 1919
+15² d°            Denys     Louis Auguste Florennes 17 janvier Denise Emile
+                                              1920
 
-15³ 20 | Vanden Bossche | Georges Charles | 23 mars | Bergmann Emile
-                          Alphonse         1919
+15³ d°            Vandeelstraeten Georges Charles Chièvres  29 août   Caufriez Emile
+                                                1919
 
-15⁴ 20 | Samblancx | Joseph | Ninove 17 | 17 août | Clerc Notaire à Ninove
-                              août 1919
-
-[Right page]
-
-BUREAU DE PERCEPTION | DROITS | AMENDES | DATE | NUMÉRO | RECETTE | OBSERVATIONS
-ET SON RESSORT | LIQUIDÉS | DE LA | DU | DU | DROITS | 
-DANS LEQUEL LA TAXE EST EXIGIBLE | | | DÉCLARATION | REGISTRE | AMENDES | 
-ACTE | PASSIF | ACTIF NET | | | | | 
-NOTARIÉ | | | | | | | 
-
-2775 | 509 | 2266 | 7 et 9 mars et 24 août | 16 juin 20
-
-1236 | - | 1236 | 15 30 24 fév 1920 | non fournie
-
-1918 | 1325 | 593 | 15 17 30 17 fév 1920 | 2 fév 21 | 177
-
-1190 | - | 1190 | 15 30 17 juin 1920 | non fournie
-
-néant insuffisant | 385 | - | - | 5 janvier 21
-
-8504 | - | 8504 | 360 | 15 30 | 
-                    1920
-
-1229 | 2291 | 304 | 15 30 | 
-                    1919
+15⁴ d°            Lamblance Joseph    Boussu     17 janvier Remy Florimond à Boussu
+                                                 1920

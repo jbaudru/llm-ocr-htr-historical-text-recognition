@@ -1,41 +1,54 @@
-[Left page]
-DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DEGRÉ DE PARENTÉ avec le défunt | NOMS, PRÉNOMS | PROFESSION | DOMICILE | LIEU DE NAISSANCE et date de naissance
+N°  DATE DU DÉCÈS  DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES  DATE DES DÉCÈS  NOMS, PRÉNOMS
+    ou des            ou des
+    DÉCLARATIONS  NOM       PRÉNOMS     DOMICILE    DÉCLARATIONS  DÉNOMINATION DES PARTIES DÉCLARANTES
 
-145 22 septembre | Sauger | Charles Louis Désiré | 14 juillet | Sous-chef de bureau à l'enreg. et domaines
-    | | | 1862 | 
-    Décédé le 22 septembre 1921 à Ixelles
+145 vingt cinq juin Luyer     Edouard Louis Bruxelles 17 Août 1922 Van Ackère Julienne et autres
+                                                                   
+    Société du vingt juin 1923 dissoute
 
-146 22 septembre | Morren | Jean Bte Charles | 15 juillet | Rentier
-    | | | 1840 |
-    Décédé le 22 septembre 1921 à Ixelles
-    Décédé le 22 septembre 1921 à Bruxelles (domicile)
-    Décédé le vingt-deux septembre 1921 à Ixelles
+146 Six huit juin  Masson     Jean Bte    Bruxelles  17 février   Reine Thérèse
+                                                     1923
+    Société du huit huit juin 1921 dissoute
 
-147 vingt-quatre | Leblicq | Jean Bte Constant | 17 mars | Rentier. Ancien industriel, ex-notaire
-    | | | 1842 |
-    Décédé le vingt-quatre juin 1921 à Ixelles
-    Décédé le vingt-trois juin 1921 à Ixelles
-    Décédé le vingt-trois juin 1921 à Ixelles
+    Société du dix neuf juin 1923 Réimportée dissoute
 
-148 vingt-quatre | Dassel | Emmanuel | 29 juillet | Rentier. Invalide de guerre
-    | | Joseph | 1892 |
+    Société du vingt juin 1921 dissoute
 
-149 " | Hegelart | Laurent J. | 17 novembre | Négociant. Célibataire
-    | | François | 1868 |
+147 vingt cinq juin Schlicq   Jean Bte    Bruxelles  13 mars      Gérard Marie Henriette et autres
+                                                     1923
+    Société du vingt un juin 1921 dissoute
 
-[Right page]
-DROITS DE SUCCESSION | DROITS | PÉNALITÉS | DATE | RECETTE | OBSERVATIONS
-et amendes de retard | de mutation | de | de la | du | 
-NETTE | par décès | retard | DÉCLARATION | PAIEMENT | 
+    Société du vingt deux juin 1921 dissoute
 
-28895 | 1619 | 28895 | | 28 Sept 1922 |
-    | | | | 12 Mars 1923 |
+    Société du vingt trois juin 1921 dissoute
 
-28885 | 578 | 28828 | | 21 3 1922 |
+148 vingt quatre   Dasset     Emmanuel    Jemappes  15 juillet   Gérard Emilie et autres
+                   Joseph                 1920
 
-1902 | 380 | 1902 | | non imposable |
+149 3°             Kégelart   Fernand Jh  Bruxelles 12 mai 1923  Kégelart Elisabeth et autres
+                   Edouard
 
-1909 | 2323 | 1912 | 507,75 | | 9 janvier 1922
-    | | | | | (1922)
+DROITS DE SUCCESSION    DROIT   NUMÉROS    DATE       RECETTE
+(en cents additionnels)  FIXE     des                 BUREAUX
+                               DÉCLARATIONS           et N°
+MUTATION ENTRE VIFS                         DÉPÔT     d'ORDRE
+                                            des
+ACTIF   PASSIF  MONTANT         VALEUR      DÉCLARATIONS
+                NET             EN
+                                PRINCIPAL
 
-1918 | 385 | 1941 | | | non imposable
+5111    1112    37992                                 28 Août 1923
+                                                      N° 37/23 231
+
+12395   376     12029                                 31-8-23 149
+
+1923    256     1667                       non fournie
+
+9431    1229    8202           150 75                 6 janvier 1925
+                                                      332
+
+2236    225     2111                       non fournie
+
+OBSERVATIONS:
+(Les déclarations sont jointes à ceux
+des bureaux qui ont opéré la recette)

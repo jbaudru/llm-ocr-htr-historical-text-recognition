@@ -1,33 +1,43 @@
-[Left page]
-DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES
+N° DATE DE DÉPÔT   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES   DATE DU DÉCÈS   NOMS, PRÉNOMS
+d'ord.              NOM.        PRÉNOMS.      DOMICILE.             ou de
+                                                                l'envoi en possession
 
-Arrêté le cinq février 1920 (Anvers)
-Arrêté le sept février 1920 (Anvers)
-Arrêté le sept février 1920 (Anvers)
-Arrêté le huit février 1920 (Brasschaet) (Anvers)
-Arrêté le neuf février 1920 (Anvers)
+616 dix février   Soupart     Cornelius    Nivelles    11 mars 1919   Soupart Honoré & consorts
+                                                                      
+617   "           Fèvre       Alphonse     Tubize      2 Mai 1915     Fèvre Céline & consorts
+                                                       
+618   "           Siraux      Augustin     Rebecq     11 mars 1915    Empéreurs Emile
+                                                       
+619 onze f°       Vaneulsem   Adeline      Braine-     13 août 1915   Vaneulsem Edouard & consorts
+                               Marie G.     l'Alleud
 
-16 Veuve Soupart Clementine Nicolle 17 août 1919 Rentière (Anvers) s.enf.
-16bis Petre Alfred 96 Anvers 2 Mai 1919 Sans enfants ni ascendants
-16ter Preaux Augustin Ghislain 17 mars 1919 Commerçant (Anvers)
+620 douze février Honnijadi    Jules        Nivelles    22 février    Honnijadi Mathilde Florent
+                                                         1919
 
-Arrêté le dix février 1920 (Anvers)
-Arrêté le onze février 1920 (Anvers)
+DROITS DE SUCCESSION    DROIT    NUMÉROS                   DATE         RECETTE
+et droits d'enregistrement    DE        des                                BUREAU
+                          MUTATION   articles                           d'où émane
+ACTIF    PASSIF    MONTANT   PAR DÉCÈS                                  la perception
+                      NET
 
-17 Veuve Verheulpen Julien François 13 août 1919 Rentière (Bruxelles) s.enf.
+39181             39181     263  28 mars   11 juin   2194 4/20  133
+                            114   1920      1920     11 8° 120  178
 
-Arrêté le douze février 1920 (Anvers)
+4200              4200      9/10           29 mars    60
+                                            1920
+                                            
+1025              1025      119
+                            114
 
-18 Veuve Honnijcks Julie Jeanne 27 Août 1919 Rentière (St. Gilles) (Bruxelles)
+58524             58524     615  26 mars   17 juin   20 juillet 1920
+                             61   1920      1920
+                            
+                            
+95101             95 30    25 février   17 juin
+                            1920         1920
 
-[Right page]
-DATE | RECETTE | OBSERVATIONS
+OBSERVATIONS
 
-9101 | - | 9101 | 27 | 27 mars 1920 | 17 mars 1920
-2000 | - | 2000 | 97 | " | "
-2025 | - | 2025 | 179 | " | "
-                   | 97
-
-11525 | - | 11525 | 301 | 29 mars 1920 | 19 mars 1920
-
-97504 | - | 97504 | 2 | 31 Août 1920
+(Les déclarations ont figuré à l'état
+n° 482 fourni le 13 février 1920
+et ont été enregistrées le 16 dit)

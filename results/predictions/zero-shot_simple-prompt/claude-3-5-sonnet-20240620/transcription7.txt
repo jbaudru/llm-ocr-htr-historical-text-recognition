@@ -1,15 +1,35 @@
-N° D'ORDRE DES DÉCLARATIONS | NOMS, PRÉNOMS ET DOMICILE DES DÉCÉDÉS | NOMS, PRÉNOMS ET DOMICILE DES HÉRITIERS OU LÉGATAIRES | DEGRÉ DE PARENTÉ | DROITS DE SUCCESSION | DROITS DE MUTATION | DATE | RECETTE | OBSERVATIONS
---- | --- | --- | --- | --- | --- | --- | --- | ---
-Arrêté le vingt-un novembre 1919 (vingt-un)
-429 | Delft | Henri | Ouvrier | 25/9/1918 | Pâturages (décédé) | 9990 | 9990 | 3 janvier - 24 mars 1919 | 9 juin 1919 | 279
-430 | Huart | Zélie | - | 11/8/1918 | Pâturages (Joseph et autres) | 46695 | 1465 | 62160 | 3 3° | 19 avril 1919 | 2 octobre 1919 | 1742
-431 | Romain | Marie | 3 | 10/8/1918 | Pâturages (Désiré et autres) | 14035 | - | 14035 | 3 3° | 19 juillet 1919 | 29 juillet 1919 | 393
-432 | Poliaert | Louis | - | 15/8/1918 | Pâturages (Clémence et autres) | 591 | 291 | 882 | 1919 3° | 15 mars 1919 | 15 avril 1919 | 25
-433 | Poliaert | Arthur | - | 18 3° | " | 591 | 291 | 882 | 1919 3° | 15 3° | " | 25
-434 | Houtmeyers | Henri | célibataire | 23 mai 1918 | Pâturages (Delphine) | 2020 | 3958 | 5978 | 3 3° | 28 mars 1919 | 5 avril 1919 | 167
-435 | Thibaut | Marie Louise | épouse | 6/8/1918 | Eugène Louis et autres | 4191 | 14292 | 18483 3° | 5 février 1919 | non liquidé
-436 | Gaussin | Jean | Pensionné | 22/8/1918 | Pâturages (Joséphine) | 1060 | 502 | 1562 | 3 3° | 26 avril 1919 | non liquidé
-437 | Delamoy | Alexandrine | - | 28 janvier 1918 | Pâturages (veuve) | 4197 | 15396 | 593 | 2 3° | 28 janvier 1919 | 14/11/19 | 168
-438 | Debutte | Jules | célibataire | 29/8/1918 | Pâturages (enfants) | 9588 | 1425 | 11013 | 3 3° | 28 avril 1919 | 29 avril 1919 | 308
-Arrêté le vingt-un novembre 1919 (vingt-un)
-Arrêté le vingt-un novembre 1919 (vingt-un)
+N°   DATE DU DÉCÈS   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES   DATE DU DÉCÈS ou de l'absence   NOMS, PRÉNOMS ET QUALITÉS DES PARTIES DÉCLARANTES   DROITS DE SUCCESSION   DROIT   NUMÉROS   DATE   RECETTE   OBSERVATIONS
+                     NOMS.   PRÉNOMS.   DOMICILES.                                                    ACTIF   PASSIF   NET   MONTANT   des articles   de l'enregistrement   des droits   DATE   N°
+
+429  vingt deux     Delft   Henri     St-Gilles   25 mai      Flament Louis                           7665    -        7665                3 janvier-25 avril                         11 juin 360
+     novembre                Otto                 1918                                                                                                 1919                            1919    369
+
+430  "              Houart  Jean      "           17 8bre     Flament Joseph et autres                46795   1467     45328               3 "         17 août 1919   2 août 1919 360
+                                                  1918                                                                                                                                 7 juin 1919 362
+
+431  "              Romain  Félicie   "           10/9/1918   Meunier Denis et autres                 48111   -        48111               3 "         19 juillet      29 juillet 360
+                                                                                                                                                       1919            1919    365
+
+432  "              Poliart  Léon     "           15/8/1918   Flament Clémence et autres               974    141      833    105,75 3 "              17 août 1919   20 août 1919 63
+                                                                                                                                                                                       
+
+433  "              Poliart  Arthur   "           19 "        "                                        961    141      820    105,75 3 "              19 "            "       71
+
+434  "              Houtmeyers Henri  Anderlecht  28 mai      Andignies Désiré                        2836    519      2317                3 "         25 mars 1919   1 avril 1919 77
+                              Nicolas              1918
+
+435  "              Chilain  Marie Louis Fernand  5 9bre      Legrand Marie et autres                 11843   -        11843               3 "         5 9bre 1919    non fournie
+                                                  1918
+
+436  "              Gaussin  Léa      Manage &    22 8bre     Gaussin Camille                         1620    722      898                 3 "         22 août 1919   non fournie
+                                      Charleroi   1918
+
+437  "              Delannoy Clémentine "         28 mars     Delannoy Adolphe                        6194    5681     513                 3 "         23 janvier     14-11-21 148
+                                                  1918                                                                                                 1919
+
+438  "              Delutte  Jules    Waterloo    29 8bre     Delutte enfants                         9918    1413     2505                3 "         29 août        17 mars 1920 167
+                                                  1918                                                                                                 1919            21 août 1919 365
+
+Arrêté le vingt-cinq novembre 1919 (suivant)
+
+Arrêté le vingt-sept novembre 1919 (Dimanche excepté)

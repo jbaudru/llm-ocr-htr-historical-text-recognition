@@ -1,6 +1,101 @@
 ```
-DATE DE DECES | INDICATION DES PERSONNES DECEDES OU ABSENTES | DROITS DE SUCCESSION | DROITS D'ENREGISTREMENT | DATE | RECETTE | OBSERVATIONS
-              | NOMS, PRENOMS | QUALITE | DOMICILE | DATE DE L'ACTE | NATURE | VALEUR | DATE | NATURE | VALEUR | DATE | 
-              |               |         |         |                |        |       |      |        |       |      | 
+DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES
 
-6  |  143  |  Louis  |  et  |  Cloquet  |  Cultivateur  |  Moulins  |  29  |  mars  |  1911  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  4  |  mai  |  1911  |  55  |  
+DATE DE DÉCÈS OU DE L'ACTE DE DÉCÈS
+
+NOMS
+
+PRÉNOMS
+
+DOMICILE
+
+DATE DE RÉGIE
+
+NOMS, PRÉNOMS
+
+OBSERVATIONS
+
+6
+
+418
+
+Cloquet
+
+Léonore
+
+Mathieu
+
+4 mai 1919
+
+Évrard Alix
+
+6
+
+419
+
+Vincent
+
+Edouard
+
+Léon
+
+5 mai 1919
+
+Grisport Louis & autres
+
+6
+
+420
+
+Boisdenghien
+
+Denise
+
+Gérard
+
+14 mai 1919
+
+Dubois Alix & autres
+
+6
+
+420
+
+Lambotte
+
+Ernest
+
+Mathilde
+
+15 mai 1919
+
+Lambotte Louis
+
+6
+
+420
+
+Rousseau
+
+Charles
+
+Pierre
+
+6 mai 1919
+
+Rousseau Louis
+
+6
+
+421
+
+Lefrancq
+
+Henri
+
+Ludwig
+
+6 mai 1919
+
+Lefrancq Henri & autres
+```
