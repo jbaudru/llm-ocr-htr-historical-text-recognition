@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/5ac37e7044a543229341cdc270980971/artifacts
+end_time: 1725543253995
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 5ac37e7044a543229341cdc270980971
+run_name: inquisitive-loon-740
+run_uuid: 5ac37e7044a543229341cdc270980971
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725543236735
+status: 3
+tags: []
+user_id: julien

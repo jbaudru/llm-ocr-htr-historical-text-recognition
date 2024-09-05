@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/eefa2186c74140338a8d941658937951/artifacts
+end_time: 1725551737682
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: eefa2186c74140338a8d941658937951
+run_name: rumbling-bug-186
+run_uuid: eefa2186c74140338a8d941658937951
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725551631052
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/a79df10728fc4dccbe138fdb8d59ec4c/artifacts
+end_time: 1725540795205
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: a79df10728fc4dccbe138fdb8d59ec4c
+run_name: fortunate-calf-258
+run_uuid: a79df10728fc4dccbe138fdb8d59ec4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725540766625
+status: 3
+tags: []
+user_id: julien

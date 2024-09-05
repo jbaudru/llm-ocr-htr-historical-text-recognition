@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/6b8acc20eb854991a909e9d5f5d8a912/artifacts
+end_time: 1725545752419
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 6b8acc20eb854991a909e9d5f5d8a912
+run_name: colorful-bird-106
+run_uuid: 6b8acc20eb854991a909e9d5f5d8a912
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725545745962
+status: 4
+tags: []
+user_id: julien

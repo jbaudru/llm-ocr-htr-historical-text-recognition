@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/f34be8876b034119bd7d647ce19b7000/artifacts
+end_time: 1725543316169
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: f34be8876b034119bd7d647ce19b7000
+run_name: bright-whale-26
+run_uuid: f34be8876b034119bd7d647ce19b7000
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725543254021
+status: 3
+tags: []
+user_id: julien

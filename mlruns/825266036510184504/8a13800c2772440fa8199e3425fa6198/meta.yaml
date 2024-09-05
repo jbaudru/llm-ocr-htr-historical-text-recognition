@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/8a13800c2772440fa8199e3425fa6198/artifacts
+end_time: 1725552380165
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 8a13800c2772440fa8199e3425fa6198
+run_name: receptive-crane-80
+run_uuid: 8a13800c2772440fa8199e3425fa6198
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725552367924
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/c486e2be4b8e4a2a8332b1addf85a49f/artifacts
+end_time: 1725540447734
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: c486e2be4b8e4a2a8332b1addf85a49f
+run_name: popular-ram-325
+run_uuid: c486e2be4b8e4a2a8332b1addf85a49f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725540438738
+status: 3
+tags: []
+user_id: julien

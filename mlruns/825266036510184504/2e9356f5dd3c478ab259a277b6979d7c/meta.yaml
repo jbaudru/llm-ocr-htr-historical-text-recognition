@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/2e9356f5dd3c478ab259a277b6979d7c/artifacts
+end_time: 1725552529255
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 2e9356f5dd3c478ab259a277b6979d7c
+run_name: aged-moth-202
+run_uuid: 2e9356f5dd3c478ab259a277b6979d7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725552493672
+status: 3
+tags: []
+user_id: julien

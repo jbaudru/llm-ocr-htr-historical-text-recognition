@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/cf07c63f15004240b7b16829d07e8fb9/artifacts
+end_time: 1725541595428
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: cf07c63f15004240b7b16829d07e8fb9
+run_name: skittish-toad-173
+run_uuid: cf07c63f15004240b7b16829d07e8fb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725541577811
+status: 3
+tags: []
+user_id: julien

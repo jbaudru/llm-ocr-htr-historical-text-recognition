@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/b8e02d072e6b4471b737fe4aae412bab/artifacts
+end_time: 1725538966736
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: b8e02d072e6b4471b737fe4aae412bab
+run_name: welcoming-fox-309
+run_uuid: b8e02d072e6b4471b737fe4aae412bab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725538944606
+status: 3
+tags: []
+user_id: julien

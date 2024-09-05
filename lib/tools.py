@@ -80,12 +80,16 @@ class Tools:
         
         # Drop rows that don't have any information in any columns
         df = df.dropna(how='all')
-
+        
+        # Fill NaN values with a whitespace
+        df = df.fillna(" ")
+        
         string = df.to_string(index=False, header=False)
         string = re.sub(' +', ' ', string)  # Replace multiple spaces with a single space
         string = string.replace("\n", " \n")  # Ensure each new row starts on a new line
         return string
-
+    
+    
     def getData(self):
         # Open the text file in append mode
         with open("data_rag/names.txt", "a") as file:
@@ -137,6 +141,11 @@ class Tools:
             cer = 0
             
         try:
+            wer = jiwer.wer(pred, gt)
+        except:
+            wer = 0
+            
+        try:
             if len(pred) == 0:
                 bleu = 0
             else:
@@ -145,7 +154,7 @@ class Tools:
         except:
             bleu = 0
             
-        return jaccard, masi, levenshtein, cer, bleu
+        return jaccard, masi, levenshtein, cer, bleu, wer
     
         
     def CERreduction(self, prev_pred, curr_pred, gt):
@@ -170,6 +179,7 @@ class Tools:
             "EasyOCR": [],
             "Pytesseract": [],
             "KerasOCR": [],
+            "trOCR": [],
         }
         
         blue_dict = {
@@ -178,6 +188,16 @@ class Tools:
             "EasyOCR": [],
             "Pytesseract": [],
             "KerasOCR": [],
+            "trOCR": [],
+        }
+        
+        wer_dict = {
+            "gpt-4o": [],
+            "claude-3-5-sonnet-20240620": [],
+            "EasyOCR": [],
+            "Pytesseract": [],
+            "KerasOCR": [],
+            "trOCR": [],
         }
         
         models = list(cer_dict.keys())
@@ -187,10 +207,10 @@ class Tools:
                 for i in range(len(texts[model])):
                     gd = texts["GT"][i]
                     pred = texts[model][i]
-                    jacc, mas, lev, cer, blue = self.compute_distances(pred, gd)
+                    jacc, mas, lev, cer, blue, wer = self.compute_distances(pred, gd)
                     cer_dict[model].append(cer)
                     blue_dict[model].append(blue)
-        
+                    wer_dict[model].append(wer)
         # CER
         data = []
         for model in models:
@@ -226,7 +246,62 @@ class Tools:
         plt.grid(axis='y')
         plt.savefig("results/comparisons/" + image_name + "_violinplot_bleu.png")
         plt.show()
+        
+        # WER
+        data_wer = []
+        for model in models:
+            for wer in wer_dict[model]:
+                data_wer.append((model, wer))
+        df3 = pd.DataFrame(data_wer, columns=["Model", "WER"])
+        df3.to_csv("results/comparisons/" + image_name + "_wer.csv")
+        plt.figure(figsize=(12, 12))
+        sns.violinplot(x="Model", y="WER", data=df3, palette="Set3")
+        plt.title('Word Error Rate (WER)')
+        plt.xlabel('Models')
+        plt.ylabel('WER')
+        plt.xticks(rotation=45, ha='right')
+        plt.tight_layout()
+        plt.grid(axis='y')
+        plt.savefig("results/comparisons/" + image_name + "_violinplot_wer.png")
+        plt.show()
 
+    def bar_plot(self, texts, image_name):
+        #create a bar for each model with BLUE average
+        blue_dict = {
+            "gpt-4o": [],
+            "claude-3-5-sonnet-20240620": [],
+            "EasyOCR": [],
+            "Pytesseract": [],
+            "KerasOCR": [],
+        }
+        
+        models = list(blue_dict.keys())
+        
+        for model in texts:
+            if model != "GT":
+                for i in range(len(texts[model])):
+                    gd = texts["GT"][i]
+                    pred = texts[model][i]
+                    jacc, mas, lev, cer, blue, wer = self.compute_distances(pred, gd)
+                    blue_dict[model].append(blue)
+        
+        data_blue = []
+        for model in models:
+            blue_avg = sum(blue_dict[model]) / len(blue_dict[model])
+            data_blue.append((model, blue_avg))
+        
+        df2 = pd.DataFrame(data_blue, columns=["Model", "BLEU"])
+        plt.figure(figsize=(12, 12))      
+        sns.barplot(x="Model", y="BLEU", data=df2, palette="Set3")
+        plt.title('BLEU Score')
+        plt.xlabel('Models')
+        plt.ylabel('BLEU')
+        plt.xticks(rotation=45, ha='right')
+        plt.tight_layout()
+        plt.grid(axis='y')
+        plt.savefig("results/comparisons/" + image_name + "_barplot_bleu.png")
+        plt.show()
+                            
 
     def compare_texts(self, texts, image_name):
         results = {name: [] for name in texts.keys()}

@@ -1,8 +1,0 @@
-| DATE DE L'ACTE | NUMÉRO DE L'ACTE | INDICATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DE DÉCÈS | NOM, PRÉNOMS | DOMICILE | PROFESSION | DATE DE L'ACTE DE DÉCÈS | INDICATION DES ACTES DE SUCCESSION | DROIT FIXE | ENREGISTREMENT | DATE | RECETTE | DATE | OBSERVATIONS |
-|----------------|------------------|--------------------------------------|-------------|-------------|----------|-------------|----------------------|----------------------------|-------------|----------------|------|---------|------|--------------|
-| 6 | 443 | 6 août 1911 | Cloquet | Clotilde | Lille | Rentière | 6 août 1911 | Arrêté de déchéance novembre 1911 | 4 francs | 7 août 1911 | Lille | 7 août 1911 | |
-| 6 | 449 | 7 août 1911 | Vincent | Charles | Lille | Rentier | 7 août 1911 | Arrêté de déchéance novembre 1911 | 4 francs | 8 août 1911 | Lille | 8 août 1911 | |
-| 6 | 420 | 6 août 1911 | Boisdenghien | Henri | Quesnoy | Rentier | 6 août 1911 | Arrêté de déchéance novembre 1911 | 4 francs | 7 août 1911 | Lille | 7 août 1911 | |
-| 6 | 426 | 6 août 1911 | Lambotte | Ernest | Lille | Rentier | 6 août 1911 | Arrêté de déchéance novembre 1911 | 4 francs | 7 août 1911 | Lille | 7 août 1911 | |
-| 6 | 420 bis | 6 août 1911 | Rousseau | Charles | Lille | Rentier | 6 août 1911 | Arrêté de déchéance novembre 1911 | 4 francs | 7 août 1911 | Lille | 7 août 1911 | |
-| 6 | 426 bis | 6 août 1911 | Lejeune | Henri | Lille | Rentier | 6 août 1911 | Arrêté de déchéance novembre 1911 | 4 francs | 7 août 1911 | Lille | 7 août 1911 | |

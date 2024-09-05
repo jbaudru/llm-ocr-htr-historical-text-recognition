@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/85f70b733d9a4bfba3ab79841086b047/artifacts
+end_time: 1725542919205
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 85f70b733d9a4bfba3ab79841086b047
+run_name: able-slug-500
+run_uuid: 85f70b733d9a4bfba3ab79841086b047
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725542909416
+status: 3
+tags: []
+user_id: julien

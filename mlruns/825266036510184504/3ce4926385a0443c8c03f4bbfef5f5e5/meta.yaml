@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/3ce4926385a0443c8c03f4bbfef5f5e5/artifacts
+end_time: 1725552363555
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 3ce4926385a0443c8c03f4bbfef5f5e5
+run_name: luminous-croc-343
+run_uuid: 3ce4926385a0443c8c03f4bbfef5f5e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725552342599
+status: 3
+tags: []
+user_id: julien

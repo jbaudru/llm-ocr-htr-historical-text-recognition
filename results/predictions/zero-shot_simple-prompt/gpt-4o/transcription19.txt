@@ -1,0 +1,8 @@
+```
+DATE DE L'ARRET  | NOM, PRENOMS         | OBSERVATIONS
+6 18             | Caburcau Louis       |
+6 18             | Decbes Jules         |
+6 19             | Pétiase Louise       |
+6 19             | Dubois Armand        |
+6 19             | Remience             |
+```

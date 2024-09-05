@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/05244ccb0ab442f2a202c6c6e5926886/artifacts
+end_time: 1725551761738
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 05244ccb0ab442f2a202c6c6e5926886
+run_name: popular-shrimp-343
+run_uuid: 05244ccb0ab442f2a202c6c6e5926886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725551737702
+status: 3
+tags: []
+user_id: julien

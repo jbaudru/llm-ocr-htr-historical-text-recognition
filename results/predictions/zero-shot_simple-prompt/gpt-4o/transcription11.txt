@@ -1,0 +1,14 @@
+```
+Date de décès | Dénominations des personnes décédées ou absentes | Nom, Prénoms | Domicile | Date de l'acte de décès ou de la déclaration d'absence | Date de l'acte de décès ou de la déclaration d'absence | Observations
+
+1er Janvier 1919 | Orvilliers | Josephine | France | 1er Janvier 1919 | 1er Janvier 1919 | 
+6 Janvier 1919 | Clabecq | Emmanuel | Belgique | 6 Janvier 1919 | 6 Janvier 1919 | 
+6 Janvier 1919 | Clabecq | Emmanuel | Belgique | 6 Janvier 1919 | 6 Janvier 1919 | 
+6 Janvier 1919 | Gilbert | Etienne | Belgique | 6 Janvier 1919 | 6 Janvier 1919 | 
+6 Janvier 1919 | Saemons | Marie | France | 6 Janvier 1919 | 6 Janvier 1919 | 
+6 Janvier 1919 | Etienne | Marie | Belgique | 6 Janvier 1919 | 6 Janvier 1919 | 
+6 Janvier 1919 | Moabien | Pierre | France | 6 Janvier 1919 | 6 Janvier 1919 | 
+6 Janvier 1919 | Moabien | Pierre | France | 6 Janvier 1919 | 6 Janvier 1919 | 
+6 Janvier 1919 | Cammeronberg | Edouard | Belgique | 6 Janvier 1919 | 6 Janvier 1919 | 
+6 Janvier 1919 | Ambloine | Pierre | France | 6 Janvier 1919 | 6 Janvier 1919 | 
+```

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/fd4adf76647d49278d0566dc4e366e0a/artifacts
+end_time: 1725551040777
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: fd4adf76647d49278d0566dc4e366e0a
+run_name: bouncy-skink-326
+run_uuid: fd4adf76647d49278d0566dc4e366e0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725551028267
+status: 3
+tags: []
+user_id: julien

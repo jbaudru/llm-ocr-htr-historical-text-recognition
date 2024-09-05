@@ -1,0 +1,17 @@
+[HEADER ROW]
+N° D'ORDRE | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DEGRÉ DE PARENTÉ | NOMS, PRÉNOMS | DOMICILE DES HÉRITIERS | DROITS DE SUCCESSION | DROIT | AMENDES | DATE | NUMÉRO | RECETTE | OBSERVATIONS
+
+[ENTRIES]
+641 | Devillers | Gustave | Fernand | Célibat. | Devillers Jules et al. | 24/12/1919 | - | - | - | - | -
+642 | Clabecq | Fernand | Mathilde | Veuve de | Lebrun Victor | 29/1/1919 | - | - | - | - | -
+    | Décédé le dix-neuf décembre 1918 (Bruxelles)
+    | Décédé le vingt décembre 1918 (Bruxelles)
+    | Décédé le vingt-sept décembre 1918 (Etterbeek-Bruxelles)
+643 | Gillibert | Clémentine | Célibat. | 29/8/1919 | Sœur germaine | 7507 | - | 7507 | - | 2 février 20 février 1920 | -
+644 | Baesmans | Henri | Époux de | O'Donnel | Baesmans Henri | 7551 | - | 7551 | 5517/1919 | - | 2 février 20 février 1920
+645 | Hénin | Maria | Célibat. | 4 avril 1919 | Hénin Jules | 1626 | - | 1626 | 561/1919 | - | 9 janvier 1920
+646 | Mathieu | Joséphine | Épouse | 1er mai 1919 | Boulangier Léopold | 14974 | - | 14974 | 617/1919 | - | -
+    | Décédé le vingt-deux décembre 1918 (Bruxelles)
+    | Décédé le vingt-trois décembre 1919 (Bruxelles)
+647 | Cauwenberg | Jean-Joseph | Marié le | 29 Août 1919 | Épouse: Colson et enfants | 262 | - | 262 | 1207/1919 | - | -
+648 | Antoine | Léon | Célibat. | 30 Mai 1919 | Maillard Marie Claire et al. | 1526 | - | 1526 | - | 19 janvier 20 janvier 1920 | non publiée

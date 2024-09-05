@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/a0bf3b6e818a4c6d90248f64f1ccb2c8/artifacts
+end_time: 1725541362300
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: a0bf3b6e818a4c6d90248f64f1ccb2c8
+run_name: orderly-dove-245
+run_uuid: a0bf3b6e818a4c6d90248f64f1ccb2c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725541341570
+status: 3
+tags: []
+user_id: julien

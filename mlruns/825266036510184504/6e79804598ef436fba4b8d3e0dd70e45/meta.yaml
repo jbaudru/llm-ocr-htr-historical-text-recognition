@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/6e79804598ef436fba4b8d3e0dd70e45/artifacts
+end_time: 1725542443526
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 6e79804598ef436fba4b8d3e0dd70e45
+run_name: useful-pig-891
+run_uuid: 6e79804598ef436fba4b8d3e0dd70e45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725542420385
+status: 3
+tags: []
+user_id: julien

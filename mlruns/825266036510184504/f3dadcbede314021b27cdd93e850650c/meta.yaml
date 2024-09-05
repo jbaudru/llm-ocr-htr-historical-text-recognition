@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/f3dadcbede314021b27cdd93e850650c/artifacts
+end_time: 1725545415255
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: f3dadcbede314021b27cdd93e850650c
+run_name: thundering-mole-501
+run_uuid: f3dadcbede314021b27cdd93e850650c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725545385621
+status: 3
+tags: []
+user_id: julien

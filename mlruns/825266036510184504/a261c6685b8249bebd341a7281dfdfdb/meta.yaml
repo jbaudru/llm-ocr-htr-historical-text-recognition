@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/a261c6685b8249bebd341a7281dfdfdb/artifacts
+end_time: 1725545496932
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: a261c6685b8249bebd341a7281dfdfdb
+run_name: crawling-yak-667
+run_uuid: a261c6685b8249bebd341a7281dfdfdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725545485838
+status: 3
+tags: []
+user_id: julien

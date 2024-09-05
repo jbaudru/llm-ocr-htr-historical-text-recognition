@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/7fed7fbee0a04d1a9cb343021d2b521d/artifacts
+end_time: 1725552342578
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 7fed7fbee0a04d1a9cb343021d2b521d
+run_name: righteous-squid-686
+run_uuid: 7fed7fbee0a04d1a9cb343021d2b521d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725552315589
+status: 3
+tags: []
+user_id: julien

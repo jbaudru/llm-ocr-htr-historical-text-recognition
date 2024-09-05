@@ -1,0 +1,23 @@
+```
+N° D'ORDRE DES DECES | NOM | PRENOMS | PROFESSION | DOMICILE | DATE DE DECES | HEURE | LIEU | CAUSE | OBSERVATIONS
+
+429 | Bobs | Louis | Ouvrier |  |  |  |  |  | 
+
+430 | Heurat |  |  |  |  |  |  |  | 
+
+431 | Romain |  |  |  |  |  |  |  | 
+
+432 | Poliat |  |  |  |  |  |  |  | 
+
+433 | Poliat |  |  |  |  |  |  |  | 
+
+434 | Houtmeyers |  |  |  |  |  |  |  | 
+
+435 | Tribaut |  |  |  |  |  |  |  | 
+
+436 | Gausin |  |  |  |  |  |  |  | 
+
+437 | Delamoy |  |  |  |  |  |  |  | 
+
+438 | Dolrite |  |  |  |  |  |  |  | 
+```

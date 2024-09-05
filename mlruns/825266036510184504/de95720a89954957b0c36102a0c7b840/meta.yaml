@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/de95720a89954957b0c36102a0c7b840/artifacts
+end_time: 1725550439872
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: de95720a89954957b0c36102a0c7b840
+run_name: bemused-crane-160
+run_uuid: de95720a89954957b0c36102a0c7b840
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725550433864
+status: 3
+tags: []
+user_id: julien

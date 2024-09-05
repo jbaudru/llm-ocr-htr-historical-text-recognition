@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/a71fdf623e7c4c68922a6b8e3c3fad8e/artifacts
+end_time: 1725538789905
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: a71fdf623e7c4c68922a6b8e3c3fad8e
+run_name: receptive-panda-988
+run_uuid: a71fdf623e7c4c68922a6b8e3c3fad8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725538778319
+status: 3
+tags: []
+user_id: julien

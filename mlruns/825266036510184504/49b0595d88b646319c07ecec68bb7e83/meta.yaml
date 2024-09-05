@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/49b0595d88b646319c07ecec68bb7e83/artifacts
+end_time: 1725552088986
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 49b0595d88b646319c07ecec68bb7e83
+run_name: loud-mare-581
+run_uuid: 49b0595d88b646319c07ecec68bb7e83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725551984709
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,60 @@
+```
+NOM DE FAMILLE
+PRÉNOM
+DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES
+DATE
+PRÉNOM
+INDICATIONS
+NOM, PRÉNOM
+DATE
+OBSERVATIONS
+
+146
+146
+146
+146
+146
+149
+
+Eugée
+Morison
+Leblicq
+Qassel
+Hégelant
+
+Charles Louis Désiré
+Jean Désiré
+Jean Adolphe
+Jean Baptiste
+Jean Baptiste
+
+né le 1er Septembre 1901
+né le 1er Septembre 1901
+né le 1er Septembre 1901
+né le 1er Septembre 1901
+né le 1er Septembre 1901
+
+décédé
+décédé
+décédé
+décédé
+décédé
+
+à
+à
+à
+à
+à
+
+Paris
+Paris
+Paris
+Paris
+Paris
+
+le 1er Septembre 1901
+le 1er Septembre 1901
+le 1er Septembre 1901
+le 1er Septembre 1901
+le 1er Septembre 1901
+```

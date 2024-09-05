@@ -96,7 +96,7 @@ class Agent:
                     response = client.messages.create(
                         model=self.model,
                         max_tokens=max_tokens,
-                        #system = system,
+                        system = system,
                         messages=[
                             {
                                 "role": "user",
@@ -217,24 +217,61 @@ class Agent:
     #===========================================================================
     # AGENT FUNCTIONS
     #===========================================================================
-    def draft(self, image_path):
+    def draft(self, image_path, by_line=False):
+        
         if("claude" in self.model):
-            #resized_image = self.resize_image(image_path)
-            base64_image = self.encode_image(image_path)
-            system="You are a helpful assistant who can read old handwriting with a background in history, and you are going to recreate a scanned déclaration de succession from Belgium in a txt format."
+            if(not by_line):
+                resized_image = self.resize_image(image_path)
+                base64_image = base64.b64encode(resized_image).decode('utf-8')
+            else:
+                base64_image = self.encode_image(image_path)
+            
         else:
             base64_image = self.encode_image(image_path)
-            system=None
+        
+        system="You are a helpful assistant who can read old handwriting with a background in history, and you are going to recreate a scanned déclaration de succession from Belgium in a txt format."
             
-        # I didn't consider the header.. I'm unsure whether we need to include in the analysis.
-        prompt = """
-            Recognize the text from the image:
             
-            Tips:
-            It's an old Belgian document written in French.
-            Unless the text starts with "Arrêté le \d{2} \w+ \d{4}( \w+)? servais" or some cells contain notes, each cell in the image usually contains the following information
-            - Number / date / Family Name/ First Name/ Location/ Date/ One or more full names. Often ends with "& autres"/number/ number/number/number/number with a year/ number with a year/ date/date/number/date/number
+        prompt = f"""
+                From the example, you learned the handwriting of this Belgian record. You learned which alphabet and which number is written in which way.
+                With this knowledge, now consider the following image to recreate:
+                
+                First, you read a two-level header in the table, which you recognize the same as the example as follows in the form of ("first level", "second level"):
+                ```
+                    [("N' d'ordre", " "),
+                    ("Date du dépot des déclarations", " "),
+                    ("Désignation des personnes décédées ou absentes.:", "Nom."),
+                    ("Désignation des personnes décédées ou absentes.:", "Prénoms"),
+                    ("Désignation des personnes décédées ou absentes.:", "Domiciles"), 
+                    ("Date du décès ou du judgement d'envoi en possession, en cas d'absence.", " "),
+                    ("Noms, Prénoms et demeures des parties déclarantes.", " "),
+                    ("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Actif. (2)"),
+                    ("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Passif. (2)"),
+                    ("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Restant NET. (2)"),
+                    ("Droit de mutation par déces", "Valeur des immeubles. (2)"), 
+                    ("Numéros des déclarations", "Primitives."),
+                    ("Numéros des déclarations", "Supplémentaires."), 
+                    ("Date", "de l'expiration du délai de rectification."),
+                    ("Date", "de l'exigibilité des droits."),
+                    ("Numéros de la consignation des droits au sommier n' 28", " "),
+                    ("Recette des droits et amendes.", "Date"),
+                    ("Recette des droits et amendes.", "N^03"),
+                    ("Cautionnements. ", "Numéros de la consignation au sommier n'30"),
+                    ("Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)", " ")] 
+                ```
+
+                Context: 
+                - It's written in French language and the names of the people are domiciles are Belgian.
+                - Each row contains information about a dead person for the 20 variables above. Some rows contain information about the service date of the dead person written in the previous row. Such rows begin with texts like "Arrêté le \d{2} \w+ \d{4}( \w+)? servais" under "Nom." variable. 
+                - When you see "Arrêté le \d{2} \w+ \d{4}( \w+)? servais", the subsequent row will be the next serviced day.
+                - N' d'ordre will also follow an order. 
+                - The family name in this column "Noms, Prénoms et demeures des parties déclarantes." may be the same as the family name in "Nom." column.
+                
+                Task: 
+                Please recreate the table by filling in all the information in the record. Pay attention to reading each word and number correctly. 
+                    ```plaintext
         """
+
         
         prompt = """
             Recognize the text from the image:
@@ -246,7 +283,7 @@ class Agent:
 
     def callPostProcessing(self, context):
         base64_image = None
-        prompt = "This is an output from you. Clean it such that we only have the table without any separators, no comment from you:"
+        prompt = "This is an output from you. Clean it such that we only have the table content without any comment from you:"
         prompt += context
         
         return self.call(prompt, max_tokens=3000, base64_image=base64_image)

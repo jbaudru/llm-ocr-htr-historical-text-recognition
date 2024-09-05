@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/6e00675bd08f4ef1b547a4e5d8e9e465/artifacts
+end_time: 1725551621370
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 6e00675bd08f4ef1b547a4e5d8e9e465
+run_name: brawny-ape-172
+run_uuid: 6e00675bd08f4ef1b547a4e5d8e9e465
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725551608425
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/c717b4542a294ebb9fe3ee69d40a4862/artifacts
+end_time: 1725544539821
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: c717b4542a294ebb9fe3ee69d40a4862
+run_name: persistent-mule-59
+run_uuid: c717b4542a294ebb9fe3ee69d40a4862
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725544512495
+status: 3
+tags: []
+user_id: julien

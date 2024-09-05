@@ -1,0 +1,10 @@
+```
+DATE DE DECES | NOM, PRENOMS | DATE | RECETTE | OBSERVATIONS
+4399 | Renops | 27 Août 1889 | 
+440 | Obélique | 1889 | 
+441 | Jacopini | 1889 | 
+442 | Vourane | 1889 | 
+443 | de Satires | 1889 | 
+444 | Heurvels | 1889 | 
+445 | Goise | 1889 | 
+```

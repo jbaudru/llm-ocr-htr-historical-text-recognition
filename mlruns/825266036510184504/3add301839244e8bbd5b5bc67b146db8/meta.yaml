@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/3add301839244e8bbd5b5bc67b146db8/artifacts
+end_time: 1725550801782
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 3add301839244e8bbd5b5bc67b146db8
+run_name: zealous-smelt-0
+run_uuid: 3add301839244e8bbd5b5bc67b146db8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725550758302
+status: 3
+tags: []
+user_id: julien

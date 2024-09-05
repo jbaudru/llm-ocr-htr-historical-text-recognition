@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/4589b057c6b04b00b15ea86c11f6cc26/artifacts
+end_time: 1725541567903
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 4589b057c6b04b00b15ea86c11f6cc26
+run_name: likeable-trout-215
+run_uuid: 4589b057c6b04b00b15ea86c11f6cc26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725541540678
+status: 3
+tags: []
+user_id: julien

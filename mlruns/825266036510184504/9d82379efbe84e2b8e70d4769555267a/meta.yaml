@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/9d82379efbe84e2b8e70d4769555267a/artifacts
+end_time: 1725550932375
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 9d82379efbe84e2b8e70d4769555267a
+run_name: intrigued-skunk-544
+run_uuid: 9d82379efbe84e2b8e70d4769555267a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725550927728
+status: 3
+tags: []
+user_id: julien

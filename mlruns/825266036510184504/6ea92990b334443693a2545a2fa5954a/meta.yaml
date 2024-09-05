@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/6ea92990b334443693a2545a2fa5954a/artifacts
+end_time: 1725543227108
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 6ea92990b334443693a2545a2fa5954a
+run_name: upset-bird-446
+run_uuid: 6ea92990b334443693a2545a2fa5954a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725543202033
+status: 3
+tags: []
+user_id: julien

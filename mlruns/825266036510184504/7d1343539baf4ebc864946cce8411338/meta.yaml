@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/7d1343539baf4ebc864946cce8411338/artifacts
+end_time: 1725551314762
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 7d1343539baf4ebc864946cce8411338
+run_name: bedecked-frog-902
+run_uuid: 7d1343539baf4ebc864946cce8411338
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725551293731
+status: 3
+tags: []
+user_id: julien

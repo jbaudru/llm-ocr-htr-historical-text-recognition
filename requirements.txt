@@ -19,3 +19,4 @@ anthropic
 pillow
 mlflow
 evaluate
+transformers
