@@ -273,6 +273,7 @@ class Tools:
             "EasyOCR": [],
             "Pytesseract": [],
             "KerasOCR": [],
+            "trOCR": [],
         }
         
         models = list(blue_dict.keys())

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/7d40f78b152848d294180df9cb141fa2/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 7d40f78b152848d294180df9cb141fa2
+run_name: unique-finch-10
+run_uuid: 7d40f78b152848d294180df9cb141fa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725614628113
+status: 1
+tags: []
+user_id: Administrateur

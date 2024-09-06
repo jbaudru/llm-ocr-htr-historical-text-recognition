@@ -184,6 +184,7 @@ def evaluate_line_by_line():
         "EasyOCR": [],
         "Pytesseract": [],
         "KerasOCR": [],
+        "trOCR": []
     }
     
     #zero-shot
@@ -194,6 +195,7 @@ def evaluate_line_by_line():
         "EasyOCR": [],
         "Pytesseract": [],
         "KerasOCR": [],
+        "trOCR": []
     }
     
     all = []
@@ -267,8 +269,10 @@ def evaluate_line_by_line():
         ocr_methods = {
             "EasyOCR": ocr.easyOCR,
             "Pytesseract": ocr.pytesseractOCR,
-            "KerasOCR": ocr.kerasOCR
+            "KerasOCR": ocr.kerasOCR,
+            "trOCR": ocr.trOCR
         }
+        
         for key, method in ocr_methods.items():
             method_folder = os.path.join(experiment_folder, key)
             os.makedirs(method_folder, exist_ok=True)
