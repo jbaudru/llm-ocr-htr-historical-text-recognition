@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/cc1320f9af33409c992256ac5e807001/artifacts
+end_time: 1725616343346
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: cc1320f9af33409c992256ac5e807001
+run_name: receptive-pig-978
+run_uuid: cc1320f9af33409c992256ac5e807001
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725616262736
+status: 3
+tags: []
+user_id: Administrateur

@@ -1,43 +1,56 @@
+[Left page]
+
 N° DATE DE DÉPÔT   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES   DATE DU DÉCÈS   NOMS, PRÉNOMS
-d'ord.              NOM.        PRÉNOMS.      DOMICILE.             ou de
-                                                                l'envoi en possession
+d'ord.             NOM.        PRÉNOMS.      DOMICILE.              ou de
+                                                                     l'envoi en
+                                                                     possession
 
-616 dix février   Soupart     Cornelius    Nivelles    11 mars 1919   Soupart Honoré & consorts
-                                                                      
-617   "           Fèvre       Alphonse     Tubize      2 Mai 1915     Fèvre Céline & consorts
-                                                       
-618   "           Siraux      Augustin     Rebecq     11 mars 1915    Empéreurs Emile
-                                                       
-619 onze f°       Vaneulsem   Adeline      Braine-     13 août 1915   Vaneulsem Edouard & consorts
-                               Marie G.     l'Alleud
+    Arrêté le cinq février 1920 (Signé)
+    Arrêté le dix février 1920 (Signé)
+    Arrêté le sept février 1920 (Signé)
+    Arrêté le huit février 1920 Dimanche (Signé)
+    Arrêté le neuf février 1920 (Signé)
 
-620 douze février Honnijadi    Jules        Nivelles    22 février    Honnijadi Mathilde Florent
-                                                         1919
+616 dix février   Soupart     Cornelius    Nivelles   11 mars 1919   Soupart Honoré & consorts
+                                                                     
+617   "           Fèvre       Alfred gls   Chastre    2 Mai 1915     Fèvre Céline & consorts
 
-DROITS DE SUCCESSION    DROIT    NUMÉROS                   DATE         RECETTE
-et droits d'enregistrement    DE        des                                BUREAU
-                          MUTATION   articles                           d'où émane
-ACTIF    PASSIF    MONTANT   PAR DÉCÈS                                  la perception
-                      NET
+618   "           Siraux      Augustin     Rebecq    11 mars 1915    Empéreurs Emile
+                                                      
+    Arrêté le dix février 1920 (Signé)
+    Arrêté le onze février 1920 (Signé)
 
-39181             39181     263  28 mars   11 juin   2194 4/20  133
-                            114   1920      1920     11 8° 120  178
+619 onze f°       Vaneulsem   Adeline      Braine le  12 mars 1915   Vaneulsem Edouard & consorts
+                               Marie G°     Château
 
-4200              4200      9/10           29 mars    60
-                                            1920
-                                            
-1025              1025      119
-                            114
+    Arrêté le onze février 1920 (Signé)
 
-58524             58524     615  26 mars   17 juin   20 juillet 1920
-                             61   1920      1920
-                            
-                            
-95101             95 30    25 février   17 juin
-                            1920         1920
+620 douze février Hounjadi    Jules        Nivelles   22 février     Veuve & Hélène Hounjadi
+                                            Faubourg   1919
+                                            de Namur
 
-OBSERVATIONS
+[Right page]
 
-(Les déclarations ont figuré à l'état
-n° 482 fourni le 13 février 1920
-et ont été enregistrées le 16 dit)
+DROITS DE SUCCESSION                   DROIT   NUMÉROS                   DATE         RECETTE
+et droits d'enregistrement             DE      des                                    DROITS DE SUCCESSION
+                                       MUTATION articles                              et droits d'enregistrement
+MUTATION EN LIGNE DIRECTE   MONTANT    PAR      du                       de           perçus    MONTANT
+                                       DÉCÈS   sommier                   l'enregis-
+ACTIF     PASSIF    NET                        des décla-                trement     DATE       N°
+
+29181             29181                        261 262 mars   11 juin    21/4/1920    133
+                                               263 264 1920   1920       11/5/1920    178
+
+1200              1200                         9/0           29 mars     "            69
+                                                             1920
+
+1025              1025                         119           "           "
+                                               1920
+
+58524             58524                        61            24 mars     17 juin      20 juillet 238
+                                                             1920        1920         1920
+
+95101             95 30     25 février         "
+                            1920
+
+OBSERVATIONS:

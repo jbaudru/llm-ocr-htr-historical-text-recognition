@@ -3,36 +3,37 @@ N°   DATE DU DÉCÈS   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES   DAT
      DÉCLARATION                                                                                     NET                    ARTICLES   déclaration   DATE   N°
 
 1919
-403  quatre 9bre   Payzot   Antoinette   Bruxelles   16 mai 1919   Payzot Marie et autres   12971   6291   6780   6780   1er   16 9bre 1919   13 mars   
-                                         (Etterbeek)                                        56/5    56/5   56/5                             1920
+403  quatre 9bre   Payzot   Antoinette   Boussu   16 mai 1919   Payzot Marie et autres   12971   6291   6780   6780   1er   16 9bre 1919   13 mai
+                                                                                         5675   5675                       1920
 
-405  D°            Paillot   Victoire   Ixelles   25 janvier 1919   Charles Honoré           5941           5941   5941                     10 9bre 1919
-                                                                                             59/1           59/1   59/1
+405  D°            Paillot   Victoire   Wasmes   27 janvier 1919   Charles Honoré         5941           5941   5941               10 8bre 1919
+                                                                                                                 5941
 
-404  D°            Vandermeers   Marie Anne   Etterbeek   4 avril 1919   Beuselinck Edouard    500            500           10 D°   9 janvier   non passible
-                                                                                                                                    1920
+404  D°            Vandermeers   Marie Jeanne   Elouges   4 avril 1919   Beugnies Ferdinand   500            500                   10 D°   9 janvier   non passible
+                                                                                                                                          1920
 
-     Arrêté le quatre novembre 1919 (Signé)
+     Arrêté le quatre novembre 1919 (signé)
 
-405  cinq 9bre     Lemoine   Joseph   Ixelles   25 Août 1919   Lemoine Juliette et autres   1115           1115           15 9bre 15 avril   non passible
-                                                                                                                                 1920
+405  cinq 9bre     Lemoine   Joseph   Jette   25 Mai 1919   Lemoine Juliette et autres   1115           1115                       15 9bre 15 avril   non passible
+                                                                                                                                          1920
 
-406  D°            Monnaye   Jules   Schaerbeek   16 février 1919   Lemoine Anne et autres                                                   15 février 1920
+406  D°            Monnaye   Jules   Stambruges   16 7bre 1919   Lemoine Annie et autres                                                  17 janvier   En attente d'une pièce
+                                                                                                                                          1920
 
-407  D°            Godeau     Clément   Cappellen   7 août 1919   Godeau Florimond et autres  500            500           16 9bre 7 avril    non passible
-     Saintelette                                                                                                                  1920
+407  D°            Godeau     Clément   Crespin   17 8bre 1919   Godeau Florimond et autres   500            500                   12 9bre 7 avril    non passible
+     Saintelette                                                                                                                          1920
 
-     Arrêté le cinq novembre 1919 (Signé)
-     
-     Arrêté le dix novembre 1919 (Signé)
+     Arrêté le cinq novembre 1919 (signé)
 
-408  sept 9bre     Fontaine   Honoré   Cureghem   15 octobre 1919   Brasseur Germaine         878    622    256            19 9bre 15 avril   non passible
-                                                                                              126    126                           1920
+     Arrêté le dix novembre 1919 (signé)
 
-409  D°            Allard   Prosper   Ixelles   16 avril 1919   Allard Marie               9260           9260           17 D°   19 juin    15 novembre 1920
-                                                                                                                                  1920
+408  sept 9bre     Fontaine   Honoré   Elouges   15 octobre 1919   Brasseur Germaine        878    622    256                      19 Xbre 15 avril   non passible
+                                                                                                                                          1920
 
-     Arrêté le sept novembre 1919 (Signé)
+409  D°            Allard   Prosper   Hornu   16 avril 1919   Allard Marie               9260           9260                       17 D°   19 juin    15 novembre 1920
+                                                                                                                                          1920
 
-410  huit 9bre     Debrulle   Victorine   Ixelles   16 octobre 1919   Debrulle Bernard        12639   569   12067          20 D°   16 mars    29 février 1920
-                                                                                              56/5   56/5   56/5                   1920
+     Arrêté le sept novembre 1919 (signé)
+
+410  huit 9bre     Debutte   Victorin   Ghlin   16 octobre 1919   Debutte Bernard et autres   11639    569   11070                 20 D°   16 mars    19 février 1921
+                                                                                                                                          1920

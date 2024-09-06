@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/0c5fb8a348c640a5b2d0990fd4856adb/artifacts
+end_time: 1725615885326
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 0c5fb8a348c640a5b2d0990fd4856adb
+run_name: resilient-carp-802
+run_uuid: 0c5fb8a348c640a5b2d0990fd4856adb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725615860828
+status: 3
+tags: []
+user_id: Administrateur

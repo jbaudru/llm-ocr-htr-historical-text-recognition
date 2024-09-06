@@ -2,38 +2,31 @@ N° DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE 
    |              |                                                | ou de         |                | en cette attestation | de     | des      |      |         |
    |              |                                                | présomption   |                |                      | muta-  | articles |      |         |
    |              |                                                | d'absence     |                |                      | tion   |          |      |         |
-   | ANNÉE | MOIS | NOMS | PRÉNOMS | DOMICILE                      |               | HÉRITIERS DES PARTIES DÉCLARANTES | ACTIF | PASSIF | RESTE NET | VALEUR |   |   |   |   |   |
+   | ANNÉE | MOIS | NOMS | PRÉNOMS | DOMICILE                      |               | HÉRITIERS DES PARTIES DÉCLARANTES | ACTIF | PASSIF | NET | IMMOBILIER |   |   |   |   |   |
 
-441 22 mai 1919 Devillers Joséphine Renaix 9 février 1919 Devillers Jules et autres | solde négatif | | 499 | | | | | |
-                                                                                                                        1919
+441 22 sept 1919 Devillers Joséphine Renaix 9 février 1919 Devillers Jules et autres | Solde négatif | 499 | - | - | - | - | - | - | -
 
-442 30    Clabecq Fernand Renaix Frameries Delaunois Fernand | | | 541 | | | | | |
-                                                                                                                        1919
+441bis 30 Clabecq Fernand Roulers Bruxelles Delaunois Fernand | - | 541 | - | - | - | - | - | - | -
+                  Décédé le vingt neuf décembre 1919 épouse
+                  Décédé le vingt février 1919 épouse
+                  Décédé le vingt-un décembre 1919 Germaine épouse
 
-          Décédé le vingt neuf décembre 1919 domicil
+442 vingt juin Gilbert Clémentine Châtelet 20 juillet 1919 Draguet née Draguet Marie | 7415 | - | 7415 | - | 9 février 1920 | 9 juillet 37
+                                                           & consorts 3e
 
-          Décédé le vingt février 1919 domicil
+442bis 30 Paesmans René Renaix 31 31 mars 1919 Paesmans Marie | 9551 | - | 9551 | - | 445 | 6 février 34
+                                                               1919                                   1920  37
 
-          Décédé le vingt un décembre 1919 Péronnes domicil
+442³ 30 Winne Maria Gand 5 avril 1915 Winne Jules | 1646 | - | 1646 | - | 660 | 9 janvier 34
+                                                                                1920  37
 
-442 vingt juin Gilbert Clémentine Châtelet 20 février Draguet née Draguet Marie | 7415 | | 7415 | | 5 février 20 7415 | 4 juillet 37 |
-                                                1919  & consorts 3°                                                    1920     1920
+442⁴ 30 Mathieu Ferdinande Gilly 11 mars 1919 Bourgeois Désiré | 143741 | - | 143741 | - | 675 | - | -
+                                                                                      1920
+                 Décédé le vingt deux décembre 1919 épouse
+                 Décédé le vingt trois décembre 1919 épouse
 
-442² 30    Paesmans René Renaix 61 31 mars Paesmans Marie | 9551 | | 9551 | 445 | | 6 février 34 |
-                           années  1915                                           1919              1920
+442⁵ vingt quatre Cauwenberg Victor Joseph Bruxelles 16 juillet Goossens célibat. s. enf. | 2662 | - | 2662 | - | 1008 | - | -
+    juin                                           1919                                                    1920
 
-442³ 30    Winne Maria Renaix 5 avril Winne Jules | 1646 | | 1646 | 160 | | 7 janvier 31 |
-                                 1915                                             1919
-
-442⁴ 30    Mathieu Fortunnée Renaix 11 mars Bourgeois Alfred | 115731 | | 115731 | 675 | | | |
-                                    1919                                                 1919
-
-          Décédé le vingt deux décembre 1919 domicil
-
-          Décédé le vingt trois décembre 1919 domicil
-
-442⁵ vingt quatre Cauwenberg Victor Joseph Renaix 16 juillet Goossens célibat. s. enf. | 2662 | | 2662 | 100 | | | |
-    juin                                       1919                                                  1919
-
-443 30    Anthoine Alphonse Renaix 10 mai Anthoine Marguerite & autres | 1526 | | 1526 | | 6 février 21 avril | non passible |
-                                   1919                                                              1920     1920
+443 30 Anthoine Alphonse Rebecq 10 Mai 1919 Anthoine Maxime Charles et autres | 1526 | - | 1526 | - | 6 février 26 août | non passible
+                                                                                                      1920  1920

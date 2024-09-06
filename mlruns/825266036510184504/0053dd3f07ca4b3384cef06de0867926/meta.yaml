@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/0053dd3f07ca4b3384cef06de0867926/artifacts
+end_time: 1725615184984
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 0053dd3f07ca4b3384cef06de0867926
+run_name: clean-panda-322
+run_uuid: 0053dd3f07ca4b3384cef06de0867926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725615175117
+status: 3
+tags: []
+user_id: Administrateur

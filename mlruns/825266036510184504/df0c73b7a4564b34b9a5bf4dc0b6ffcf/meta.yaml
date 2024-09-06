@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/df0c73b7a4564b34b9a5bf4dc0b6ffcf/artifacts
+end_time: 1725619012959
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: df0c73b7a4564b34b9a5bf4dc0b6ffcf
+run_name: nimble-asp-513
+run_uuid: df0c73b7a4564b34b9a5bf4dc0b6ffcf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725619001643
+status: 3
+tags: []
+user_id: Administrateur

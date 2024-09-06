@@ -1,38 +1,748 @@
 ```
-DATE DE DECES ou DATE DE L'ACTE | DESIGNATION DES PERSONNES DECEDÉES OU ABSENTES | NOMS, PRÉNOMS | DATE DE L'ACTE ou DATE DE L'ACTE | DROITS DE SUCCESSION | NUMÉROS | OBSERVATIONS | NOMS, PRÉNOMS | DOMICILE | RELATIONS S'IL Y A LIEU, DIRECTES OU COLLATERALES | ACTE | PASSIF | REVENU NET | VALEUR | DATE | REÇU | DATE
---- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
-novembre 1919 | Gossiaux | Artiste Peintre | Domicilié à Paris | Gossiaux Jules, artiste | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux
-novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Gossiaux | novembre 1919 | Goss
+DATE DE DÉCÈS
+ou
+DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE LA DÉSIGNATION
+
+NOMS, PRÉNOMS
+
+DATE DE L'ACTE
+ou
+DE

@@ -1,40 +1,27 @@
-DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DU DÉCÈS | NOMS, PRÉNOMS | DROITS DE SUCCESSION | DROIT | NUMÉROS | RECETTE | DATE | OBSERVATIONS
-ou de                                           | ou de        | DOMICILE DES | DE LEURS SUCCESSEURS | de     | des      |         |      |
-l'ouverture                                     | l'ouverture  | PARTIES      | MUTATION PAR DÉCÈS   | muta-  | articles |         |      |
-de la                                           | de la        | DÉCLARANTES  |                      | tion   |          |         |      |
-déclaration                                     | succession   |              | ACTIF | PASSIF | MONTANT NET |          |         |      |
+DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DU DÉCÈS | NOMS, PRÉNOMS | DROITS DE SUCCESSION | RECETTE | OBSERVATIONS
 
-Arrêté le premier janvier 1920 Circulation fermée
+Arrêté le premier janvier 1920 Excercice clos
 
-1 deux janvier 1920 | Séverin Jules | Bruxelles, 6 juillet | Débitaire. Droits fixés et | 38742 | - | 38742 | 3/10 | 1 janvier à mars | 5 juillet 1919 | -
-                    |               | 1919                | autres                     |       |   |       | 1920 | 1920             |                |
+1 | deux janvier 1920 | Séverin Jules | Bruxelles 6 juillet 1919 | Célibataire. Droits frères et soeurs | 31742 | 31742 | 3/10 2 janvier 5 mars 1920 | 5 juillet 1920
 
-2 do               | Dumont Louis  | Nivelles 3 do       | Héritier judiciaire et autres| 569  | 4010 | - | 13 02 | 3 02 | 23 janvier 1920 | -
+2 | do | Dumont Louis | Nivelles 3 do | Epoux Juliette de mille | 569 | 6010 | 13 do 3 do | 23 janvier 1920
 
-Arrêté le deux janvier 1920 fermé
+Arrêté le deux janvier 1920 clôturé
 
-Arrêté le trois janvier 1920 fermé
+Arrêté le trois janvier 1920 clôturé
 
-Arrêté le quatre janvier 1920 Circulation fermée
+Arrêté le quatre janvier 1920 Excercice ouvert
 
-3 cinq janvier    | Houlin Edgard  | Rebecq 5 juillet    | Avocat. Héritier réservataire | 117742 | - | 117742 | 117 | 10 février à mars | 25 juillet | 125
-                  |                | 1919                |                               |        |   |        | 1920 | 1920             | 6 juillet | 125
-                                                                                                                                         | 1920     |
+3 | cinq janvier | Houlin Edgard Octave | 5 juillet 1919 | Epoux Henriette Haulotte | 117742 | 117742 | 117 do 9 février 5 mars 1920 | 25 juillet 1920 125
 
-32 do             | Séverin Jules  | Bruxelles 6 juillet | Héritier. Léger              | 36962  | - | -      | 1    | 1920             | -         | -
-                  |                | 1919                |                               |        |   |        | 1920 |                  |           |
+32 | do | Séverin Jules | Bruxelles 6 juillet 1919 | Célibataire. Idem | | 30962 | 1 1920 | -
 
-33 do             | Wanderpepen    | Nivelles 29 Avril   | Directeur. Divers            | 2636   | - | 75 45  | 1925 | -                | 25 janvier| -
-   (1)            | Marie          | 1919                |                               |        |   |        | 1917 |                  | 1920      |
+33 | do | Wanderpepen Marie | Nivelles 29 Avril do | Célibataire. Soeurs | 2636 | | 17.45 1920 | 25 janvier 1920
 
-Arrêté le cinq janvier 1920 fermé
+Arrêté le cinq janvier 1920 clôturé
 
-4 six janvier     | Declas Victor  | Genappe 25 Avril    | Receveur Enreg. Epoux et     | 9859   | - | 9859   | 15 février au 5    | 5 juillet | 125
-                  | Joseph Désiré  | 1919                | autres                       |        |   |        | juillet 1920       | 1920      |
+4 | six janvier | Declas Victor Joseph Désiré | Braine l'Alleud 25 Avril 1919 | Veuf de Delfosse Joseph et autres | 9039 | 9039 | 15 février 22 juillet 1920 | 5 juillet 1920
 
-Arrêté le six janvier 1920 fermé
+Arrêté le six janvier 1920 clôturé
 
-Arrêté le sept janvier 1920 fermé
-
-(1) Les déclarations rectificatives et supplémentaires portent le numéro de la déclaration qu'elles complètent, affecté d'un exposant. (Circ. n° 1274, § 5, note 1.)
-(2) Négliger les centimes.
+Arrêté le sept janvier 1920 clôturé

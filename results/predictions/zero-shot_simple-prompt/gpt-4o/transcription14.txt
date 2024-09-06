@@ -1,141 +1,430 @@
-DATE DU DECES | DESIGNATION DES PERSONNES DECEDES OU ABSENTES | NOMS, PRENOMS | DROITS DE SUCCESSION | NUMEROS | DATE | RECETTE | OBSERVATIONS
-              |                                             |              | MUTATION EN LIGNE DIRECTE | DROIT DE MUTATION | ACTE | PASSE | ENREGISTREMENT | VALEUR | DATE | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |      | 
-              |                                             |              |                          |                   |      |       |                |       |
+```
+DATE DU DECES
+4 Janvier 1920
+5 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 

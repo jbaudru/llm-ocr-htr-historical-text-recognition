@@ -1,9 +1,52 @@
-```plaintext
-DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | NOMS, PRÉNOMS | DATE DE NAISSANCE | DOMICILE | DATE DE L'ACTE DE DÉCÈS | NUMÉROS | DATE | OBSERVATIONS
-1er janvier 1920 | Séverin | Jules | 6 janvier 1849 | Courcelles | 38462 | 38462 | 12 février 1920 | 1er juillet 1920 | 1er juillet 1920 | 1er juillet 1920
-2 janvier 1920 | Dumont | Louis | 3 juillet 1853 | Roucy | 369 | 4018 | 13 janvier 1920 | 13 janvier 1920 | 13 janvier 1920
-3 janvier 1920 | Honlin | Edgard | 7 juillet 1849 | Courcelles | 4017 | 4017 | 1er février 1920 | 1er juillet 1920 | 1er juillet 1920
-3 janvier 1920 | Séverin | Jules | 6 janvier 1849 | Courcelles | 38462 | 38462 | 12 février 1920 | 1er juillet 1920 | 1er juillet 1920
-3 janvier 1920 | Wanderspen | Henri | 7 juillet 1849 | Roucy | 1685 | 1685 | 1er février 1920 | 1er juillet 1920 | 1er juillet 1920
-4 janvier 1920 | Isolas | William Joseph | 7 juillet 1849 | Courcelles | 9089 | 9089 | 1er février 1920 | 1er juillet 1920 | 1er juillet 1920
+```
+DATE DU DECES
+1er Janvier 1920
+2 Janvier 1920
+3 Janvier 1920
+4 Janvier 1920
+5 Janvier 1920
+6 Janvier 1920
+
+DESIGNATION DES PERSONNES DECEDEES OU ABSENTES
+NOMS, PRENOMS
+Séverin Jules
+Dumont Louis
+Hoblin Edgard
+Séverin Jules
+Wandercappen Henri
+Isolas Julien Joseph
+
+DOMICILE
+Gournay
+Gournay
+Gournay
+Gournay
+Gournay
+Gournay
+
+NOMS, PRENOMS
+Séverin Jules
+Dumont Louis
+Hoblin Edgard
+Séverin Jules
+Wandercappen Henri
+Isolas Julien Joseph
+
+DATE DE NAISSANCE
+4 Juillet 1849
+3 Juillet 1849
+3 Juillet 1849
+3 Juillet 1849
+3 Juillet 1849
+3 Juillet 1849
+
+DATE DE DECES
+1er Janvier 1920
+2 Janvier 1920
+3 Janvier 1920
+4 Janvier 1920
+5 Janvier 1920
+6 Janvier 1920
+
+OBSERVATIONS
 ```

@@ -1,78 +1,22 @@
 ```plaintext
-DATE DE DÉCÈS
-ou
-DÉCLARATION
-D'ABSENCE
+DATE DE DÉPÔT DES DÉCLARATIONS
 
 DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES
 
 NOMS, PRÉNOMS
 
-DATE DE L'ENREGISTREMENT
-des déclarations de successions
+DATE DE DÉCÈS OU DE L'ABSENCE
 
-NOMS, PRÉNOMS
+NOMS, PRÉNOMS HÉRITIERS
 
 DOMICILE
 
-NOMS, PRÉNOMS
+DROITS DE SUCCESSION DROIT DE MUTATION EN LIGNE DIRECTE VARIABLE
 
-DROITS DE SUCCESSION
-MUTATION EN LIGNE DIRECTE
-ACTE
-PASSÉ
-RESTANT
-NET
-
-DROIT DE MUTATION
-ENTRE VIFS
-ACTE
-PASSÉ
-RESTANT
-NET
-
-DATE
-
-REÇU
-DÉBITÉ
-
-REÇU
-DÉBITÉ
+NUMÉROS ACTE PARTIE EXTRAIT N° D'ORDRE DATE RÉDUITE RÉCETTE DATE
 
 OBSERVATIONS
 
-Sontés le vingt-six novembre 1919 Conseil
+Société le vingt-six novembre 1919 Conseil
 
-429
-429
-430
-431
-432
-433
-434
-435
-436
-437
-
-Beth
-Huart
-Romain
-Poliart
-Poliart
-Houtmeyers
-Thibaut
-Gausin
-Delannoy
-Delatte
-
-Louis
-Jean
-Félicie
-Léon
-Achille
-Henri
-Eloi
-Ernest
-Ernest
-Louis
-```
+429 Beth Louis Ouvrier Attier 29 sept 1919 Hébert Louis 6666 6666 6666 3 janvier 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919 5 novembre 1919

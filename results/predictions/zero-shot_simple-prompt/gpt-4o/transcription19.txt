@@ -1,127 +1,26 @@
 ```
-DATE DU DÉCÈS ou DÉCLARATION D'ABSENCE
-
+DATE DU DÉCÈS
+ou
 DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES.
-
 NOMS, PRÉNOMS
-
 NOM
-
 PRÉNOM
-
 DOMICILE
-
 NOMS, PRÉNOMS
-
-DROITS DE SUCCESSION ou DÉCLARATION D'ABSENCE
-
-DROIT DE MUTATION EN LIGNE DIRECTE
-
-VALEUR
-
-NUMÉROS
-
-DATE
-
-RÉCETTE
-
-OBSERVATIONS
-
+DROITS DE SUCCESSION
+DROIT
+DE
+MUTATION À TITRE DIRECT
 ACTIF
-
 PASSIF
-
-EXCÉDANT NET
-
-DÉCLARATION DE SUCCESSION
-
-RÉCETTE DES FINANCES
-
-RÉCETTE DES IMPÔTS
-
+EXCÉDANT
+NET
+VALEUR
+NUMÉROS
 DATE
-
-6 18e 2e sept. 1926
-
-Laboureau
-
-Louis
-
-Tulle
-
-6 mois
-
-Laboureau Louis a autres
-
-Déclaration rectificative
-
-491 497
-
-6 19e 2e sept. 1926
-
-Deches
-
-Jules
-
-Tulle
-
-10 sept. 1926
-
-Sergei Gustave autres
-
-502 503
-
-561 569
-
-6 19e 2e sept. 1926
-
-Félixiau
-
-Louis
-
-Tulle
-
-4 mois
-
-Schmitt Louis autres
-
-610
-
-St. Meurice de Paris
-
-492 493
-
-Republiée 1926
-
-6 19e 2e sept. 1926
-
-Dubois
-
-Alexandre
-
-Tulle
-
-10 sept. 1926
-
-Dubois Jean fils autres
-
-520 530
-
-560 569
-
-6 19e 2e sept. 1926
-
-Remience
-
-Jean
-
-Tulle
-
-10 sept. 1926
-
-Remience Jeanne
-
-600
-
-600 601
+RÉCÉPÉ
+DÉPÔT
+DES
+ACTES
+OBSERVATIONS
 ```

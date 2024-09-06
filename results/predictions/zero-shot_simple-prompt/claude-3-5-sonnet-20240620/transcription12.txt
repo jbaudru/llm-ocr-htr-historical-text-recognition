@@ -1,5 +1,3 @@
-[Left page]
-
 N° | DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DE NAISSANCE | NOM, PRÉNOMS
    |               | NOM        | PRÉNOM   | DOMICILE |               | HÉRITIERS OU PARTIES RÉCLAMANTES
 
@@ -9,44 +7,42 @@ N° | DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DAT
   | Arrêté du vingt-cinq décembre 1919 Noël terminé |              |
   | Arrêté du vingt-six décembre 1919 terminé     |                |
 
-6 | 444 vingt-sept | Wautbier   | Elise  | Boussu  14/3/1841 | Boussu Abel
-  | décembre       |            |        |                   |
+6 | 444 vingt-sept | Wautbier   | Elise  | Bousval 29/10/1841 | Bousval Abel
+  | décembre       |            |        |                    |
 
-6 | 445 -          | Jacquet    | Germaine Henriette | 29 3° | Jacquet Louis
+6 | 445 -          | Jacquet    | Joséphine | Sombreffe 29/3° | Jacquet Louis
 
-  | Arrêté du vingt-sept décembre 1919 terminé |
-  | Arrêté du vingt-huit décembre 1919 Dimanche terminé |
+  | Arrêté du vingt-sept décembre 1919 terminé    |             |
+  | Arrêté du vingt-huit décembre 1919 Dimanche terminé |       |
 
-6 | 446 vingt-neuf | Vanglaire  | Guillaume François | 14/8/1843 | Vanglaire Henri & autres
-  | décembre       |            |                    |           |
+6 | 446 vingt-neuf | Vanglaire  | Guillaume | Braine 14/8/1843 | Bougelet Henri & autres
+  | décembre       |            | François  | le Château       |
 
-  | Arrêté du vingt-neuf décembre 1919 terminé |
-  | Arrêté du trente décembre 1919 terminé |
+  | Arrêté du vingt-neuf décembre 1919 terminé    |             |
+  | Arrêté du trente décembre 1919 terminé        |             |
 
-6 | 446 trente-un  | Plasman    | Rosalie Flamine | 10 mars | Dony Henri & autres
-  | décembre       |            | Célinie         | 1844    |
+6 | 446 trente-un  | Plasman    | Rosalie  | Nivelles 10/3/1839 | Dery Henri & autres
+  | décembre       |            | Félicie  |                    |
+  |                |            | Ghislaine|                    |
 
-  | Arrêté du trente-un décembre 1919 terminé |
-
-[Right page]
+  | Arrêté du trente-un décembre 1919 terminé     |             |
 
 DROITS DE SUCCESSION | DROIT | NUMÉROS | DATE | RECETTE | OBSERVATIONS
-(à porter en compte)  |       | DES     |      |         |
-                      |       | ARTICLES|      |         |
-MUTATIONS | LEGS PARTICULIERS |         |      |         |
-ACTIF | PASSIF | NET           |         |      |         |
 
-Thibaut:    | - | - | 1000 | - | 645/919 | - | - | - | - | -
-Wautbier:   | 11899 | - | 11899 | - | - | 17 janvier | 28 janvier | 28 janvier | 91 |
-Jacquet:    | 58931 | 2395 | 56536 | - | - | 9 3° | 29 3° | 19 avril 1920 | 95 |
-Vanglaire:  | 100 | - | 100 | - | - | 9 3° | 15 juillet | non produite | Voir feuille 1919 pour répartitions entre
-            |     |   |     |   |   |      | 1920      |              | 1916 - 99
-            |     |   |     |   |   |      |           |              | 1918 - 288
-            |     |   |     |   |   |      |           |              | 1919 - 100  191 288 389 488
-            |     |   |     |   |   |      |           |              | 589 688 787 886 985 1084
-            |     |   |     |   |   |      |           |              | Annuités à paiement de
-            |     |   |     |   |   |      |           |              | 1915 100 195
-            |     |   |     |   |   |      |           |              | 1916 288 291 386 486
-            |     |   |     |   |   |      |           |              | 1917 - 391 486 581 676 771
-            |     |   |     |   |   |      |           |              | 866 961
-Plasman:    | 145 | - | 145 | - | 30/1919 | - | - | - | - | Le décès en 1919
+non produit
+exercice 1919 fin septembre franc
+1916 - 99
+1918 - 328
+1919 - 100    191 frs 528 328 100
+              _______________
+              619
+Inventaire & supplément de
+1915 328 329
+1916 328 329 328.326
+1917         328.326.328.329
+1918 391 381 380.366.390.391
+1919 619
+     ___
+    2,619
+
+Le Receveur [signature]

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/dc569a107e6743cfab297ba96d0e8b17/artifacts
+end_time: 1725616725360
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: dc569a107e6743cfab297ba96d0e8b17
+run_name: bald-zebra-498
+run_uuid: dc569a107e6743cfab297ba96d0e8b17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725616617729
+status: 3
+tags: []
+user_id: Administrateur

@@ -230,7 +230,11 @@ class Agent:
             base64_image = self.encode_image(image_path)
         
         system="You are a helpful assistant who can read old handwriting with a background in history, and you are going to recreate a scanned déclaration de succession from Belgium in a txt format."
-            
+        
+        prompt = """
+            Recognize the text from the image:
+            ```plaintext
+        """
             
         prompt = f"""
                 From the example, you learned the handwriting of this Belgian record. You learned which alphabet and which number is written in which way.
@@ -270,12 +274,6 @@ class Agent:
                 Task: 
                 Please recreate the table by filling in all the information in the record. Pay attention to reading each word and number correctly. 
                     ```plaintext
-        """
-
-        
-        prompt = """
-            Recognize the text from the image:
-            ```plaintext
         """
 
         return self.call(prompt, max_tokens=3000, base64_image=base64_image, system=system)
