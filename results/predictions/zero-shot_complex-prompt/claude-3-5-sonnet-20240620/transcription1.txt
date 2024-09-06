@@ -1,0 +1,14 @@
+N' d'ordre | Date du dépot des déclarations | Nom. | Prénoms | Domiciles | Date du décès ou du judgement d'envoi en possession, en cas d'absence. | Noms, Prénoms et demeures des parties déclarantes. | Actif. (2) | Passif. (2) | Restant NET. (2) | Valeur des immeubles. (2) | Primitives. | Supplémentaires. | de l'expiration du délai de rectification. | de l'exigibilité des droits. | Numéros de la consignation des droits au sommier n' 28 | Date | N^03 | Numéros de la consignation au sommier n'30 | Observations
+403 | quatre 9bre | Payzot | Antoinette | Bruxelles | 16 mai 1919 | Payzot Marie et autres | 12971 | 6291 | 6780 | - | 1er | - | 16 mai 1920 | 16 nov. 1919 | - | - | - | - | -
+405 | D° | Paillots | Melanie | Uccles | 27 janvier 1919 | Charles Francois | 5941 | - | 5941 | - | 191 | - | - | - | 10 8bre 1919 | - | - | - | -
+404 | D° | Vandermeersch | Marie Anne Elisabeth | Etterbeek | 4 avril 1919 | Bruxelles, Etterbeek | 500 | - | 500 | - | 16 | D° | 4 janvier 1920 | - | - | - | - | - | non passible
+- | Arrêté le quatre novembre 1919 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+405 | cinq 9bre | Lemoine | Joseph | Ixelles | 25 Août 1919 | Lemoine Juliette et autres | 1115 | - | 1115 | - | - | - | 25 Août 1920 | 25 avril 1920 | - | - | - | - | non passible
+406 | D° | Monnaye | Jules | Schaerbeek | 16 février 1919 | Monnaye, épouse et autres | - | - | - | - | - | - | - | - | 17 février 1920 | - | - | - | Exemption d'impôt
+407 | D° | Godeau Sainblanc | Clement | Cappellen | 7 mai 1919 | Godeau Florianne et autres | 500 | - | 500 | - | - | - | 7 mai 1920 | 7 novembre 1919 | - | - | - | - | non passible
+- | Arrêté le cinq novembre 1919 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- | Arrêté le dix novembre 1919 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+408 | sept 9bre | Fontaine | Honoré | Cureghem | 15 octobre 1919 | Brasseurs Desmedt | 878 | 622 | 256 | - | - | - | 19 Déc. 1920 | 15 avril 1920 | - | - | - | - | non passible
+409 | D° | Allard | Prosper | Uccles | 16 avril 1919 | Allard Marie | 9260 | - | 9260 | - | 17 | D° | - | 16 juin 1920 | - | - | - | - | 15 novembre 1920
+- | Arrêté le sept novembre 1919 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+410 | huit 9bre | Debrulle | Victorine | Ixelles | 16 mai 1919 | Debrulle Bernard | 11639 | 589 | 11050 | - | 20 | D° | - | 16 mars 1920 | - | - | - | - | 29 février 1920

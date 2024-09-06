@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/ec0c67ebe64b4f8cb69f2ab43c197e91/artifacts
+end_time: 1725622215888
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: ec0c67ebe64b4f8cb69f2ab43c197e91
+run_name: dapper-slug-471
+run_uuid: ec0c67ebe64b4f8cb69f2ab43c197e91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725622208830
+status: 3
+tags: []
+user_id: Administrateur

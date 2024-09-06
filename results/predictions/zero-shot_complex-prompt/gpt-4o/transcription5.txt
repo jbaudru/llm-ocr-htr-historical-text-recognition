@@ -1,0 +1,32 @@
+```plaintext
+("N' d'ordre", " "),
+("Date du dépot des déclarations", " "),
+("Désignation des personnes décédées ou absentes.:", "Nom."),
+("Désignation des personnes décédées ou absentes.:", "Prénoms"),
+("Désignation des personnes décédées ou absentes.:", "Domiciles"), 
+("Date du décès ou du judgement d'envoi en possession, en cas d'absence.", " "),
+("Noms, Prénoms et demeures des parties déclarantes.", " "),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Actif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Passif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Restant NET. (2)"),
+("Droit de mutation par déces", "Valeur des immeubles. (2)"), 
+("Numéros des déclarations", "Primitives."),
+("Numéros des déclarations", "Supplémentaires."), 
+("Date", "de l'expiration du délai de rectification."),
+("Date", "de l'exigibilité des droits."),
+("Numéros de la consignation des droits au sommier n' 28", " "),
+("Recette des droits et amendes.", "Date"),
+("Recette des droits et amendes.", "N^03"),
+("Cautionnements. ", "Numéros de la consignation au sommier n'30"),
+("Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)", " ")
+
+(150, "6", "1924", "Sambot", "Valentin", "Nivelles", "6 août 1924", "Georges Sambot, avocat", 2680, 420, 2260, "", "", "", "", "", "16 août 1924", "19", "1924", "", ""),
+(153, "6", "1924", "Leveau", "Josephine", "Charleroi", "7 août 1924", "Joseph Leveau, avocat", 2680, 420, 2260, "", "", "", "", "", "7 août 1924", "16", "1924", "", ""),
+(155, "6", "1924", "Vanpee", "Gustave", "Enghien", "29 août 1924", "Jean Vanpee, avocat", 4200, 600, 3600, "", "", "", "", "", "non parvenue", "", "", "", ""),
+(153, "6", "1924", "Delabij", "Joseph", "Charleroi", "7 août 1924", "Jean Joseph Delabij, avocat", 2680, 420, 2260, "", "", "", "", "", "non parvenue", "", "", "", ""),
+(153, "6", "1924", "Chevalier", "Rochon", "Nivelles", "8 août 1924", "Paul Jules Chevalier", 2680, 420, 2260, "", "", "", "", "", "non parvenue", "", "", "", ""),
+(155, "6", "1924", "Fremont", "Gaspard", "Mons", "21 août 1924", "Jean Fremont, avocat", 17000, 2500, 14500, "", "", "", "", "", "non parvenue", "", "", "", ""),
+(155, "6", "1924", "Devos", "Jean", "Bruxelles", "21 août 1924", "Henri Devos, avocat", 2680, 420, 2260, "", "", "", "", "", "non parvenue", "", "", "", ""),
+(156, "6", "1924", "Seolas", "Jean Joseph", "Bruxelles", "21 août 1924", "Louis Jules Seolas, avocat", 2680, 420, 2260, "", "", "", "", "", "non parvenue", "", "", "", ""),
+(157, "6", "1924", "Desfalque", "Jean", "Charleroi", "29 août 1924", "Sylvain Desfalque, avocat", 17000, 2500, 14500, "", "", "", "", "", "non parvenue", "", "", "", "")
+```

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/304e9cc9828d4e1dbc0b5dcfc1bde1cb/artifacts
+end_time: 1725623061858
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 304e9cc9828d4e1dbc0b5dcfc1bde1cb
+run_name: receptive-dog-965
+run_uuid: 304e9cc9828d4e1dbc0b5dcfc1bde1cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725623050501
+status: 3
+tags: []
+user_id: Administrateur

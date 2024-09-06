@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/c2901d20d70f44eca8a9dbced7c5b392/artifacts
+end_time: 1725621770021
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: c2901d20d70f44eca8a9dbced7c5b392
+run_name: clean-dog-309
+run_uuid: c2901d20d70f44eca8a9dbced7c5b392
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725621740323
+status: 3
+tags: []
+user_id: Administrateur

@@ -1,0 +1,13 @@
+N' d'ordre | Date du dépot des déclarations | Nom | Prénoms | Domiciles | Date du décès ou du jugement d'envoi en possession, en cas d'absence | Noms, Prénoms et demeures des parties déclarantes | Actif (2) | Passif (2) | Restant NET (2) | Valeur des immeubles (2) | Primitives | Supplémentaires | de l'expiration du délai de rectification | de l'exigibilité des droits | Numéros de la consignation des droits au sommier n' 28 | Date | N^03 | Numéros de la consignation au sommier n'30 | Observations
+1 | deux janvier 1920 | Séverin | Jules | Namur, 6 juillet 1849 | 6 juillet 1919 | Séverin. Delstanche et autres | 38742 | - | 38742 | 3,100 | 1 | - | 6 janvier 6 mois 1920 | 6 juillet 1919 | - | - | - | - | -
+2 | 3° | Dumont | Louis | Nivelles | 3° | Thonon, juliette et aut. | 569 | 4010 | - | - | 13 | 03 | 3 03 | 23 janvier 1920 | - | - | - | - | -
+- | - | Arrêté le deux janvier 1920 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- | - | Arrêté le trois janvier 1920 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- | - | Arrêté le quatre janvier 1920 Dimanche servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+3 | cinq janvier | Houlin | Edgard | Rebecq | 5 juillet 1919 | Houlin. Houart résidant | 117742 | - | 117742 | - | 117 | 10 janvier 6 mois 1920 | 5 juillet 1920 | 25 juillet 1920 | 121 | - | - | - | -
+3² | 3° | Séverin | Jules | Namur, 6 juillet 1849 | 6 juillet 1919 | Séverin. Lévy | 30342 | - | - | - | 1 | 1920 | - | - | - | - | - | - | -
+3³ | 3° | Wanderpepen | Marie | Nivelles | 29 8/1919 | Destrée. Léonce | 2636 | - | 2636 | - | 1205 | 1919 | - | 25 janvier 1920 | - | - | - | - | -
+- | - | Arrêté le cinq janvier 1920 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+4 | six janvier | Declas | Victor Joseph | Genappe Glabais | 25/8/1919 | Declas Delbruy. Joseph et autres | 9039 | - | 9039 | - | 15 janvier 23 juillet 1920 | 5 juillet 1920 | 5 juillet 1920 | 122 | - | - | - | - | -
+- | - | Arrêté le six janvier 1920 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- | - | Arrêté le sept janvier 1920 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
