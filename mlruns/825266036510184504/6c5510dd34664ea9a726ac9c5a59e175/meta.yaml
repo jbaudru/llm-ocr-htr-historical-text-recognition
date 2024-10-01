@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/6c5510dd34664ea9a726ac9c5a59e175/artifacts
+end_time: 1727782144506
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 6c5510dd34664ea9a726ac9c5a59e175
+run_name: capable-auk-74
+run_uuid: 6c5510dd34664ea9a726ac9c5a59e175
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727782136015
+status: 3
+tags: []
+user_id: julien

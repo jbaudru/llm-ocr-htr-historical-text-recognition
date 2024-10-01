@@ -1,0 +1,18 @@
+Here's a recreation of the content of the table in the image:
+
+| N° | DATE DU DÉCÈS ou des déclarations | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DU DÉCÈS ou de l'absence | NOMS, PRÉNOMS des héritiers ou légataires | DROITS DE SUCCESSION | DROIT DE MUTATION | NUMÉROS des déclarations | DATE | RECETTE | OBSERVATIONS |
+|---|---|---|---|---|---|---|---|---|---|---|
+| | | NOMS | PRÉNOMS | DOMICILES | | | ACTIF | PASSIF | RESTANT NET | VALEUR des immeubles | Primitives | Supplémentaires | de l'expiration du délai de rectification | de l'exigibilité des droits | DATE | N° | |
+| | Arrêté le vingt-deux novembre 1919 (Servais) | | | | | | | | | | | | | | | | |
+| 429 | vingt deux novembre | Delfo | Henri | Itter | 25 mai 1919 | Plisnier Emile | 7665 | | 7665 | | | | 3 janvier 1920 | 25 mars 1920 | 16 déc 1920 | 369 | |
+| 430 | " | Houart | Ida | " | 17 8bre 1919 | Houart Joseph & autres | 46795 | 1167 | 45628 | | | | 3 " | 17 avril 1920 | 2 mai 1921 366 juin 1921 415 | |
+| 431 | " | Romain | Félicie | " | 10 7bre 1919 | Baudet Denis & autres | 18111 | | 18111 | | | | 3 " | 10 juillet 1920 | 29 8bre 1919 386 | |
+| 432 | " | Poliart | Léon | " | 15 8bre 1919 | Haumont Clarisse & autres | 974 | 141 | 832 | | 105/3 1920 | 3 " | 15 avril 1920 | 2 avril 1921 64 | |
+| 433 | " | Poliart | Arthur | " | 19 " | " | 781 | 141 | 640 | | 105/3 1920 | 3 " | 19 " | " 71 | |
+| 434 | " | Houtmeyers | Henri | Waterloo | 28 mai 1919 | Paterque Désiré | 2826 | 958 | 1878 | | | | 3 " | 28 mars 1920 | 1 avril 1920 75 | |
+| 435 | " | Chilain | Louis Henri | Genappe | 5 9bre 1919 | Legrand Marie & autres | 11291 | | 11291 | | 155/3 1920 | 3 " | 5 9bre 1920 | non passible | |
+| 436 | " | Gaussin | Eva | Braine le Château | 22 8bre 1919 | Gaussin Camille | 1020 | 522 | 498 | | | | 3 " | 22 avril 1920 | non passible | |
+| 437 | " | Delannoy | Clémentine | " | 28 mars 1918 | Delannoy Adeline | 2157 | 1574 | 583 | | | | 2 " | 28 janvier 1919 | 14-11-21 183 | |
+| 438 | " | Debutte | Jules | Waterloo | 29 8bre 1919 | Debutte enfants | 9981 | 4426 | 5555 | | | | 3 " | 29 avril 1920 | 15 mars 1920 107 2 avril 1921 263 | |
+| | Arrêté le vingt-trois novembre 1919 (Servais) | | | | | | | | | | | | | | | | |
+| | Arrêté le vingt-quatre novembre 1919 (Dimanche) (Servais) | | | | | | | | | | | | | | | | |

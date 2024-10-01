@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/1308034905424ef98b0a7a25e45ae883/artifacts
+end_time: 1727782079654
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 1308034905424ef98b0a7a25e45ae883
+run_name: nebulous-stag-595
+run_uuid: 1308034905424ef98b0a7a25e45ae883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727782061212
+status: 3
+tags: []
+user_id: julien

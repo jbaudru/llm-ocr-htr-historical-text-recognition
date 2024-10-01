@@ -1,0 +1,17 @@
+Here is the recreated content of the table from the image:
+
+N° | DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DES DÉCÈS | NOMS, PRÉNOMS | DROITS DE SUCCESSION | DATE | RECETTE | OBSERVATIONS
+-- | ------------- | ------------------------------------------------ | --------------- | ------------- | --------------------- | ---- | ------- | -------------
+   | L'ACTE | NOMS | PRÉNOMS | DOMICILES | ou des absences | DÉSIGNATION DES PARTIES DÉCLARANTES | ACTIF (2) | PASSIF (2) | RESTANT NET (2) | VALEUR DES IMMEUBLES (2) | Primitives | Supplémentaires | de l'expiration du délai de rectification | de l'exigibilité des droits | DATE | N° | 
+145 | vingt 4 juin | Ruyer | Charles Louis | Virginal | 17 8bre 1919 | Van Cutsem Julienne & autres | 5811 | 1613 | 31998 | | | | 28 d'8bre 1920 10 8bre 1921 | | |
+   | Arrêté le vingt quatre juin 1921 (signature) | | | | | | | | | | | | | | |
+146 | six huit juin | Masson | Jean Bte | Bousval | 19 février | Roch Thérèse | 12395 | 376 | 12029 | | | | 9-11-1921 | | |
+   | Arrêté le six huit juin 1921 (signature) | | | | | | | | | | | | | | |
+   | Arrêté le dix neuf juin 1921 Dimanche (signature) | | | | | | | | | | | | | | |
+   | Arrêté le vingt juin 1921 (signature) | | | | | | | | | | | | | | |
+147 | vingt cinq juin | Schliez | Jean Bte | Plancenoit | 13 mars 1920 | Gilles Marie Ghislaine & autres | 1923 | 296 | 1628 | | | | non passible | | |
+   | Arrêté le vingt un juin 1921 (signature) | | | | | | | | | | | | | | |
+   | Arrêté le vingt deux juin 1921 (signature) | | | | | | | | | | | | | | |
+   | Arrêté le vingt trois juin 1921 (signature) | | | | | | | | | | | | | | |
+148 | vingt quatre | Basset | Emmanuel Joseph | Genappe | 15 juillet 1920 | Gérard Emilie & autres | 9491 | 1229 | 8262 | 150 | | | 6 janvier 1922 | | |
+149 | d° | Kégelart | Constant Jh | Braine le Château | 18 mai 1920 | Kégelart Elisabeth & autres | 3281 | 170 | 3111 | | | | non passible | | |

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/72302e3e979e4b5cb8c6039236ee603f/artifacts
+end_time: 1727781440712
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 72302e3e979e4b5cb8c6039236ee603f
+run_name: selective-finch-867
+run_uuid: 72302e3e979e4b5cb8c6039236ee603f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727781426072
+status: 3
+tags: []
+user_id: julien

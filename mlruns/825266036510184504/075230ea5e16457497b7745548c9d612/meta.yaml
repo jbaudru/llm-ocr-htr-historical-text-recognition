@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/075230ea5e16457497b7745548c9d612/artifacts
+end_time: 1727782221005
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 075230ea5e16457497b7745548c9d612
+run_name: upset-worm-973
+run_uuid: 075230ea5e16457497b7745548c9d612
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727782190066
+status: 3
+tags: []
+user_id: julien

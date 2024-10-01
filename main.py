@@ -33,7 +33,7 @@ def evaluate():
     experiment_name = "zero-shot_complex-prompt"
     experiment_name = "one-example-prompt"
     experiment_name = "two-example-prompt"
-    experiment_name = "refine-prompt"
+    #experiment_name = "refine-prompt"
     
     # few-shot
     texts = {
@@ -103,14 +103,14 @@ def evaluate():
                 mlflow.log_param("method", model)
                 
                 # Zero-shot
-                res = agent.draft(image_path, by_line=False)
+                #res = agent.draft(image_path, by_line=False)
                 #result = agent.callPostProcessing(res)
                 
                 # One-example / Two-example
-                #result = agent.exampleShot(image_path, NbExamples=1)
+                result = agent.exampleShot(image_path, NbExamples=2)
                 
                 # Refine
-                result = agent.refineLayout(res)
+                #result = agent.refineLayout(res)
                 
                 # TODO: add refine method
                 

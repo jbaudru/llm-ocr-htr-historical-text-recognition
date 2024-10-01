@@ -1,0 +1,8 @@
+```plaintext
+  Nom. Prénoms Domiciles Actif. (2) Passif. (2) Restant NET. (2) Valeur des immeubles. (2) Primitives. Supplémentaires. de l'expiration du délai de rectification. de l'exigibilité des droits. Date N^03 Numéros de la consignation au sommier n'30 (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présente colonne.) 
+146 cinq 9bre Enyeart Charles Louis Orp-le-Grand 10 8bre 1919 Van Calster Fabienne & autres 54650 1210 53440 28 8bre 1919 16 8bre 1919 
+146 six 9bre Masson Jean 8bre 1919 19 8bre 1919 12000 12000 17 8bre 1919 
+147 cinq 9bre Leblicq Jean 1910 356 1566 28 8bre 1919 non passible 
+148 cinq 9bre Dasset Emmanuel 1910 1235 1235 6 9bre 1919 non passible 
+149 cinq 9bre Hegelart Laurent 1910 356 356 6 9bre 1919 non passible 
+```
