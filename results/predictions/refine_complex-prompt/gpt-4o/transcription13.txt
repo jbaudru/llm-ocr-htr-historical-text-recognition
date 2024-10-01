@@ -1,0 +1,33 @@
+Certainly! Here is the refined transcription based on the provided image:
+
+```plaintext
+[("N' d'ordre", " "),
+("Date du dépôt des déclarations", " "),
+("Désignation des personnes décédées ou absentes.:", "Nom."),
+("Désignation des personnes décédées ou absentes.:", "Prénoms"),
+("Désignation des personnes décédées ou absentes.:", "Domiciles"), 
+("Date du décès ou du jugement d'envoi en possession, en cas d'absence.", " "),
+("Noms, Prénoms et demeures des parties déclarantes.", " "),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Actif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Passif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Restant NET. (2)"),
+("Droit de mutation par décès", "Valeur des immeubles. (2)"), 
+("Numéros des déclarations", "Primitives."),
+("Numéros des déclarations", "Supplémentaires."), 
+("Date", "de l'expiration du délai de rectification."),
+("Date", "de l'exigibilité des droits."),
+("Numéros de la consignation des droits au sommier n' 28", " "),
+("Recette des droits et amendes.", "Date"),
+("Recette des droits et amendes.", "N^03"),
+("Cautionnements. ", "Numéros de la consignation au sommier n'30"),
+("Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présente colonne.)", " ")]
+
+[
+(1, "deux Janvier 1920", "Séverin", "Jules", "Cimornay", "Arrêté le premier janvier 1920 servais", "Séverin Jules", 38262, 38262, "", "", 1742, "", "1er février 1920", "1er mai 1920", "", "1er juillet 1920", 129, "", ""),
+(2, "deux Janvier 1920", "Dumont", "Louis", "Nivelles", "Arrêté le premier janvier 1920 servais", "Dumont Louis", 369, 4018, "", "", 13, 3, 3, "1er juillet 1920", 129, "", ""),
+(3, "cinq Janvier 1920", "Hockin", "Edgar", "Jupille", "Arrêté le trois janvier 1920 servais", "Hockin Edgar", 101724, 101724, "", "", 140, "1er février 1920", "1er mai 1920", "", "1er juillet 1920", 126, "", ""),
+(4, "cinq Janvier 1920", "Séverin", "Jules", "Cimornay", "Arrêté le trois janvier 1920 servais", "Séverin Jules", 38262, 38262, "", "", 13, 3, 3, "1er juillet 1920", 129, "", ""),
+(5, "cinq Janvier 1920", "Wandropen", "Marie", "Nivelles", "Arrêté le trois janvier 1920 servais", "Wandropen Marie", 1689, 1689, "", "", 140, "1er février 1920", "1er mai 1920", "", "1er juillet 1920", 126, "", ""),
+(6, "six Janvier 1920", "Scolas", "Julien Joseph", "Nivelles", "Arrêté le cinq janvier 1920 servais", "Scolas Julien Joseph", 9089, 9089, "", "", 140, "1er février 1920", "1er mai 1920", "", "1er juillet 1920", 126, "", "")
+]
+```

@@ -1,0 +1,37 @@
+Certainly! Here is the refined transcription based on the provided image:
+
+```plaintext
+[("N' d'ordre", " "),
+("Date du dépôt des déclarations", " "),
+("Désignation des personnes décédées ou absentes.:", "Nom."),
+("Désignation des personnes décédées ou absentes.:", "Prénoms"),
+("Désignation des personnes décédées ou absentes.:", "Domiciles"), 
+("Date du décès ou du jugement d'envoi en possession, en cas d'absence.", " "),
+("Noms, Prénoms et demeures des parties déclarantes.", " "),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Actif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Passif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Restant NET. (2)"),
+("Droit de mutation par décès", "Valeur des immeubles. (2)"), 
+("Numéros des déclarations", "Primitives."),
+("Numéros des déclarations", "Supplémentaires."), 
+("Date", "de l'expiration du délai de rectification."),
+("Date", "de l'exigibilité des droits."),
+("Numéros de la consignation des droits au sommier n' 28", " "),
+("Recette des droits et amendes.", "Date"),
+("Recette des droits et amendes.", "N^03"),
+("Cautionnements. ", "Numéros de la consignation au sommier n'30"),
+("Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présente colonne.)", " ")] 
+
+| N' d'ordre | Date du dépôt des déclarations | Nom          | Prénoms       | Domiciles       | Date du décès ou du jugement d'envoi en possession, en cas d'absence | Noms, Prénoms et demeures des parties déclarantes | Actif. (2) | Passif. (2) | Restant NET. (2) | Valeur des immeubles. (2) | Primitives | Supplémentaires | Date de l'expiration du délai de rectification | Date de l'exigibilité des droits | Numéros de la consignation des droits au sommier n' 28 | Date | N^03 | Numéros de la consignation au sommier n'30 | Observations |
+|------------|--------------------------------|--------------|---------------|-----------------|---------------------------------------------------------------------|--------------------------------------------------|------------|-------------|------------------|----------------------------|------------|-----------------|---------------------------------------------|-------------------------------|----------------------------------------------------------|------|------|--------------------------------------------|--------------|
+| 418        | 6 août 1919                    | Cloquet      | Clotilde      | Hauthem         | 14 mai 1919                                                        | Evrard Alix                                      | 900        | 900         |                  |                            |            |                 | 27 mars 1920                            | 1 novembre 1920                | 55                                                       | 1 novembre 1920 | 55   |                                            |              |
+| 419        | 6 août 1919                    | Viment       | Etienne       | Liège            | 5 août 1919                                                        | Lambotte Emile                                   | 2600       | 2600        |                  |                            |            |                 | 3 juin 1920                              | 1 novembre 1920                | 56                                                       | 1 novembre 1920 | 56   |                                            |              |
+|            |                                | Arrêté le 7 août 1919 servais |               |                 |                                                                     |                                                  |            |             |                  |                            |            |                 |                                         |                                   |                                                          |      |      |                                            |              |
+| 420        | 6 août 1919                    | Boisdenghien | Henri         | Quaregnon        | 14 mai 1919                                                        | Dubois Hector, à autre                           | 17217      | 17217       |                  |                            |            |                 | 27 mars 1920                            | 1 novembre 1920                | 57                                                       | 1 novembre 1920 | 57   |                                            |              |
+| 420 bis    | 6 août 1919                    | Lambotte     | Emile         | Liège            | 5 août 1919                                                        | Lambotte Emile                                   | 2600       | 2600        |                  |                            |            |                 | 3 juin 1920                              | 1 novembre 1920                | 56                                                       | 1 novembre 1920 | 56   |                                            |              |
+|            |                                | Arrêté le 7 août 1919 servais |               |                 |                                                                     |                                                  |            |             |                  |                            |            |                 |                                         |                                   |                                                          |      |      |                                            |              |
+| 420 ter    | 6 août 1919                    | Rousseau     | Charles       | Nivelles         | 14 mai 1919                                                        | Rousseau Emile                                   | 21000      | 21000       |                  |                            |            |                 | 27 mars 1920                            | 1 novembre 1920                | 58                                                       | 1 novembre 1920 | 58   |                                            |              |
+| 421        | 6 août 1919                    | Lefrancq     | Henri         | Auderghem        | 5 août 1919                                                        | Lefrancq Henri                                   | 19222      | 210         | 19012            |                            |            |                 | 3 juin 1920                              | 1 novembre 1920                | 59                                                       | 1 novembre 1920 | 59   |                                            |              |
+|            |                                | Arrêté le 7 août 1919 servais |               |                 |                                                                     |                                                  |            |             |                  |                            |            |                 |                                         |                                   |                                                          |      |      |                                            |              |
+```
+```

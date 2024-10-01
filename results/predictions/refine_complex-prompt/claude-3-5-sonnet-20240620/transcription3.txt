@@ -1,0 +1,17 @@
+I apologize for the errors in my previous transcription. I'll refine the transcription based on your feedback, paying closer attention to names, locations, dates, and numbers. Here's the refined version:
+
+```plaintext
+N° d'ordre | Date du dépôt des déclarations | Nom | Prénoms | Domiciles | Date du décès ou du jugement d'envoi en possession, en cas d'absence | Noms, Prénoms et demeures des parties déclarantes | Actif (2) | Passif (2) | Restant NET (2) | Valeur des immeubles (2) | Primitives | Supplémentaires | de l'expiration du délai de rectification | de l'exigibilité des droits | Numéros de la consignation des droits au sommier n° 28 | Date | N°s | Numéros de la consignation au sommier n°30 | Observations
+418 | 6 | Cloquet | Désiré | Havelange | 28 mai 1919 | Soeur alliée | 400 | - | 400 | - | 4 | - | 4 décembre 1919 | 4 mars 1920 | 5 | - | - | - | -
+419 | 6 | Vincent | Désiré | Ciney | 3 mai 1919 | Epouse, Emile et autre | 2600 | - | 2600 | - | 28 | - | 3 juin 1919 | 3 novembre 1919 | 3 | - | - | - | -
+- | - | Arrêté le deux novembre 1919 Servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- | - | Arrêté le quatre novembre 1919 Servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+420 | 6 | Boisdenghien | Désiré | Gesves | 18 mai 1919 | Soeur, Frère et autre | 1938 | - | 1938 | - | 101 | 201, 202, 203 | 18 novembre 1919 | 18 mai 1920 | 1 | - | - | - | -
+420 | 6 | Lambotte | Ernest | Malonne | 17 février 1919 | Lambotte Emile | - | - | 562 | 562 | - | - | - | - | - | - | - | - | -
+- | - | Arrêté le quatre novembre 1919 Servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- | - | Arrêté le cinq novembre 1919 Dinant Servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- | - | Arrêté le six sept novembre 1919 Servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+420 | 6 | Rousseau | Floribert | Nivelles | 21 mars 1919 | Rousseau Désiré | 26100 | - | 26100 | 100 | - | - | - | - | - | - | - | - | -
+421 | 6 | Schoneq | Henri | Auby | 3 octobre 1919 | Dejardin, Veuve Schoneq | 3922 | 218 | 3704 | - | 11 | - | 3 avril 1920 | 3 juin 1920 | 4 | - | - | - | -
+- | - | Arrêté le six huit novembre 1919 Servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+```

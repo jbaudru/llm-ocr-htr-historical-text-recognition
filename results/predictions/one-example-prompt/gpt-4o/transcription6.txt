@@ -1,7 +1,0 @@
-```plaintext
- 146 Christophe Eugène Enyeart Charleroi Louis Désiré 10 8bre 1918 Van Calster Fabienne & autres 54250 1210 53040 54250 1210 28 août 1919 16 août 1919
- 146 de Haut-fays Masson Jean-Bapt. Bouillon 19 8bre 1918 Jean-Bapt. Edith 12906 686 12220 12906 686 27-11-1919
- 147 investigateur Leblicq Jean-Bapt. Roumont 19 8bre 1918 Jean-Bapt. Marie Drickx & autres 19050 356 18694 19050 356 non passible
- 148 investigateur Dasset Emmanuel Gosselies 19 8bre 1918 Jean-Bapt. Edith & autres 4541 1235 3306 4541 1235 6 janvier 1920 6 janvier 1920
- 149 investigateur Hegelart Laurent Gh. Gréz-Doiceau 19 8bre 1918 Hegelart Elisabeth & autres 4358 458 3890 4358 458 non passible
-```

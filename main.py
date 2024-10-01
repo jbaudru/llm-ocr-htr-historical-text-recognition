@@ -31,9 +31,9 @@ def append_result(texts, key, result):
 def evaluate():
     experiment_name = "zero-shot_simple-prompt"
     experiment_name = "zero-shot_complex-prompt"
-    experiment_name = "one-example-prompt"
-    experiment_name = "two-example-prompt"
-    #experiment_name = "refine-prompt"
+    experiment_name = "one-example_prompt"
+    #experiment_name = "two-example_prompt"
+    #experiment_name = "refine_complex-prompt"
     
     # few-shot
     texts = {
@@ -107,7 +107,7 @@ def evaluate():
                 #result = agent.callPostProcessing(res)
                 
                 # One-example / Two-example
-                result = agent.exampleShot(image_path, NbExamples=2)
+                result = agent.exampleShot(image_path, NbExamples=1)
                 
                 # Refine
                 #result = agent.refineLayout(res)

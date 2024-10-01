@@ -1,6 +1,0 @@
-N° | DATE DU DÉPÔT | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DU DÉCÈS | DROITS DE SUCCESSION | DROIT | NUMÉROS | RECETTE | OBSERVATIONS
-   | des          |                                                | ou du         |                       | DE    | des      | des     |
-   | DÉCLARATIONS | NOMS,         PRÉNOMS,        DOMICILES        | jugement      | NOMS, PRÉNOMS         | MUTATION | DÉCLARATIONS | DROITS ET AMENDES |
-   |              |                                                | d'absence     | ET                    |        |          |         |
-   |              |                                                |               | DEMEURES DES PARTIES DÉCLARANTES | ACTIF | PASSIF | RESTANT | EN LIGNE DIRECTE | VALEUR | DATE | N° | DATE | MONTANTS |
-   |              |                                                |               |                       |        |          | NET    |                  |        |      |    |      |          |

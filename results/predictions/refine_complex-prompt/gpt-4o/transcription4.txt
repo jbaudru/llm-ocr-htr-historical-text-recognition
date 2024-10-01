@@ -1,0 +1,38 @@
+Certainly! Here is the refined transcription based on the provided image:
+
+```plaintext
+[("N' d'ordre", " "),
+("Date du dépôt des déclarations", " "),
+("Désignation des personnes décédées ou absentes.:", "Nom."),
+("Désignation des personnes décédées ou absentes.:", "Prénoms"),
+("Désignation des personnes décédées ou absentes.:", "Domiciles"), 
+("Date du décès ou du jugement d'envoi en possession, en cas d'absence.", " "),
+("Noms, Prénoms et demeures des parties déclarantes.", " "),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Actif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Passif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Restant NET. (2)"),
+("Droit de mutation par décès", "Valeur des immeubles. (2)"), 
+("Numéros des déclarations", "Primitives."),
+("Numéros des déclarations", "Supplémentaires."), 
+("Date", "de l'expiration du délai de rectification."),
+("Date", "de l'exigibilité des droits."),
+("Numéros de la consignation des droits au sommier n' 28", " "),
+("Recette des droits et amendes.", "Date"),
+("Recette des droits et amendes.", "N^03"),
+("Cautionnements. ", "Numéros de la consignation au sommier n'30"),
+("Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présente colonne.)", " ")] 
+
+[
+("419", "6 novembre", "Hemans", "Otto", "Bruxelles", "6 avril", "Hemans Edouard", "5985", "249", "5736", "30", "1", " ", "6 avril 1920", "6 avril 1920", " ", "6 avril 1920", "326", " ", " "),
+("420", "6 novembre", "Druij", "Antoine", "Grimbergen", "6 avril", "Druij Henri", "5000", " ", "5000", " ", " ", " ", "6 avril 1920", "6 avril 1920", " ", "6 avril 1920", " ", " ", " "),
+("421", "6 novembre", "Pieterkens", "Jean Joseph", "Grimbergen", "6 avril", "Pieterkens Louis", " ", " ", " ", " ", " ", " ", "6 avril 1920", "6 avril 1920", " ", "6 avril 1920", " ", " ", " "),
+("422", "6 novembre", "Pieterkens", "Jean Joseph", "Grimbergen", "6 avril", "Pieterkens Louis", " ", " ", " ", " ", " ", " ", "6 avril 1920", "6 avril 1920", " ", "6 avril 1920", " ", " ", " "),
+("423", "6 novembre", "Desaegher", "Henri Albert", "Bruxelles", "6 avril", "Desaegher Wilhelmine", " ", " ", " ", " ", " ", " ", "6 avril 1920", "6 avril 1920", " ", "6 avril 1920", " ", " ", " "),
+("424", "6 novembre", "Haulice", "Germain", "Bruxelles", "6 avril", "Haulice Joseph", " ", " ", " ", " ", " ", " ", "6 avril 1920", "6 avril 1920", " ", "6 avril 1920", " ", " ", " "),
+("425", "6 novembre", "Delaire", "Julien", "Bruxelles", "6 avril", "Delaire Jean", " ", " ", " ", " ", " ", " ", "6 avril 1920", "6 avril 1920", " ", "6 avril 1920", " ", " ", " "),
+("426", "6 novembre", "Pierrot", "Julien", "Bruxelles", "6 avril", "Pierrot Jean", " ", " ", " ", " ", " ", " ", "6 avril 1920", "6 avril 1920", " ", "6 avril 1920", " ", " ", " "),
+("427", "6 novembre", "Fontignies", "Jean", "Bruxelles", "6 avril", "Fontignies Joseph", " ", " ", " ", " ", " ", " ", "6 avril 1920", "6 avril 1920", " ", "6 avril 1920", " ", " ", " "),
+("428", "6 novembre", "Moens", "Joseph", "Bruxelles", "6 avril", "Moens Jean", " ", " ", " ", " ", " ", " ", "6 avril 1920", "6 avril 1920", " ", "6 avril 1920", " ", " ", " "),
+("429", "6 novembre", "Semal", "Henri", "Bruxelles", "6 avril", "Semal Jean", " ", " ", " ", " ", " ", " ", "6 avril 1920", "6 avril 1920", " ", "6 avril 1920", " ", " ", " ")
+]
+```

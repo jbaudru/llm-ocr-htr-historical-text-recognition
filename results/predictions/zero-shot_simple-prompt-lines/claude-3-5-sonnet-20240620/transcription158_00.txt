@@ -1,7 +1,0 @@
-DATE DU DÉPÔT | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES. | DATE DE DÉCÈS | NOMS, PRÉNOMS | DROITS DE SUCCESSION | DROIT | NUMÉROS | RECETTE | DATE | OBSERVATIONS.
-des          |                                                 | ou du         |                | EN LIGNE COLLATÉRALE | DE    | des      | des     |      |
-déclarations | NOMS.           PRÉNOMS.           DOMICILES.   | jugement      |                | ET DE                | MUTATION | DÉCLARATIONS |      |
-             |                                                 | d'absence.    | HÉRITIERS OU PARTIES DÉCLARANTES | MUTATION EN LIGNE DIRECTE |      |      |
-                                                               |               |                |                      |       |          |         |      |
-                                                               |               |                | ACTIF. | PASSIF. | RESTANT | VALEUR |          |         |      |
-                                                               |               |                |        |         |   NET   |        |          |         |      |

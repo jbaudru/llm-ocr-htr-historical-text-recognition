@@ -1,0 +1,38 @@
+Certainly! Here is the refined transcription based on the provided image:
+
+```plaintext
+[("N' d'ordre", " "),
+("Date du dépôt des déclarations", " "),
+("Désignation des personnes décédées ou absentes.:", "Nom."),
+("Désignation des personnes décédées ou absentes.:", "Prénoms"),
+("Désignation des personnes décédées ou absentes.:", "Domiciles"), 
+("Date du décès ou du jugement d'envoi en possession, en cas d'absence.", " "),
+("Noms, Prénoms et demeures des parties déclarantes.", " "),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Actif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Passif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Restant NET. (2)"),
+("Droit de mutation par décès", "Valeur des immeubles. (2)"), 
+("Numéros des déclarations", "Primitives."),
+("Numéros des déclarations", "Supplémentaires."), 
+("Date", "de l'expiration du délai de rectification."),
+("Date", "de l'exigibilité des droits."),
+("Numéros de la consignation des droits au sommier n' 28", " "),
+("Recette des droits et amendes.", "Date"),
+("Recette des droits et amendes.", "N^03"),
+("Cautionnements. ", "Numéros de la consignation au sommier n'30"),
+("Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présente colonne.)", " ")]
+
+[
+("439", "6", "Arrêté le trois décembre 1919 servais", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""),
+("439", "6", "Knops", "Delvaux", "Nivelles", "4 juillet 1919", "Servais Edmond Nivelles", "Actif malpropre", "51", "189", "", "23 août 1919", "16 novembre 1919", "", "", "", "", "", "", ""),
+("440", "6", "Depalque", "Eugène", "Nivelles", "4 juillet 1919", "Witmeur Marie Nivelles", "Actif malpropre", "51", "189", "", "23 août 1919", "16 novembre 1919", "", "", "", "", "", "", ""),
+("441", "6", "Arrêté le quatre décembre 1919 servais", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""),
+("441", "6", "Jacqmin", "Berthe", "Ophain", "4 juillet 1919", "Jacqmin Berthe Ophain", "Actif malpropre", "51", "189", "", "23 août 1919", "16 novembre 1919", "", "", "", "", "", "", ""),
+("442", "6", "Vonsure", "Elie", "Nivelles", "4 juillet 1919", "Vonsure Elie Nivelles", "Actif malpropre", "51", "189", "", "23 août 1919", "16 novembre 1919", "", "", "", "", "", "", ""),
+("443", "6", "Arrêté le cinq décembre 1919 servais", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""),
+("443", "6", "de Lalievre", "Emile", "Nivelles", "4 juillet 1919", "de Lalievre Emile Nivelles", "Actif malpropre", "51", "189", "", "23 août 1919", "16 novembre 1919", "", "", "", "", "", "", ""),
+("444", "6", "Arrêté le six décembre 1919 servais", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""),
+("444", "6", "Heumoels", "Alphonse", "Nivelles", "4 juillet 1919", "Heumoels Alphonse Nivelles", "Actif malpropre", "51", "189", "", "23 août 1919", "16 novembre 1919", "", "", "", "", "", "", ""),
+("445", "6", "Goisse", "Léopold", "Nivelles", "4 juillet 1919", "Goisse Léopold Nivelles", "Actif malpropre", "51", "189", "", "23 août 1919", "16 novembre 1919", "", "", "", "", "", "", "")
+]
+```

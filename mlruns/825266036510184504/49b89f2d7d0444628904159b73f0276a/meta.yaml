@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/49b89f2d7d0444628904159b73f0276a/artifacts
+end_time: 1727784295442
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 49b89f2d7d0444628904159b73f0276a
+run_name: upset-midge-466
+run_uuid: 49b89f2d7d0444628904159b73f0276a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727784288210
+status: 3
+tags: []
+user_id: Administrateur
