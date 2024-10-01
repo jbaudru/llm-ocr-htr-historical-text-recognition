@@ -1,0 +1,8 @@
+```plaintext
+Nom. Prénoms Domiciles Actif. (2) Passif. (2) Restant NET. (2) Valeur des immeubles. (2) Primitives. Supplémentaires. de l'expiration du délai de rectification. de l'exigibilité des droits. Date N^03 Numéros de la consignation au sommier n'30 (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présente colonne.) 
+8 six 9bre 1919 Seelercq Braine l'Alleud 6 8b 1919 Seelercq Victor & autres 4460 4460 19^e janvier 1920 532 
+9 six 9bre 1919 Gervig Etterbeek 28 janvier 1919 Gervig Henri 350 350 19^e janvier 1920 50 
+9 six 9bre 1919 Areq Ophain 6 8b 1919 Areq Ernest 350 350 19^e janvier 1920 50 
+9 six 9bre 1919 Becquet Nivelles 7 8b 1919 Becquet Henri 204 204 19^e janvier 1920 50 
+10 six 9bre 1919 Drieux Nivelles 24 mars 1919 Drieux Louis 111 553 555 109 960 19^e janvier 1920 50 
+```

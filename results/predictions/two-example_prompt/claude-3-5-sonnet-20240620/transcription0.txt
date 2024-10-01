@@ -1,0 +1,18 @@
+Here's a recreation of the content of the table in the image:
+
+| N° | DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DE DÉPÔT de la déclaration | NOMS, PRÉNOMS | DROITS DE SUCCESSION | DROIT | NUMÉROS | DATE | RECETTE | OBSERVATIONS |
+|----|--------------|-------------------------------------------------|--------------------------------|---------------|------------------------|-------|---------|------|---------|---------------|
+|    |              | NOM | PRÉNOMS | DOMICILES |                                | HÉRITIERS DES PARTIES DÉCLARANTES | ACTIF | PASSIF | RESTANT NET | VALEUR des immeubles | Primitives | Supplémentaires | de l'expiration du délai de rectification | de l'exigibilité des droits | DATE | N° | DATE | N° |  |
+| | | Arrêté le vingt-huit octobre 1919 (servais) | | | | | | | | | | | | | | | | |
+| | | Arrêté le vingt-neuf octobre 1919 (servais) | | | | | | | | | | | | | | | | |
+| 398 | trente octobre | Sterckx | Alphonse | Ophain | 19/8/1911 | Sterckx Denis & autres | 2280 | 1115 | 1165 | | | | 11 Xbre 1919 | 15 février 1919 | | | | | (illisible) 315 |
+| 398² | " | Lefèvre | Jules | Braine l'Alleud | 17 janvier 1919 | Souche Charles | | 2225 | | | | 216/ 1919 | | | | | | | |
+| | | Arrêté le trente octobre 1919 (servais) | | | | | | | | | | | | | | | | |
+| | | Arrêté le trente un octobre 1919 (servais) | | | | | | | | | | | | | | | | |
+| | | Arrêté le premier novembre 1919 (servais) et (servais) | | | | | | | | | | | | | | | | |
+| | | Arrêté le deux novembre 1919 Dimanche (servais) | | | | | | | | | | | | | | | | |
+| 399 | trois 9bre | Desmedt | Jeanne | Nivelles | 13 mai 1919 | Willocq Félix & autres | 9670 | 530 | 9140 | | | | 15 Xbre 1919 | 13 mars 1920 | | | | | 10 février 58 |
+| 400 | " | Monseux | Renault Henri | Clabecq | 1 8bre 1918 | Monseux Gustave | 695100 | 241115 | 453985 | | | | 15 " | 1 avril 1919 | | | | | |
+| 401 | " | Bouty | Flore | Braine l'Alleud | 22 juillet 1919 | Bouty Désiré & autre | 22198 | | 22198 | | | | 15 " | 22 Xbre 1919 | | | | | non passible |
+| | | Arrêté le trois novembre 1919 (servais) | | | | | | | | | | | | | | | | |
+| 402 | quatre 9bre | Godart | Rosalie | Nivelles | 22 mai 1919 | Thème Gustave | 17559 | | 17559 | | | 416/ 1919 | 16 " | 22 mars 1920 | | | | | 18 octobre 176 |

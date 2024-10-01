@@ -1,0 +1,33 @@
+```plaintext
+[("N' d'ordre", " "),
+("Date du dépot des déclarations", " "),
+("Désignation des personnes décédées ou absentes.:", "Nom."),
+("Désignation des personnes décédées ou absentes.:", "Prénoms"),
+("Désignation des personnes décédées ou absentes.:", "Domiciles"), 
+("Date du décès ou du judgement d'envoi en possession, en cas d'absence.", " "),
+("Noms, Prénoms et demeures des parties déclarantes.", " "),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Actif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Passif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Restant NET. (2)"),
+("Droit de mutation par déces", "Valeur des immeubles. (2)"), 
+("Numéros des déclarations", "Primitives."),
+("Numéros des déclarations", "Supplémentaires."), 
+("Date", "de l'expiration du délai de rectification."),
+("Date", "de l'exigibilité des droits."),
+("Numéros de la consignation des droits au sommier n' 28", " "),
+("Recette des droits et amendes.", "Date"),
+("Recette des droits et amendes.", "N^03"),
+("Cautionnements. ", "Numéros de la consignation au sommier n'30"),
+("Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)", " ")]
+
+[
+(418, "6 août 1919", "Cloquet", "Elisabeth", "Wauthier", "14 mai 1919", "Cloquet Alix", 900, 900, 900, "", "", "", "23 août 1919", "23 août 1919", "", "1er septembre 1919", 55, "", ""),
+(419, "6 août 1919", "Vincent", "Edouard", "Liège", "5 août 1919", "Vincent Alix", 2600, 2600, 2600, "", "", "", "3 septembre 1919", "3 septembre 1919", "", "1er octobre 1919", 56, "", ""),
+("Arrêté le 7 août 1919 servais", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""),
+(420, "6 août 1919", "Boisdenghien", "Henri", "Gand", "17 mai 1919", "Boisdenghien Alix", 1727, 1727, 1727, "", "", "", "23 août 1919", "23 août 1919", "", "1er septembre 1919", 57, "", ""),
+(420 bis, "6 août 1919", "Lambotte", "Ernest", "Malines", "14 mai 1919", "Lambotte Henri", 1727, 1727, 1727, "", "", "", "23 août 1919", "23 août 1919", "", "1er septembre 1919", 57, "", ""),
+("Arrêté le 8 août 1919 servais", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""),
+(420 ter, "6 août 1919", "Rousseau", "Charles", "Nivelles", "8 mai 1919", "Rousseau Henri", 2100, 2100, 2100, "", "", "", "23 août 1919", "23 août 1919", "", "1er septembre 1919", 58, "", ""),
+(421, "6 août 1919", "Lefrancq", "Henri", "Louvain", "7 mai 1919", "Lefrancq Henri", 3222, 210, 3012, "", "", "", "23 août 1919", "23 août 1919", "", "1er septembre 1919", 59, "", "")
+]
+```

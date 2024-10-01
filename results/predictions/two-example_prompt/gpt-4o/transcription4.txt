@@ -1,0 +1,18 @@
+```plaintext
+DATE DE DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES. | DROITS DE SUCCESSION | DROIT DE MUTATION PAR DÉCÈS EN LIGNE DIRECTE | DATE | NUMÉROS | RECETTE | OBSERVATIONS.
+DES DÉCLARATIONS | NOMS. | PRÉNOMS. | DOMICILES. | ACTIF. | PASSIF. | RESTANT NET. | VALEUR DES IMMEUBLES. | PRIMITIVES. | SUPPLÉMENTAIRES. | DE L'EXPIRATION DU DÉLAI DE RECTIFICATION. | DE L'EXIGIBILITÉ DES DROITS. | DATE | N^03 | NUMÉROS DE LA CONSIGNATION AU SOMMIER N^30 (LES DÉCLARATIONS QUI FIGURENT À L'ÉTAT N^413 DOIVENT ÊTRE ÉMARGÉES EN CONSÉQUENCE, DANS LA PRÉSENTE COLONNE.)
+1919
+423 | 6 | Hemans | Charles | Otto | 17 avril | Bruxelles | 5585 | 229 | 5356 | 30 | 10 août 1920 | 326 | 10 août 1920
+424 | 6 | Druij | Antoine | Henri | 8 janvier | Anvers | 500 | 500 | 10 août 1920 | 327 | 10 août 1920
+425 | 6 | Pieterbons | Pierre Joseph | 17 février | Anvers | 201 | 201 | 10 août 1920 | 328 | 10 août 1920
+426 | 6 | Pieterbons | Jean Gys | 4 mai | Anvers | 121 | 121 | 10 août 1920 | 329 | 10 août 1920
+427 | 6 | Desaegher | Henri | Albert | 28 mai | Bruxelles | 2835 | 2835 | 10 août 1920 | 330 | 10 août 1920
+Arrêté le dix-neuf novembre 1919 Servais
+428 | 6 | Haulice | Germain | Louis | 7 juillet | Bruxelles | 6601 | 6601 | 10 août 1920 | 331 | 10 août 1920
+429 | 6 | Delaite | Eléonore | Adolphe | 8 août | Bruxelles | 3504 | 3504 | 10 août 1920 | 332 | 10 août 1920
+Arrêté le vingt novembre 1919 Servais
+430 | 6 | Piercot | Julien | Nicolas | 8 août | Floreffe | 2615 | 2615 | 10 août 1920 | 333 | 10 août 1920
+431 | 6 | Fontignies | Jean | Pierre | 10 août | Bruxelles | 2161 | 2161 | 10 août 1920 | 334 | 10 août 1920
+432 | 6 | Moens | Joseph | 10 août | Bruxelles | 574 | 574 | 10 août 1920 | 335 | 10 août 1920
+433 | 6 | Semal | Honoré | 16 août | Nivelles | 2161 | 2161 | 10 août 1920 | 336 | 10 août 1920
+```

@@ -1,0 +1,31 @@
+Certainly! Here is the recreated table based on the provided image:
+
+```plaintext
+[("N' d'ordre", " "),
+("Date du dépot des déclarations", " "),
+("Désignation des personnes décédées ou absentes.:", "Nom."),
+("Désignation des personnes décédées ou absentes.:", "Prénoms"),
+("Désignation des personnes décédées ou absentes.:", "Domiciles"), 
+("Date du décès ou du judgement d'envoi en possession, en cas d'absence.", " "),
+("Noms, Prénoms et demeures des parties déclarantes.", " "),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Actif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Passif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Restant NET. (2)"),
+("Droit de mutation par déces", "Valeur des immeubles. (2)"), 
+("Numéros des déclarations", "Primitives."),
+("Numéros des déclarations", "Supplémentaires."), 
+("Date", "de l'expiration du délai de rectification."),
+("Date", "de l'exigibilité des droits."),
+("Numéros de la consignation des droits au sommier n' 28", " "),
+("Recette des droits et amendes.", "Date"),
+("Recette des droits et amendes.", "N^03"),
+("Cautionnements. ", "Numéros de la consignation au sommier n'30"),
+("Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)", " ")] 
+
+| N' d'ordre | Date du dépot des déclarations | Nom       | Prénoms          | Domiciles       | Date du décès ou du jugement d'envoi en possession, en cas d'absence | Noms, Prénoms et demeures des parties déclarantes | Actif. (2) | Passif. (2) | Restant NET. (2) | Valeur des immeubles. (2) | Numéros des déclarations Primitives. | Numéros des déclarations Supplémentaires. | Date de l'expiration du délai de rectification | Date de l'exigibilité des droits | Numéros de la consignation des droits au sommier n' 28 | Recette des droits et amendes. Date | Recette des droits et amendes. N^03 | Cautionnements. Numéros de la consignation au sommier n'30 | Observations |
+|-----------|-------------------------------|-----------|------------------|-----------------|---------------------------------------------------------------------|-------------------------------------------------|------------|-------------|------------------|----------------------------|--------------------------------------|------------------------------------------|---------------------------------------------|----------------------------------|----------------------------------------------------------|--------------------------------|--------------------------------------|----------------------------------------------------------|--------------|
+| 4         | 4 avril 1920                  | Sefebore  | Eustach          | Cugnon          | 20 fév 1920                                                          | Nicolas, Euphrasie, veuve                        | 4570       | 4570        | 0                | 0                          | 4570                                 | 4570                                     | 28 fév 1920                                | 28 fév 1920                     | 28 fév 1920                                           | 28 fév 1920                     | 28 fév 1920                           | 28 fév 1920                                           |              |
+| 5         | 5 mars 1920                   | Druret    | Honoré           | Provins         | 1 mars 1920                                                          | Regnault, Félix, veuf                            | 2500       | 1200        | 1300             | 0                          | 2500                                 | 1200                                     | 1 mars 1920                                | 1 mars 1920                     | 1 mars 1920                                           | 1 mars 1920                     | 1 mars 1920                           | 1 mars 1920                                           |              |
+| 6         | 6 mars 1920                   | Saeriox   |                  |                 | 6 mars 1920                                                          |                                                 | 3691       | 3691        | 0                | 0                          | 3691                                 | 3691                                     | 6 mars 1920                                | 6 mars 1920                     | 6 mars 1920                                           | 6 mars 1920                     | 6 mars 1920                           | 6 mars 1920                                           |              |
+| 7         | 7 mars 1920                   | Wiciebels |                  |                 | 7 mars 1920                                                          |                                                 | 4469       | 4469        | 0                | 0                          | 4469                                 | 4469                                     | 7 mars 1920                                | 7 mars 1920                     | 7 mars 1920                                           | 7 mars 1920                     | 7 mars 1920                           | 7 mars 1920                                           |              |
+```

@@ -1,0 +1,37 @@
+Certainly! Here is the recreated table with the information from the provided image:
+
+```plaintext
+[("N' d'ordre", " "),
+("Date du dépot des déclarations", " "),
+("Désignation des personnes décédées ou absentes.:", "Nom."),
+("Désignation des personnes décédées ou absentes.:", "Prénoms"),
+("Désignation des personnes décédées ou absentes.:", "Domiciles"), 
+("Date du décès ou du judgement d'envoi en possession, en cas d'absence.", " "),
+("Noms, Prénoms et demeures des parties déclarantes.", " "),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Actif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Passif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Restant NET. (2)"),
+("Droit de mutation par déces", "Valeur des immeubles. (2)"), 
+("Numéros des déclarations", "Primitives."),
+("Numéros des déclarations", "Supplémentaires."), 
+("Date", "de l'expiration du délai de rectification."),
+("Date", "de l'exigibilité des droits."),
+("Numéros de la consignation des droits au sommier n' 28", " "),
+("Recette des droits et amendes.", "Date"),
+("Recette des droits et amendes.", "N^03"),
+("Cautionnements. ", "Numéros de la consignation au sommier n'30"),
+("Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)", " ")] 
+
+[
+["629", "6 novembre 1919", "Beth", "Henri", "Ottignies", "7 juillet 1919", "Henri Seuil", "7660", "0", "7660", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"],
+["630", "6 novembre 1919", "Huart", "Jean", "Fexhe", "19 juin 1919", "Huart Joseph et autres", "6201", "0", "6201", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"],
+["631", "6 novembre 1919", "Romain", "Félicie", "Jodoigne", "10 août 1919", "Romain Louis et autres", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"],
+["632", "6 novembre 1919", "Poliart", "Léon", "Louvain", "27 août 1919", "Henri-Blaise et autres", "9111", "0", "9111", "0", "0", "0", "0", "0", "0", "0", "0", "0"],
+["633", "6 novembre 1919", "Poliart", "Léon", "Louvain", "27 août 1919", "Henri-Blaise et autres", "9111", "0", "9111", "0", "0", "0", "0", "0", "0", "0", "0", "0"],
+["634", "6 novembre 1919", "Houtmeyers", "Henri", "Malines", "12 octobre 1919", "Houtmeyers Auguste", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"],
+["635", "6 novembre 1919", "Thibaut", "Emile", "Gosselies", "6 août 1919", "Thibaut Louis et autres", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"],
+["636", "6 novembre 1919", "Gausin", "Ernest", "Namur", "6 août 1919", "Gausin Louis", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"],
+["637", "6 novembre 1919", "Delannoy", "Edmond", "Bruxelles", "6 août 1919", "Delannoy Adrien", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"],
+["638", "6 novembre 1919", "Delatte", "Jules", "10 octobre 1919", "Delatte Adolphe", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"]
+]
+```

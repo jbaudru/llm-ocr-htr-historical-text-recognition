@@ -1,0 +1,29 @@
+Here's the recreation of the table based on the information in the image:
+
+```plaintext
+N' d'ordre | Date du dépot des déclarations | Nom. | Prénoms | Domiciles | Date du décès ou du judgement d'envoi en possession, en cas d'absence. | Noms, Prénoms et demeures des parties déclarantes. | Actif. (2) | Passif. (2) | Restant NET. (2) | Valeur des immeubles. (2) | Primitives. | Supplémentaires. | de l'expiration du délai de rectification. | de l'exigibilité des droits. | Numéros de la consignation des droits au sommier n' 28 | Date | N^03 | Numéros de la consignation au sommier n'30 | Observations
+438 | vingt-cinq juin | Gossiaux | Antoine Jos. | Florennes 20/9/1849 | Florennes époux à assister | | 1051 | - | 1051 | | | | 6 janvier 1920 | 20 juillet 1920 | 3 mars 1920 678 | | | |
+
+Arrêté le vingt quatre novembre 1919 servais
+
+Arrêté le vingt cinq novembre 1919 servais
+
+Arrêté le vingt six novembre 1919 servais
+
+Arrêté le vingt sept novembre 1919 servais
+
+Arrêté le vingt huit novembre 1919 servais
+
+Arrêté le vingt neuf novembre 1919 servais
+
+Arrêté le trente novembre 1919 Dimanche servais
+
+439 | trente janvier | Sainblane | Joseph | Fraire 2 février 1849 | Sainblane Joseph à Fraire | 4296 | | 3696 | 600 | | | | | | | | |
+439 | " | Sainblane | Emmanuel | " 63 " | " | 3292 | | 2892 | 400 | | | | | | | | |
+
+Arrêté le premier décembre 1919 servais
+
+440 | deux février | Charlier | Jean Bte | Châtelet 29/9/1845 | Châtelet 7 rue du Calvaire | 3000 | | 3000 | | | | | | | | | |
+
+Arrêté le deux décembre 1919 servais
+```

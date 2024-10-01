@@ -1,0 +1,17 @@
+Here's the recreation of the table based on the information in the image:
+
+```plaintext
+N' d'ordre | Date du dépot des déclarations | Nom. | Prénoms | Domiciles | Date du décès ou du judgement d'envoi en possession, en cas d'absence. | Noms, Prénoms et demeures des parties déclarantes. | Actif. (2) | Passif. (2) | Restant NET. (2) | Valeur des immeubles. (2) | Primitives. | Supplémentaires. | de l'expiration du délai de rectification. | de l'exigibilité des droits. | Numéros de la consignation des droits au sommier n' 28 | Date | N^03 | Numéros de la consignation au sommier n'30 | Observations
+
+4439 | | Knops | Catherine Nicolle | 17 Boul | Arrêté le trois décembre 1919 servais | Knops Thérese | | | | | 14 | 199 | | | | 26 Nov 1919 17 mai 1920 1920 | | |
+4440 | | Defalque | Eugene | Nivelles | 17 mai 1919 | Wautier-Braine Auguste | 4426 | | 4426 | | | | 16 janvier 17 mai 1920 | 3 mai 1920 | 96 | | |
+| | Arrêté le quatre décembre 1919 servais | | | | | | | | | | | | | | | | |
+4441 | | Jacqmin | Odile | ephémie | 24 juillet 1919 | Jacqmin François | 56411 | | 56411 | | 105 | 39 | 25 janvier 1920 | 24 juillet 1920 | 115 | | |
+4442 | | Voussure | Elise | Braine L'alleud | 28 février 1919 | Gilles André | 95 | | 95 | | 24 | | | | | | |
+| | Arrêté le six décembre 1919 servais | | | | | | | | | | | | | | | | |
+| | Arrêté le sept décembre 1919 Dimanche servais | | | | | | | | | | | | | | | | |
+4443 | | de Lalieux | Emile | Nivelles | 7 fév 1919 | Servais Louise | 629 | | 629 | | 193 | | | | | | |
+| | Arrêté le huit décembre 1919 servais | | | | | | | | | | | | | | | | |
+4444 | | Heuvels | Alphonsine | Nivelles | 6 janvier 1919 | Heuvels Louis | | | | | 454 | 199 | | | | | |
+4445 | | Goisse | Adolphe | | 6 janvier 1919 | Schoonheyt Clara | 910 | | 910 | | 461 | | | | | | |
+```

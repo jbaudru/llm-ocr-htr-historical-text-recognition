@@ -1,0 +1,32 @@
+Certainly! Here is the recreated table based on the provided image:
+
+```plaintext
+[("N' d'ordre", " "),
+("Date du dépot des déclarations", " "),
+("Désignation des personnes décédées ou absentes.:", "Nom."),
+("Désignation des personnes décédées ou absentes.:", "Prénoms"),
+("Désignation des personnes décédées ou absentes.:", "Domiciles"), 
+("Date du décès ou du judgement d'envoi en possession, en cas d'absence.", " "),
+("Noms, Prénoms et demeures des parties déclarantes.", " "),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Actif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Passif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Restant NET. (2)"),
+("Droit de mutation par déces", "Valeur des immeubles. (2)"), 
+("Numéros des déclarations", "Primitives."),
+("Numéros des déclarations", "Supplémentaires."), 
+("Date", "de l'expiration du délai de rectification."),
+("Date", "de l'exigibilité des droits."),
+("Numéros de la consignation des droits au sommier n' 28", " "),
+("Recette des droits et amendes.", "Date"),
+("Recette des droits et amendes.", "N^03"),
+("Cautionnements. ", "Numéros de la consignation au sommier n'30"),
+("Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)", " ")] 
+
+6 439 Primit. Arrêté le trois décembre 1919 servais Knops Delvaux Nicolas 27 juin 1919 Servais Clément 1.000 50 950 25 août 1920 16 novembre 1920 23 août 1920 16 novembre 1920 
+6 440 cinq 2e Arrêté le quatre décembre 1919 servais Despalque Eugène 7 juin 1919 Wihéries, Pâturages 1.000 50 950 25 août 1920 16 novembre 1920 23 août 1920 16 novembre 1920 
+6 441 9 Arrêté le cinq décembre 1919 servais Jacqumin Petit 7 juillet 1919 Favril, France 500 50 450 25 août 1920 16 novembre 1920 23 août 1920 16 novembre 1920 
+6 442 9e Vounure Elie 7 juillet 1919 Petit 1.000 50 950 25 août 1920 16 novembre 1920 23 août 1920 16 novembre 1920 
+6 443 9e Arrêté le six décembre 1919 servais de Lalieux Emile 7 juillet 1919 Astrid, Louvain 1.000 50 950 25 août 1920 16 novembre 1920 23 août 1920 16 novembre 1920 
+6 444 9e Heumoels Alphonsine 7 juillet 1919 1.000 50 950 25 août 1920 16 novembre 1920 23 août 1920 16 novembre 1920 
+6 445 9e Goisse 7 juillet 1919 1.000 50 950 25 août 1920 16 novembre 1920 23 août 1920 16 novembre 1920 
+```

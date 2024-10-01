@@ -1,0 +1,39 @@
+Certainly! Here is the recreated table with the information from the provided image:
+
+```plaintext
+[("N' d'ordre", " "),
+("Date du dépot des déclarations", " "),
+("Désignation des personnes décédées ou absentes.:", "Nom."),
+("Désignation des personnes décédées ou absentes.:", "Prénoms"),
+("Désignation des personnes décédées ou absentes.:", "Domiciles"), 
+("Date du décès ou du judgement d'envoi en possession, en cas d'absence.", " "),
+("Noms, Prénoms et demeures des parties déclarantes.", " "),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Actif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Passif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Restant NET. (2)"),
+("Droit de mutation par déces", "Valeur des immeubles. (2)"), 
+("Numéros des déclarations", "Primitives."),
+("Numéros des déclarations", "Supplémentaires."), 
+("Date", "de l'expiration du délai de rectification."),
+("Date", "de l'exigibilité des droits."),
+("Numéros de la consignation des droits au sommier n' 28", " "),
+("Recette des droits et amendes.", "Date"),
+("Recette des droits et amendes.", "N^03"),
+("Cautionnements. ", "Numéros de la consignation au sommier n'30"),
+("Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)", " ")] 
+
+[
+["403", "quatre/août 1919", "Gayol", "Antoinette", "Namur (St. Servais)", "20 mai 1919", "Gayol Jules, rentier", "16991", "5283", "11708", "144", "1er août 1920", "10 octobre 1920", "non familiales"],
+["404", "cinq/août 1919", "Paulus", "Jules", "Villers", "7 avril 1919", "Paulus Laurent", "4975", "4975", "0", "0", "10 octobre 1920", "non familiales"],
+["405", "cinq/août 1919", "Vandermeers", "Henri", "Bruxelles", "4 avril 1919", "Vandermeers Edmond", "500", "0", "500", "0", "16 décembre 1919", "non familiales"],
+["Arrêté le quatre novembre 1919 servais"],
+["405", "cinq/août 1919", "Lemoine", "Jean", "Tilleur", "6 mai 1919", "Lemoine Juliette, rentière", "1175", "1175", "0", "0", "1er août 1920", "non familiales"],
+["406", "cinq/août 1919", "Honnaye", "Jules", "Honnaye", "6 avril 1919", "Honnaye André", "0", "0", "0", "0", "1er août 1920", "non familiales"],
+["407", "cinq/août 1919", "de Godeau", "Saintlane", "Clermont", "6 avril 1919", "Godeau Honore, rentier", "600", "0", "600", "0", "1er août 1920", "non familiales"],
+["Arrêté le cinq novembre 1919 servais"],
+["408", "sept/août 1919", "Fontaine", "Henri", "Bruxelles", "6 avril 1919", "Fontaine Armand", "298", "298", "0", "0", "19 décembre 1919", "non familiales"],
+["409", "sept/août 1919", "Allard", "Prosper", "Nivelles", "6 avril 1919", "Allard Marie", "4980", "4980", "0", "0", "10 juin 1920", "non familiales"],
+["Arrêté le sept novembre 1919 servais"],
+["410", "neuf/août 1919", "Delvitte", "Julienne", "Villers", "6 avril 1919", "Delvitte Ernest", "11691", "11691", "0", "0", "30 mars 1920", "non familiales"]
+]
+```

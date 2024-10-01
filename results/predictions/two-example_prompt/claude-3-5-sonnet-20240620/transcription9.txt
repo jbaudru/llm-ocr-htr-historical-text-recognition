@@ -1,0 +1,19 @@
+Here's a recreation of the content of the table in the image:
+
+| N° | DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DU DÉCÈS ou de la disparition, ou de l'envoi en possession | NOMS, PRÉNOMS des héritiers ou légataires | DROITS DE SUCCESSION | DROIT DE MUTATION | NUMÉROS | DATE | RECETTE | OBSERVATIONS |
+|---|---------------|------------------------------------------------|-------------------------------------------------------------|-------------------------------------------|----------------------|-------------------|---------|------|---------|---------------|
+| | | NOM | PRÉNOMS | DOMICILE | | | ACTIF | PASSIF | RESTANT NET | VALEUR des immeubles | Primitives | Supplémentaires | de l'expiration du délai de rectification | de l'exigibilité des droits | | DATE | N° | |
+| | | | | | | | | | | | | | | | | | | |
+| | Arrêté le trois décembre 1919 (Servais) | | | | | | | | | | | | | | | | | |
+| 6 439 D | quatre 9bre | Knops | Catherine | Nivelles | 17 8bre 1919 | Knops Edouard & autres | | | | | 14 1919 | | | | | 14 9bre 1919 17 avril 1920 1921 | | |
+| | Arrêté le quatre décembre 1919 (Servais) | | | | | | | | | | | | | | | | | |
+| 6 440 D | cinq 9bre | Defalque | Eugène | Braine l'Alleud | 17 juin 1919 | Wautier Julie Virginie | 4426 | | 4426 | | | | 16 janvier 1920 | 3 mars 1920 | 96 | | | |
+| | Arrêté le cinq décembre 1919 (Servais) | | | | | | | | | | | | | | | | | |
+| 6 441 D | six 9bre | Jacqmin | Odile | Ophain | 29 juillet 1919 | Jauret François | | 56411 | | 56411 | | | 16 8bre 37 1919 | 29 janvier 1920 | 146 | | | |
+| 6 441² D | " | Voussure | Elise | Braine l'Alleud | 29 février 1919 | Gillis André | | 75 | | 75 | | | 24 " | " | " | | | |
+| | Arrêté le six décembre 1919 (Servais) | | | | | | | | | | | | | | | | | |
+| | Arrêté le sept décembre 1919 (Dimanche) (Servais) | | | | | | | | | | | | | | | | | |
+| 6 442 D | huit décembre | de Lalieux | Emile | Nivelles | 1 8bre 1919 | Lecomte Louise | | 629 | | 629 | | | 453 1919 | | | | | |
+| | Arrêté le huit décembre 1919 (Servais) | | | | | | | | | | | | | | | | | |
+| 6 443 D | neuf 9bre | Heuvels | Alphonsine | Nivelles | 6 janvier 1919 | Heuvels Louis | | | | | 454 1919 | | | | | | | |
+| 6 443² | " | Goisse | Adolphe | " | 6 janvier 1919 | Schoonjans Clara | | 910 | | 910 | | | 454 1919 | | | | | |

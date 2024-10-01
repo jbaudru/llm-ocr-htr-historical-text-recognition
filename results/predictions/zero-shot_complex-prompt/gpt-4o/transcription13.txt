@@ -1,0 +1,33 @@
+Certainly! Here is the recreated table based on the provided image:
+
+```plaintext
+[("N' d'ordre", " "),
+("Date du dépot des déclarations", " "),
+("Désignation des personnes décédées ou absentes.:", "Nom."),
+("Désignation des personnes décédées ou absentes.:", "Prénoms"),
+("Désignation des personnes décédées ou absentes.:", "Domiciles"), 
+("Date du décès ou du judgement d'envoi en possession, en cas d'absence.", " "),
+("Noms, Prénoms et demeures des parties déclarantes.", " "),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Actif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Passif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Restant NET. (2)"),
+("Droit de mutation par déces", "Valeur des immeubles. (2)"), 
+("Numéros des déclarations", "Primitives."),
+("Numéros des déclarations", "Supplémentaires."), 
+("Date", "de l'expiration du délai de rectification."),
+("Date", "de l'exigibilité des droits."),
+("Numéros de la consignation des droits au sommier n' 28", " "),
+("Recette des droits et amendes.", "Date"),
+("Recette des droits et amendes.", "N^03"),
+("Cautionnements. ", "Numéros de la consignation au sommier n'30"),
+("Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)", " ")] 
+
+[
+(1, "deux Janvier 1920", "Séverin", "Jules", "Cimornay", "Arrêté le premier janvier 1920 servais", "Séverin et autres", 38262, 38262, "", 1742, "1er février 1920", "1er mai 1920", "3", "3", "3", "3", "3", "3", "3", "3"),
+(2, "deux Janvier 1920", "Dumont", "Louis", "Nivelles", "Arrêté le premier janvier 1920 servais", "Dumont et autres", 369, 369, "", 0, "1er février 1920", "1er mai 1920", "3", "3", "3", "3", "3", "3", "3", "3"),
+(3, "cinq Janvier 1920", "Hockin", "Edgar", "Jupille", "Arrêté le trois janvier 1920 servais", "Hockin et autres", 101724, 101724, "", 1740, "1er février 1920", "1er mai 1920", "3", "3", "3", "3", "3", "3", "3", "3"),
+(4, "cinq Janvier 1920", "Séverin", "Jules", "Cimornay", "Arrêté le trois janvier 1920 servais", "Séverin et autres", 38262, 38262, "", 1742, "1er février 1920", "1er mai 1920", "3", "3", "3", "3", "3", "3", "3", "3"),
+(5, "cinq Janvier 1920", "Wandoppen", "Marie", "Nivelles", "Arrêté le trois janvier 1920 servais", "Wandoppen et autres", 1689, 1689, "", 0, "1er février 1920", "1er mai 1920", "3", "3", "3", "3", "3", "3", "3", "3"),
+(6, "six Janvier 1920", "Scolas", "Julien Joseph", "Nivelles", "Arrêté le cinq janvier 1920 servais", "Scolas et autres", 9089, 9089, "", 0, "1er février 1920", "1er mai 1920", "3", "3", "3", "3", "3", "3", "3", "3")
+]
+```

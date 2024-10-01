@@ -1,0 +1,40 @@
+Certainly! Here is the recreated table with the information from the provided image:
+
+```plaintext
+[("N' d'ordre", " "),
+("Date du dépot des déclarations", " "),
+("Désignation des personnes décédées ou absentes.:", "Nom."),
+("Désignation des personnes décédées ou absentes.:", "Prénoms"),
+("Désignation des personnes décédées ou absentes.:", "Domiciles"), 
+("Date du décès ou du judgement d'envoi en possession, en cas d'absence.", " "),
+("Noms, Prénoms et demeures des parties déclarantes.", " "),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Actif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Passif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Restant NET. (2)"),
+("Droit de mutation par déces", "Valeur des immeubles. (2)"), 
+("Numéros des déclarations", "Primitives."),
+("Numéros des déclarations", "Supplémentaires."), 
+("Date", "de l'expiration du délai de rectification."),
+("Date", "de l'exigibilité des droits."),
+("Numéros de la consignation des droits au sommier n' 28", " "),
+("Recette des droits et amendes.", "Date"),
+("Recette des droits et amendes.", "N^03"),
+("Cautionnements. ", "Numéros de la consignation au sommier n'30"),
+("Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)", " ")] 
+
+[
+["441", "19 novembre 1919", "Devillers", "Josephine", "Poussin", "2 février 1919", "Devillers Felix", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
+["442", "19 novembre 1919", "Chaboeq", "Armand", "Michel", " ", "Chaboeq Henri", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
+[" ", " ", "Arrêté le dix neuf décembre 1919", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
+[" ", " ", "Arrêté le vingt décembre 1919", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
+[" ", " ", "Arrêté le vingt deux décembre 1919", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
+["443", " ", "Gilbert", "Clementine", "Eglise", " ", "Gilbert Henri", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
+["444", " ", "Paesmans", "Marie", " ", " ", "Paesmans Henri", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
+["445", " ", "Mirinne", "Marie", "Eglise", "1 avril 1919", "Mirinne Jules", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
+["446", " ", "Moubiou", "Clementine", "Eglise", "1 avril 1919", "Moubiou Jules", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
+["447", " ", "Cauwenbergh", "Eglise Joseph", "Baudot", "1 avril 1919", "Cauwenbergh Henri", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
+["448", " ", "Antboine", "Eglise", "Baudot", "1 avril 1919", "Antboine Henri", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "]
+]
+```
+
+Note: The table is recreated based on the visible information in the image. Some cells are left blank where the information is not clearly visible or not provided in the image.

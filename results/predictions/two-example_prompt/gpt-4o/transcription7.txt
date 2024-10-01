@@ -1,0 +1,15 @@
+```plaintext
+Nom. Prénoms Domiciles Actif. (2) Passif. (2) Restant NET. (2) Valeur des immeubles. (2) Primitives. Supplémentaires. de l'expiration du délai de rectification. de l'exigibilité des droits. Date N^03 Numéros de la consignation au sommier n'30 (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présente colonne.) 
+Arrêté le vingt-six novembre 1919 Servais
+429 d Beth Henri Ottignies 17 mai 1919 Huet Louis 7660 7660 3 janvier 1920 5 mai 1920 150
+430 d Houbart Jean Ittre 24 juin 1919 Houbart Joseph & autres 6201 6201 3 Db 1919 5 mai 1920 150
+431 d Romain Félicie Ittre 3 août 1919 Romain Louis & autres 1160 1160 3 Db 1919 17 août 1920 56
+432 d Poliat Léon Ittre 27 août 1919 Huet Clémence & autres 911 911 3 Db 1919 17 août 1920 56
+433 d Poliat Achille Ittre 5 août 1919 911 911 3 Db 1919 17 août 1920 56
+434 d Houtmeyers Henri Waterloo 12 octobre 1919 Houtmeyers Eugène 2286 2286 3 Db 1919 7 avril 1920 125
+435 d Thibaut Henri Genappe 6 août 1919 Thibaut Léon & autres 1160 1160 3 Db 1919 non passible
+436 d Gausuin Léon Braine l'Alleud 2 août 1919 Gausuin Louis 1020 1020 3 Db 1919 non passible
+437 d Delannoy Clémentine Braine l'Alleud 15 août 1919 Delannoy Adrien 6155 6155 3 Db 1919 25 août 1920 150
+438 d Debutte Félix Waterloo 10 octobre 1919 Debutte Adolphe 9110 9110 3 Db 1919 17 août 1920 150
+Arrêté le vingt-six novembre 1919 Dimanche Servais
+```

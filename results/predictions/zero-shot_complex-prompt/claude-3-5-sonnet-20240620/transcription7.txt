@@ -1,0 +1,22 @@
+Here's the recreation of the table based on the image:
+
+```plaintext
+N' d'ordre | Date du dépot des déclarations | Nom. | Prénoms | Domiciles | Date du décès ou du judgement d'envoi en possession, en cas d'absence. | Noms, Prénoms et demeures des parties déclarantes. | Actif. (2) | Passif. (2) | Restant NET. (2) | Valeur des immeubles. (2) | Primitives. | Supplémentaires. | de l'expiration du délai de rectification. | de l'exigibilité des droits. | Numéros de la consignation des droits au sommier n' 28 | Date | N^03 | Numéros de la consignation au sommier n'30 | Observations
+
+Arrêté le vingt-cinq novembre 1919 servais
+
+6429 | vingt deux Décembre | Delft | Henri Otto | St-Josse | Flament Louis | 7665 | - | 7665 | - | 3 | - | 3 janvier 1920 | 25 mai 1920 | 11 juin 1920 369 | - | - | -
+6430 | " | Houart | Ida | " | 17 8bre 1919 | Flament Joseph et autres | 46795 | 1167 | 45628 | - | 3 | " | 17 avril 1920 | 2 mai 1920 362 | 7 juin 1920 365 | - | -
+6431 | " | Romain | Félicie | " | 10/9/1919 | Romain Denis et autres | 48111 | - | 18481 | - | 3 | " | 19 juillet 1920 | 29 juillet 1920 385 | - | - | -
+6432 | " | Poliart | Déon | " | 15/8/1919 | Flament Clémence et autres | 974 | 141 | 833 | - | 105/3 3^e | " | 15 avril 1920 | 30 avril 1920 63 | - | - | -
+6433 | " | Poliart | Arthur | " | 19 " | " | 981 | 141 | 840 | - | 105/3 3^e | " | 19 " | " | " | - | -
+6434 | " | Houtmeyers | Henri Nicolas | 28 mai 1919 | Antignac Désiré | 2836 | 958 | 1878 | - | 3 | " | 28 mai 1920 | 1 juin 1920 95 | - | - | -
+6435 | " | Chilant | Marie Louis Germaine | 5 9bre 1919 | Legast Henri et autres | - | 11293 | 11293 | - | 155/3 3^e | 5 9bre 1920 | non passible | - | - | -
+6436 | " | Gaussin | Eva | Manage St Antoine | 22 8bre 1919 | Gaussin Camille | 1020 | 522 | 498 | - | 3 | " | 22 avril 1920 | non passible | - | - | -
+6437 | " | Delannoy | Clémentine | " | 28 mars 1919 | Delannoy Adolphe | 6159 | 1024 | 5135 | - | 2 | " | 28 janvier 1920 | 14-11-21 143 | - | - | -
+6438 | " | Delutte | Jules | Schaerbeek | 29 8bre 1919 | Delutte enfants | 9548 | 1043 | 2505 | - | 3 | " | 29 avril 1920 | 15 mai 1920 103 | 31 mai 1920 363 | - | -
+
+Arrêté le vingt-cinq novembre 1919 servais
+
+Arrêté le vingt-sept novembre 1919 Grimmonprez servais
+```

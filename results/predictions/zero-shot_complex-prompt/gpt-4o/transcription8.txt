@@ -1,0 +1,39 @@
+Certainly! Here is the recreated table based on the provided image:
+
+```plaintext
+[("N' d'ordre", " "),
+("Date du dépot des déclarations", " "),
+("Désignation des personnes décédées ou absentes.:", "Nom."),
+("Désignation des personnes décédées ou absentes.:", "Prénoms"),
+("Désignation des personnes décédées ou absentes.:", "Domiciles"), 
+("Date du décès ou du judgement d'envoi en possession, en cas d'absence.", " "),
+("Noms, Prénoms et demeures des parties déclarantes.", " "),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Actif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Passif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Restant NET. (2)"),
+("Droit de mutation par déces", "Valeur des immeubles. (2)"), 
+("Numéros des déclarations", "Primitives."),
+("Numéros des déclarations", "Supplémentaires."), 
+("Date", "de l'expiration du délai de rectification."),
+("Date", "de l'exigibilité des droits."),
+("Numéros de la consignation des droits au sommier n' 28", " "),
+("Recette des droits et amendes.", "Date"),
+("Recette des droits et amendes.", "N^03"),
+("Cautionnements. ", "Numéros de la consignation au sommier n'30"),
+("Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)", " ")] 
+
+[
+("453", "vingt cinq juillet 1919", "Gossiaux", "Arthur", "Fermont 20 Avry", "Bastienne Sophie à autres", "Arrêté le vingt quatre novembre 1919 servais", "", "", "", "", "", "", "", "", "", "", "", "", ""),
+("454", "", "Arrêté le vingt cinq novembre 1919 servais", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""),
+("455", "", "Arrêté le vingt six novembre 1919 servais", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""),
+("456", "", "Arrêté le vingt sept novembre 1919 servais", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""),
+("457", "", "Arrêté le vingt huit novembre 1919 servais", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""),
+("458", "", "Arrêté le vingt neuf novembre 1919 servais", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""),
+("459", "", "Arrêté le trente novembre 1919 servais", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""),
+("459 bis", "Arrêté le premier décembre 1919 servais", "Painblane", "Joseph", "Arrêté le premier décembre 1919 servais", "Painblane Georges à autres", "Arrêté le premier décembre 1919 servais", "1596", "496", "20C 191", "1596", "496", "20C 191", "1596", "496", "20C 191", "1596", "496", "20C 191", ""),
+("459 ter", "", "Painblane", "Courmont", "Arrêté le premier décembre 1919 servais", "Painblane Georges à autres", "Arrêté le premier décembre 1919 servais", "1596", "496", "20C 191", "1596", "496", "20C 191", "1596", "496", "20C 191", "1596", "496", "20C 191", ""),
+("460", "deux décembre 1919", "Charlier", "Jean", "Arrêté le deux décembre 1919 servais", "Charlier L'abbé Eléonore", "Arrêté le deux décembre 1919 servais", "3200", "3200", "81 191", "3200", "3200", "81 191", "3200", "3200", "81 191", "3200", "3200", "81 191", "")
+]
+```
+
+This table captures the information from the image, including the headers and the data for each row. The rows with "Arrêté le ..." indicate the service dates and are followed by the next serviced day. The "N' d'ordre" column follows an order, and the family names in the "Noms, Prénoms et demeures des parties déclarantes." column may match those in the "Nom." column.

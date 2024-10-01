@@ -1,0 +1,17 @@
+```plaintext
+Nom. Prénoms Domiciles Actif. (2) Passif. (2) Restant NET. (2) Valeur des immeubles. (2) Primitives. Supplémentaires. de l'expiration du délai de rectification. de l'exigibilité des droits. Date N^03 Numéros de la consignation au sommier n'30 (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.) 
+1919 506  
+403 quatre 9bre Payot Antoinette Braine l'Alleud 14 mai 1919 Payot Marie & autres 16975 2950 5235 11740 2950 2011/ 1921 16 Db 1919 14 mars 1928  
+403^2 d Paulus Mélanie Nivelles 28 Janvier 1919 Paulus François 1971 1971 191/1919 " " 10 Db 1920 872  
+404 d Vandermeers Marie Anne Clabecq 4 avril 1918 Voussure Edouard 500 500 16 d 4 janvier 1928 non passible  
+Arrêté le quatre novembre 1919 servais  
+405 cinq 9bre Lemoine Pierre gh Ittre 24 8b 1918 Lemoine Juliette & autres 1885 1885 17 Db 1919 24 avril 1919 non passible  
+406 d Monnaye Julie Monstreux 16 9bre 1911 Monnaye Aimé & autres Cessation d'usufruit " " 16 février 1920 37  
+407 d Godeau née Painblanc Clément Oisquercq 7 8b 1919 Godeau Hortens & autres 800 800 17 Dbre 1919 7 avril 1920 non passible  
+Arrêté le cinq novembre 1919 servais  
+Arrêté le six novembre 1919 servais  
+408 sept 9bre Fontaine Horent Tubize 19 octobre 1918 Ronsmans Armande 378 176 202 19 Dbre 1919 15 avril 1919 non passible  
+409 d Allard Prosper Nivelles 16 avril 1919 Allard Marie 7310 7310 19 d 14 juin 1920 13 mars 1923 54  
+Arrêté le sept novembre 1919 servais  
+410 huit 9bre Debutte Justinien Waterloo 16 mai 1919 Debutte Edmond & autres 12437 369 12068 20 d 16 mars 1920 29 9b 1923 252  
+```
