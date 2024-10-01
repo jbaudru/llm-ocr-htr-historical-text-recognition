@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/93fc3e43864e4a0b965c0a3997d62358/artifacts
+end_time: 1727777451591
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 93fc3e43864e4a0b965c0a3997d62358
+run_name: aged-snail-62
+run_uuid: 93fc3e43864e4a0b965c0a3997d62358
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727777435969
+status: 3
+tags: []
+user_id: julien

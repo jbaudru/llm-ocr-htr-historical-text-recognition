@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/f8070b6a7c9c47f2a46d6fc96b975aa2/artifacts
+end_time: 1727773313135
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: f8070b6a7c9c47f2a46d6fc96b975aa2
+run_name: resilient-yak-495
+run_uuid: f8070b6a7c9c47f2a46d6fc96b975aa2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727773291432
+status: 3
+tags: []
+user_id: julien

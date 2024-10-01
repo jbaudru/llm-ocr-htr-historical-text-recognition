@@ -1,0 +1,56 @@
+Certainly! Here is the refined transcription based on the provided image:
+
+```plaintext
+[("N' d'ordre", " "),
+("Date du dépôt des déclarations", " "),
+("Désignation des personnes décédées ou absentes.:", "Nom."),
+("Désignation des personnes décédées ou absentes.:", "Prénoms"),
+("Désignation des personnes décédées ou absentes.:", "Domiciles"), 
+("Date du décès ou du jugement d'envoi en possession, en cas d'absence.", " "),
+("Noms, Prénoms et demeures des parties déclarantes.", " "),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Actif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Passif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Restant NET. (2)"),
+("Droit de mutation par décès", "Valeur des immeubles. (2)"), 
+("Numéros des déclarations", "Primitives."),
+("Numéros des déclarations", "Supplémentaires."), 
+("Date", "de l'expiration du délai de rectification."),
+("Date", "de l'exigibilité des droits."),
+("Numéros de la consignation des droits au sommier n' 28", " "),
+("Recette des droits et amendes.", "Date"),
+("Recette des droits et amendes.", "N^03"),
+("Cautionnements. ", "Numéros de la consignation au sommier n'30"),
+("Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présente colonne.)", " ")] 
+
+1. 
+("6", "deux janvier 1920", "Séverin", "Jules", "Cimornay", "Arrêté le premier janvier 1920 servais", "Séverin et autres", "38262", "38262", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ")
+
+2. 
+("6", "deux janvier 1920", "Dumont", "Louis", "Nivelles", " ", "Bourcy, Fallais et autres", "369", "4018", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ")
+
+3. 
+("6", "deux janvier 1920", " ", " ", " ", "Arrêté le trois janvier 1920 servais", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ")
+
+4. 
+("6", "deux janvier 1920", " ", " ", " ", "Arrêté le quatre janvier 1920 servais", "Dumont et autres", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ")
+
+5. 
+("6", "cinq janvier 1920", "Honlin", "Edgar", "Jupille", " ", "Honlin et autres", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ")
+
+6. 
+("6", "cinq janvier 1920", "Séverin", "Jules", "Cimornay", " ", "Séverin et autres", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ")
+
+7. 
+("6", "cinq janvier 1920", "Wandoppen", "Marie", "Nivelles", " ", "Wandoppen et autres", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ")
+
+8. 
+("6", "cinq janvier 1920", " ", " ", " ", "Arrêté le cinq janvier 1920 servais", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ")
+
+9. 
+("6", "six janvier 1920", "Scolas", "Julien Joseph", "Nivelles", " ", "Scolas et autres", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ")
+
+10. 
+("6", "six janvier 1920", " ", " ", " ", "Arrêté le sept janvier 1920 servais", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ")
+```
+
+This refined table accurately captures the information from the image, including the headers and the data for each row.

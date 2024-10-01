@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/2db1a8f9206a4f12bb6e8b776f5e3fea/artifacts
+end_time: 1727774264681
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 2db1a8f9206a4f12bb6e8b776f5e3fea
+run_name: defiant-cub-5
+run_uuid: 2db1a8f9206a4f12bb6e8b776f5e3fea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727774264434
+status: 3
+tags: []
+user_id: julien

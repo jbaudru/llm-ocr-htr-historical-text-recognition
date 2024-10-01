@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/462dc0d4f77e4d2b8f8d199bb620f2bc/artifacts
+end_time: 1727775078864
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 462dc0d4f77e4d2b8f8d199bb620f2bc
+run_name: nebulous-vole-403
+run_uuid: 462dc0d4f77e4d2b8f8d199bb620f2bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727775064118
+status: 3
+tags: []
+user_id: julien

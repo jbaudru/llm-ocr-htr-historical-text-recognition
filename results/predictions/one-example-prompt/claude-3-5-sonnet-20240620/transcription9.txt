@@ -1,0 +1,17 @@
+Here's a recreation of the content of the table in the image:
+
+| N° | DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DE DÉCÈS ou de la disparition, ou de l'envoi en possession | NOMS, PRÉNOMS des héritiers ou légataires | DROITS DE SUCCESSION | DROIT DE MUTATION | NUMÉROS | DATE | RECETTE | OBSERVATIONS |
+|---|---------------|------------------------------------------------|----------------------------------------------------------------|-------------------------------------------|----------------------|-------------------|----------|------|---------|---------------|
+| | | NOM | PRÉNOMS | DOMICILE | | | ACTIF | PASSIF | RESTANT NET | VALEUR des immeubles | du sommier | de l'expiration du délai de rectification | de l'exigibilité des droits | DATE | N° | |
+| 439 D | quatre 9bre | Knops | Catherine | Nivelles | 7°8bre 1919 | Knops Edouard & autres | | | | | 14 1919 | " | " | 14 9bre 1919 17 avril 1920 1921 | | |
+| Arrêté le quatre décembre 1919 Servais |
+| 440 D | cinq 9bre | Defalque | Eugénie | Bousval (Genappe) | 17 juin 1919 | Winterbeek Eugénie | 4426 | | 4426 | | | 15 janvier 1920 5 mai 1920 | | | | |
+| Arrêté le cinq décembre 1919 Servais |
+| 441 D | six 9bre | Jacqmin | Odile | Ophain | 29 juillet 1919 | Jauret François | | | 58411 | | 16 d 1919 | 29 janvier 1920 | | | | |
+| 442 d | d | Voussure | Elise | Braine l'Alleud | 28 février 1919 | Gilles André | | | 75 | | 28 d | " | " | | | |
+| Arrêté le six décembre 1919 Servais |
+| Arrêté le sept décembre 1919 Dimanche Servais |
+| 443 D | huit décembre | de Lalieux | Emile | Nivelles | 17 8bre 1919 | Lecomte Marie | | | 629 | | 633 1919 | " | " | | | |
+| Arrêté le huit décembre 1919 Servais |
+| 444 D | neuf 9bre | Heuvels | Alphonsine | Nivelles | 6 janvier 1919 | Heuvels Louis | | | | | 635 1919 | | | | | |
+| 445 d | d | Goisse | Adolphe | " | 6 janvier 1919 | Schoonheyt Clara | | | 910 | | 636 1919 | | | | | |

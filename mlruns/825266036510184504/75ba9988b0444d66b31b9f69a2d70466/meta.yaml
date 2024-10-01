@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/75ba9988b0444d66b31b9f69a2d70466/artifacts
+end_time: 1727775638937
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 75ba9988b0444d66b31b9f69a2d70466
+run_name: beautiful-mole-891
+run_uuid: 75ba9988b0444d66b31b9f69a2d70466
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727775618130
+status: 3
+tags: []
+user_id: julien

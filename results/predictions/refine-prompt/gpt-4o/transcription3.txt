@@ -1,0 +1,35 @@
+Certainly! Here is the refined transcription based on the provided image and context:
+
+```plaintext
+[("N' d'ordre", " "),
+("Date du dépôt des déclarations", " "),
+("Désignation des personnes décédées ou absentes.:", "Nom."),
+("Désignation des personnes décédées ou absentes.:", "Prénoms"),
+("Désignation des personnes décédées ou absentes.:", "Domiciles"), 
+("Date du décès ou du jugement d'envoi en possession, en cas d'absence.", " "),
+("Noms, Prénoms et demeures des parties déclarantes.", " "),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Actif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Passif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Restant NET. (2)"),
+("Droit de mutation par décès", "Valeur des immeubles. (2)"), 
+("Numéros des déclarations", "Primitives."),
+("Numéros des déclarations", "Supplémentaires."), 
+("Date", "de l'expiration du délai de rectification."),
+("Date", "de l'exigibilité des droits."),
+("Numéros de la consignation des droits au sommier n' 28", " "),
+("Recette des droits et amendes.", "Date"),
+("Recette des droits et amendes.", "N^03"),
+("Cautionnements. ", "Numéros de la consignation au sommier n'30"),
+("Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présente colonne.)", " ")]
+
+[
+    ("418", "6", "Cloquet", "Elisabeth", "Wauthier", "4 mai 1919", "Cloquet Alix", "900", "900", "900", "", "1919", "", "23 mars 1920", "1 janvier 1920", "55", "1 janvier 1920", "55", "", ""),
+    ("419", "6", "Vincent", "Edouard", "Liège", "5 mai 1919", "Vincent Alix", "2600", "2600", "2600", "", "1919", "", "3 janvier 1920", "1 janvier 1920", "55", "1 janvier 1920", "55", "", ""),
+    ("420", "6", "Boisdenghien", "Henri", "Gand", "17 mai 1919", "Boisdenghien Alix", "1721", "1721", "1721", "", "1919", "", "23 mars 1920", "1 janvier 1920", "55", "1 janvier 1920", "55", "", ""),
+    ("420", "6", "Lambotte", "Ernest", "Malines", "5 mai 1919", "Lambotte Alix", "1721", "1721", "1721", "", "1919", "", "23 mars 1920", "1 janvier 1920", "55", "1 janvier 1920", "55", "", ""),
+    ("420", "6", "Rousseau", "Charles", "Nivelles", "5 mai 1919", "Rousseau Alix", "2600", "2600", "2600", "", "1919", "", "23 mars 1920", "1 janvier 1920", "55", "1 janvier 1920", "55", "", ""),
+    ("421", "6", "Lefrancq", "Henri", "Louvain", "5 mai 1919", "Lefrancq Alix", "3222", "210", "3012", "", "1919", "", "23 mars 1920", "1 janvier 1920", "55", "1 janvier 1920", "55", "", "")
+]
+```
+
+Note: The table is recreated based on the visible information in the image. Some columns, such as "Valeur des immeubles. (2)", "Numéros des déclarations", "Cautionnements", and "Observations", are left blank as the image does not provide enough information to fill them in.

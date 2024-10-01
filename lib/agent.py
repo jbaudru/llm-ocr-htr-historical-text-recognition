@@ -371,15 +371,7 @@ class Agent:
         return self.call(prompt="", max_tokens=3000, base64_image=base64_image, message=message, system=system_prompt)
         
  
-    def refineLayout(self, content, image_path, transcription_lst): 
-        transcriptions = ""
-        
-        # Take a random transcription as an example and avoid the same transcription
-        img_number = image_path.split("/")[-1].replace(".jpeg", "")
-        index = random.randint(0, len(transcription_lst)-1)
-        while img_number == index:
-            index = random.randint(0, len(transcription_lst)-1)
-        transcriptions += transcription_lst[index] 
+    def refineLayout(self, content): 
         
         prompt = f"""
             Your first draft:

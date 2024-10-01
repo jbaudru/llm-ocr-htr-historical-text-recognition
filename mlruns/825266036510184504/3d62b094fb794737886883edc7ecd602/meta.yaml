@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/3d62b094fb794737886883edc7ecd602/artifacts
+end_time: 1727771891654
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 3d62b094fb794737886883edc7ecd602
+run_name: tasteful-duck-320
+run_uuid: 3d62b094fb794737886883edc7ecd602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727771877276
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/d02599ec61f34331b4020d8c6306bda8/artifacts
+end_time: 1727772805430
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: d02599ec61f34331b4020d8c6306bda8
+run_name: luxuriant-hog-143
+run_uuid: d02599ec61f34331b4020d8c6306bda8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727772792989
+status: 3
+tags: []
+user_id: julien

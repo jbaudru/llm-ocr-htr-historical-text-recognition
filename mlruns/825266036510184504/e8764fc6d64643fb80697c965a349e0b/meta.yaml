@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/e8764fc6d64643fb80697c965a349e0b/artifacts
+end_time: 1727779079940
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: e8764fc6d64643fb80697c965a349e0b
+run_name: loud-fish-675
+run_uuid: e8764fc6d64643fb80697c965a349e0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727779064319
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/dd219f3c7d7f4a1e96fddae0dd6bf772/artifacts
+end_time: 1727774896119
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: dd219f3c7d7f4a1e96fddae0dd6bf772
+run_name: capable-crow-363
+run_uuid: dd219f3c7d7f4a1e96fddae0dd6bf772
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727774874312
+status: 3
+tags: []
+user_id: julien

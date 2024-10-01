@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/08e438c06629450e94286cd1f34ae54e/artifacts
+end_time: 1727776453285
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 08e438c06629450e94286cd1f34ae54e
+run_name: tasteful-sloth-185
+run_uuid: 08e438c06629450e94286cd1f34ae54e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727776420626
+status: 3
+tags: []
+user_id: julien

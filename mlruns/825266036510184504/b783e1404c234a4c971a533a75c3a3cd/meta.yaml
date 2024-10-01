@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/b783e1404c234a4c971a533a75c3a3cd/artifacts
+end_time: 1727778472100
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: b783e1404c234a4c971a533a75c3a3cd
+run_name: peaceful-crane-550
+run_uuid: b783e1404c234a4c971a533a75c3a3cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727778458493
+status: 3
+tags: []
+user_id: julien

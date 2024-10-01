@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/205fb1e9130f41a2921ffccb8d14454f/artifacts
+end_time: 1727773167843
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 205fb1e9130f41a2921ffccb8d14454f
+run_name: dazzling-squirrel-47
+run_uuid: 205fb1e9130f41a2921ffccb8d14454f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727773155394
+status: 3
+tags: []
+user_id: julien

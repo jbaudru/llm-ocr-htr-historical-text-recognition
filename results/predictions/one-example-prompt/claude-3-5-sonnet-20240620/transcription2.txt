@@ -1,0 +1,18 @@
+Here's a recreation of the content of the table in the image:
+
+| N° d'ordre | DATE DU DÉCÈS ou de l'absence présumée | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES ||||||| DROITS DE SUCCESSION ||| DROIT DE MUTATION PAR DÉCÈS | NUMÉROS | DATE | RECETTE | OBSERVATIONS |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|| | NOM. | PRÉNOMS. | DOMICILE. | DATE DU DÉCÈS ou de l'absence présumée | NOMS, PRÉNOMS ET DOMICILE DES PARTIES DÉCLARANTES | ACTIF. | PASSIF. | RESTANT NET. | VALEUR DES IMMEUBLES. | Primitives. | Supplémentaires. | de l'expiration du délai de rectification. | de l'exigibilité des droits. | DATE | N° ||
+| 6 411 | huit 8b 1919 | Houblet | Florent | Waterloo | 28 7b 1919 | Legros Elisa | 575 | | 575 | | | | 28 8b 1919 | 28 juillet 1920 | | | non passible |
+| 6 412 | d° | Chateau | Henri | Braine l'Alleud | 18 8b 1919 | Chateau Antoinette et autres | 14692 | | 14692 | | | | 20 d° | 6 avril 1920 | | | 4 8b 1921 325 5 9b 1921 236 5 9b 236 |
+| 6 412² | d° | Reynens | Louis | Ophain | 4 mai 1916 | Gillis André | 1546 | | 1546 | | 218 1919 | | | | 4 mars 1920 | | 695 |
+|| | Arrêté le huit novembre 1919 (signed) ||||||||||||||| |
+|| | Arrêté le neuf novembre 1919 (signed) ||||||||||||||| |
+| 413 | dix 9b 1919 | Mathieu | Constance | Ohain | 11 mars 1919 | Bourgeois Joseph | 16576 | | 16576 | | | | 22 9b 1919 | 11 mai 1920 | | | |
+| 6 414 | d° | Caminiau | Adolphe | Braine l'Alleud | 5 juillet 1919 | Delfosse Louise et autres | 23991 | | 23991 | | | | 15 Xb 1919 | 2 mars 1920 | | | 3 mars 1920 594 15 Xb 1920 594 |
+| 6 415 | d° | Dubru | Amandine | Braine l'Alleud | 6 mai 1919 | Delrue Jeanne et autres | 500 | 85 | 415 | | | | 22 d° | 6 avril 1920 | | | non passible |
+|| | Arrêté le dix novembre 1919 (signed) ||||||||||||||| |
+| 6 416 | onze 9bre | Heuvels | Emmanuel | Nivelles | 12 mai 1919 | Stefani Louis | 7561 | 565 | 6996 | | | | 23 9b 1919 | 12 mars 1920 | | | 15 mars 1921 57 |
+| 6 417 | d° | Basigant | Marie | " | 12 d° | Basigant Eugénie | 4562 | | 4562 | | | | 23 d° | 12 d° | | | 5 mars 1920 62 |
+| 6 417² | d° | Campinaire | Elie | Braine-l'Alleud | 25 mars 1919 | Gillis Eugénie | 22255 | 20750 | | | 327 1919 | | | | | | |
+|| | Arrêté le onze novembre 1919 (signed) ||||||||||||||| |

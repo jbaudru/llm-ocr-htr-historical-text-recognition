@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/ca2b15ee17ec4280b7985e3e0e4b214a/artifacts
+end_time: 1727776504982
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: ca2b15ee17ec4280b7985e3e0e4b214a
+run_name: rare-grub-395
+run_uuid: ca2b15ee17ec4280b7985e3e0e4b214a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727776480023
+status: 3
+tags: []
+user_id: julien

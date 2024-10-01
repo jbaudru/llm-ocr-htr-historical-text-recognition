@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/5f8a036a356e4b3cbafaa54b057e65ff/artifacts
+end_time: 1727772570156
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 5f8a036a356e4b3cbafaa54b057e65ff
+run_name: awesome-skunk-613
+run_uuid: 5f8a036a356e4b3cbafaa54b057e65ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727772555918
+status: 3
+tags: []
+user_id: julien

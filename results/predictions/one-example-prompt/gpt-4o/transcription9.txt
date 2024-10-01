@@ -1,0 +1,16 @@
+```plaintext
+Nom. Prénoms Domiciles Actif. (2) Passif. (2) Restant NET. (2) Valeur des immeubles. (2) Primitives. Supplémentaires. de l'expiration du délai de rectification. de l'exigibilité des droits. Date N^03 Numéros de la consignation au sommier n'30 (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.) 
+Arrêté le trois décembre 1919 servais
+439^8 quatre 9bre Knops Delvaux Nivelles 27 juin 1919 Severin Clément & autres Débet malpropre 51 1919 23 8bre 1920 16 consignation 1920
+Arrêté le quatre décembre 1919 servais
+440 cinq 9bre Despalque Eugène Braine l'Alleud 7 juin 1919 Wincqzelle Régine 1200 1200 1919 16 janvier 1920 5 mai 1920 96
+Arrêté le cinq décembre 1919 servais
+441 d Jaegmin Petit Ophain 17 juillet 1919 Jaegmin Louise 5000 5000 1000 1919 24 janvier 1920 16 juillet 1920 116
+Arrêté le six décembre 1919 servais
+442 d Voussure Elie Braine l'Alleud 7 juillet 1919 Gillet Camille 75 75 1919
+Arrêté le huit décembre 1919 servais
+443^8 six 9bre de Lalieux Emile Nivelles 7 juillet 1919 Antoine Louis 625 625 1919
+Arrêté le dix décembre 1919 servais
+444^8 sept 9bre Heumoels Alphonsine Nivelles 7 juillet 1919 Heumoels René 710 710 1919 16 juillet 1920
+445^8 huit 9bre Goisse Adolphe Nivelles 7 juillet 1919 Hoqueux Clara 710 710 1919 16 juillet 1920
+```

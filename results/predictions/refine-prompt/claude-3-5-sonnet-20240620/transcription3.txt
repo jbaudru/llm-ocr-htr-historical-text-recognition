@@ -1,0 +1,17 @@
+I apologize for the errors in my previous transcription. I'll refine the transcription based on your feedback, focusing on accurately capturing names, locations, dates, and numbers as they appear in the image. Here's the refined version:
+
+```plaintext
+N° d'ordre | Date du dépôt des déclarations | Nom | Prénoms | Domiciles | Date du décès ou du jugement d'envoi en possession, en cas d'absence | Noms, Prénoms et demeures des parties déclarantes | Actif (2) | Passif (2) | Restant NET (2) | Valeur des immeubles (2) | Primitives | Supplémentaires | de l'expiration du délai de rectification | de l'exigibilité des droits | Numéros de la consignation des droits au sommier n° 28 | Date | N°s | Numéros de la consignation au sommier n°30 | Observations
+418 | 6 | Cloquet | Désiré | Havelange | 28 mai 1919 | Soeur alliée | 400 | - | 400 | - | - | - | 4 30/11 28 mars 1920 | 4 mars 1920 | 55 | - | - | - | -
+419 | 6 | Vincent | Désiré | Ohey | 3 mai 1919 | Beaufils, Emile et autre | 2600 | - | 2600 | - | - | - | 28 30 3 juin 1920 | 3 juin 1920 | 243 | - | - | - | -
+- | - | Arrêté le deux novembre 1919 Servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- | - | Arrêté le quatre novembre 1919 Servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+420 | 6 | Boissonghien | Désiré | Gesves | 18 mai 1919 | Soeur, Frère et autre | 1138 | - | 1138 | - | 1138 | - | 10 30 28 mars 1920 | 10 mars 1920 | 54 | - | - | - | -
+420bis | 6 | Lambotte | Ernest | Havelange | 17 février 1919 | Lambotte Emile | - | - | 562 | 562 | - | - | - | - | - | - | - | - | -
+- | - | Arrêté le quatre novembre 1919 Servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- | - | Arrêté le cinq novembre 1919 Dinant Servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+- | - | Arrêté le six sept novembre 1919 Servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+420ter | 6 | Rousseau | Floribert | Havelange | 21 mars 1919 | Rousseau Désiré | 26100 | - | 26100 | - | - | - | 10 - 1919 | - | - | - | - | - | -
+421 | 6 | Schonq | Henri | Baillonville | 3 octobre 1919 | Beaufils, Beau Frère | 3922 | 218 | 3704 | - | - | - | 11 30/11 3 juin 1920 | 3 juin 1920 | 245 | - | - | - | -
+- | - | Arrêté le dix huit novembre 1919 Servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+```

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/14864742d13f46c7ac8882110b20e09a/artifacts
+end_time: 1727774463013
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 14864742d13f46c7ac8882110b20e09a
+run_name: bittersweet-ape-407
+run_uuid: 14864742d13f46c7ac8882110b20e09a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727774448687
+status: 3
+tags: []
+user_id: julien

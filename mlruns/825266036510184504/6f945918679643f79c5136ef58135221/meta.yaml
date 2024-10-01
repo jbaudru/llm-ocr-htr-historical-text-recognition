@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/6f945918679643f79c5136ef58135221/artifacts
+end_time: 1727774792684
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 6f945918679643f79c5136ef58135221
+run_name: spiffy-hound-947
+run_uuid: 6f945918679643f79c5136ef58135221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727774782971
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/4819231b11994340b23221f6d266cac7/artifacts
+end_time: 1727773996611
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 4819231b11994340b23221f6d266cac7
+run_name: big-yak-200
+run_uuid: 4819231b11994340b23221f6d266cac7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727773974012
+status: 3
+tags: []
+user_id: julien

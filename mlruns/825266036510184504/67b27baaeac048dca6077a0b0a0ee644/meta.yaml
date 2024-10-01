@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/67b27baaeac048dca6077a0b0a0ee644/artifacts
+end_time: 1727772257997
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 67b27baaeac048dca6077a0b0a0ee644
+run_name: unique-calf-73
+run_uuid: 67b27baaeac048dca6077a0b0a0ee644
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727772233230
+status: 3
+tags: []
+user_id: julien

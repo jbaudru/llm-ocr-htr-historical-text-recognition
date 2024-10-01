@@ -1,8 +1,0 @@
-| N° | DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | NOMS, PRÉNOMS | DROITS DE SUCCESSION | DROITS | PÉNALITÉS | DATE | OBSERVATIONS |
-|---|--------------|---------------------------------------------------|---------------|----------------------|--------|-----------|------|---------------|
-| | | Noms | Prénoms | Domiciles | | | Actif | Passif | Restant NET | | | de l'exigibilité des droits | |
-| 145 | vingt-quatre juin | Sauger | Charles Louis Raymond | 14 juillet | Veuve Sauger Julienne et autres | 28895 | 1619 | 27276 | | | 24 Déc 1920 26 mars 1921 | |
-| 146 | huit juin | Moisson | Jean Bte | Amiens | Veuve Moisson | 12285 | 575 | 11710 | | | 8 - 12 - 1920 | |
-| 147 | vingt-quatre | Leblicq | Jean Bte | Chaumont | Veuve Marie Delcroix et autres | 1920 | 520 | 1400 | | | non passible | |
-| 148 | vingt-quatre | Dassel | Emmanuel Joseph | Genappe 10 juillet 1922 | Veuve Dassel et autres | 9029 | 4223 | 4806 | | | 9 janvier 1923 | |
-| 149 | " | Hegelart | Laurent J. | Braine l'Alleud 15 nov 1922 | Hegelart Elisabeth et autres | 1078 | 385 | 3693 | | | non passible | |

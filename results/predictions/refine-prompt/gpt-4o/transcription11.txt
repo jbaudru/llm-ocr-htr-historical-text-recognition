@@ -1,0 +1,39 @@
+Certainly! Here is the refined transcription based on the provided image:
+
+```plaintext
+[("N' d'ordre", " "),
+("Date du dépôt des déclarations", " "),
+("Désignation des personnes décédées ou absentes.:", "Nom."),
+("Désignation des personnes décédées ou absentes.:", "Prénoms"),
+("Désignation des personnes décédées ou absentes.:", "Domiciles"), 
+("Date du décès ou du jugement d'envoi en possession, en cas d'absence.", " "),
+("Noms, Prénoms et demeures des parties déclarantes.", " "),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Actif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Passif. (2)"),
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Restant NET. (2)"),
+("Droit de mutation par décès", "Valeur des immeubles. (2)"), 
+("Numéros des déclarations", "Primitives."),
+("Numéros des déclarations", "Supplémentaires."), 
+("Date", "de l'expiration du délai de rectification."),
+("Date", "de l'exigibilité des droits."),
+("Numéros de la consignation des droits au sommier n' 28", " "),
+("Recette des droits et amendes.", "Date"),
+("Recette des droits et amendes.", "N^03"),
+("Cautionnements. ", "Numéros de la consignation au sommier n'30"),
+("Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présente colonne.)", " ")] 
+
+[
+["441", "19 décembre 1919", "Devillers", "Josephine", "Péruwelz", "4 février 1919", "Devillers, Gabriel, Péruwelz", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
+["442", "19 décembre 1919", "Chaboeq", "Armand", "Michel", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
+[" ", " ", "Arrêté le dix neuf décembre 1919", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
+[" ", " ", "Arrêté le vingt décembre 1919", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
+["443", "20 décembre 1919", "Gilbert", "Clémentine", "Elouges", " ", "Lemayeur, David, Elouges", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
+["444", "20 décembre 1919", "Paesmans", "Marie", " ", " ", "Paesmans, Henri", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
+["445", "20 décembre 1919", "Mirinne", "Marie", "Elouges", "1 avril 1919", "Mirinne, Jules", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
+["446", "20 décembre 1919", "Moubiou", " ", " ", " ", "Bourgeois, Léopold", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
+[" ", " ", "Arrêté le vingt deux décembre 1919", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
+[" ", " ", "Arrêté le vingt trois décembre 1919", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
+["447", "23 décembre 1919", "Caumont", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
+["448", "23 décembre 1919", "Antoine", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "]
+]
+```

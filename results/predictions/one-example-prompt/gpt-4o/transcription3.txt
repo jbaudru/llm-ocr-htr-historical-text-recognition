@@ -1,0 +1,15 @@
+```plaintext
+Nom. Prénoms Domiciles Actif. (2) Passif. (2) Restant NET. (2) Valeur des immeubles. (2) Primitives. Supplémentaires. de l'expiration du délai de rectification. de l'exigibilité des droits. Date N^03 Numéros de la consignation au sommier n'30 (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.) 
+418 six 9bre Cloquet Clotilde Waterloo 14 mai 1919 Cloquet Alix 950 950 23 Db 1919 27 mars 1920 1 avril 1920 55 
+Arrêté le deux novembre 1919 servais 
+419 six 9bre Viment Etienne Limal 5 mai 1919 Viment Prosper Louis & autres 2600 2600 3 Dbre 1919 1 juin 1920 1 avril 1920 56 
+Arrêté le trois novembre 1919 servais 
+420 six 9bre Boisdenghien Henri Quenast 14 mai 1919 Boisdenghien Adèle & autres 17217 17217 23 Db 1919 27 mars 1920 1 avril 1920 57 
+Arrêté le cinq novembre 1919 servais 
+420^2 six 9bre Lambotte Ernest Waterloo 14 mai 1919 Lambotte Emile 950 950 23 Db 1919 27 mars 1920 1 avril 1920 58 
+Arrêté le cinq novembre 1919 servais 
+420^3 six 9bre Rousseau Charles Gh. Nivelles 4 mai 1919 Rousseau Emilie 2100 2100 30 Db 1919 1 avril 1920 59 
+Arrêté le sept novembre 1919 servais 
+421 six 9bre Lefrancq Henri Limal 5 mai 1919 Lefrancq Henri & autres 1922 210 1712 23 Db 1919 1 avril 1920 60 
+Arrêté le dix huit novembre 1919 servais 
+```

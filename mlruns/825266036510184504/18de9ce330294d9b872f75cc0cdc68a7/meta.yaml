@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/18de9ce330294d9b872f75cc0cdc68a7/artifacts
+end_time: 1727775428458
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 18de9ce330294d9b872f75cc0cdc68a7
+run_name: bustling-toad-179
+run_uuid: 18de9ce330294d9b872f75cc0cdc68a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727775417060
+status: 3
+tags: []
+user_id: julien

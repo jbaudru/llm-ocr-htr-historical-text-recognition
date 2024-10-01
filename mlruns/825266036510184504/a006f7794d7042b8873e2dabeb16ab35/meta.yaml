@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/a006f7794d7042b8873e2dabeb16ab35/artifacts
+end_time: 1727773210287
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: a006f7794d7042b8873e2dabeb16ab35
+run_name: unruly-rook-981
+run_uuid: a006f7794d7042b8873e2dabeb16ab35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727773190413
+status: 3
+tags: []
+user_id: julien

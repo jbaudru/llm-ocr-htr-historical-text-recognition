@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/7a7ca170b69f4fcd80cf16b5fba67cca/artifacts
+end_time: 1727778948842
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 7a7ca170b69f4fcd80cf16b5fba67cca
+run_name: marvelous-fawn-932
+run_uuid: 7a7ca170b69f4fcd80cf16b5fba67cca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727778925796
+status: 3
+tags: []
+user_id: julien

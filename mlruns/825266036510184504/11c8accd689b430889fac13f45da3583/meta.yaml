@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/11c8accd689b430889fac13f45da3583/artifacts
+end_time: 1727773396203
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 11c8accd689b430889fac13f45da3583
+run_name: grandiose-foal-447
+run_uuid: 11c8accd689b430889fac13f45da3583
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727773373889
+status: 3
+tags: []
+user_id: julien

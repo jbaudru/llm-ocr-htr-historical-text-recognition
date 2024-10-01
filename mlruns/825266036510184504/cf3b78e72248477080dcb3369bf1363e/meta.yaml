@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/cf3b78e72248477080dcb3369bf1363e/artifacts
+end_time: 1727773176183
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: cf3b78e72248477080dcb3369bf1363e
+run_name: tasteful-moth-264
+run_uuid: cf3b78e72248477080dcb3369bf1363e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727773167865
+status: 3
+tags: []
+user_id: julien

@@ -1,8 +1,0 @@
-| N° | DATE DE LA DÉCLARATION | NOMS, PRÉNOMS | DOMICILES | DROITS DE SUCCESSION | ACTIF | PASSIF | RESTANT NET | DATE | OBSERVATIONS |
-|---|------------------------|---------------|-----------|------------------------|-------|--------|-------------|------|---------------|
-| 1 | deux janvier 1920 | Severin Jules | Braine-l'Alleud | Delstanche Delphine et autres | 23982 | - | 23982 | 1 janvier 1920 3 mars 1925 | 7 juillet 1924 |
-| 2 | d° | Dumont Louis | Bruxelles | Flamey Juliette et autres | 519 | 10.20 | | 12 d° 2 d° | 12 janvier 1920 |
-| 3 | cinq janvier | Houlin Edgard | Ophain | Houart Clément et autres | 707.74 | - | 707.74 | 15 d° 5 mars 1920 | 23 juillet 1921 5 février 1921 |
-| 3² | d° | Sevrin Jules | Braine-le-Château | Severin Léon | 20162 | | | 5/325 | - |
-| 3³ | d° | Vanderspypen Alexis | Nivelles | Santerre Laure | 72.5 | - | 72.5 | 5/325 1919 | 27 janvier 1920 |
-| 4 | six janvier | Seclas Victor Joseph | Braine-le-Château | Vanderborght Joseph et autres | 9139 | - | 9139 | 17 février 20 juillet 1920 | 5 juillet 1920 |

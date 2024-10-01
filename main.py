@@ -31,8 +31,9 @@ def append_result(texts, key, result):
 def evaluate():
     experiment_name = "zero-shot_simple-prompt"
     experiment_name = "zero-shot_complex-prompt"
-    #experiment_name = "one-example_simple-prompt"
-    #experiment_name = "two-example_simple-prompt"
+    experiment_name = "one-example-prompt"
+    experiment_name = "two-example-prompt"
+    experiment_name = "refine-prompt"
     
     # few-shot
     texts = {
@@ -103,12 +104,14 @@ def evaluate():
                 
                 # Zero-shot
                 res = agent.draft(image_path, by_line=False)
-                result = agent.callPostProcessing(res)
+                #result = agent.callPostProcessing(res)
                 
                 # One-example / Two-example
-                #result = agent.exampleShot(image_path, NbExamples=2)
+                #result = agent.exampleShot(image_path, NbExamples=1)
                 
                 # Refine
+                result = agent.refineLayout(res)
+                
                 # TODO: add refine method
                 
                 mlflow.log_param("method", model)

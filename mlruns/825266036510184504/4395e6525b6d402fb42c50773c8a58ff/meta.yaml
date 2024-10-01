@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/4395e6525b6d402fb42c50773c8a58ff/artifacts
+end_time: 1727775315985
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 4395e6525b6d402fb42c50773c8a58ff
+run_name: trusting-colt-634
+run_uuid: 4395e6525b6d402fb42c50773c8a58ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727775293843
+status: 3
+tags: []
+user_id: julien

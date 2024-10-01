@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/8ab8cf32fc1d4fbaa4ea0bdcf871e266/artifacts
+end_time: 1727773133705
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 8ab8cf32fc1d4fbaa4ea0bdcf871e266
+run_name: unleashed-bat-887
+run_uuid: 8ab8cf32fc1d4fbaa4ea0bdcf871e266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727773117101
+status: 3
+tags: []
+user_id: julien

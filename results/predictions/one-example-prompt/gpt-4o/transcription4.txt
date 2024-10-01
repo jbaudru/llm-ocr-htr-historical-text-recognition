@@ -1,0 +1,19 @@
+```plaintext
+DATE DU DÉCÈS  | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES. | ACTE DE DÉCÈS | NOMS, PRÉNOMS | DROITS DE SUCCESSION | DROIT DE | DATE | NUMÉROS | OBSERVATIONS
+              |                                                  |              |               | MUTATION EN LIGNE DIRECTE | MUTATION EN LIGNE COLLATERALE | EXIGIBILITÉ DES DROITS | DE LA CONSIGNATION AU SOMMIER | 
+              |                                                  |              |               | ACTIF. | PASSIF. | RESTANT NET. | VALEUR DES IMMEUBLES | PRIMITIVES | SUPPLÉMENTAIRES | DE L'EXPIRATION DU DÉLAI DE RECTIFICATION | DATE | 
+1919          |                                                  |              |               |        |         |              |                     |           |                |                                      |      | 
+421           | 8me 9bre                                         | Hemans       | Charles Otto  | 5885   | 2491    | 3394         | 30                  | 30        |                | 10 août 1920                        | 326  | 10 août 1920
+422           | 9                                                | Druij        | Antoine       | 500    | 500     |              |                     |           |                | 10 août 1920                        | 327  | 10 août 1920
+423           | 9                                                | Pieterbons   | Pierre Joseph | Droits supplétifs | 261 | 261 | 10 août 1920 | 328 | 10 août 1920
+423^2         | 9                                                | Pieterbons   | Jean Gpe      | 2166   | 2166    |              |                     |           |                | non passible                        |      | 
+424           | 9                                                | Desaegher    | Henri Hubert  | 4805   | 4805    |              |                     |           |                | 10 août 1920                        | 329  | 10 août 1920
+              | Arrêté le dix neuf novembre 1919 Servais         |              |               |        |         |              |                     |           |                |                                      |      | 
+424^2         | 10me 9bre                                        | Hauliez      | Germain       | 6600   | 6600    |              |                     |           |                | 10 août 1920                        | 330  | 10 août 1920
+425           | 9                                                | Delaite      | Adrien Arthur | 4500   | 4500    |              |                     |           |                | non passible                        |      | 
+              | Arrêté le vingt novembre 1919 Servais            |              |               |        |         |              |                     |           |                |                                      |      | 
+425^2         | 10me 9bre                                        | Piercot      | Julien        | 2615   | 2615    |              |                     |           |                | 10 août 1920                        | 331  | 10 août 1920
+426           | 9                                                | Fontignies   | Antoine       | 2615   | 2615    |              |                     |           |                | 10 août 1920                        | 332  | 10 août 1920
+426^2         | 9                                                | Moens        | Joseph        | 5147   | 5147    |              |                     |           |                | non passible                        |      | 
+427           | 9                                                | Semal        | Prosper       | 8000   | 8000    |              |                     |           |                | 16 août 1920                        | 333  | 16 août 1920
+```

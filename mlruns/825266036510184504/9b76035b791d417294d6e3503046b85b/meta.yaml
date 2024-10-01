@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/9b76035b791d417294d6e3503046b85b/artifacts
+end_time: 1727774651245
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 9b76035b791d417294d6e3503046b85b
+run_name: bustling-seal-459
+run_uuid: 9b76035b791d417294d6e3503046b85b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727774636010
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/d7766a22fcf54007ad9d745df9b522c8/artifacts
+end_time: 1727774918900
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: d7766a22fcf54007ad9d745df9b522c8
+run_name: popular-trout-830
+run_uuid: d7766a22fcf54007ad9d745df9b522c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727774909185
+status: 3
+tags: []
+user_id: julien

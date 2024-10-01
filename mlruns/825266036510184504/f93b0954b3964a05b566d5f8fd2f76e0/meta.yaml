@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/f93b0954b3964a05b566d5f8fd2f76e0/artifacts
+end_time: 1727774526111
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: f93b0954b3964a05b566d5f8fd2f76e0
+run_name: stately-rook-734
+run_uuid: f93b0954b3964a05b566d5f8fd2f76e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727774525862
+status: 3
+tags: []
+user_id: julien

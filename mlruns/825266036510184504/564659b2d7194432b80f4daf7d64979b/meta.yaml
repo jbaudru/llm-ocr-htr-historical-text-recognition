@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/564659b2d7194432b80f4daf7d64979b/artifacts
+end_time: 1727771971190
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 564659b2d7194432b80f4daf7d64979b
+run_name: crawling-pug-55
+run_uuid: 564659b2d7194432b80f4daf7d64979b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727771947550
+status: 3
+tags: []
+user_id: julien

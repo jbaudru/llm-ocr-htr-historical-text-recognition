@@ -1,8 +1,0 @@
-```plaintext
-| Date de décès | Numéros des déclarations de succession précédées ou suivies des lettres P ou D | Nom, Prénoms | Domiciles | Actif | Passif | Restant | NET | Valeur des immeubles | Primitives | Supplémentaires | de l'expiration du délai de rectification | de l'exigibilité des droits | Date | Numéros de la consignation au sommier | Observations |
-| 6 9bre 1919 | 409 | Thibault | Braine l'Alleud | 1250 | 1250 | | | | | | | | | | |
-| 6 9bre 1919 | 444 | Wauthier | Braine l'Alleud | 10319 | 10319 | | | | | | | | | | |
-| 6 9bre 1919 | 445 | Jacquet | Braine l'Alleud | 1250 | 1250 | | | | | | | | | | |
-| 6 9bre 1919 | 446 | Vanglaine | Braine l'Alleud | 1000 | 1000 | | | | | | | | | | |
-| 6 9bre 1919 | 447 | Blasman | Braine l'Alleud | 134 | 134 | | | | | | | | | | |
-```

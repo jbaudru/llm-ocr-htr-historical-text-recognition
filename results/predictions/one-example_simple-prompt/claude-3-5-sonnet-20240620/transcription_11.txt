@@ -1,5 +1,0 @@
-| N° | DATE DE DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | NOMS, PRÉNOMS | DOMICILE | DEGRÉ DE PARENTÉ | ACTIF | PASSIF | RESTANT NET | DATE | RECETTE |
-|---|---------------|---------------------------------------------------|---------------|----------|-------------------|-------|--------|-------------|------|---------|
-| 648 nov 26 | Devrez | Julien | octobre 5 1917 | Sans héritiers | 841 | - | 841 | 26/11 1919 | - |
-| 649 nov 26 | Delise | Robert | janvier 1° 1917 | Héritiers directs | - | 2978 | 2978 | 26/11 1919 | - |
-| 650 nov 26 | Boideughin | Henri | janvier 15 1917 | Héritiers directs et autres | 87398 | - | 82398 | 26/11 1919 | - |

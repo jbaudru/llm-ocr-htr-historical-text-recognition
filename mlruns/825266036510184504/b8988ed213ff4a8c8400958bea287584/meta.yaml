@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/b8988ed213ff4a8c8400958bea287584/artifacts
+end_time: 1727772696104
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: b8988ed213ff4a8c8400958bea287584
+run_name: classy-chimp-870
+run_uuid: b8988ed213ff4a8c8400958bea287584
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727772674456
+status: 3
+tags: []
+user_id: julien

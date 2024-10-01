@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/44405299dc81431389b35427d6f8b690/artifacts
+end_time: 1727775604195
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 44405299dc81431389b35427d6f8b690
+run_name: omniscient-mare-481
+run_uuid: 44405299dc81431389b35427d6f8b690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727775590082
+status: 3
+tags: []
+user_id: julien

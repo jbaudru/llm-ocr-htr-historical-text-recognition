@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/817587aa9286445b82c8b4e5d16760b7/artifacts
+end_time: 1727773232127
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 817587aa9286445b82c8b4e5d16760b7
+run_name: gaudy-gull-958
+run_uuid: 817587aa9286445b82c8b4e5d16760b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727773231886
+status: 3
+tags: []
+user_id: julien

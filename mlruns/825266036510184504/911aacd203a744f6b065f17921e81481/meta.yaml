@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/911aacd203a744f6b065f17921e81481/artifacts
+end_time: 1727772772307
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 911aacd203a744f6b065f17921e81481
+run_name: dashing-calf-56
+run_uuid: 911aacd203a744f6b065f17921e81481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727772755318
+status: 3
+tags: []
+user_id: julien

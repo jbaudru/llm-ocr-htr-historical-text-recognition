@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/698d248fcab34be3bd9503dd808cd7db/artifacts
+end_time: 1727772233211
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 698d248fcab34be3bd9503dd808cd7db
+run_name: skittish-colt-859
+run_uuid: 698d248fcab34be3bd9503dd808cd7db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727772178976
+status: 3
+tags: []
+user_id: julien

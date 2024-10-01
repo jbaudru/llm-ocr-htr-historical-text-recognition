@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/b405752069ea42e7aea6af00c2e534f3/artifacts
+end_time: 1727778481157
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: b405752069ea42e7aea6af00c2e534f3
+run_name: selective-crow-145
+run_uuid: b405752069ea42e7aea6af00c2e534f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727778472121
+status: 3
+tags: []
+user_id: julien

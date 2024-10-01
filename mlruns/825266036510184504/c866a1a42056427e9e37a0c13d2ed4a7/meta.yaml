@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/c866a1a42056427e9e37a0c13d2ed4a7/artifacts
+end_time: 1727772372739
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: c866a1a42056427e9e37a0c13d2ed4a7
+run_name: rogue-grouse-823
+run_uuid: c866a1a42056427e9e37a0c13d2ed4a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727772372501
+status: 3
+tags: []
+user_id: julien

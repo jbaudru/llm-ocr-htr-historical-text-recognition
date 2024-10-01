@@ -1,9 +1,0 @@
-```plaintext
-| Date de décès | Nom, Prénoms | Domiciles | Actif | Passif | Restant | Valeur des immeubles | Primitives | Supplémentaires | Date de l'expiration du délai de rectification | Date de l'exigibilité des droits | Date | Numéros de la consignation au sommier | Observations |
-|---------------|--------------|-----------|-------|--------|---------|---------------------|------------|-----------------|---------------------------------------------|----------------------------------|------|--------------------------------|--------------|
-| 6 9bre 1919   | Tibbault     | Braine l'Alleud | 1250 | 1250 | | | | | | | | | |
-| 6 9bre 1919   | Wauthier     | Braine l'Alleud | 10319 | 10319 | | | | | | | | | |
-| 6 9bre 1919   | Jacquet      | Braine l'Alleud | 1250 | 1250 | | | | | | | | | |
-| 6 9bre 1919   | Vanglaire    | Braine l'Alleud | 100 | 100 | | | | | | | | | |
-| 6 9bre 1919   | Blasman      | Braine l'Alleud | 134 | 134 | | | | | | | | | |
-```

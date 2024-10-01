@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/25c13e1353d54ce8b6dac62f0be7c1dc/artifacts
+end_time: 1727778110370
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 25c13e1353d54ce8b6dac62f0be7c1dc
+run_name: smiling-mouse-154
+run_uuid: 25c13e1353d54ce8b6dac62f0be7c1dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727778086565
+status: 3
+tags: []
+user_id: julien
