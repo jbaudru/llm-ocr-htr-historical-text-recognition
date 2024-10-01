@@ -10,14 +10,16 @@ def calculate_average_bleu(scores):
     return np.mean(scores)
 
 def collect_bleu_scores(base_path):
-    experiments = ["zero-shot_complex-prompt", "zero-shot_simple-prompt", "one-example_prompt", "two-example_prompt", "refine_complex-prompt"]
-    models = ["claude-3-5-sonnet-20240620", "gpt-4o", "EasyOCR", "KerasOCR", "Pytesseract", "trOCR"]
+    experiments = ["zero-shot_simple-prompt", "zero-shot_complex-prompt", "one-example_prompt", "two-example_prompt", "refine_complex-prompt"]
+    #models = ["claude-3-5-sonnet-20240620", "gpt-4o", "EasyOCR", "KerasOCR", "Pytesseract", "trOCR"]
+    models = ["claude-3-5-sonnet-20240620", "gpt-4o", "EasyOCR", "KerasOCR", "Pytesseract"]
     
     bleu_scores = {exp: {model: [] for model in models} for exp in experiments}
+    cer_scores = {exp: {model: [] for model in models} for exp in experiments}
     
-    for exp in experiments:
-        for model in tqdm(models, desc=f"Processing {exp}", ascii=' >='):
-            for i in range(20):
+    for exp in tqdm(experiments, desc=f"Processing experiments", leave=False, ascii=' >='):
+        for model in tqdm(models, desc=f"Processing methods", leave=False, ascii=' >='):
+            for i in tqdm(range(20), desc=f"Processing texts", leave=False, ascii=' >='):
                 pred_path = base_path + "/" + exp + "/" + model + "/transcription" + str(i) + ".txt"
                 
                 with open(pred_path, "r", encoding="utf-8") as pred_file:
@@ -26,57 +28,91 @@ def collect_bleu_scores(base_path):
                 gt_path = f"data/transcriptions/transcription_ex{i+1}.xlsx"
                 gt_text = tools.xlsx_to_string(gt_path)
                 
-                
-                bleu_score = tools.compute_distances(pred_text, gt_text)[-1]
+                scores = tools.compute_distances(pred_text, gt_text)
+                bleu_score = scores[-1]
                 bleu_scores[exp][model].append(bleu_score)
-    
+                cer_score = scores[-3]
+                cer_scores[exp][model].append(cer_score)
+            
     return bleu_scores
 
 
-def plot_bleu_scores(bleu_scores):
-    experiments = list(bleu_scores.keys())
-    models = list(bleu_scores[experiments[0]].keys())
+def plot_scores(scores):
+    experiments = list(scores.keys())
+    models = list(scores[experiments[0]].keys())
     
-    avg_bleu_scores = {exp: {model: calculate_average_bleu(bleu_scores[exp][model]) for model in models} for exp in experiments}
+    avg_scores = {exp: {model: calculate_average_bleu(scores[exp][model]) for model in models} for exp in experiments}
     
     # Calculate average BLEU scores for non-GPT and non-Sonnet models across all experiments
-    other_models = ["EasyOCR", "KerasOCR", "Pytesseract", "trOCR"]
-    avg_bleu_scores_combined = {model: calculate_average_bleu([avg_bleu_scores[exp][model] for exp in experiments]) for model in other_models}
+    #other_models = ["EasyOCR", "KerasOCR", "Pytesseract", "trOCR"]
+    other_models = ["EasyOCR", "KerasOCR", "Pytesseract"]
+    avg_scores_combined = {model: calculate_average_bleu([avg_scores[exp][model] for exp in experiments]) for model in other_models}
     
-    x = np.arange(len(experiments) + 1)  # +1 for the combined average of other models
-    width = 0.15
-    
-    fig, ax = plt.subplots(figsize=(18, 10))  # Increase figure size for a longer plot
-    
-    for idx, model in enumerate(models):
-        if model in other_models:
-            model_scores = [avg_bleu_scores_combined[model]] * (len(experiments) + 1)
-        else:
-            model_scores = [avg_bleu_scores[exp][model] for exp in experiments] + [0]  # Add 0 for the combined average position
-        
-        ax.bar(x + idx * width, model_scores, width, label=model)
-    
+    x = np.arange(len(experiments) * 2 + len(other_models))  # 5*2 for GPT and Sonnet, 4 for OCR methods
+    width = 0.35
+
+    fig, ax = plt.subplots(figsize=(18, 8))  # Increase figure size for a longer plot
+
+    # Plot GPT and Sonnet models for each experiment
+    colors = ['blue', 'orange']  # Define colors for GPT and Sonnet
+    for idx, exp in enumerate(experiments):
+        for model_idx, model in enumerate(["gpt-4o", "claude-3-5-sonnet-20240620"]):
+            model_scores = avg_scores[exp][model]
+            ax.bar(idx * 2 + model_idx * 3*width, model_scores, width, label=f"{model}" if idx == 0 else "", color=colors[model_idx])
+
+    # Plot combined OCR methods
+    for idx, model in enumerate(other_models):
+        model_scores = avg_scores_combined[model]
+        ax.bar(len(experiments) * 2 + idx, model_scores, width, label=model)
+
     ax.set_ylabel('Average BLEU Score')
-    ax.set_title('Average BLEU Score by Model and Experiment')
-    ax.set_xticks(x + width * (len(models) - 1) / 2)
-    ax.set_xticklabels(experiments + ["Combined Average"])
+    ax.set_title('Average BLEU Score by Method')
+
+    # Clean experiment names
+    clean_experiment_names = [exp.replace('_', ' ').replace('-', ' ') for exp in experiments]
+
+    # Create x-tick labels
+    xtick_labels = []
+    for exp in clean_experiment_names:
+        xtick_labels.append("gpt-4o")
+        xtick_labels.append("claude-3-5-sonnet-20240620")
+    xtick_labels.extend(other_models)
+
+    # Create secondary x-tick labels for experiment names
+    exp_labels = []
+    for exp in clean_experiment_names:
+        exp_labels.append(exp)
+        exp_labels.append("")
+    exp_labels.extend([""] * len(other_models))
+
+    ax.set_xticks(np.arange(len(experiments) * 2 + len(other_models)))
+    ax.set_xticklabels(xtick_labels, rotation=45, ha="right")
+
+    # Add secondary x-axis for experiment names
+    secax = ax.secondary_xaxis(-0.4)  # Move the secondary x-axis further down
+    secax.set_xticks(np.arange(len(experiments)) * 2 + 0.5)
+    secax.set_xticklabels(clean_experiment_names, rotation=0, ha="center")
+    secax.set_xlim(-0.5, len(experiments) * 2 - 0.5)  # Set the limit to stop at the dotted vertical line
+
     ax.legend()
-    
-    # Add vertical dotted line to separate "gpt-4o" and "claude-3-5-sonnet-20240620" from others
-    separation_idx = 2  # Index after "gpt-4o" and "claude-3-5-sonnet-20240620"
-    separation_x = x + separation_idx * width - width / 2
-    for sep_x in separation_x:
-        ax.axvline(sep_x, color='gray', linestyle='--')
-    
+
+    # Add vertical dotted line to separate GPT and Sonnet models from OCR methods
+    separation_x = len(experiments) * 2 - 0.5
+    ax.axvline(separation_x, color='gray', linestyle='--')
+
     fig.tight_layout()
-    plt.savefig("results/average_bleu_scores.png")
+    plt.savefig("results/average-bleu_whole-scans.png")
     plt.show()
+    
+    
     
     
 def main():
     base_path = "results/predictions"
     bleu_scores = collect_bleu_scores(base_path)
-    plot_bleu_scores(bleu_scores)
+    plot_scores(bleu_scores)
+
+
 
 if __name__ == "__main__":
     main()
