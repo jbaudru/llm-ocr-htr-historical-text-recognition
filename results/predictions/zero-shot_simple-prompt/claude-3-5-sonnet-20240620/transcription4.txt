@@ -1,0 +1,46 @@
+Here's a transcription of the text from the image in a structured format:
+
+```plaintext
+N° DATE DE DÉPÔT | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DU DÉCÈS ou de l'absence présumée | NOMS, PRÉNOMS | DROITS DE SUCCESSION | DROIT | NUMÉROS | DATE | RECETTE | OBSERVATIONS
+   DE LA        |                                                |                                         | DEMEURES DES PARTIES DÉCLARANTES | de mutation par décès | PERÇU | des      | de      | DROITS  |
+   DÉCLARATION  | NOMS           | PRÉNOMS       | DOMICILES     |                                         |                   | ACTIF | PASSIF | NET    | CONSTATÉS |         | articles | l'enregistrement | ET AMENDES |
+
+419 24 novembre   Siemans         Charles        Gilly           29 avril 1919    Bourlet Albertine                 5885    249    5595                  39.93                   24/11/19  322     
+                                                                                                                                                                                  24 janvier 1920  29
+
+420 "             Bruyr           Léonard        Ransart         8 janvier 1919   Bury Marie et autres               500           500                   36                      " "       361
+                                  François                                                                                                                                        5 février 361
+
+421 "             Pieterbons      Pierre Florent Wanfercée       5 février 1919   Trous Joséphine et autres          Néant négatif                       241
+                                  Nicolas        Baulet                                                                                                  1919
+
+422 "             Pieterbons      Jean Guy       "               16 mai 1919      "                                  346     225    121                  31 3/1920 26 mars
+                                                                                                                                                                   1920
+
+423 "             Desaeger        Henri Emile    Fleurus         28 mai 1919      Blaregnies Vital                   2855          2855                  30 "     30 "     17 mars 60
+                                  Albert                                                                                                                                    1920
+
+     Arrêté le 24 vingt novembre 1919 (vingt)
+
+424 vingt-quatre  Hantier         Firmin         Wanfercée       25 juillet 1919  Divers héritiers et autres         86181         86181                 756 29 janvier 28 mars  16 octobre 33
+    novembre                      Nicolas                                                                                                                 1920     1920     1920
+
+425 "             Delaitre        Céline Catherine Ransart       26 mai 1919      Lenfle Jean Bte et autres          5706          5706                  " "      25 mars  non fournie
+                                  Ghislaine                                                                                                                        1920
+
+     Arrêté le vingt novembre 1919 (vingt)
+
+425 vingt-quatre  Pieret          Julien         Wanfercée       9 février 1919   Namèche Louis et autres            Néant négatif                       262
+    novembre                      Nicolas                                                                                                                 1919
+
+426 "             Fontignies      De             Mellet          16 juin 1919     Botte Louis' épouse et autres      2361          2361                  " "      26 avril  20 octobre 36
+                                  Arthur                                                                                                                           1920
+
+427 "             Moens           Joseph         Lambusart       29 juillet 1919  Lange Elie et autres               4545          4545                  " "      21 mai    non fournie
+                                                                                                                                                                   1920
+
+428 "             Ismol           Henri          Fleurus         5 juin 1919      Gueret Alice et autres             4000          4000                  35 "     16 avril  12 octobre 79
+                                                                                                                                                          1920     1920
+```
+
+This appears to be a Belgian succession declaration document (déclaration de succession) from around 1919-1920. It lists deceased individuals, their heirs, and details about their estates for tax purposes.

@@ -1,0 +1,27 @@
+Here's a transcription of the text from the image in a structured format:
+
+```plaintext
+DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DU DÉCÈS | NOMS, PRÉNOMS | DROITS DE SUCCESSION | IMPÔT | NUMÉROS | RECETTE | DATE | OBSERVATIONS
+
+Arrêté le premier janvier 1920 Excusation Admis
+
+1 | deux janvier 1920 | Séverin Jules | Bruxelles 6 juillet 1919 | Célibataire Distillateur et autres | 31742 - 31742 | 3,175 1 janvier 5 mars 1920 | 5 juillet 1920 | 752
+2 | do | Dumont Louis | Nivelles 3 do | Epoux Juliette et enf. | 569 - 6010 | 13 02 - 3 02 | 23 janvier 1920
+
+Arrêté le deux janvier 1920 Admis
+Arrêté le trois janvier 1920 Admis
+Arrêté le quatre janvier 1920 Observation Admis
+
+3 | cinq janvier | Houlin Edgard | Rebecq 5 juillet 1919 | Epoux Henriette veuve | 117742 - 117742 | 117 10 janvier 5 mars 1920 | 25 juillet 1920 | 753
+32 | do | Séverin Jules | Bruxelles 6 juillet 1919 | Célibataire Ebony | 30362 | 1 1920 | - | -
+33 | do | Wanderpepen Marie | Nivelles 29 Avril | Célibataire Coutur. | 2636 - 7545 | 1545 1919 | - | 25 janvier 1920
+
+Arrêté le cinq janvier 1920 Admis
+
+4 | six janvier | Declas Victor Joseph | Braine l'Alleud 25 Avril 1919 | Veuf Célibataire Rentier et autres | 9039 - 9039 | 15 janvier 20 juillet 1920 | 5 juillet 1920 | 754
+
+Arrêté le six janvier 1920 Admis
+Arrêté le sept janvier 1920 Admis
+```
+
+This transcription represents the content of a Belgian "déclaration de succession" (declaration of inheritance) document, listing various deceased individuals, their dates of death, places of residence, marital status, occupations, and associated financial information related to their estates.

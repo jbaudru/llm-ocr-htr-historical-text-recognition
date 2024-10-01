@@ -1,0 +1,11 @@
+```plaintext
+Nom. Prénoms Domiciles Actif. (2) Passif. (2) Restant NET. (2) Valeur des immeubles. (2) Primitives. Supplémentaires. de l'expiration du délai de rectification. de l'exigibilité des droits. Date N^03 Numéros de la consignation au sommier n'30 (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présente colonne.) 
+6 1er janvier 1920 Séverin Jules Nivelles 38262 38262 17 février 1920 7 mai 1920 9 juillet 1920 129 
+2 Dumont Louis Nivelles 369 369 13 Db 1920 8 8 8 août 1920 
+6 2e janvier 1920 Séverin Jules Nivelles 38262 38262 17 février 1920 7 mai 1920 9 juillet 1920 129 
+3e janvier 1920 Dumont Louis Nivelles 369 369 13 Db 1920 8 8 8 août 1920 
+6 3e janvier 1920 Honlin Edouard Braine l'Alleud 10174 10174 16 février 1920 7 mai 1920 9 juillet 1920 126 
+6 3e janvier 1920 Séverin Jules Nivelles 38262 38262 17 février 1920 7 mai 1920 9 juillet 1920 129 
+6 3e janvier 1920 Wandersoppen Marie Nivelles 1669 1669 17 février 1920 7 mai 1920 9 juillet 1920 126 
+6 4e janvier 1920 Icolas Julien Joseph Nivelles 9089 9089 17 février 1920 7 mai 1920 9 juillet 1920 126 
+```

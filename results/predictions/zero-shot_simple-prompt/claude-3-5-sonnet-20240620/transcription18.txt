@@ -1,0 +1,31 @@
+Here's a transcription of the visible text from the image, formatted as a plain text representation of the déclaration de succession:
+
+```plaintext
+[Header information omitted due to partial visibility]
+
+Arrêté le cinq février 1920 (enreg)
+Arrêté le dix février 1920 (enreg)
+Arrêté le dix-sept février 1920 (enreg)
+Arrêté le vingt-quatre février 1920 (Dimanche) (enreg)
+Arrêté le vingt février 1920 (enreg)
+
+616 dix février Soupart    Cornelius Nestor  11 mars 1919  Frasnes-lez-Gosselies  39181  39181  263  26 mars  11 juin  2194/1920 233
+                                                                                               415  1920   1920  11/6/1920 978
+
+617    "     Fèvre     Alfred Gft   Luttre  2 fév 1915  Voir cahier de recettes  1200   1200   9/0   29 mars  -     69
+                                                                                               1920
+
+618    "     Siraux    Augustin  Rethey  11 mars   Emprunteur Société           1025   1025   199   -        -     -
+                                         1915                                                 1920
+
+Arrêté le dix février 1920 (enreg)
+Arrêté le onze février 1920 (enreg)
+
+619 onze fév Vaneulsem  Adeline  Roux Gd  12 mars   Meubles, Chevaux & autres   18524  18524  615  26 mars  17 juin  20 juillet 1920
+                                 Roeulx   1919                                                1920  1920    1920
+
+Arrêté le onze février 1920 (enreg)
+
+620 douze fév Honnijadi  Jules    Haine   22 février Meubles & Valeurs Diverses  95101  95  25 février  -
+                         St-Pierre 1919                                               1920
+```

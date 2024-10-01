@@ -1,0 +1,59 @@
+Here's a transcription of the text from the image in a structured format:
+
+```plaintext
+N°  DATE DU DÉCÈS  DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES  NOMS, PRÉNOMS
+    DÉCLARATIONS  NOMS.   PRÉNOMS.   DOMICILES.                   HÉRITIERS OU PARTIES DÉCLARANTES
+
+    Arrêté le trente janvier 1920 (Signé)
+    Arrêté le trente un janvier 1920 (Signé)
+    Arrêté le premier février 1920 Dimanche (Signé)
+
+12  deux février  Carlier   Oscar    Quarouble  15 février  Carlier Vital à Jemappes
+                                     1915
+
+    Arrêté le deux février 1920 (Signé)
+    Arrêté le trois février 1920 (Signé)
+
+13  vingt-quatre  Longe     Célestin  Boussu Lez 29 juillet Delaby Thomas à Boussu
+    janvier 1920                      Walcourt 1919
+
+14  d°            Segain    Emile Henri Florennes 1 Août    Tonglet Jules à Florennes
+                                               1919
+
+    Arrêté le quatre février 1920 (Signé)
+
+15  cinq février  Kaisrez   Louis Catherine Frameries 9 août Blanchard Alphonse à Frameries
+                                              1919
+
+15² d°            Denys     Louis Auguste Florennes 17 janvier Denise Paula
+                                              1919
+
+15³ d°            Vandeelstraeten Georges Charles Chièvres 29 mars Caufriez Emile
+                                              1919
+
+15⁴ d°            Lamblance Joseph   Boussu    17 janvier Dury Florimond à Boussu
+                                              1919
+
+DROITS DE SUCCESSION  DROIT    NUMÉROS    DATE       RECETTE    OBSERVATIONS
+OU LEUR ÉQUIVALENT    PERÇU                          DES DROITS ET AMENDES
+
+ACTIF   PASSIF  RESTANT NET
+
+6.111   109     6.002           5 mars et 15 Août  10 février 1920
+
+1.526   -       1.526           15 7°    25 Août 1920   non produite
+
+975,6   326,6   649,01          975,6   28 3°    1 Août 1919   1 Août 1921
+                                1919                            (annotation illisible)
+
+1.190   -       1.190           16 3°    9 juin 1920    non produite
+
+Déclaration négative            491     -       6 février 1920
+                                1919
+
+3.554   -       3.554           3.554   -       6 février 1920
+                                1919
+
+2.268   -       2.268           2.268   -       6 février 1920
+                                1919
+```

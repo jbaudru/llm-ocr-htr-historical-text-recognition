@@ -1,0 +1,59 @@
+Here is the transcribed text from the image:
+
+```plaintext
+DATE DU DECES
+4 Janvier 1920
+5 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+6 Janvier 1920
+7 Janvier 1920
+
+NOMS, PRENOMS
+Sefebore
+Drouet
+Sarcisic
+Mieibiels
+
+DESIGNATION DES PERSONNES DECEDES OU ABSENTES
+Sefebore
+Drouet
+Sarcisic
+Mieibiels
+
+NOMS, PRENOMS
+Sefebore
+Drouet
+Sarcisic
+Mieibiels
+
+DROITS DE SUCCESSION
+ACTIF
+6750
+5200
+3691
+4669
+
+PASSIF
+6750
+5200
+3691
+4669
+
+NET
+177
+1200
+3691
+4669
+
+NUMEROS
+DATE
+25 Janvier 1920
+25 Janvier 1920
+25 Janvier 1920
+25 Janvier 1920
+
+OBSERVATIONS
+```
+
+Note: Some text may be difficult to read due to the handwriting and image quality.

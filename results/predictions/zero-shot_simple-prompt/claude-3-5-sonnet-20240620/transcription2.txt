@@ -1,0 +1,41 @@
+Here's a transcription of the text from the image in a structured format:
+
+```plaintext
+N°   DATE DU DÉPÔT   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES   DATE DU DÉCÈS   NOM, PRÉNOMS   DROITS DE SUCCESSION   DROIT   NUMÉROS   DATE   RECETTE   OBSERVATIONS
+    de la             NOM,         PRÉNOMS,      DOMICILE,           ou de          DEGRÉS DES PARTIES DÉCLARANTES   MUTATION EN LIGNE DIRECTE   DE GREFFE   du        de        du
+    DÉCLARATION                                                      l'absence                                       ACTIF    PASSIF    NET                 REGISTRE   l'ENREGISTREMENT
+
+6 411 2 août 1919    Houblet      Florent      Waterloo    28/7/1919  Epouse Paes -                  575     -       575                 20 août   20 juillet   non fournie
+6 412    "           Chateau      Henri        Braine      18/8/1919  Enfants, petits-enfts et autres 71692   -      71692                  "      6 octobre    4 feuilles 201
+                                  Emm. L'All.                                                                                                                   2 " 202
+                                                                                                                                                                2 " 203
+6 413    "           Reymens      Emile        Ophain      9 mai 1916 Enfts majeurs                  1516    -       1516     218                    "          4 mars    699
+                                                                                                                              1919                              1920
+
+                     Décédé le huit novembre 1919 domicile
+                     Décédé le neuf novembre 1919 Braine-l'Alleud
+
+6 413 bis 26/1/1920  Mathieu      Constance    Ohain       11 mai     Bourguignon Léopold -          16936   -      16936                22/8/1919 11 mai
+                                                1919                                                                                               1920
+
+6 414    "           Caminiau     Adelina      Braine      5 juillet  Delfosse Désiré et autres      23991   -      23991                15 oct    2 mars       3 feuilles 699
+                                               l'Alleud    1919                                                                          1919      1920         700-701
+
+6 415    "           Dubru        Amandine     Braine      9/10/1919  Hérit. Jeanne et autres         500    85      585                 22 "      6 octobre    non fournie
+                                               l'Alleud
+
+                     Décédé le 2 novembre 1919 domicile
+
+6 416 27 février     Heuvels      Emmanuel     Waterloo    12 mai 1919 Stéphon Louis                  5961   155     6116                23/8/1919 12 mars      15 mars    51
+                                                                                                                                                   1920         1920
+
+6 417    "           Basigant     Marie         "          12 "       Sergysels Eugénie               5562   -       5562                22 "      15 "         5 mars     62
+                                                                                                                                                                 1920
+
+6 418    "           Campinaire   Elie         Braine      25 mars    Enfts majeurs                  22255  23750    -        367                    "             "
+                                               l'Alleud    1919                                                               1919
+
+                     Décédé le neuf novembre 1919 domicile
+```
+
+This transcription follows the structure of the original document, which appears to be a Belgian succession declaration register. It includes details such as the declaration number, date of deposit, names of deceased persons, date of death, heirs or declarants, succession rights, and various administrative information.

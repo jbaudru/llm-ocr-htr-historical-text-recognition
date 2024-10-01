@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/867d2a8be1804aa68732ac2f41d694a4/artifacts
+end_time: 1727790143324
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 867d2a8be1804aa68732ac2f41d694a4
+run_name: likeable-smelt-242
+run_uuid: 867d2a8be1804aa68732ac2f41d694a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727790109524
+status: 3
+tags: []
+user_id: Administrateur

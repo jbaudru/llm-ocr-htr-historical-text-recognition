@@ -1,0 +1,36 @@
+Here's a transcription of the text from the image, formatted as a declaration of succession document:
+
+```plaintext
+N°  DATE DU DÉPÔT     DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES     DATE DU DÉCÈS     NOMS, PRÉNOMS     DROITS DE SUCCESSION     DROIT     NUMÉROS     DATE     RECETTE
+    de la             NOM,     PRÉNOMS     DOMICILE     ou de            DEMEURES DES PARTIES DÉCLARANTES     MUTATION EN LIGNE DIRECTE     de la taxe     des     de     DROITS ET AMENDES
+    DÉCLARATION                                         l'absence                                             ACTIF     PASSIF     NET       spéciale     articles  l'enregistrement
+
+    Arrêté du vingt-huit octobre 1919 (Tournai)
+    Arrêté du vingt-neuf octobre 1919 (Tournai)
+
+398 Trente   Everaert   Alphonse   Orphain  18/8/1917   Everaert Denis et autres   2280   1115   1165                    11 29/11 15 1/1919   (illisible) 365
+    octobre
+
+398 "        Lefèvre    Jules      Pecq et  17 janvier   Souris Charles            2225         2225                     216                  1919
+                                   Obigies  1919                                                                         1919
+
+    Arrêté du trente octobre 1919 (Tournai)
+    Arrêté du trente-un octobre 1919 (Tournai)
+    Arrêté du premier novembre 1919 (Renaix et Tournai)
+    Arrêté du deux novembre 1919 (Dimanche - Tournai)
+
+399 trois 9bre Desmedt   Jeanne    Renaix   13 mai       Vanhuffel Elise et autres  9670   530   9140                    15 20/11 19 mars     10 feuilles 35
+                                            1919                                                                              1919           1920
+
+400 "        Monseux    Renault    Châtelet 1 8/1918     Monseux Gustave           69520  24415  45105                   25 "   1 avril      
+                                                                                                                              1919
+
+401 "        Bouty      Flore      Frasnes  25 janvier   Bouty Désiré et Elise     22195         22195                   15 "   22 8/1919    non passible
+                                   lez      1919
+                                   Buissenal
+
+    Arrêté du trois novembre 1919 (Tournai)
+
+402 quatre 9bre Godart   Rosalie   Aiseau   22 mai       Piérard Gustave           17557         17557                   216 "   22 mars     15 centimes 176
+                                            1919                                                                         1920    1920
+```

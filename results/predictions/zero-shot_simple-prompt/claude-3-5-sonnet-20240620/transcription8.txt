@@ -1,0 +1,39 @@
+Here's a transcription of the text from the image in a structured format:
+
+```plaintext
+N° DATE DU DÉCÈS DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES    NOMS, PRÉNOMS    DROITS DE SUCCESSION    DATE    RECETTE    OBSERVATIONS
+   de la                                                                           (en toute propriété)
+   DÉCLARATION    NOMS    PRÉNOMS    DOMICILE                                      MUTATION    PASSIF    RESTANT    VALEUR
+                                                                                   ACTIF                NET        IMPOSABLE
+
+438 vingt-cinq    Gossiaux    Désiré, Jos.    Florennes 20/9/1849    Cultivateur époux à assister    6095    -    5095    6 janvier    3 mars 1920 695
+   février 1920                                                                                                       1920
+
+   Décédé le vingt quatre novembre 1919 Gougnies
+
+   Décédé le vingt cinq novembre 1919 Gougnies
+
+   Décédé le vingt six novembre 1919 Gougnies
+
+   Décédé le vingt sept novembre 1919 Gougnies
+
+   Décédé le vingt huit novembre 1919 Gougnies
+
+   Décédé le vingt neuf novembre 1919 Gougnies
+
+   Décédé le trente novembre 1919 Dimanche Gougnies
+
+439 1 février     Painblanc    Joseph    Romerée 1 février    Painblanc Joseph à    1296    -    1296    26
+   1920                        François    1849              assister                                   1920
+                                Charles
+
+439 2             Painblanc    Emérence    63 ans            3        2292    2292    201
+                                                                                     1920
+
+   Décédé le premier décembre 1919 Gougnies
+
+439 deux fév.     Charlier    Jean Bte    Obaix    29/9/1845    Charron et cabaretier    3000    -    3000    81
+                                                                époux à assister                         1920
+
+   Décédé le deux décembre 1919 Gougnies
+```

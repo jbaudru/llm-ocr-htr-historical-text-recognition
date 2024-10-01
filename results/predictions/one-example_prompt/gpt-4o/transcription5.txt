@@ -1,0 +1,12 @@
+```plaintext
+Nom. Prénoms Domiciles Actif. (2) Passif. (2) Restant NET. (2) Valeur des immeubles. (2) Primitives. Supplémentaires. de l'expiration du délai de rectification. de l'exigibilité des droits. Date N^03 Numéros de la consignation au sommier n'30 (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.) 
+1924 150 d Sambert Clémentine Nivelles 6 mai 1924 Grégoire Clémentine 2686 420 2266 16 mai 1924 
+151 d Leveau Joséphine Clabecq 7 juillet 1924 Leveau Ernest & autres 6160 6160 7 juillet 1924 non passible 
+152 d Vanpee Marie 29 août 1924 494 494 non passible 
+153 d Delabij Joseph Joseph Charleroi 4 mai 1924 Joseph Marie & autres 5220 5220 4 mai 1924 non passible 
+153^2 d Chevalier Rochonne Nivelles 6 mai 1924 Chevalier Jules & autres 268 268 6 mai 1924 
+154 d Froment Georges Nivelles 21 août 1924 Van Damme Julienne 17020 2850 14170 365 21 août 1924 
+155 d Devroye Jean 21 août 1924 Devroye Honorine & autres 2163 2163 non passible 
+156 d Seolas Joseph Joseph Bruxelles 4 mai 1924 Seolas Jules & autres 2688 2688 4 mai 1924 
+157 d Defalque Clabecq 29 août 1924 Defalque Charles 17999 17999 29 août 1924 
+```

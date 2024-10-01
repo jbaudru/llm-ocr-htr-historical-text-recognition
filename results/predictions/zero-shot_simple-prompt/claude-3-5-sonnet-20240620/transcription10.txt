@@ -1,0 +1,52 @@
+Here's a transcription of the visible text from the image, formatted as a declaration of succession:
+
+```plaintext
+N°   DATE DU DÉCÈS   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES   NOMS, PRÉNOMS
+                     NOM,         PRÉNOMS,     DOMICILE
+
+     Décédé le vingt-neuf décembre 1919 à Bruxelles
+
+     Décédé le dix décembre 1919 à Bruxelles
+
+6 446 29 déc    Dewez        Jérôme    Woluwe    9 Août   Jeanne Lannaux
+                                       St Pierre 1843
+
+     Décédé le vingt décembre 1919 à Bruxelles
+
+6 447 10 déc    Delise       Vital     Gemert    1er Mai  Euphémie Cuvelier
+                                       1843
+
+     Décédé le onze décembre 1919 à Bruxelles
+
+     Décédé le treize décembre 1919 à Bruxelles
+
+     Décédé le quatorze décembre 1919 à Woluwe St Pierre
+
+     Décédé le quinze décembre 1919 à Bruxelles
+
+     Décédé le seize décembre 1919 à Bruxelles
+
+6 448 16 sept   Boidenghien  Louis     Gemert    18 mars  Adeline Boulvin et autres
+                                       1849
+
+     Décédé le dix-sept décembre 1919 à Bruxelles
+
+     Décédé le dix-huit décembre 1919 à Bruxelles
+
+DROITS DE SUCCESSION
+                             MUTATION PAR DÉCÈS   DROIT    MONTANT
+ACTIF    PASSIF    NET       VALEUR    Fr.
+
+941             941                    102
+                                       50
+
+5575            5575                   602
+                                       50
+
+22396           22396                  2420
+                                       50
+
+OBSERVATIONS:
+```
+
+This document appears to be a Belgian declaration of succession (déclaration de succession) listing deceased individuals, their personal information, and the associated inheritance taxes. The right side of the document contains columns for financial details related to the succession, including assets, liabilities, net value, and tax amounts.

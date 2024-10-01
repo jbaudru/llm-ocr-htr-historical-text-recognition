@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/75381695b89f48729b7ca0e90402d746/artifacts
+end_time: 1727787438196
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 75381695b89f48729b7ca0e90402d746
+run_name: rare-gnat-244
+run_uuid: 75381695b89f48729b7ca0e90402d746
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727787429301
+status: 3
+tags: []
+user_id: Administrateur

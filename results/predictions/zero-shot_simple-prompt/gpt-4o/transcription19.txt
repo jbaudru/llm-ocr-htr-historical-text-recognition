@@ -1,0 +1,169 @@
+Here is the recognized text from the image:
+
+```
+DATE DU DÉCÈS
+ou
+DÉCLARATION
+D'ABSENCE
+
+DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES.
+
+NOMS, PRÉNOMS
+
+NOM
+
+PRÉNOM
+
+DOMICILE
+
+NOMS, PRÉNOMS
+
+DROITS DE SUCCESSION
+ou
+DÉCLARATION
+D'ABSENCE
+
+DROIT
+DE
+MUTATION
+EN LIGNE DIRECTE
+
+VALEUR
+
+NUMÉROS
+
+DATE
+
+RÉCETTE
+
+OBSERVATIONS
+
+ACTIF
+
+PASSIF
+
+EXCÉDANT
+NET
+
+DÉCLARATION
+D'IMPÔT
+
+DÉCISION
+DE
+RÉDUCTION
+
+DÉCISION
+DE
+DÉGRÈVEMENT
+
+RÉCETTE
+DES
+FINANCES
+
+RÉCETTE
+DES
+IMPÔTS
+
+DATE
+
+Les déclarations de mutation par décès et les déclarations de mutation en ligne directe, sont enregistrées, s'il y a lieu, dans les bureaux de l'enregistrement.
+
+6
+18e
+2e sept. 1926
+
+Laboureau
+
+Louis
+
+Tulle
+
+6 mois
+
+Laboureau Louis a autres
+
+Déclaration de mutation
+
+491
+497
+
+6
+19e
+2e sept. 1926
+
+Deches
+
+Jules
+
+Tulle
+
+10 sept. 1926
+
+Sergei Gustave autres
+
+502
+503
+
+504
+506
+509
+
+6
+19e
+2e sept. 1926
+
+Félixau
+
+Louis
+
+Tulle
+
+4 mois
+
+Schmitt Louis autres
+
+510
+512
+
+514
+519
+
+6
+19e
+2e sept. 1926
+
+Dubois
+
+Alexandre
+
+Tulle
+
+10 sept. 1926
+
+Dubois Jean fils autres
+
+520
+530
+
+540
+560
+599
+
+6
+19e
+2e sept. 1926
+
+Remience
+
+Jean
+
+Tulle
+
+10 sept. 1926
+
+Remience Jeanne
+
+600
+606
+609
+```

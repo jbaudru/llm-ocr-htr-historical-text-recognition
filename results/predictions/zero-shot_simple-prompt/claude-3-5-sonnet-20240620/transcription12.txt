@@ -1,0 +1,43 @@
+Here's a transcription of the text from the image in a structured format:
+
+```plaintext
+N°   DATE DU DÉCÈS   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES   DATE DE NAISSANCE   NOMS, PRÉNOMS   DROITS DE SUCCESSION   DROIT   NUMÉROS   DATE   RECETTE   OBSERVATIONS
+     ou de la         NOM         PRÉNOM         DOMICILE             ou âge au décès    DOMICILE DES PARTIES DÉCLARANTES   MUTATION ET DROIT D'ÉCRITURE   DE        DES        de la     DATE
+     déclaration                                                                                                            ACTIF   PASSIF   NET    VALEUR   TIMBRE   ARTICLES   déclaration   N°
+
+                      Arrêté du vingt-quatre décembre 1919 (Annexe)
+                      Arrêté du vingt-cinq décembre 1919 (Noël) (annexe)
+
+6    443 vingt-deux   Thibaut     Marie Louise   épouse   5/8/1843    Legat Henri & autres                                           888     888
+     décembre                                                                                                                        ---     ---
+
+                      Arrêté du vingt-six décembre 1919 (annexe)
+
+6    444 vingt-sept   Wautbier    Elise          épouse   14/3/1841   Bouveau Abel        11899           11899                            17 janvier  28 janvier   28 janvier  91
+                                                                                                                                            1920       1920         1920
+
+6    445    "         Jacquet     Germaine       Amédine  29 ans      Jacquet Louis       58831   2395    56436                            7 Jan      29 Jan       18 avril     95
+                                                                                                                                                                    1920
+
+                      Arrêté du vingt-sept décembre 1919 (annexe)
+                      Arrêté du vingt-huit décembre 1919 (Dimanche) (annexe)
+
+6    446 vingt-neuf   Vanglaire   Guillaume      Firmin   14/8/1843   Vanglaire Henri et autres   100     100                              9 Jan      15 juillet   non produite
+     décembre                                                                                                                                         1920
+
+                      Arrêté du vingt-neuf décembre 1919 (annexe)
+                      Arrêté du trente décembre 1919 (annexe)
+
+6    446 trente-un    Plasman     Rosalie        Amélie   10 mars     Henry Henri & autres        745     745     30                                               Recettes mensuelles
+     décembre                                    Célina   1839                                                    ---                                              1916 - 99
+                                                                                                                  1919                                             1917 - 228
+                      Arrêté du trente-un décembre 1919 (annexe)                                                                                                   1918 - 188  191 220  223  226  228
+                                                                                                                                                                   229  231  232  233  236  239
+                                                                                                                                                                   Trimestre d'apurement de
+                                                                                                                                                                   1919 240  241
+                                                                                                                                                                   1918 242  243  246  246
+                                                                                                                                                                   1917 247  248  249  250  251  252
+                                                                                                                                                                   1916  253
+                                                                                                                                                                   Le Receveur soussigné
+                                                                                                                                                                   [Signature]
+```
