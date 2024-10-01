@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/c91583649f604b12839209c53dd0dd82/artifacts
+end_time: 1727792697305
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: c91583649f604b12839209c53dd0dd82
+run_name: orderly-shoat-852
+run_uuid: c91583649f604b12839209c53dd0dd82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727792692334
+status: 3
+tags: []
+user_id: julien

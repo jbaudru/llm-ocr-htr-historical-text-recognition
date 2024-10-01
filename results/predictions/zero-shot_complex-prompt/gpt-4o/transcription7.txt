@@ -20,18 +20,20 @@ Certainly! Here is the recreated table with the information from the provided im
 ("Recette des droits et amendes.", "Date"),
 ("Recette des droits et amendes.", "N^03"),
 ("Cautionnements. ", "Numéros de la consignation au sommier n'30"),
-("Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)", " ")] 
+("Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)", " ")]
 
 [
-["629", "6 novembre 1919", "Beth", "Henri", "Ottignies", "7 juillet 1919", "Henri Seuil", "7660", "0", "7660", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"],
-["630", "6 novembre 1919", "Huart", "Jean", "Fexhe", "19 juin 1919", "Huart Joseph et autres", "6201", "0", "6201", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"],
-["631", "6 novembre 1919", "Romain", "Félicie", "Jodoigne", "10 août 1919", "Romain Louis et autres", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"],
-["632", "6 novembre 1919", "Poliart", "Léon", "Louvain", "27 août 1919", "Henri-Blaise et autres", "9111", "0", "9111", "0", "0", "0", "0", "0", "0", "0", "0", "0"],
-["633", "6 novembre 1919", "Poliart", "Léon", "Louvain", "27 août 1919", "Henri-Blaise et autres", "9111", "0", "9111", "0", "0", "0", "0", "0", "0", "0", "0", "0"],
-["634", "6 novembre 1919", "Houtmeyers", "Henri", "Malines", "12 octobre 1919", "Houtmeyers Auguste", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"],
-["635", "6 novembre 1919", "Thibaut", "Emile", "Gosselies", "6 août 1919", "Thibaut Louis et autres", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"],
-["636", "6 novembre 1919", "Gausin", "Ernest", "Namur", "6 août 1919", "Gausin Louis", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"],
-["637", "6 novembre 1919", "Delannoy", "Edmond", "Bruxelles", "6 août 1919", "Delannoy Adrien", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"],
-["638", "6 novembre 1919", "Delatte", "Jules", "10 octobre 1919", "Delatte Adolphe", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"]
+    ["629", "26 novembre 1919", "Beth", "Henri", "Ottignies", "7 août 1919", "Henri Seuil", "7660", "0", "7660", "0", "0", "0", "5 août 1919", "5 août 1919", "0", "0", "0", "0", "0"],
+    ["630", "26 novembre 1919", "Huart", "Jean", "Foy", "19 août 1919", "Huart Joseph et autres", "6201", "0", "6201", "0", "0", "0", "5 août 1919", "5 août 1919", "0", "0", "0", "0", "0"],
+    ["631", "26 novembre 1919", "Romain", "Félicie", "Scry", "10 août 1919", "Romain Louis et autres", "0", "0", "0", "0", "0", "0", "5 août 1919", "5 août 1919", "0", "0", "0", "0", "0"],
+    ["632", "26 novembre 1919", "Poliart", "Léon", "Scry", "17 août 1919", "Henri Seuil", "9111", "0", "9111", "0", "0", "0", "5 août 1919", "5 août 1919", "0", "0", "0", "0", "0"],
+    ["633", "26 novembre 1919", "Poliart", "Léon", "Scry", "17 août 1919", "Henri Seuil", "9111", "0", "9111", "0", "0", "0", "5 août 1919", "5 août 1919", "0", "0", "0", "0", "0"],
+    ["634", "26 novembre 1919", "Houtmeyers", "Henri", "Scry", "12 octobre 1919", "Houtmeyers Joseph", "0", "0", "0", "0", "0", "0", "5 août 1919", "5 août 1919", "0", "0", "0", "0", "0"],
+    ["635", "26 novembre 1919", "Thibaut", "Henri", "Scry", "6 août 1919", "Thibaut Louis et autres", "0", "0", "0", "0", "0", "0", "5 août 1919", "5 août 1919", "0", "0", "0", "0", "0"],
+    ["636", "26 novembre 1919", "Gausin", "Henri", "Scry", "6 août 1919", "Gausin Louis", "0", "0", "0", "0", "0", "0", "5 août 1919", "5 août 1919", "0", "0", "0", "0", "0"],
+    ["637", "26 novembre 1919", "Delannoy", "Henri", "Scry", "6 août 1919", "Delannoy Louis", "0", "0", "0", "0", "0", "0", "5 août 1919", "5 août 1919", "0", "0", "0", "0", "0"],
+    ["638", "26 novembre 1919", "Delatte", "Henri", "Scry", "6 août 1919", "Delatte Louis", "0", "0", "0", "0", "0", "0", "5 août 1919", "5 août 1919", "0", "0", "0", "0", "0"]
 ]
 ```
+
+Note: The table has been filled with the information from the image. Some columns have been left as "0" or empty where the information was not clearly visible or not provided in the image.

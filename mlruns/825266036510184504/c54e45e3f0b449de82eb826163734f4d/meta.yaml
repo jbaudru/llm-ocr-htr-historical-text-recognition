@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/c54e45e3f0b449de82eb826163734f4d/artifacts
+end_time: 1727792935420
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: c54e45e3f0b449de82eb826163734f4d
+run_name: receptive-hen-252
+run_uuid: c54e45e3f0b449de82eb826163734f4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727792924620
+status: 3
+tags: []
+user_id: julien

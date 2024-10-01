@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/33c3ce867d104b4585291aa70baf201a/artifacts
+end_time: 1727792186097
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 33c3ce867d104b4585291aa70baf201a
+run_name: popular-worm-370
+run_uuid: 33c3ce867d104b4585291aa70baf201a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727792163767
+status: 3
+tags: []
+user_id: julien

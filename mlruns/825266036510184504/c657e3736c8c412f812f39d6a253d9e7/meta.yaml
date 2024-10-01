@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/c657e3736c8c412f812f39d6a253d9e7/artifacts
+end_time: 1727792163746
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: c657e3736c8c412f812f39d6a253d9e7
+run_name: spiffy-fish-774
+run_uuid: c657e3736c8c412f812f39d6a253d9e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727792099753
+status: 3
+tags: []
+user_id: julien

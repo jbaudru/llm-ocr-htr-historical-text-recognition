@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/ae11f7468c2b429784d003d44291bcf9/artifacts
+end_time: 1727792983775
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: ae11f7468c2b429784d003d44291bcf9
+run_name: skittish-moose-716
+run_uuid: ae11f7468c2b429784d003d44291bcf9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727792967788
+status: 3
+tags: []
+user_id: julien

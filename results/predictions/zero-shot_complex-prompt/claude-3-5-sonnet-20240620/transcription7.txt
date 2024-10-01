@@ -11,12 +11,12 @@ Arrêté le vingt-cinq novembre 1919 servais
 6432 | " | Poliart | Déon | " | 15/8/1919 | Flament Clémence et autres | 974 | 141 | 833 | - | 105/3 3^e | " | 15 avril 1920 | 30 avril 1920 63 | - | - | -
 6433 | " | Poliart | Arthur | " | 19 " | " | 981 | 141 | 840 | - | 105/3 3^e | " | 19 " | " | " | - | -
 6434 | " | Houtmeyers | Henri Nicolas | 28 mai 1919 | Antignac Désiré | 2836 | 958 | 1878 | - | 3 | " | 28 mai 1920 | 1 juin 1920 95 | - | - | -
-6435 | " | Chilant | Marie Louis Germaine | 5 9bre 1919 | Legast Henri et autres | - | 11293 | 11293 | - | 155/3 3^e | 5 9bre 1920 | non passible | - | - | -
-6436 | " | Gaussin | Eva | Manage St Antoine | 22 8bre 1919 | Gaussin Camille | 1020 | 522 | 498 | - | 3 | " | 22 avril 1920 | non passible | - | - | -
-6437 | " | Delannoy | Clémentine | " | 28 mars 1919 | Delannoy Adolphe | 6159 | 1024 | 5135 | - | 2 | " | 28 janvier 1920 | 14-11-21 143 | - | - | -
+6435 | " | Chilant | Marie Louis Germaine | 5 9bre 1919 | Legros Marie et autres | 11843 | - | 11843 | - | 105/3 3^e | " | 5 février 1920 | non passible | - | - | -
+6436 | " | Gaussin | Eva | Manage Ch. | 22 8bre 1919 | Gaussin Camille | 1020 | 522 | 498 | - | 3 | " | 22 avril 1920 | non passible | - | - | -
+6437 | " | Delannoy | Clémentine | " | 28 mars 1918 | Delannoy Adolphe | 6159 | 1634 | 513 | - | 2 | " | 28 janvier 1919 | 14-11-21 143 | - | - | -
 6438 | " | Delutte | Jules | Schaerbeek | 29 8bre 1919 | Delutte enfants | 9548 | 1043 | 2505 | - | 3 | " | 29 avril 1920 | 15 mai 1920 103 | 31 mai 1920 363 | - | -
 
 Arrêté le vingt-cinq novembre 1919 servais
 
-Arrêté le vingt-sept novembre 1919 Grimmonprez servais
+Arrêté le vingt-sept novembre 1919 Grimanche servais
 ```

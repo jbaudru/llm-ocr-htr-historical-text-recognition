@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/22f9c64cd68a49639faef71de635f551/artifacts
+end_time: 1727794130009
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 22f9c64cd68a49639faef71de635f551
+run_name: hilarious-bug-734
+run_uuid: 22f9c64cd68a49639faef71de635f551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727794125648
+status: 3
+tags: []
+user_id: julien

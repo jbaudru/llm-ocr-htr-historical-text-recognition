@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/44afe74e0bfa4361a942c16302d20f59/artifacts
+end_time: 1727792215811
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 44afe74e0bfa4361a942c16302d20f59
+run_name: funny-crab-961
+run_uuid: 44afe74e0bfa4361a942c16302d20f59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727792210379
+status: 3
+tags: []
+user_id: julien

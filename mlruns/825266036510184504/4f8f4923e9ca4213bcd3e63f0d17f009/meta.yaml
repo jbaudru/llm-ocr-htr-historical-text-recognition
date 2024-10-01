@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/4f8f4923e9ca4213bcd3e63f0d17f009/artifacts
+end_time: 1727792442104
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 4f8f4923e9ca4213bcd3e63f0d17f009
+run_name: abundant-snail-882
+run_uuid: 4f8f4923e9ca4213bcd3e63f0d17f009
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727792419644
+status: 3
+tags: []
+user_id: julien

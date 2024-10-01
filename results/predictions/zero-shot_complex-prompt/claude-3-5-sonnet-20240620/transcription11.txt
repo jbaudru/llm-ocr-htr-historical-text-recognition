@@ -2,17 +2,17 @@ Here's the recreation of the table based on the information in the image:
 
 ```plaintext
 N' d'ordre | Date du dépot des déclarations | Nom. | Prénoms | Domiciles | Date du décès ou du judgement d'envoi en possession, en cas d'absence. | Noms, Prénoms et demeures des parties déclarantes. | Actif. (2) | Passif. (2) | Restant NET. (2) | Valeur des immeubles. (2) | Primitives. | Supplémentaires. | de l'expiration du délai de rectification. | de l'exigibilité des droits. | Numéros de la consignation des droits au sommier n' 28 | Date | N^03 | Numéros de la consignation au sommier n'30 | Observations
-441 | 22 sept 1919 | Devillers | Josephine | Renaix 9 février 1919 | Devillers Jules à Renaix | 494 | - | 494 | - | 6 | - | - | - | - | - | - | - | - | -
-442 | 30 | Clabecq | Fernand | Renaix | Frameries | Delaunois Fernand | - | - | - | 541 | - | - | - | - | - | - | - | - | -
+441 | 22 mai 1919 | Devillers | Josephine | Renaix 9 février 1919 | 9 février 1919 | Devillers Jules à Renaix | 494 | - | 494 | - | 6 | - | - | - | - | - | - | - | -
+442 | 30 | Clabecq | Fernand | Renaix | Inconnu | Delaunois Désiré | - | - | - | - | 4 | - | - | - | - | - | - | - | -
 - | - | Arrêté le vingt neuf décembre 1919 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
 - | - | Arrêté le vingt février 1919 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
 - | - | Arrêté le vingt-un décembre 1919 Dimanche servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
-442 vingt deux | Gilbert | Clementine | Estaing | 20 février 1919 | Drapier Veuve Drapier Veuve à Tournai 9e | 7415 | - | 7415 | - | - | - | 9 février 1920 | - | - | 9 juillet 37 | - | - | -
-442 bis | Paesmans | René | Renaix 21 mars 1919 | Paesmans Henri | 9551 | - | 9551 | - | 445 | - | - | - | - | 6 février 37 | - | - | -
-442 3 | Winne | Maria | Etikhove | 5 avril 1915 | Winne Jules | 1646 | - | 1646 | - | 660 | - | - | - | - | 9 janvier 37 | - | - | -
-442 4 | Malbieu | Ferdinande | Etikhove | 11 mars 1919 | Bourgeois Désiré | 115731 | - | 115731 | - | 675 | - | - | - | - | - | - | - | -
+442 | vingt juin | Gilbert | Clementine | Estaing | 20 février 1919 | Danguillecourt Louis à Evreux 2 avenue Jle | 7415 | - | 7415 | - | - | - | 5 février 1920 | - | - | 5 juillet 1920 | - | - | -
+442 | 30 | Paesmans | René | Renaix 21 mars 1919 | 21 mars 1919 | Paesmans Henri | 9551 | - | 9551 | - | 445 | - | - | - | - | 6 Août 1920 | 24 | - | -
+442 | 30 | Winne | Maria | Renaix | 8 avril 1919 | Winne Jules | 1646 | - | 1646 | - | 660 | - | - | - | - | 5 janvier 1921 | 8 | - | -
+442 | 30 | Mathieu | Ferdinan | Renaix | 11 mars 1919 | Bourgeois Désiré | 115731 | - | 115731 | - | 675 | - | - | - | - | - | - | - | -
 - | - | Arrêté le vingt deux décembre 1919 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
 - | - | Arrêté le vingt trois décembre 1919 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
-442 5 vingt quatre | Cauwenberg | Victor Joseph | Renaix | 16 juillet 1919 | Goossens célibataire majeur | 2662 | - | 2662 | - | 1088 | - | - | - | - | - | - | - | -
-443 | Anthoine | Sylvain | Renaix | 20 mai 1919 | Anthoine Marcelle Clotilde à Renaix | 1526 | - | 1526 | - | - | - | 6 février 21 avril 1920 | - | - | non passible | - | - | -
+442 | vingt quatre juin | Cauwenberg | Victor Joseph | Renaix | 16 juillet 1919 | Goeman Célina à Renaix | 2662 | - | 2662 | - | 1088 | - | - | - | - | - | - | - | -
+443 | 30 | Anthoine | Sylvie | Renaix | 10 Mai 1919 | Anthoine Marcelle à Renaix | 1526 | - | 1526 | - | - | - | 6 février 1920 | - | - | 21 avril 1920 | - | - | non passible
 ```

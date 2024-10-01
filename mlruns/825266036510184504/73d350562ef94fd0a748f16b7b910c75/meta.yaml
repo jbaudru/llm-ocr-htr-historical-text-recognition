@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/73d350562ef94fd0a748f16b7b910c75/artifacts
+end_time: 1727792446787
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 73d350562ef94fd0a748f16b7b910c75
+run_name: mysterious-cow-122
+run_uuid: 73d350562ef94fd0a748f16b7b910c75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727792442123
+status: 3
+tags: []
+user_id: julien

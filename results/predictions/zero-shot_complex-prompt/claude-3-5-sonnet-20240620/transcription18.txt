@@ -9,11 +9,11 @@ N' d'ordre | Date du dépot des déclarations | Nom. | Prénoms | Domiciles | Da
 | | Arrêté le vingt-quatre février 1920 dimanche servais | | | | | | | | | | | | | | | | | | 
 | | Arrêté le vingt février 1920 servais | | | | | | | | | | | | | | | | | | 
 616 | dix février | Soupart | Cornelius | Nivelles | 11 mars 1919 | Soupart Honoré à Nivelles | 39181 | | 39181 | | 563 | | 25 mars 1920 | 11 juin 1920 | 1174/1920 | 11 juin 1920 | 173 | | 
-616bis | " | Fèvre | Alfred gls | Celles | 2 Mai 1915 | Veuve Célinie et enfants | 1200 | | 1200 | | 9/0 | | " | " | 29 mars 1920 | " | 69 | | 
-616ter | " | Siraux | Augustin | Rebecq | 11 mars 1915 | Enfants majeurs | 1025 | | 1025 | | 119/1919 | | " | " | " | " | " | | 
+616bis | " | Fèvre | Alfred gls | Celles | 2 Mai 1915 | Fèvre Céline et autres | 1200 | | 1200 | | 9/0 | | " | " | 29 mars 1920 | " | 69 | | 
+616ter | " | Siraux | Augustin | Rebecq | 11 mars 1915 | Empéreurs Emile | 1025 | | 1025 | | 119/1919 | | " | " | " | " | " | | 
 | | Arrêté le dix février 1920 servais | | | | | | | | | | | | | | | | | | 
 | | Arrêté le onze février 1920 servais | | | | | | | | | | | | | | | | | | 
-617 | onze do | Vaneulsem | Adeline | Braine l'Alleud | 13 août 1919 | Héritiers Edouard et enfts | 13524 | | 13524 | | 61 | | 26 mars 1920 | 13 juin 1920 | 20 juillet 1920 | | | | 
+617 | onze do | Vaneulsem | Adeline | Braine l'Alleud | 13 août 1919 | Vaneulsem Edouard et autres | 13524 | | 13524 | | 61 | | 26 mars 1920 | 13 juin 1920 | 20 juillet 1920 | | | | 
 | | Arrêté le onze février 1920 servais | | | | | | | | | | | | | | | | | | 
-618 | onze février | Honnijadi | Jules | Nivelles | 22 février 1919 | Veuve et Héritier Fernand | 95,101 | | 95 | | 25 | | 26 février 1920 | | | | | | 
+618 | douze février | Honnijadi | Jules | Nivelles | 22 février 1919 | Veuve et Hérit. Honnijadi | 95101 | | 95 | | 25 | | 27 février 1920 | | | | | | 
 ```

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/c0b5bf4fc34e4e2cb706b4a4b6b53053/artifacts
+end_time: 1727792692314
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: c0b5bf4fc34e4e2cb706b4a4b6b53053
+run_name: casual-wasp-887
+run_uuid: c0b5bf4fc34e4e2cb706b4a4b6b53053
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727792669880
+status: 3
+tags: []
+user_id: julien
