@@ -1,0 +1,16 @@
+```plaintext
+N° d'ordre Date du dépôt des déclarations Nom. Prénoms Domiciles Date du décès ou du jugement d'envoi en possession, en cas d'absence. Noms, Prénoms et demeures des parties déclarantes. Actif. (2) Passif. (2) Restant NET. (2) Valeur des immeubles. (2) Primitives. Supplémentaires. de l'expiration du délai de rectification. de l'exigibilité des droits. Numéros de la consignation des droits au sommier n° 28 Date N°s Numéros de la consignation au sommier n°30 Observations
+438 vingt cinq juin Gossiaux Antoine Jos. Florennes 20/9/1849 Florennes 20 juin 1919 époux Daussaint Marie à Florennes 1051 - 1051 - 6 janvier 20 juillet 1920 5 mars 1920 678 
+Arrêté le vingt quatre novembre 1919 Servais
+Arrêté le vingt cinq novembre 1919 Servais
+Arrêté le vingt six novembre 1919 Servais
+Arrêté le vingt sept novembre 1919 Servais
+Arrêté le vingt huit novembre 1919 Servais
+Arrêté le vingt neuf novembre 1919 Servais
+Arrêté le trente novembre 1919 Dimanche Servais
+439 trente janvier 1920 Painblanc Joseph Fraire 2 février 1849 Fraire 28 décembre 1919 Painblanc Joseph à Fraire 4296 - 3896 400 
+439 " Painblanc Emmanuel " 23 " 1851 " " 2292 - 2292 - 
+Arrêté le premier décembre 1919 Servais
+439 deux février Charlier Jean Bte Châtelet 29 juillet 1849 Châtelet 30 janvier 1920 Châtelet 7 rue du Calvaire 3000 - 3000 91 
+Arrêté le deux décembre 1919 Servais
+```

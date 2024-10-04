@@ -1,0 +1,17 @@
+```plaintext
+N° d'ordre Date du dépôt des déclarations Nom. Prénoms Domiciles Date du décès ou du jugement d'envoi en possession, en cas d'absence. Noms, Prénoms et demeures des parties déclarantes. Actif. (2) Passif. (2) Restant NET. (2) Valeur des immeubles. (2) Primitives. Supplémentaires. de l'expiration du délai de rectification. de l'exigibilité des droits. Numéros de la consignation des droits au sommier n° 28 Date N°s Numéros de la consignation au sommier n°30 Observations
+
+Arrêté le vingt-huit octobre 1919 servais
+Arrêté le vingt-neuf octobre 1919 servais
+398 Everaert Alphonse Ophain 18/8/1919 Everaert Denis et autres 2280 1115 1165 11 28/4/15 15 10/1919 Exonéré 265
+398 Lefèvre Jules Braine l'Alleud 17 janvier 1919 Société Charité 2225 2225 216 1919
+Arrêté le trente octobre 1919 servais
+Arrêté le trente un octobre 1919 servais
+Arrêté le premier novembre 1919 lendemain servais
+Arrêté le deux novembre 1919 Dimanche servais
+399 Desmedt Jeanne Nivelles 13 mai 1919 Desmedt Félix et autres 9670 530 9140 15 28/10/19 13 mai 1920 10 février 20
+400 Monseux Renault Henri Chastre 1 8/1918 Monseux Gustave 69520 24415 45105 25 30 1 août 1919
+401 Bouty Henri Braine l'Alleud 25 juin 1919 Bouty Désiré et Elise 22198 22198 15 30 22 8/1919 Non passible
+Arrêté le trois novembre 1919 servais
+402 Godart Rosalie Nivelles 22 mai 1919 Thème Gustave 11859 11859 216 15 30 22 mai 1920 18 novembre 20
+```

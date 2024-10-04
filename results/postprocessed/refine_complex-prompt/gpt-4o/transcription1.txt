@@ -1,0 +1,11 @@
+```plaintext
+403 4 août 1919 Gayol Antoine Paris (France) 4 août 1919 Gayol Jules, notaire 16975 5283 11692 14000 15 août 1919 15 août 1919 10 sept 1919
+404 5 août 1919 Paulus Jules Verviers 5 août 1919 Paulus Henri 4975 0 4975 15 août 1919 non familiales 10 sept 1919
+405 5 août 1919 Vandermeers Henri Liège 5 août 1919 Vandermeers Edmond 3750 0 3750 1500 15 août 1919 non familiales 10 sept 1919
+406 5 août 1919 Semoine Jules Liège 5 août 1919 Semoine Jules, notaire 1175 1175 0 15 août 1919 non familiales 10 sept 1919
+406 5 août 1919 Hommaye Jules Louvain 5 août 1919 Hommaye Henri 0 0 0 15 août 1919 non familiales 10 sept 1919
+407 6 août 1919 de Godeau Saintlane Clermont 6 août 1919 de Godeau Honore, notaire 600 0 600 15 août 1919 non familiales 10 sept 1919
+408 7 août 1919 Fontaine Henri Liège 7 août 1919 Fontaine Edmond 3750 0 3750 2000 19 août 1919 non familiales 10 sept 1919
+409 8 août 1919 Allard Henri Liège 8 août 1919 Allard Henri 9750 0 9750 1500 10 juin 1920 non familiales 10 sept 1919
+410 8 août 1919 Delutte Jules Liège 8 août 1919 Delutte Henri 11675 11675 0 20 août 1919 non familiales 10 sept 1919
+```
