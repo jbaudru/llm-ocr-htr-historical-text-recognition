@@ -1,0 +1,23 @@
+N' d'ordre | Date du dépot des déclarations | Nom. | Prénoms | Domiciles | Date du décès ou du judgement d'envoi en possession, en cas d'absence. | Noms, Prénoms et demeures des parties déclarantes. | Actif. (2) | Passif. (2) | Restant NET. (2) | Valeur des immeubles. (2) | Primitives. | Supplémentaires. | de l'expiration du délai de rectification. | de l'exigibilité des droits. | Numéros de la consignation des droits au sommier n' 28 | Date | N^03 | Numéros de la consignation au sommier n'30 | Observations
+
+419 | 24 décembre | Siemans | Charles | Gilly | 29 avril 1919 | Siemans Célestine | 5885 | 249 | 5595 | - | 39 | - | - | 24/6/20 | 322 | 24 juin 1920 | 29 | - | -
+
+420 | " | Bruyr | Laurent | Ransart | 8 janvier 1919 | Bruyr Marie & autres | 500 | - | 500 | - | 40 | - | - | " | 343 | 9 juillet 1920 | 391 | - | -
+
+421 | " | Pieterbons | Pierre J^n Marie | Wanfercée Baulet | 5 janvier 1919 | Veuve Pieterbons & autres | néant négatif | - | - | - | 41 | - | - | - | - | - | - | - | -
+
+422 | " | Pieterbons | Jean Jos | " | 15 mai 1919 | " | 340 | 225 | 121 | - | - | - | 30/6/20 | 30 mars 1920 | - | - | - | - | sans famille
+
+423 | " | Desaeger | Henri Emile Albert | 30 mai 1919 | Brasseries Natal | 2895 | - | 2895 | - | - | - | 30 " | 30 " | - | 19 mars 1920 | 60 | - | -
+
+- | Arrêté le 31 décembre 1919 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+
+424 | vingt-quatre | Hantier | Firmin | Wanfercée | 29 juillet 1919 | Veuve Hantier & autres | 80191 | - | 80191 | - | 42 | - | 24 janvier 1921 | 24 mars 1920 | - | 10 octobre 1920 | 33 | - | -
+
+425 | " | Delaitre | Céline Catherine Marie Jos | Lambusart | 15 mai 1919 | Delaitre Jean B^te & autres | 5900 | - | 5900 | - | - | - | " | 25 mars 1920 | - | - | - | - | sans famille
+
+- | Arrêté le vingt novembre 1919 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+
+425 | vingt-quatre | Pieret | Julien | Wanfercée | 9 janvier 1919 | Veuve Pieret & autres | néant négatif | - | - | - | 203 | - | - | - | - | - | - | - | -
+
+426 | " | Fontignies | Ste | Velaine | 30 juin 

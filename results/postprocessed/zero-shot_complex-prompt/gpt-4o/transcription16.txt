@@ -1,0 +1,35 @@
+```plaintext
+("N' d'ordre", " ")
+("Date du dépot des déclarations", " ")
+("Désignation des personnes décédées ou absentes.:", "Nom.")
+("Désignation des personnes décédées ou absentes.:", "Prénoms")
+("Désignation des personnes décédées ou absentes.:", "Domiciles") 
+("Date du décès ou du judgement d'envoi en possession, en cas d'absence.", " ")
+("Noms, Prénoms et demeures des parties déclarantes.", " ")
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Actif. (2)")
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Passif. (2)")
+("Droits de succession en ligne collatérale et de mutation en ligne directe.", "Restant NET. (2)")
+("Droit de mutation par déces", "Valeur des immeubles. (2)") 
+("Numéros des déclarations", "Primitives.")
+("Numéros des déclarations", "Supplémentaires.") 
+("Date", "de l'expiration du délai de rectification.")
+("Date", "de l'exigibilité des droits.")
+("Numéros de la consignation des droits au sommier n' 28", " ")
+("Recette des droits et amendes.", "Date")
+("Recette des droits et amendes.", "N^03")
+("Cautionnements. ", "Numéros de la consignation au sommier n'30")
+("Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)", " ")
+
+6 Arrêté du vingt cinq janvier 1920 servais                                                                                                      
+10  Desflandres Gertrude Elise Ledege 28 Août 1919 Vandermersch Mathilde 600 500 100 177 191                                                    
+10 bis  Yperseiel Julien Gustave Zeleder 15 Septembre 1919 Clement Cecile 200 200 0 177 191                                                    
+10 ter Arrêté du vingt huit janvier 1920 servais                                                                                                      
+10 quater  Bordens Louis Pousser le 3 Février 1919 Coulon Adrien 300 200 100 177 191                                                    
+10 quinquies Arrêté du vingt huit janvier 1920 servais                                                                                                      
+10 sexies  Decock Léonie Ledege 15 Août 1919 Vandermersch Mathilde 500 400 100 177 191                                                    
+10 septies  Decock                                                                                                      
+11  Dolendries Anastasie Nicolas 20 Août 1919 Van der Stielt Etienne 690 369 321 177 191 11 mars 1920 1 avril 1920 Consigné 458                                                    
+11 bis Arrêté du vingt huit janvier 1920 servais                                                                                                      
+11 ter  Rousseau Charles Nicolas 15 Janvier 1919 Rousseau Louise 500 300 200 177 191                                                    
+11 quater  Dedoncka Eulalie Ledege 20 Août 1919 Vandermersch Mathilde 600 400 200 177 191                                                    
+```
