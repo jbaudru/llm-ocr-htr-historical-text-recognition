@@ -1,0 +1,161 @@
+DATE DE DECES ou DECLARATION D'ABSENCE
+
+DESIGNATION DES PERSONNES DECEDÉES OU ABSENTES
+
+NOMS, PRÉNOMS
+
+DATE DE RÉCÉP. de la déclaration d'absence
+
+NOMS, PRÉNOMS
+
+DOMICILES
+
+DROITS DE SUCCESSION MUTATIONS EN LIGNE DIRECTE
+
+ACTE
+
+PARIS
+
+ENREGIST. N°
+
+DROIT en principal
+
+DROIT supplémentaire
+
+VALEUR
+
+DATE
+
+NUMÉROS
+
+REÇU
+
+RECEVRE
+
+DATE
+
+OBSERVATIONS
+
+6
+
+4395 Quatreboeufs
+
+Knops
+
+Domicile: Bruxelles
+
+Nicolas
+
+décédé
+
+7 juillet 1919
+
+Société le trois décembre 1919
+
+Bruxelles
+
+6
+
+440 Cinq Sols
+
+Despalque
+
+Eugène
+
+Domicile: Paris
+
+décédé
+
+7 juillet 1919
+
+Société le cinq décembre 1919
+
+Paris
+
+6
+
+441 Six
+
+Jaegmin
+
+Berthe
+
+Domicile: Paris
+
+décédée
+
+7 juillet 1919
+
+Société le six décembre 1919
+
+Paris
+
+6
+
+442 Neuf
+
+Vournue
+
+Elie
+
+Domicile: Paris
+
+décédé
+
+7 juillet 1919
+
+Société le sept décembre 1919
+
+Bruxelles
+
+6
+
+443 Neuf
+
+de Laleine
+
+Emile
+
+Domicile: Paris
+
+décédé
+
+7 juillet 1919
+
+Société le huit décembre 1919
+
+Bruxelles
+
+6
+
+444 Neuf
+
+Heumels
+
+Alphonse
+
+Domicile: Paris
+
+décédé
+
+7 juillet 1919
+
+Société le dix décembre 1919
+
+Bruxelles
+
+6
+
+445 Neuf
+
+Goisse
+
+Domicile: Paris
+
+décédé
+
+7 juillet 1919
+
+Société le onze décembre 1919
+
+Bruxelles

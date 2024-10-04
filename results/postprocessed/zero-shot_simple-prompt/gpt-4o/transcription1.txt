@@ -1,0 +1,11 @@
+DATE DU DEPOT DESIGNATION DES PERSONNES DECEDES OU ABSENTES NOM PRENOMS DROITS DE SUCCESSION NUMEROS DATE RECETTE OBSERVATIONS
+NOM PRENOMS DOMICILE DATE DE DECES ACTIF PASSIF SUBSISTE NET 
+Gayot Antoine Paris (7e arrt) 1891 16918 5233 11685 12 Aout 1891 10 Sept 1891 
+Saulus Jules Paris (7e arrt) 1891 4975 0 4975 10 Sept 1891 
+Vandermeers Henri Paris (7e arrt) 1891 500 0 500 16 Dec 1891 non familier 
+Lemoine Henri Paris (7e arrt) 1891 1175 1175 0 12 Aout 1891 non familier 
+Hommaye Jules Paris (7e arrt) 1891 0 0 0 4 Sept 1891 d'apres 1911 
+de Godeau Saintane Paris (7e arrt) 1891 100 0 100 12 Dec 1891 non familier 
+Fontaine Henri Paris (7e arrt) 1891 298 298 0 19 Dec 1891 non familier 
+Allard Henri Paris (7e arrt) 1891 4980 0 4980 10 Juin 1892 non familier 
+Delutte Jules Paris (7e arrt) 1891 11675 11675 0 20 Mars 1892 30 Sept 1892

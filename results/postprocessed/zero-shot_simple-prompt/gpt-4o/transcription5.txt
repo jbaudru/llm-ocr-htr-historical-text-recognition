@@ -1,0 +1,71 @@
+DATE DU DÉPÔT: 6
+NUMÉRO: 150
+NOMS: Lambert
+PRÉNOMS: Clémentine
+DOMICILE: Nivelles
+DATE DU DÉCÈS: 1924
+NOMS, PRÉNOMS: Grégoire Clémentine veuve Lambert
+
+DATE DU DÉPÔT: 6
+NUMÉRO: 151
+NOMS: Leveau
+PRÉNOMS: Josephine
+DOMICILE: Chateauroux
+DATE DU DÉCÈS: 1924
+NOMS, PRÉNOMS: Joseph Leveau et consorts
+
+DATE DU DÉPÔT: 6
+NUMÉRO: 152
+NOMS: Vanpee
+PRÉNOMS: Marie
+DOMICILE: 29 Rue de la
+DATE DU DÉCÈS: 1924
+NOMS, PRÉNOMS: non familier
+
+DATE DU DÉPÔT: 6
+NUMÉRO: 153
+NOMS: Delabij
+PRÉNOMS: Joseph
+DOMICILE: Charleroi
+DATE DU DÉCÈS: 1924
+NOMS, PRÉNOMS: Josephine Delabij veuve Marie
+
+DATE DU DÉPÔT: 6
+NUMÉRO: 153 bis
+NOMS: Chevalier
+PRÉNOMS: Rochon
+DOMICILE: Nivelles
+DATE DU DÉCÈS: 1924
+NOMS, PRÉNOMS: Paul Jules et bien
+
+DATE DU DÉPÔT: 6
+NUMÉRO: 154
+NOMS: Froment
+PRÉNOMS: Georges
+DOMICILE: Nivelles
+DATE DU DÉCÈS: 1924
+NOMS, PRÉNOMS: non familier
+
+DATE DU DÉPÔT: 6
+NUMÉRO: 155
+NOMS: Devos
+PRÉNOMS: Jean
+DOMICILE: Bruxelles
+DATE DU DÉCÈS: 1924
+NOMS, PRÉNOMS: non familier
+
+DATE DU DÉPÔT: 6
+NUMÉRO: 156
+NOMS: Seolas
+PRÉNOMS: Jean Joseph
+DOMICILE: Bruxelles
+DATE DU DÉCÈS: 1924
+NOMS, PRÉNOMS: Seolas Jules et autres
+
+DATE DU DÉPÔT: 6
+NUMÉRO: 157
+NOMS: Desfalque
+PRÉNOMS: Clémentine
+DOMICILE: Nivelles
+DATE DU DÉCÈS: 1924
+NOMS, PRÉNOMS: Desfalque Clémentine
