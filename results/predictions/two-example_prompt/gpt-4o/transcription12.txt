@@ -1,8 +1,0 @@
-```plaintext
-DATE DU DÉPÔT | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | NOM, PRÉNOMS | DOMICILES | ACTIF | PASSIF | RESTANT NET | VALEUR DES IMMEUBLES | DATE | NUMÉROS | OBSERVATIONS
-6 | Arrêté de consignation décembre 1919 | Tibbaut | Noël | Braine l'Alleud | 470 | | | | | 
-6 | Arrêté de consignation décembre 1919 | Wautbois | Félix | Braine l'Alleud | 11669 | 4049 | 7610 | | 30 | 27 mai 1920 | 
-6 | Arrêté de consignation décembre 1919 | Jacquet | Émile | Émoumont | 3589 | 2388 | 1202 | | 30 | 27 mai 1920 | 
-6 | Arrêté de consignation décembre 1919 | Vanglaire | Guillaume | Braine l'Alleud | 200 | | | | 30 | 27 juillet 1920 | 
-6 | Arrêté de consignation décembre 1919 | Plasman | Marie | Braine l'Alleud | 148 | | | | 26 | 30 juillet 1920 | 
-```
