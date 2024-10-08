@@ -1,0 +1,16 @@
+```plaintext
+DATE DU DÉPÔT | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | NOM, PRÉNOMS | DOMICILE | DATE DE DÉCÈS | DROIT DE SUCCESSION | MUTATIONS À TITRE DIRECTE | NUMÉROS | DATE | RECETTE | OBSERVATIONS
+              | NOM | PRÉNOMS | DOMICILE | ACTIF | PASSIF | RESTANT NET | VALEUR
+---------------------------------------------------------------------------------------------------------
+Arrêté le vingt-huit octobre 1919 | | | | | | | | | | |
+598 | Hoercent | | | | | | | | | |
+599 | Lefèvre | Jules | | | | | | | | |
+Arrêté le trente et un octobre 1919 | | | | | | | | | | |
+Arrêté le premier novembre 1919 | | | | | | | | | | |
+Arrêté le deux novembre 1919 Dimanche | | | | | | | | | | |
+600 | Desmedt | Jeanne | Nivelles | 15 mai 1919 | 9160 | 250 | 8910 | 5 Db 1919 | 15 janvier 1920 | |
+601 | Monseur | Paul | Clabecq | 3 juin 1919 | 63500 | 63500 | | 5 Db 1919 | 1 août 1919 | |
+602 | Bouly | Alphonse | Braine l'Alleud | 5 août 1919 | 2074 | 2074 | | 15 Db 1919 | 26 août 1919 | non passible |
+Arrêté le trois novembre 1919 | | | | | | | | | | |
+603 | Godart | | | | | | | | | |
+```

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/16249184e6294eea8a8935e103baa12e/artifacts
+end_time: 1728411004326
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 16249184e6294eea8a8935e103baa12e
+run_name: awesome-duck-130
+run_uuid: 16249184e6294eea8a8935e103baa12e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728410397605
+status: 4
+tags: []
+user_id: julien

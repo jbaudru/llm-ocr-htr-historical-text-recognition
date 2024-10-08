@@ -86,7 +86,7 @@ def evaluate():
     experiment_folder = os.path.join("results/predictions/", experiment_name)
     os.makedirs(experiment_folder, exist_ok=True)
     
-    for i in tqdm(range(16, 17), ascii=' >='):
+    for i in tqdm(range(len(img_lst)), ascii=' >='):
         print("Processing image", img_lst[i])
 
         transcription = trans_lst[i]
