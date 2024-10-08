@@ -70,8 +70,10 @@ def evaluate():
         #trans = "data/transcriptions/transcription_ex" + str(i) + ".xlsx"
         #trans_txt = tools.xlsx_to_string(trans)
         # save transcription into a text file
-        with open(f"data/transcriptions/transcription_ex{i}.txt", "w", encoding="utf-8") as f:
-            trans_txt= f.read()
+        with open(f"data/transcriptions/transcription_ex{i}.txt", "r", encoding="utf-8") as f:
+            trans_txt = f.read()
+            print(trans_txt)
+
         trans_lst.append(trans_txt)
         
         image_path = f"data/Archives_LLN_Nivelles_I_1921_REG 5193/example{i}.jpeg"
