@@ -1,18 +1,18 @@
 Here's a recreation of the content of the table in the image:
 
-| N° | DATE DE DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DU DÉPÔT de la déclaration | NOMS, PRÉNOMS | DROITS DE SUCCESSION | DROIT DE MUTATION PAR DÉCÈS | NUMÉROS | DATE | RECETTE | OBSERVATIONS |
-|----|--------------|-------------------------------------------------|--------------------------------|---------------|------------------------|--------------------------------|---------|------|---------|---------------|
-| | | NOMS | PRÉNOMS | DOMICILES | | DÉSIGNATION DES PARTIES DÉCLARANTES | ACTIF | PASSIF | RESTANT NET | VALEUR DES IMMEUBLES | Primitives | Supplémentaires | de l'expiration du délai de rectification | de l'exigibilité des droits | DATE | N° | |
+| N° | DATE DE DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DU DÉCÈS ou de l'envoi en possession provisoire | NOMS, PRÉNOMS | DROITS DE SUCCESSION | DROIT DE MUTATION PAR DÉCÈS | NUMÉROS | DATE | RECETTE | OBSERVATIONS |
+|----|--------------|-------------------------------------------------|---------------------------------------------------|---------------|----------------------|--------------------------------|---------|------|---------|---------------|
+| | | NOMS | PRÉNOMS | DOMICILES | | HÉRITIERS DES PARTIES DÉCLARANTES | ACTIF | PASSIF | RESTANT NET | VALEUR DES IMMEUBLES | Primitives | Supplémentaires | de l'expiration du délai de rectification | de l'exigibilité des droits | DATE | N° | |
 | | Arrêté le cinq février 1920 (signature) | | | | | | | | | | | | | | | | |
 | | Arrêté le six février 1920 (signature) | | | | | | | | | | | | | | | | |
 | | Arrêté le sept février 1920 (signature) | | | | | | | | | | | | | | | | |
 | | Arrêté le huit février 1920 Dimanche (signature) | | | | | | | | | | | | | | | | |
 | | Arrêté le neuf février 1920 (signature) | | | | | | | | | | | | | | | | |
-| 16 | dix février | Souppart | Cornelius | Nivelles | 11 mars 1919 | Souppart Honoré & autres | 39101 | | 39101 | | 263/ 1919 | 26 mars 1920 | 11 juin 1920 | 21/9/1920 | 173 | |
-| 16² | " | Fève | Alphonse | Céroux | 2 8bre 1915 | Fève Céline & autres | 1200 | | 1200 | | 9/10 1916 | " | " | 29 mars 1920 | 69 | |
-| 16³ | " | Siraux | Augustin | Rebecq | 11 mars 1916 | Empain Emile | 1025 | | 1025 | | 119/ 1916 | " | " | | | |
+| 16 | dix février | Souppart | Cornelius | Nivelles | 11 mars 1919 | Souppart Honoré & autres | 39101 | | 39101 | | 263/ 1919 | | 28 mars 1920 | 11 juin 1920 | 21/9/1920 | 193 | |
+| 16² | " | Fève | Alphonse | Céroux | 2 Mai 1915 | Fève Céline & autres | 1200 | | 1200 | | 9/20 | | | | 29 mars 1920 | 69 | |
+| 16³ | " | Siraux | Augustin | Rebecq | 11 mars 1915 | Empain Emile | 1025 | | 1025 | | 159/ 1915 | | | | | | |
 | | Arrêté le dix février 1920 (signature) | | | | | | | | | | | | | | | | |
 | | Arrêté le onze février 1920 (signature) | | | | | | | | | | | | | | | | |
-| 17 | douze " | Vaneulsen | Adeline | Braine l'Alleud | 13 août 1919 | Vaneulsen Edouard & autre | 18524 | | 18524 | | 63/ 1920 | 24 mars 1920 | 13 juin 1920 | 20 juillet 1920 | | |
+| 17 | douze " | Vaneulsen | Adeline | Braine l'Alleud | 13 août 1919 | Vaneulsen Edouard & autre | 18528 | | 18528 | | 63/ 1920 | | 28 mars 1920 | 13 juin 1920 | 20 juillet 1920 | | |
 | | Arrêté le douze février 1920 (signature) | | | | | | | | | | | | | | | | |
-| 18 | treize février | Honnijadi | Jules | Nivelles | 23 février 1919 | Honnijadi & Veuve Florent | | | 95,101 | | 95 " | 23 février 1920 | | | | |
+| 18 | treize février | Honnijadi | Jules | Nivelles | 23 janvier 1919 | Comtesse de Mérode Florence | | | 95,101 | | 45 | | 23 janvier 1920 | | | | |

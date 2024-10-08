@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/a2368efa336b4640a96d3275f52fd54e/artifacts
+end_time: 1728402127761
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: a2368efa336b4640a96d3275f52fd54e
+run_name: bouncy-panda-875
+run_uuid: a2368efa336b4640a96d3275f52fd54e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728402105300
+status: 3
+tags: []
+user_id: julien

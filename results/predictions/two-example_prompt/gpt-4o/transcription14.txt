@@ -1,10 +1,17 @@
 ```plaintext
-Date du décès. Désignation des personnes décédées ou absentes. Actif. Passif. Restant NET. Valeur des immeubles. Primitives. Supplémentaires. de l'expiration du délai de rectification. de l'exigibilité des droits. Date Numéros de la consignation au sommier n'30 (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présente colonne.) 
-4 Janvier 1920 Sefebore Gustave Casteau 20 9 1919 Nicolas Euphrasie veuve 6750 6750 6750 28 8bre 1920 28 8bre 1920 
-5 Janvier 1920 Servais 6 Janvier 1920 Servais 6 Janvier 1920 Servais 6 Janvier 1920 Servais 
-5 Janvier 1920 Druet Honoré Nivelles 2 mai 1919 Regoutte Felix veuve 1200 1200 1200 28 8bre 1920 4 mars 1921 non passible 
-6 Janvier 1920 Servais 6 Janvier 1920 Servais 6 Janvier 1920 Servais 6 Janvier 1920 Servais 
-6 Janvier 1920 Sacré Désiré Marie Réginald 7 9 1919 Flouquet veuve 3691 3691 3691 28 8bre 1920 4 mars 1921 non passible 
-6 Janvier 1920 Servais 6 Janvier 1920 Servais 6 Janvier 1920 Servais 6 Janvier 1920 Servais 
-7 Janvier 1920 Moisebiels Désiré 7 9 1919 4469 4469 4469 28 8bre 1920 17 mai 1921 non passible 250 
+6 5 huit Janvier 1920 Lefebvre Gustave Casteau 20 août 1919 Nicolas Euphrasie veuve 6750 6750 6750 28 février 1920 28 février 1920
+Arrêté le neuf janvier 1920 servais
+Arrêté le vingt janvier 1920 servais
+Arrêté le vingt-cinq janvier 1920 servais
+Arrêté le trente janvier 1920 Divionne servais
+
+6 5 vingt janvier Druet Honoré Perwez 2 mai 1919 Regoutte Félix veuve 1200 1200 1200 28 février 1920 28 février 1920 non passible
+Arrêté le vingt janvier 1920 servais
+
+6 6 vingt janvier Sacrécoix Henriette Thieu 9 juillet 1919 Flouret André veuf 3691 3691 3691 28 février 1920 28 février 1920 non passible
+Arrêté le vingt janvier 1920 servais
+Arrêté le vingt-cinq janvier 1920 servais
+
+6 7 vingt-cinq janvier Moisebiels Désiré Mons 19 juillet 1919 Dronyphile Albert veuf 14691 14691 14691 28 février 1920 28 février 1920 non passible
+Arrêté le vingt-cinq janvier 1920 servais
 ```

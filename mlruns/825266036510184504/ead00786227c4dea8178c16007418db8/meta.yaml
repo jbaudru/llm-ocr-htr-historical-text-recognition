@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/ead00786227c4dea8178c16007418db8/artifacts
+end_time: 1728402285550
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: ead00786227c4dea8178c16007418db8
+run_name: funny-fox-329
+run_uuid: ead00786227c4dea8178c16007418db8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728402262064
+status: 3
+tags: []
+user_id: julien

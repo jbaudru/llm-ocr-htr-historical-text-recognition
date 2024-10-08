@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/2a92686fc3364b438b21d8e99c5e9a16/artifacts
+end_time: 1728401983841
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 2a92686fc3364b438b21d8e99c5e9a16
+run_name: rare-pig-284
+run_uuid: 2a92686fc3364b438b21d8e99c5e9a16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728401963057
+status: 3
+tags: []
+user_id: julien

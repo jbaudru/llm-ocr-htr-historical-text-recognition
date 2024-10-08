@@ -1,9 +1,9 @@
-Here is the recreated content of the table from the image:
+Here's the recreated content of the table from the image:
 
-| N° | DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES |  |  | DATE DU DÉPÔT de la déclaration | NOM, PRÉNOMS des héritiers ou parties déclarantes | DROITS DE SUCCESSION ou de mutation par décès | DROIT FIXE | NUMÉROS du sommier | DATE | NUMÉROS d'ordre du registre | RECETTE DROITS ET AMENDES | CAUTION VERSÉE | OBSERVATIONS |
-|----|--------------|-------------------------------------------------|--------|-----------|---------------------------|--------------------------------------------------|--------------------------------------------------|------------|---------------------|------|---------------------------|---------------------------|----------------|---------------|
-|    | NOMS         | PRÉNOMS                                         | DOMICILES |          |                           |                                                  | ACTIF                                            | PASSIF     | RESTANT NET         |      |                           |                           |                |               |
-| 4  | huit janvier 1920 | Lefebvre | Gustave | Genappe | 30 9bre/19 | Winders Euphémie & autres | 8750 | - | 8750 | 17/2 1920 | - | - | 23 8bre 1920 24/9bre 229 | - |
-| 5  | deux janvier | Beulet | Henri | Bousval | 2 mai 1919 | Degreef Jules & autres | 1200 | - | 1200 | 24/1 1920 | 2 mars 1920 | - | non passible | - |
-| 6  | huit janvier | Lacroix | Marie Catherine | Virginal | 17 juillet 1919 | Pletinckx veuve & autres | 3691 | - | 3691 | - | 28 Jn | 17 mars 1920 | non passible | - |
-| 7  | six septembre | Michiels | Hélène | Rebecq | 29 juillet 1919 | Dedobbeleer Alfred & autres | 16125 | - | 16125 | - | 29 janvier 1920 | 29 mars 1920 | 1 avril 1920 370 | - |
+| N° | DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DU DÉPÔT de la déclaration ou de l'envoi d'office | NOM, PRÉNOMS DES PARTIES DÉCLARANTES | DROITS DE SUCCESSION ou de mutation par décès | DROIT D'ENREGISTREMENT | NUMÉROS DU SOMMIER | DATE | RECETTE | OBSERVATIONS |
+|---|---------------|------------------------------------------------|---------------------------------------------------|-------------------------------------------|------------------------------------------|------------------------|---------------------|------|---------|---------------|
+| | | NOMS | PRÉNOMS | DOMICILES | | | ACTIF | PASSIF | RESTANT NET | VALEUR DES IMMEUBLES | Primitives | Supplémentaires | de l'expiration du délai de rectification | de l'exigibilité des droits | DATE | N° | |
+| 4 | huit janvier 1920 | Lefebvre | Gustave | Tubize | 30 9bre/1919 | Winders Euphémie & autres | 8750 | | 8750 | | 17/3 1920 | | | | 23 9bre 1921 24/9 1920 | 239 | |
+| 5 | deux janvier | Beulet | Henri | Bousval | 2 mai 1919 | Degreef Jules & autres | 1200 | | 1200 | | 21/1 1920 | | 2 mars 1920 | | non passible | | |
+| 6 | huit janvier | Lacroix | Marie Catherine | Virginal | 17 juillet 1919 | Pletinckx veuve & autres | 3691 | | 3691 | | | | 28 Jn | | 13 mai 1920 | | non passible |
+| 7 | six septembre | Michiels | Hélène | Rebecq-Rognon | 29 juillet 1919 | Debrouwère Albert & autres | 16125 | | 16125 | | 29 janvier 1920 | | 29 mars 1920 | | 1 avril 1920 | 370 | |

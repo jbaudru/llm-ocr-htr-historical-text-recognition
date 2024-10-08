@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/31f4126273054ad2b0e0dfa5c652be92/artifacts
+end_time: 1728402140830
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 31f4126273054ad2b0e0dfa5c652be92
+run_name: redolent-fawn-201
+run_uuid: 31f4126273054ad2b0e0dfa5c652be92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728402127778
+status: 3
+tags: []
+user_id: julien

@@ -2,16 +2,10 @@ Here's the recreation of the content of the table in the image:
 
 | N° | DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DE DÉCÈS ou de la disparition | NOMS, PRÉNOMS | DROITS DE SUCCESSION | DROIT | NUMÉROS | DATE | RECETTE | OBSERVATIONS |
 |----|--------------|-------------------------------------------------|-----------------------------------|---------------|----------------------|--------|---------|------|---------|---------------|
-|    |              | NOM | PRÉNOMS | DOMICILE |                                   | HÉRITIERS DES PARTIES DÉCLARANTES | MUTATION PAR DÉCÈS DÉCLARÉE | DE MUTATION | DES DÉCLARATIONS | de l'expiration du délai de rectification | de l'exigibilité des droits | DATE | N° | |
-|    |              |     |         |          |                                   |                                   | ACTIF fr. | PASSIF fr. | RESTANT NET |  |  |  |  |  |  |
-| 446 | cinq déc | Dewez | Zénon | Waterloo | 9 8bre | Dewez Fernand | 941 | - | 941 | 466/1919 | - | - | - | - | |
-| Arrêté le cinq décembre 1919 (servais) |
-| 447 | cinq déc | Delise | Vital | Genappe | 1 8bre | Lefèvre Emile | | 5595 | 5595 | 467/1919 | - | - | - | - | |
-| Arrêté le vingt décembre 1919 (servais) |
-| Arrêté le trente décembre 1919 (servais) |
-| Arrêté le trente-un décembre 1919 (Dimanche servais) |
-| Arrêté le quinze décembre 1919 (servais) |
-| Arrêté le seize décembre 1919 (servais) |
-| 448 | dix sept | Boisdenghien | Henri | Genappe | 15 mars 1919 | Dechef Berthe & autres | 22396 | - | 22396 | 620/1919 | - | - | - | - | |
-| Arrêté le dix sept décembre 1919 (servais) |
-| Arrêté le dix huit décembre 1919 (servais) |
+|    |              | NOM | PRÉNOMS | DOMICILE |                                   | HÉRITIERS DES PARTIES DÉCLARANTES | MUTATION EN LIGNE DIRECTE | de l'état | de la déclaration |      | PÉRIODE de la perception des droits |     |
+|    |              |     |         |          |                                   |                                   | ACTIF | PASSIF | RESTANT NET | VALEUR |         |      |         |     |
+| 6 | 446 | cinq déc | Dewez | Zénon | Waterloo | 9 8bre | Dewez Fernand | 941 | - | 941 | 166/1919 | - | - | - | - |
+| 6 | 447 | cinq déc | Delise | Vital | Genappe | 1 8bre | Lefèvre Emile | 5595 | - | 5595 | 167/1919 | - | - | - | - |
+| 6 | 448 | dix sept | Boisdenghien | Henri | Genappe | 15 mars 1919 | Dechef Berthe & autres | 42896 | - | 42896 | 420/1919 | - | - | - | - |
+
+Note: The table also includes several entries stating "Arrêté le [date] décembre 1919 (servais)" between the main entries, which I've omitted for clarity.

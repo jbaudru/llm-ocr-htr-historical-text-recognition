@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/3514150f5909401ab0df709492013eef/artifacts
+end_time: 1728401891665
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 3514150f5909401ab0df709492013eef
+run_name: amusing-bug-361
+run_uuid: 3514150f5909401ab0df709492013eef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728401866975
+status: 3
+tags: []
+user_id: julien

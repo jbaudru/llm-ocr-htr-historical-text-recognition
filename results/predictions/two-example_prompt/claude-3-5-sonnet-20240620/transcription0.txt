@@ -15,4 +15,4 @@ Here's a recreation of the content of the table in the image:
 | 400 | " | Monseux | Renault Henri | Clabecq | 1 8bre 1918 | Monseux Gustave | 695100 | 241115 | 453985 | | | | 15 " | 1 avril 1919 | | | | | |
 | 401 | " | Bouty | Flore | Braine l'Alleud | 22 juillet 1919 | Bouty Désiré & autre | 22198 | | 22198 | | | | 15 " | 22 Xbre 1919 | | | | | non passible |
 | | | Arrêté le trois novembre 1919 (servais) | | | | | | | | | | | | | | | | |
-| 402 | quatre 9bre | Godart | Rosalie | Nivelles | 22 mai 1919 | Thème Gustave | 17559 | | 17559 | | | 416/ 1919 | 16 " | 22 mars 1920 | | | | | 18 octobre 176 |
+| 402 | quatre 9bre | Godart | Rosalie | Nivelles | 22 mai 1919 | Thème Gustave | 11559 | | 11559 | | | 416/ 1919 | 16 " | 22 mars 1920 | | | | | 18 octobre 176 |

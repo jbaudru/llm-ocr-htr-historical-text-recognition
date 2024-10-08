@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/7f43353d9c08468eb3fe25784d29cc37/artifacts
+end_time: 1728401963039
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 7f43353d9c08468eb3fe25784d29cc37
+run_name: nebulous-dog-649
+run_uuid: 7f43353d9c08468eb3fe25784d29cc37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728401948180
+status: 3
+tags: []
+user_id: julien
