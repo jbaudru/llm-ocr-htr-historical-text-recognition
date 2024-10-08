@@ -1,4 +1,3 @@
-```plaintext
 12 2me février Carlier Victor Quenast 6/2/1920 Carlier Victor & Marie 6775 169 6606 7 janvier et 8 février 1920 15 avril 1920 56 
 13 3me février Songe Adrien Quenast 9/2/1920 Songe Henry & autres 1626 1626 12 et 27 juin 1920 Non passible 
 14 4me février Legain Louise Anne Quenast 9/2/1920 Legain Felix & autres 9712 3366 6346 15 20 et 25 août 1920 15 janvier 1921 199 
@@ -6,4 +5,3 @@
 16 6me février Denys Marie Virginie Nivelles 9/2/1920 Denys Emile 500 500 9 février 1920 
 17 7me février Vanhoobrouck George Charles Nivelles 9/2/1920 Vanhoobrouck Emile 500 500 
 18 9me février Sainblanc Joseph Nivelles 9/2/1920 Sainblanc Henry & autres 500 500 
-```

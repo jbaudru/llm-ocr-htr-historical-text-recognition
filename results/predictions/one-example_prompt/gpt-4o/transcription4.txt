@@ -1,5 +1,3 @@
-Transcription:
-```plaintext
 DATE DE DÉCÈS  DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES.  ACTIF.  PASSIF.  RESTANT NET.  DATE  NUMÉROS  RECETTE  OBSERVATIONS.
 1919
 421  6 9bre  Hiemans  Charles  Otto  4 avril  5985  2491  3494  30  31 8bre 1919  326
@@ -13,4 +11,3 @@ DATE DE DÉCÈS  DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES.  ACTIF.  PA
 429  6 9bre  Fontignies  Jean  6 août  1919  500  500  10  1er août 1919  non passible
 430  6 9bre  Moens  Joseph  6 août  1919  514  514  10  1er août 1919  non passible
 431  6 9bre  Semal  Joseph  6 août  1919  4600  4600  50  16 août 1920  29
-```

@@ -1,12 +1,10 @@
-```plaintext
-DATE DU DÉPÔT | NUMÉRO | NOM | PRÉNOMS | DOMICILES | DATE DE DÉCÈS | ACTIF | PASSIF | RESTANT NET | VALEUR DES IMMEUBLES | DATE | RÉSERVATIONS
-6 | 150 | Lambert | Clémentine | Nivelles | 19 mai 1919 | 2686 | 406 | 2280 | 16 mai 1926
-6 | 151 | Leveau | Joséphine | Clabecq | 7 mars 1919 | 6160 | 6160 | non passible
-6 | 152 | Vanpee | Fabrice | 29 juillet 1919 | 692 | 692 | non passible
-6 | 153 | Delabij | Joseph | Haut-Ittre | 4 mai 1919 | 5220 | 5220 | non passible
-6 | 153 bis | Chevalier | Rochus | Nivelles | 8 août 1919 | 268 | 268 | non passible
-6 | 154 | Froment | Georges | Nivelles | 21 août 1919 | 17020 | 2569 | 14451 | 3656 | janvier 1926
-6 | 155 | Devroye | Jean | Haut-Ittre | 4 mai 1919 | 2163 | 2163 | non passible
-6 | 156 | Seolas | Jean Joseph | Haut-Ittre | 4 mai 1919 | 2168 | 2168 | cédé
-6 | 157 | Defalque | Clémentine | Nivelles | 29 août 1919 | 13999 | 9 août 1925
-```
+DATE DU DÉPÔT  NUMÉRO  NOM  PRÉNOMS  DOMICILES  DATE DE DÉCÈS  ACTIF  PASSIF  RESTANT NET  VALEUR DES IMMEUBLES  DATE  RÉSERVATIONS
+6  150  Lambert  Clémentine  Nivelles  19 mai 1919  2686  406  2280  16 mai 1926
+6  151  Leveau  Joséphine  Clabecq  7 mars 1919  6160  6160  non passible
+6  152  Vanpee  Fabrice  29 juillet 1919  692  692  non passible
+6  153  Delabij  Joseph  Haut-Ittre  4 mai 1919  5220  5220  non passible
+6  153 bis  Chevalier  Rochus  Nivelles  8 août 1919  268  268  non passible
+6  154  Froment  Georges  Nivelles  21 août 1919  17020  2569  14451  3656  janvier 1926
+6  155  Devroye  Jean  Haut-Ittre  4 mai 1919  2163  2163  non passible
+6  156  Seolas  Jean Joseph  Haut-Ittre  4 mai 1919  2168  2168  cédé
+6  157  Defalque  Clémentine  Nivelles  29 août 1919  13999  9 août 1925

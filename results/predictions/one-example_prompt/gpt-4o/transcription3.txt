@@ -1,4 +1,3 @@
-```plaintext
 418 6bre 1919 Cloquet Clotilde Mathilde 17 mai 1919 Cloquet Alix 9500 9500 29 8bre 1919 27 mars 1920 1 janvier 1921 55
 Arrêté le cinq novembre 1919 servais
 419 6bre 1919 Viment Etienne Léonie 5 juin 1919 Viment Prosper Louis & autres 2600 2600 3 9bre 1919 1 janvier 1921 56
@@ -11,4 +10,3 @@ Arrêté le sept novembre 1919 servais
 Arrêté le sept novembre 1919 servais
 421 6bre 1919 Lefranc Henri Ludovic 2 août 1919 Lefranc Joseph Henri Emile 19222 210 19012 29 8bre 1919 1 janvier 1921 59
 Arrêté le dix huit novembre 1919 servais
-```

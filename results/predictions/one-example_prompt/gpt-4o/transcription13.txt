@@ -1,9 +1,7 @@
-```plaintext
-DATE DU DÉCÈS | NOM, PRÉNOMS | DOMICILES | ACTIF | PASSIF | RESTANT NET | VALEUR DES IMMEUBLES | DATE | NUMÉROS | DATE | OBSERVATIONS
-1er janvier 1919 | Séverin Jules | Ecaussinnes | 33862 | 33862 | | | 17 février 1920 | 7 mai 1920 | Exigibilité 129
-2 janvier 1919 | Dumont Louis | Nivelles | 369 | 369 | | | 15 février 1920 | 15 août 1920 | 
-3 janvier 1919 | Honlin Edouard | Braine l'Alleud | 10772 | 10772 | | | 16 février 1920 | 16 juillet 1920 | 
-3 janvier 1919 | Séverin Jules | Ecaussinnes | 32663 | 32663 | | | 17 février 1920 | 7 mai 1920 | Exigibilité 129
-3 janvier 1919 | Wanderpepen Marie | Nivelles | 1269 | 1269 | | | 27 janvier 1920 | 
-5 janvier 1919 | Scolas Julien Joseph | Tubize | 9089 | 9089 | | | 17 février 1920 | 17 juillet 1920 | Exigibilité 128
-```
+DATE DU DÉCÈS  NOM, PRÉNOMS  DOMICILES  ACTIF  PASSIF  RESTANT NET  VALEUR DES IMMEUBLES  DATE  NUMÉROS  DATE  OBSERVATIONS
+1er janvier 1919  Séverin Jules  Ecaussinnes  33862  33862    17 février 1920  7 mai 1920  Exigibilité 129
+2 janvier 1919  Dumont Louis  Nivelles  369  369    15 février 1920  15 août 1920  
+3 janvier 1919  Honlin Edouard  Braine l'Alleud  10772  10772    16 février 1920  16 juillet 1920  
+3 janvier 1919  Séverin Jules  Ecaussinnes  32663  32663    17 février 1920  7 mai 1920  Exigibilité 129
+3 janvier 1919  Wanderpepen Marie  Nivelles  1269  1269    27 janvier 1920  
+5 janvier 1919  Scolas Julien Joseph  Tubize  9089  9089    17 février 1920  17 juillet 1920  Exigibilité 128

@@ -1,16 +1,13 @@
-Here is a recreation of the content of the table in the image:
-
-| N° | DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES |  |  | DATE DE NAISSANCE | NOMS, PRÉNOMS | DROITS DE SUCCESSION | DROIT | NUMÉROS | DATE | RECETTE | OBSERVATIONS |
-|----|--------------|-------------------------------------------------|-----------------|------------|-------------------|----------------|------------------------|--------|----------|------|---------|---------------|
-|    |              | NOMS | PRÉNOMS | DOMICILES |                   | HÉRITIERS OU PARTIES RÉCLAMANTES | ACTIF | PASSIF | RESTANT NET | VALEUR DES IMMEUBLES |          |          |      |         |               |
-| 6 | 443 vingt six 9bre | Thibaut | Marie Louise | Genappe | 5 7bre/13 | Legot Henri & autres | 888 | | 888 | | | | | | |
-|   | Arrêté le vingt sept décembre 1919 (signature) |
-| 6 | 444 vingt sept | Wautbier | Félix | Bousles | 19 juin 21 | Mousset Abel | 11849 | | 11849 | | 17 janvier 1920 | 28 mai 1920 | 29 avril 1925 | 91 | |
-| 6 | 445 d° | Jacquet | Joséphine | Hennuyères | 29 7bre | Jacquet Louise | 58851 | 2395 | 56456 | | 9 7bre | 29 7bre | 19 avril 1920 | 55 | |
-|   | Arrêté le vingt sept décembre 1919 (signature) |
-|   | Arrêté le vingt huit décembre 1919 (signature) |
-| 6 | 446 vingt neuf 9bre | Vanglaire | Guillaume | Braine le Château | 19 7bre/19 | Vanglaire Henri et autres | 100 | | 100 | | 9 7bre | 15 juillet 1920 | non passible | | (multiple entries for receipts) |
-|   | Arrêté le vingt neuf décembre 1919 (signature) |
-|   | Arrêté le trente décembre 1919 (signature) |
-| 6 | 446² trente 9bre | Plasman | Désiré | Nivelles | 10 mars/19 | Veny Pierre & autres | 745 | | 745 | | 30 mars 1919 | | | | |
-|   | Arrêté le trente un décembre 1919 (signature) |
+ N°  DATE DU DÉCÈS  DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES      DATE DE NAISSANCE  NOMS, PRÉNOMS  DROITS DE SUCCESSION  DROIT  NUMÉROS  DATE  RECETTE  OBSERVATIONS 
+                   NOMS  PRÉNOMS  DOMICILES                     HÉRITIERS OU PARTIES RÉCLAMANTES  ACTIF  PASSIF  RESTANT NET  VALEUR DES IMMEUBLES                                                   
+ 6  443 vingt six 9bre  Thibaut  Marie Louise  Genappe  5 7bre/13  Legot Henri & autres  888   888       
+    Arrêté le vingt sept décembre 1919 (signature) 
+ 6  444 vingt sept  Wautbier  Félix  Bousles  19 juin 21  Mousset Abel  11849   11849   17 janvier 1920  28 mai 1920  29 avril 1925  91  
+ 6  445 d°  Jacquet  Joséphine  Hennuyères  29 7bre  Jacquet Louise  58851  2395  56456   9 7bre  29 7bre  19 avril 1920  55  
+    Arrêté le vingt sept décembre 1919 (signature) 
+    Arrêté le vingt huit décembre 1919 (signature) 
+ 6  446 vingt neuf 9bre  Vanglaire  Guillaume  Braine le Château  19 7bre/19  Vanglaire Henri et autres  100   100   9 7bre  15 juillet 1920  non passible   (multiple entries for receipts) 
+    Arrêté le vingt neuf décembre 1919 (signature) 
+    Arrêté le trente décembre 1919 (signature) 
+ 6  446² trente 9bre  Plasman  Désiré  Nivelles  10 mars/19  Veny Pierre & autres  745   745   30 mars 1919     
+    Arrêté le trente un décembre 1919 (signature) 
