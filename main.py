@@ -30,10 +30,10 @@ def append_result(texts, key, result):
 
 def evaluate():
     #experiment_name = "zero-shot_simple-prompt"
-    experiment_name = "zero-shot_complex-prompt"
+    #experiment_name = "zero-shot_complex-prompt"
     #experiment_name = "one-example_prompt"
     #experiment_name = "two-example_prompt"
-    #experiment_name = "refine_complex-prompt"
+    experiment_name = "refine_complex-prompt"
     
     # few-shot
     texts = {
@@ -103,23 +103,23 @@ def evaluate():
                 mlflow.log_param("method", model)
                 
                 # Zero-shot
-                result = agent.draft(image_path, by_line=False)
+                #result = agent.draft(image_path, by_line=False)
                 #result = agent.callPostProcessing(res)
                 
                 # One-example / Two-example
-                #result = agent.exampleShot(image_path, NbExamples=1)
-                
+                result = agent.exampleShot(image_path, NbExamples=2)
+                print(result)
                 # Refine
                 #result = agent.refineLayout(res)
                 
                 # TODO: add refine method
                 
-                mlflow.log_param("method", model)
-                mlflow.log_metric("cer", (tools.compute_distances(result, transcription)[-2]))
-                mlflow.log_metric("bleu", (tools.compute_distances(result, transcription)[-1]))
-                append_result(texts, model, result)
+                #mlflow.log_param("method", model)
+                #mlflow.log_metric("cer", (tools.compute_distances(result, transcription)[-2]))
+                #mlflow.log_metric("bleu", (tools.compute_distances(result, transcription)[-1]))
+                #append_result(texts, model, result)
                 
-                all.append({'file': i, 'model': model, 'res': result})
+                #all.append({'file': i, 'model': model, 'res': result})
                 
                 # Save result to file
                 result_file = os.path.join(method_folder, f"transcription{i}.txt")
@@ -128,7 +128,8 @@ def evaluate():
 
                 # add waiting time to avoid overloading the server
                 time.sleep(2.5)
-                
+        
+        """
         ocr_methods = {
             "EasyOCR": ocr.easyOCR,
             "Pytesseract": ocr.pytesseractOCR,
@@ -163,17 +164,17 @@ def evaluate():
             all_df.to_csv(file_path, mode='a', header=False, index=False)
         else:
             all_df.to_csv(file_path, mode='w', header=True, index=False)
-   
+        """
 
-    tools.compare_texts_violin_plot(texts, experiment_name)
+    #tools.compare_texts_violin_plot(texts, experiment_name)
     
 
 
 def evaluate_line_by_line():
     experiment_name = "zero-shot_simple-prompt-lines"
-    #experiment_name = "zero-shot_complex-prompt-lines"
-    #experiment_name = "one-example_simple-prompt-lines"
-    #experiment_name = "two-example_simple-prompt-lines"
+    experiment_name = "zero-shot_complex-prompt-lines"
+    experiment_name = "one-example_simple-prompt-lines"
+    experiment_name = "two-example_simple-prompt-lines"
     
     # few-shot
     texts = {
@@ -245,21 +246,21 @@ def evaluate_line_by_line():
                 mlflow.log_param("method", model)
                 
                 # Zero-shot
-                res = agent.draft(image_path)
-                result = agent.callPostProcessing(res)
+                #res = agent.draft(image_path)
+                #result = agent.callPostProcessing(res)
                 
                 # One-example / Two-example
-                #result = agent.exampleShot(image_path, NbExamples=2)
+                result = agent.exampleShot(image_path, NbExamples=2)
                 
                 # Refine
                 # TODO: add refine method
                 
-                mlflow.log_param("method", model)
-                mlflow.log_metric("cer", (tools.compute_distances(result, transcription)[-2]))
-                mlflow.log_metric("bleu", (tools.compute_distances(result, transcription)[-1]))
-                append_result(texts, model, result)
+                #mlflow.log_param("method", model)
+                #mlflow.log_metric("cer", (tools.compute_distances(result, transcription)[-2]))
+                #mlflow.log_metric("bleu", (tools.compute_distances(result, transcription)[-1]))
+                #append_result(texts, model, result)
                 
-                all.append({'file': file_i, 'line': line_i,'model': model, 'res': result})
+                #all.append({'file': file_i, 'line': line_i,'model': model, 'res': result})
                 
                 # Save result to file
                 result_file = os.path.join(method_folder, f"transcription{file_i}_{line_i}.txt")
@@ -267,8 +268,9 @@ def evaluate_line_by_line():
                     f.write(result)
 
                 # add waiting time to avoid overloading the server
-                time.sleep(5)
-                
+                #time.sleep(5)
+        
+        """
         ocr_methods = {
             "EasyOCR": ocr.easyOCR,
             "Pytesseract": ocr.pytesseractOCR,
@@ -303,9 +305,9 @@ def evaluate_line_by_line():
             all_df.to_csv(file_path, mode='a', header=False, index=False)
         else:
             all_df.to_csv(file_path, mode='w', header=True, index=False)
-   
+        """
 
-    tools.compare_texts_violin_plot(texts, experiment_name)
+    #tools.compare_texts_violin_plot(texts, experiment_name)
     
     
 def main():

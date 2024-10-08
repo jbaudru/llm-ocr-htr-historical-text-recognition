@@ -1,5 +1,6 @@
 from lib.tools import Tools
 import matplotlib.pyplot as plt
+import seaborn as sns
 import numpy as np
 import os
 from tqdm import tqdm
@@ -19,21 +20,28 @@ def collect_bleu_scores(base_path):
     
     for exp in tqdm(experiments, desc=f"Processing experiments", leave=False, ascii=' >='):
         for model in tqdm(models, desc=f"Processing methods", leave=False, ascii=' >='):
-            for i in tqdm(range(1), desc=f"Processing texts", leave=False, ascii=' >='):
-                pred_path = base_path + "/" + exp + "/" + model + "/transcription" + str(i) + ".txt"
-                
-                with open(pred_path, "r", encoding="utf-8") as pred_file:
-                    pred_text = pred_file.read()
-                
-                gt_path = f"data/transcriptions/transcription_ex{i+1}.xlsx"
-                gt_text = tools.xlsx_to_string(gt_path)
-                
-                scores = tools.BLEU(pred_text, gt_text)
-                print(scores)
-                bleu_score = scores
-                bleu_scores[exp][model].append(bleu_score)
-                #cer_score = scores[-3]
-                #cer_scores[exp][model].append(cer_score)
+            for i in tqdm(range(20), desc=f"Processing texts", leave=False, ascii=' >='):
+                if(exp=="one-example_prompt" and i==2):
+                    print("DEBUG: expertiment: ", exp, " file: ", i, "ignored")
+                    continue
+                elif(exp=="two-example_prompt" and (i==2 or i==3)):
+                    continue
+                else:
+                    pred_path = base_path + "/" + exp + "/" + model + "/transcription" + str(i) + ".txt"
+                    print(pred_path)
+                    with open(pred_path, "r", encoding="utf-8") as pred_file:
+                        pred_text = pred_file.read()
+                    #print(pred_text)
+                    
+                    gt_path = f"data/transcriptions/transcription_ex{i+1}.xlsx"
+                    gt_text = tools.xlsx_to_string(gt_path)
+                    
+                    scores = tools.BLEU(pred_text, gt_text)
+                    #print(scores)
+                    bleu_score = scores
+                    bleu_scores[exp][model].append(bleu_score)
+                    #cer_score = scores[-3]
+                    #cer_scores[exp][model].append(cer_score)
             
     return bleu_scores
 
@@ -59,7 +67,7 @@ def plot_scores(scores):
     for idx, exp in enumerate(experiments):
         for model_idx, model in enumerate(["gpt-4o", "claude-3-5-sonnet-20240620"]):
             model_scores = avg_scores[exp][model]
-            ax.bar(idx * 2 + model_idx * 3*width, model_scores, width, label=f"{model}" if idx == 0 else "", color=colors[model_idx])
+            ax.bar(idx * 2 + model_idx * 3 * width, model_scores, width, label=f"{model}" if idx == 0 else "", color=colors[model_idx])
 
     # Plot combined OCR methods
     for idx, model in enumerate(other_models):
@@ -82,6 +90,9 @@ def plot_scores(scores):
     # Create secondary x-tick labels for experiment names
     exp_labels = []
     for exp in clean_experiment_names:
+        if exp == "refine complex prompt":
+            print("DEBUG")
+            exp = "refined zero complex prompt"
         exp_labels.append(exp)
         exp_labels.append("")
     exp_labels.extend([""] * len(other_models))
@@ -102,6 +113,7 @@ def plot_scores(scores):
     ax.axvline(separation_x, color='gray', linestyle='--')
 
     fig.tight_layout()
+    plt.grid(axis='y')
     plt.savefig("results/average-bleu_whole-scans.png")
     plt.show()
     
@@ -109,7 +121,7 @@ def plot_scores(scores):
     
     
 def main():
-    base_path = "results/predictions"
+    base_path = "results/postprocessed"
     bleu_scores = collect_bleu_scores(base_path)
     plot_scores(bleu_scores)
 

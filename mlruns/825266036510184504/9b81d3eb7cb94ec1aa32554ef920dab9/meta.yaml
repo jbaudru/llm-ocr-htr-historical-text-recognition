@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/9b81d3eb7cb94ec1aa32554ef920dab9/artifacts
+end_time: 1728397696514
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 9b81d3eb7cb94ec1aa32554ef920dab9
+run_name: persistent-crane-34
+run_uuid: 9b81d3eb7cb94ec1aa32554ef920dab9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728397689830
+status: 3
+tags: []
+user_id: Administrateur
