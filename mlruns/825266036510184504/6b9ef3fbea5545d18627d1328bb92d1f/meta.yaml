@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/6b9ef3fbea5545d18627d1328bb92d1f/artifacts
+end_time: 1728405590524
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 6b9ef3fbea5545d18627d1328bb92d1f
+run_name: bemused-ape-817
+run_uuid: 6b9ef3fbea5545d18627d1328bb92d1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728405564761
+status: 3
+tags: []
+user_id: julien

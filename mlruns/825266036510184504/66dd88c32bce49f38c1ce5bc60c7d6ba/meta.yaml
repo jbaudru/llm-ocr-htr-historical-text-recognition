@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/66dd88c32bce49f38c1ce5bc60c7d6ba/artifacts
+end_time: 1728405564743
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 66dd88c32bce49f38c1ce5bc60c7d6ba
+run_name: nervous-rook-368
+run_uuid: 66dd88c32bce49f38c1ce5bc60c7d6ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728405539902
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/7c569b7738ea4bce97fe898a7fd5d42d/artifacts
+end_time: 1728405770495
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 7c569b7738ea4bce97fe898a7fd5d42d
+run_name: adaptable-seal-818
+run_uuid: 7c569b7738ea4bce97fe898a7fd5d42d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728405753166
+status: 3
+tags: []
+user_id: julien

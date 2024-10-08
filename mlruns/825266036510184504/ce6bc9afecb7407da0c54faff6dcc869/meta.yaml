@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/ce6bc9afecb7407da0c54faff6dcc869/artifacts
+end_time: 1728405181535
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: ce6bc9afecb7407da0c54faff6dcc869
+run_name: popular-quail-886
+run_uuid: ce6bc9afecb7407da0c54faff6dcc869
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728405152802
+status: 3
+tags: []
+user_id: julien

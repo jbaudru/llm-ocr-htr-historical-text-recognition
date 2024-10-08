@@ -1,0 +1,18 @@
+Here's a recreation of the content of the table in the image:
+
+| N° | DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DU DÉPÔT de la DÉCLARATION | NOMS, PRÉNOMS | DROITS DE SUCCESSION | DROIT DE MUTATION EN LIGNE DIRECTE | DATE | OBSERVATIONS |
+|---|---------------|------------------------------------------------|----------------------------------|---------------|----------------------|-------------------------------------|------|--------------|
+| | | NOMS | PRÉNOMS | DOMICILE | | HÉRITIERS DES PARTIES DÉCLARANTES | ACTIF | PASSIF | RESTANT NET | | | de l'expiration du délai de rectification | de l'exigibilité des droits | | |
+| 150 | vingt et un juin 1921 | Lambeck | Valentine | Nivelles | 15 mars 1921 | Gras Cécile & autres | 18178 | 1497 | 16781 | | | | 15 mars 1922 | 19 | |
+| 151 | " | Loiseau | Joséphine | Clabecq | 9 mars 1921 | Deschef Emile & autres | 6118 | | 6118 | | | | 9 février 1922 | 19 | |
+| 152 | " | Vanpée | Fabrice | " | 29 février 1920 | " | 9466 | 598 | 8768 | | | | non passible | | |
+| 153 | " | Delabij | Joachim Joseph | Lasne-Chapelle-St-Lambert | 15 janvier 1921 | Joachim Charles Henri | 2290 | 326 | 1964 | | | | non passible | | |
+| | Arrêté le vingt et un juin 1921 (Signature) | | | | | | | | | | | | | | |
+| 153² | vingt deux juin | Charlier | Honorine | Nivelles | 8 avril 1920 | Plisn Jules & Léon | | | 581 | | | | 581/1920 | | |
+| | Arrêté le vingt deux juin 1921 (Signature) | | | | | | | | | | | | | | |
+| | Arrêté le vingt trois juin 1921 Dimanche (Signature) | | | | | | | | | | | | | | |
+| 154 | vingt quatre | Froment | Georges | Nivelles | 28 février 1921 | Vandermeulen Juliette | 118,928 | 1389 | 117,538 | | | 28/2 1922 | | 9 janvier 1922 | 629 |
+| 155 | " | Devroye | Jean Bte | Nouvelle Chapelle | 15 janvier 1921 | Plisnier Rosalie & autres | 2669 | | 2669 | | | | non passible | | |
+| 156 | " | Scolus | Jean Joseph | Bousval-Noirhat | 6 février 1920 | Scolus Jules fils & autres | 2891 | | 2891 | | | | id. | | |
+| | Arrêté le vingt sept juin 1921 (Signature) | | | | | | | | | | | | | | |
+| 157 | vingt huit " | Delalieux | Charles Louis | Bierges-lez-Wavre | 29 août 1920 | Delalieux Adolphe | 18826 | 7326 | 13,910 | | | | 9 février 1922 | | |

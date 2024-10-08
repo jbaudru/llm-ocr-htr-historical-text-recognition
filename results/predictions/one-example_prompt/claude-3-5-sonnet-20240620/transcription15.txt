@@ -1,0 +1,18 @@
+Here's a recreation of the content of the table in the image:
+
+| N° | DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DU DÉCÈS ou de l'envoi en possession | NOMS, PRÉNOMS des héritiers ou légataires déclarants | DROITS DE SUCCESSION ou de mutation en ligne directe | DROIT DE TRANSCRIPTION | NUMÉROS DES ARTICLES | DATE | RECETTE | OBSERVATIONS |
+|---|---------------|------------------------------------------------|-------------------------------------------|---------------------------------------------------|--------------------------------------------------|--------------------------|------------------------|------|---------|---------------|
+| Folio | Enregistrement | NOMS | PRÉNOMS | DOMICILES | | | ACTIF | PASSIF | RESTANT NET | VALEUR des immeubles | Primitives | Supplémentaires | de l'expiration du délai de rectification | de l'exigibilité des droits | DATE | N° | |
+| 6 | 8 vingt quatre janvier 1920 | Leclercq | Adrien | Braine le Château | 27 8bre 1919 | Leclercq Victor & autres | 4464 | | 4464 | | 1920 | | 28 janvier 6 juillet 1920 | | non passible | | |
+| 6 | 9 d° | Gérard | Cathérine | Braine le Château | 30 janvier 1913 | Gérard Marie | Cession d'usufruit | | | | " | | " | | 6 août 1920 | 117 | |
+| 6 | 9² d° | Arcq | Alphonse | " | 23 8bre 1919 | Gérard Marie vve | " | | | | 231 1919 | | | | 9 février 1920 | 50 | |
+| | | Arrêté le dix sept janvier 1920 servais | | | | | | | | | | | | | | | |
+| | | Arrêté le dix huit janvier 1920 Demanet servais | | | | | | | | | | | | | | | |
+| | | Arrêté le dix neuf janvier 1920 servais | | | | | | | | | | | | | | | |
+| | | Arrêté le vingt janvier 1920 servais | | | | | | | | | | | | | | | |
+| 9³ vingt un janvier | Becquet | Marcel | Nivelles | 9 mai 1919 | Becquet Denis | Son usufruit | | | | | 255 1919 | | " | | " | | |
+| | | Arrêté le vingt un janvier 1920 servais | | | | | | | | | | | | | | | |
+| | | Arrêté le vingt deux janvier 1920 servais | | | | | | | | | | | | | | | |
+| | | Arrêté le vingt trois janvier 1920 servais | | | | | | | | | | | | | | | |
+| 10 vingt quatre | Durieux | Henri | Nivelles | 29 juillet 1919 | Durieux Louis & autres | 11162 | 6395 | 4767 | | 1920 | | 7 mars 1920 | 4 mars 1920 | 5 avril 1920 | 163 | |
+| | | Arrêté le vingt quatre janvier 1920 servais | | | | | | | | | | | | | | | |

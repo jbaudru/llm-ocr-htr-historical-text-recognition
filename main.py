@@ -31,8 +31,8 @@ def append_result(texts, key, result):
 def evaluate():
     #experiment_name = "zero-shot_simple-prompt"
     #experiment_name = "zero-shot_complex-prompt"
-    #experiment_name = "one-example_prompt"
-    experiment_name = "two-example_prompt"
+    experiment_name = "one-example_prompt"
+    #experiment_name = "two-example_prompt"
     #experiment_name = "refine_complex-prompt"
     
     # few-shot
@@ -96,7 +96,7 @@ def evaluate():
 
         #models = ["gpt-4o", "gpt-4o-mini", "gpt-4", "gpt-4-turbo", "gpt-3.5-turbo-0125", "claude-3-5-sonnet-20240620"]
         models = ["gpt-4o", "claude-3-5-sonnet-20240620"]
-        models = ["gpt-4o"]
+        models = ["claude-3-5-sonnet-20240620"]
         for model in models:
             agent = Agent(model)
             method_folder = os.path.join(experiment_folder, model)
@@ -110,7 +110,7 @@ def evaluate():
                 #result = agent.callPostProcessing(res)
                 
                 # One-example / Two-example
-                result = agent.exampleShot(image_path, NbExamples=2)
+                result = agent.exampleShot(image_path, NbExamples=1)
                 print(result)
                 # Refine
                 #result = agent.refineLayout(res)
