@@ -156,6 +156,13 @@ class Tools:
             
         return jaccard, masi, levenshtein, cer, bleu, wer
     
+    def BLEU(self, pred, gt):
+        if len(pred) == 0:
+            return 0
+        else:
+            bleu_metric = evaluate.load("bleu")
+            bleu = bleu_metric.compute(predictions=[pred], references=[[gt]])['bleu']
+            return bleu
         
     def CERreduction(self, prev_pred, curr_pred, gt):
         CERred = (self.CER(prev_pred, gt) - self.CER(curr_pred, gt)) / self.CER(prev_pred, gt)

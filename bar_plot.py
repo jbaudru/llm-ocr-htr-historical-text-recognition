@@ -19,7 +19,7 @@ def collect_bleu_scores(base_path):
     
     for exp in tqdm(experiments, desc=f"Processing experiments", leave=False, ascii=' >='):
         for model in tqdm(models, desc=f"Processing methods", leave=False, ascii=' >='):
-            for i in tqdm(range(20), desc=f"Processing texts", leave=False, ascii=' >='):
+            for i in tqdm(range(1), desc=f"Processing texts", leave=False, ascii=' >='):
                 pred_path = base_path + "/" + exp + "/" + model + "/transcription" + str(i) + ".txt"
                 
                 with open(pred_path, "r", encoding="utf-8") as pred_file:
@@ -28,11 +28,12 @@ def collect_bleu_scores(base_path):
                 gt_path = f"data/transcriptions/transcription_ex{i+1}.xlsx"
                 gt_text = tools.xlsx_to_string(gt_path)
                 
-                scores = tools.compute_distances(pred_text, gt_text)
-                bleu_score = scores[-1]
+                scores = tools.BLEU(pred_text, gt_text)
+                print(scores)
+                bleu_score = scores
                 bleu_scores[exp][model].append(bleu_score)
-                cer_score = scores[-3]
-                cer_scores[exp][model].append(cer_score)
+                #cer_score = scores[-3]
+                #cer_scores[exp][model].append(cer_score)
             
     return bleu_scores
 
