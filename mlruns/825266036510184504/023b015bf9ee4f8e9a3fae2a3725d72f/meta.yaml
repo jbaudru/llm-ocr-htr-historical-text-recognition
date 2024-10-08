@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/023b015bf9ee4f8e9a3fae2a3725d72f/artifacts
+end_time: 1728406519759
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 023b015bf9ee4f8e9a3fae2a3725d72f
+run_name: gifted-bear-241
+run_uuid: 023b015bf9ee4f8e9a3fae2a3725d72f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728406480434
+status: 3
+tags: []
+user_id: julien

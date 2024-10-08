@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/d8c5a3937f5c4cb7be1272c60960114a/artifacts
+end_time: 1728408524628
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: d8c5a3937f5c4cb7be1272c60960114a
+run_name: secretive-grub-367
+run_uuid: d8c5a3937f5c4cb7be1272c60960114a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728408163308
+status: 4
+tags: []
+user_id: julien

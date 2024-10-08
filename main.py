@@ -86,7 +86,7 @@ def evaluate():
     experiment_folder = os.path.join("results/predictions/", experiment_name)
     os.makedirs(experiment_folder, exist_ok=True)
     
-    for i in tqdm(range(len(img_lst)), ascii=' >='):
+    for i in tqdm(range(16, 17), ascii=' >='):
         print("Processing image", img_lst[i])
 
         transcription = trans_lst[i]
@@ -96,7 +96,7 @@ def evaluate():
 
         #models = ["gpt-4o", "gpt-4o-mini", "gpt-4", "gpt-4-turbo", "gpt-3.5-turbo-0125", "claude-3-5-sonnet-20240620"]
         models = ["gpt-4o", "claude-3-5-sonnet-20240620"]
-        models = ["claude-3-5-sonnet-20240620"]
+        models = ["gpt-4o"]
         for model in models:
             agent = Agent(model)
             method_folder = os.path.join(experiment_folder, model)
@@ -111,7 +111,9 @@ def evaluate():
                 
                 # One-example / Two-example
                 result = agent.exampleShot(image_path, NbExamples=1)
-                print(result)
+                while ("unable" in result) or ("sorry" in result):
+                    result = agent.exampleShot(image_path, NbExamples=1)
+                    print(result)
                 # Refine
                 #result = agent.refineLayout(res)
                 

@@ -1,0 +1,7 @@
+```plaintext
+146 6 Christophe Eugène Enyer Charles Louis Désiré 19 Septembre 1923 Bruxelles Van Calster Fabienne & autres 53656 13612 40044 13612 28 Août 1924 16 Août 1929
+146 6 de Baufays Masson Jean 1875 Bruxelles 19 Août 1924 Liège 29000 9000 20000 9000 17-11-1919
+146 6 de Baufays Leblicq Jean 1876 Bruxelles 19 Août 1924 Liège 19000 356 18644 356 non passible
+146 6 de Baufays Dasset Emmanuel 1924 Bruxelles 19 Août 1924 Liège 4544 1233 3312 1233 6 Janvier 1925 6 Janvier 1926
+146 6 de Baufays Hegelart Laurent 1924 Bruxelles 19 Août 1924 Liège 4556 4556 non passible
+```

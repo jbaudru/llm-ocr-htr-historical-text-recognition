@@ -1,6 +1,0 @@
-| N° | DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DE DÉCÈS et du JUGEMENT D'ENVOI EN POSSESSION | NOMS, PRÉNOMS | DROITS DE SUCCESSION | DROITS DE MUTATION PAR DÉCÈS | NUMÉROS | DATE | RECETTE | OBSERVATIONS |
-| | | NOM | PRÉNOMS | DOMICILE | | HÉRITIERS DES PARTIES DÉCLARANTES | ACTIF | PASSIF | RESTANT NET | VALEUR DES IMMEUBLES | Primitives | Supplémentaires | de l'expiration du délai de rectification | de l'exigibilité des droits | DATE | N° | |
-| 439 vingt cinq 9bre | Gossiaux | Antoine Jos | Plancenoit | 20 7b 1919 | Gossiaux Sylvie & autres | 6051 | - | 6051 | | | | 9 janvier 1920 | 20 juillet 1920 | 5 mars 1920 | 69 | |
-| 439² trente 9bre | Painblanc | Joseph | Braine le Château | 1 février 1919 | Painblanc Joseph & autres | 4916 | | 3916 | | | | 26/1919 | | | | |
-| 439³ d° | Painblanc | Emmanuel | " | 23 d° | " | 2294 | | 2294 | | | | 201/1919 | | | | |
-| 440 deux Xbre | Charlier | Jean Bte | Tubize | 29 7bre 1919 | Charlier J Baptiste, Elise, Jeanne & autres | 3000 | | 3000 | | | | 81/1919 | | | | |
