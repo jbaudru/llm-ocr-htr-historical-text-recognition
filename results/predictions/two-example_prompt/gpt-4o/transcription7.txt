@@ -1,0 +1,12 @@
+```plaintext
+429 cinq 9bre Beth Henri Ottignies 12 8bre 1919 Huet Louis 4566 4566 191/1919 5 janvier 1920 3 mars 1920 50  
+430 d Hubart Jean 5 8bre 1919 Hubart Joseph & autres 4201 4201 192/1919 5 mars 1920 5 mai 1920 51  
+431 d Romain Félicie 3 9bre 1919 Romain Louis & autres 1100 1100 193/1919 5 mars 1920 5 mai 1920 52  
+432 d Poliat Léon 4 9bre 1919 Wautier Clément & autres 911 911 194/1919 5 avril 1920 5 août 1920 53  
+433 d Poliat Achille 5 9bre 1919 611 611 195/1919 5 avril 1920 5 août 1920 54  
+434 d Houtmeyers Henri 2 9bre 1919 Houtmeyers Joseph 1020 1020 196/1919 5 avril 1920 5 août 1920 55  
+435 d Thibaut Louis 6 9bre 1919 Thibaut Léon & autres 1260 1260 197/1919 5 avril 1920 5 août 1920 56  
+436 d Gausin Irma 8 9bre 1919 Gausin Louis 1620 1620 198/1919 5 avril 1920 5 août 1920 57  
+437 d Delannoy Edmond 10 9bre 1919 Delannoy Adrien 6155 6155 199/1919 5 avril 1920 5 août 1920 58  
+438 d Delvitte Jules 10 8bre 1919 Delvitte Arthur 9201 9201 200/1919 5 avril 1920 5 août 1920 59  
+```

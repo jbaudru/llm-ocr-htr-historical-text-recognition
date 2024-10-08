@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/52912f9677a34bf2881b0d8abafd9798/artifacts
+end_time: 1728414502260
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 52912f9677a34bf2881b0d8abafd9798
+run_name: bittersweet-pig-454
+run_uuid: 52912f9677a34bf2881b0d8abafd9798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1728414436785
+status: 3
+tags: []
+user_id: julien

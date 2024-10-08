@@ -1,0 +1,9 @@
+```plaintext
+4399 Knops Delvaux Nicole 4 juin 1919 Servais Clément & autres Débet malpassible 51 1919 23 août 1919 16 octobre 1920
+440 Despalque Eugène Nivelles 4 juin 1919 Wincqz Alphonse Succession 120 1919 5 mai 1920
+441 Jaegmin Félix Ophain 4 juin 1919 Jaegmin François 5000 5000 100 1919 24 juin 1920 16 juillet 1920
+442^bis Vounoure Léon Braine l'Alleud 5 juin 1919 Gillis Camille 75 75 23 1919
+443^bis de Lalieux Emile Waterloo 5 juin 1919 Antoine Louis 625 625 150 1919
+444^bis Heumoels Alphonsine Nivelles 5 juin 1919 Heumoels Henri 710 710 140 1919
+445 Goisse Adolphe 5 juin 1919 Hoebeeck Clara 710 710 140 1919
+```
