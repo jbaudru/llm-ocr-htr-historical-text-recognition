@@ -1,11 +1,5 @@
-```plaintext
-145 | vingt sept juin | Luyer | Charles Louis Désiré | Ixelles | 17 Avril | Van Ackere Julienne et autres | 5111 | 1112 | 3999 | | | | | 28 Avril 1920 10 Avril 1921 | | | | |
-
-146 | dix huit juin | Masson | Jean Bte | Bruxelles | 19 février | Rens Thérèse | 12395 | 376 | 12019 | | | | | 31-8-19 19/9 | | | | |
-
-147 | vingt cinq juin | Schliez | Jean Bte | Etterbeek | 13 mars 1914 | Schliez Désiré et autres | 1902 | 236 | 1666 | | | | | non passible | | | | |
-
-148 | vingt quatre juin | Dasset | Emmanuel Joseph | Jemappes | 15 juillet 1920 | Graux Emilie et autres | 9191 | 1229 | 7962 | 150 | | | | | 6 janvier 1920 1921 | | |
-
-149 | " | Kegelart | Constant Jh Ghislain | Stambruges | 12 mai 1920 | Kegelart Elisabeth et autres | 3236 | 125 | 3111 | | | | | non passible | | | | |
-```
+145  vingt sept juin  Luyer  Charles Louis Désiré  Ixelles  17 Avril  Van Ackere Julienne et autres  5111  1112  3999      28 Avril 1920 10 Avril 1921     
+146  dix huit juin  Masson  Jean Bte  Bruxelles  19 février  Rens Thérèse  12395  376  12019      31-8-19 19/9     
+147  vingt cinq juin  Schliez  Jean Bte  Etterbeek  13 mars 1914  Schliez Désiré et autres  1902  236  1666      non passible     
+148  vingt quatre juin  Dasset  Emmanuel Joseph  Jemappes  15 juillet 1920  Graux Emilie et autres  9191  1229  7962  150      6 janvier 1920 1921   
+149  "  Kegelart  Constant Jh Ghislain  Stambruges  12 mai 1920  Kegelart Elisabeth et autres  3236  125  3111      non passible     

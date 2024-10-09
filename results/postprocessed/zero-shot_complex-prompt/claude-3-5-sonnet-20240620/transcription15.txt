@@ -1,25 +1,13 @@
-N' d'ordre | Date du dépot des déclarations | Nom | Prénoms | Domiciles | Date du décès ou du judgement d'envoi en possession, en cas d'absence. | Noms, Prénoms et demeures des parties déclarantes. | Actif. (2) | Passif. (2) | Restant NET. (2) | Valeur des immeubles. (2) | Primitives. | Supplémentaires. | de l'expiration du délai de rectification. | de l'exigibilité des droits. | Numéros de la consignation des droits au sommier n' 28 | Date | N^03 | Numéros de la consignation au sommier n'30 | Observations
-
-8 | 29 septembre 1922 | Declercq | Rosine | Mazy le Château | 6 Mai 1922 | Declercq Victor à Mazy | 3460 | - | 3460 | - | 1105 | - | 28 février 6 juillet 1923 | - | - | - | - | - | -
-
-9 | 3 " | Gérard | Catherine | Bossière | 30 janvier 1913 | Bossière Marie | - | - | - | - | - | - | 4 août 1923 | - | - | - | - | - | -
-
-9 | " | Arceq | Alphonse | " | 23 Mai 1911 | Gérard Marie épouse | - | - | - | - | 235 | - | 4 février 1924 | - | - | - | - | - | 50
-
-- | - | Arrêté le dix sept janvier 1920 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
-
-- | - | Arrêté le dix huit janvier 1920 Dimanche servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
-
-- | - | Arrêté le dix neuf janvier 1920 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
-
-- | - | Arrêté le vingt janvier 1920 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
-
-9 | vingt deux janvier | Becquet | Marcel | Bossière | 9 mai 1919 | Becquet Denis | - | - | - | - | 255 | - | - | - | - | - | - | - | -
-
-- | - | Arrêté le vingt un janvier 1920 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
-
-- | - | Arrêté le vingt deux janvier 1920 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
-
-- | - | Arrêté le vingt trois janvier 1920 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
-
-10 | vingt quatre | Durieux | Florie | Marbais | 29 juillet 1919 | Durieux Louis à Marbais | 411 62 | - | 411 62 | 411 62 | 190 | - |
+N' d'ordre  Date du dépot des déclarations  Nom  Prénoms  Domiciles  Date du décès ou du judgement d'envoi en possession, en cas d'absence.  Noms, Prénoms et demeures des parties déclarantes.  Actif. (2)  Passif. (2)  Restant NET. (2)  Valeur des immeubles. (2)  Primitives.  Supplémentaires.  de l'expiration du délai de rectification.  de l'exigibilité des droits.  Numéros de la consignation des droits au sommier n' 28  Date  N^03  Numéros de la consignation au sommier n'30  Observations
+8  29 septembre 1922  Declercq  Rosine  Mazy le Château  6 Mai 1922  Declercq Victor à Mazy  3460  -  3460  -  1105  -  28 février 6 juillet 1923  -  -  -  -  -  -
+9  3 "  Gérard  Catherine  Bossière  30 janvier 1913  Bossière Marie  -  -  -  -  -  -  4 août 1923  -  -  -  -  -  -
+9  "  Arceq  Alphonse  "  23 Mai 1911  Gérard Marie épouse  -  -  -  -  235  -  4 février 1924  -  -  -  -  -  50
+-  -  Arrêté le dix sept janvier 1920 servais  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+-  -  Arrêté le dix huit janvier 1920 Dimanche servais  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+-  -  Arrêté le dix neuf janvier 1920 servais  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+-  -  Arrêté le vingt janvier 1920 servais  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+9  vingt deux janvier  Becquet  Marcel  Bossière  9 mai 1919  Becquet Denis  -  -  -  -  255  -  -  -  -  -  -  -  -
+-  -  Arrêté le vingt un janvier 1920 servais  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+-  -  Arrêté le vingt deux janvier 1920 servais  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+-  -  Arrêté le vingt trois janvier 1920 servais  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+10  vingt quatre  Durieux  Florie  Marbais  29 juillet 1919  Durieux Louis à Marbais  411 62  -  411 62  411 62  190  - 

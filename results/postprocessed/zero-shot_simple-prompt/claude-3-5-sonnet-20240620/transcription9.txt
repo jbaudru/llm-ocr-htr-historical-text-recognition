@@ -1,22 +1,14 @@
-```plaintext
 6 4439 quatre déc Knops      Catherine Niselle  17°8°41  Knops Théodore          Déclar. supplétive    14    -     -     16 fév. 42   -    -
 D                                                                                                     1942               17 avril 42 1942
-
 6 4440 cinq déc  Defalque    Eugène   Fernand E. 17 mai 1944 Wautelet Régine     4426    -    4426    15 janvier 16 août -    -
 D                                     célibat.                                                        1945     1945
-
 6 4441 six déc   Jacqmin     Odile    célibat.  24 juillet Jacqmin François      58611   -    58611   10° 24° 33 25 mai  16 juillet 115
 D                                               1943                                                  1944     1944     1945
-
 6 4442 "         Voussure    Elise    Rosine    28 février Gillis André           95     -     95     24 -     -        -    -
                                       Léa Lucie 1944                                                  1944
-
 6 4443 huit décem de Lalieux  Emile   Niselle   17 fév 1945 Anciaux Marie        629     -    629     1943     -        -    -
 D
-
 6 4444 neuf déc  Heuvels     Alphonsine Niselle 6 janvier  Heuvels Louis        Déclar. supplétive    454     -        -    -
 D                                               1945                                                  1944
-
 6 4445 "         Goisse      Adolphe   "        6 janvier  Schoonheyt Clara      910     -    910     1944     -        -    -
                                                 1945                                                  1945
-```

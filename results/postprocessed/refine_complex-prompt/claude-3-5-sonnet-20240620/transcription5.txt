@@ -1,4 +1,3 @@
-```plaintext
 150 6 mai 1921 Lambeck Valentine Bruxelles 10 mars 1921 Epoux Cauchie et autres 4814 1097 3717 13 mai 1922 19 
 151 " Loiseau Joséphine Etterbeek 9 mars 1921 Veuve Jef Vereecke et autres 6145 6260 9 février 1922 619 
 152 " Vanpée Fabrice " 29 février 1920 " 9400 376 9024 non prescrite 
@@ -8,4 +7,3 @@
 155 " Devreux Jean Bte Nouvelle Chaussée 13 janvier 1921 Héritiers Devreux et autres 2669 2669 non prescrite 
 156 " Scolart Jean Joseph Bruxelles 6 février 1920 Héritiers Jules fils et autres 2081 2081 id. 
 157 28 juin 1921 Defalque Charles Louis Bierges 29 février 1920 Enfants Defalque 18426 7226 11,200 9 février 1922 618 
-```

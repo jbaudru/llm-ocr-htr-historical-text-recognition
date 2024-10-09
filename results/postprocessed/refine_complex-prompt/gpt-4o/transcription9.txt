@@ -1,4 +1,3 @@
-```plaintext
 ("N' d'ordre", " "),
 ("Date du dépôt des déclarations", " "),
 ("Désignation des personnes décédées ou absentes.:", "Nom."),
@@ -19,7 +18,6 @@
 ("Recette des droits et amendes.", "N^03"),
 ("Cautionnements. ", "Numéros de la consignation au sommier n'30"),
 ("Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présente colonne.)", " ")
-
 ("439", "6", "Arrêté le trois décembre 1919 servais", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""),
 ("439", "6", "Knops", "Delvaux", "Nivelles", "4 juillet 1919", "Servais Edmond Nivelles", "Actif malpropre", "51", "189", "", "23 août 1919", "16 novembre 1919", "", "", "", "", "", "", ""),
 ("440", "6", "Depalque", "Eugène", "Nivelles", "4 juillet 1919", "Witmeur Marie Nivelles", "Actif malpropre", "51", "189", "", "23 août 1919", "16 novembre 1919", "", "", "", "", "", "", ""),

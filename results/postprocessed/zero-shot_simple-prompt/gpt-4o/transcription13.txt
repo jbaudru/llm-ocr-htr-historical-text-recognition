@@ -5,7 +5,6 @@ DATE DU DECES
 4 Janvier 1920
 5 Janvier 1920
 6 Janvier 1920
-
 NOMS, PRENOMS
 Séverin Jules
 Dumont Louis
@@ -13,7 +12,6 @@ Hoblin Edgard
 Séverin Jules
 Wandercappen Henri
 Isolas Julien Joseph
-
 DOMICILE
 Gournay
 Gournay
@@ -21,7 +19,6 @@ Gournay
 Gournay
 Gournay
 Gournay
-
 DATE DE NAISSANCE
 4 Février 1849
 7 Février 1849
@@ -29,7 +26,6 @@ DATE DE NAISSANCE
 4 Février 1849
 7 Février 1849
 8 Juillet 1849
-
 DATE DE L'ACTE
 1er Février 1920
 1er Février 1920
@@ -37,5 +33,4 @@ DATE DE L'ACTE
 1er Février 1920
 1er Février 1920
 1er Février 1920
-
 OBSERVATIONS

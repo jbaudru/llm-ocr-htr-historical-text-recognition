@@ -1,4 +1,3 @@
-```plaintext
 441 22 sept 1919 Devillers Joséphine Renaix 9 février 1919 Devillers Jules à Renaix 494 - 494 - 6 - - - - - - - - -
 442 30 Clabecq Fernand Renaix Frameries Delaunois Fernand - - - 541 - - - - - - - - - - -
 - - Arrêté le vingt neuf décembre 1919 Servais - - - - - - - - - - - - - - - - - - -
@@ -12,4 +11,3 @@
 - - Arrêté le vingt trois décembre 1919 Servais - - - - - - - - - - - - - - - - - - -
 442 5 vingt quatre Cauwenberg Victor Joseph Renaix 16 juillet 1919 Goossens célibataire majeur 2662 - 2662 - 1088 - - - - - - - - -
 443 Anthoine Sylvain Renaix 20 mai 1919 Anthoine Marcelle Clotilde à Renaix 1526 - 1526 - - - 6 février 21 avril 1920 - - non passible - - -
-```

@@ -1,4 +1,3 @@
-```plaintext
 ("N' d'ordre", " ")
 ("Date du dépot des déclarations", " ")
 ("Désignation des personnes décédées ou absentes.:", "Nom.")
@@ -19,7 +18,6 @@
 ("Recette des droits et amendes.", "N^03")
 ("Cautionnements. ", "Numéros de la consignation au sommier n'30")
 ("Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)", " ")
-
 6 Arrêté du vingt cinq janvier 1920 servais                                                                                                      
 10  Desflandres Gertrude Elise Ledege 28 Août 1919 Vandermersch Mathilde 600 500 100 177 191                                                    
 10 bis  Yperseiel Julien Gustave Zeleder 15 Septembre 1919 Clement Cecile 200 200 0 177 191                                                    
@@ -32,4 +30,3 @@
 11 bis Arrêté du vingt huit janvier 1920 servais                                                                                                      
 11 ter  Rousseau Charles Nicolas 15 Janvier 1919 Rousseau Louise 500 300 200 177 191                                                    
 11 quater  Dedoncka Eulalie Ledege 20 Août 1919 Vandermersch Mathilde 600 400 200 177 191                                                    
-```

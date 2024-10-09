@@ -1,4 +1,3 @@
-```
 N' d'ordre 
 Date du dépot des déclarations 
 Désignation des personnes décédées ou absentes.: Nom. 
@@ -19,7 +18,6 @@ Recette des droits et amendes. Date
 Recette des droits et amendes. N^03 
 Cautionnements. Numéros de la consignation au sommier n'30 
 Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.) 
-
 418 6 août 1919 Cloquet Elisabeth Wauthier 14 mai 1919 Cloquet Alix 9500 9500 0   23 août 1919 27 mars 1920 1 janvier 1920 1 janvier 1920 55 
 419 6 août 1919 Vincent Edouard Liège 5 août 1919 Vincent Prosper Louis et autres 26000 26000 0   3 janvier 1920 3 janvier 1920 1 janvier 1920 1 janvier 1920 55 
 Arrêté le 7 août 1919 servais 
@@ -28,4 +26,3 @@ Arrêté le 7 août 1919 servais
 Arrêté le 8 août 1919 servais 
 420 6 août 1919 Rousseau Charles Nivelles 6 mai 1919 Rousseau Emile 21000 21000 0   27 août 1919 27 mars 1920 1 janvier 1920 1 janvier 1920 46 
 421 6 août 1919 Lefrancq Henri Louvain 5 mai 1919 Lefrancq Henri Emile 19222 210 19012   27 août 1919 27 mars 1920 1 janvier 1920 1 janvier 1920 46 
-```

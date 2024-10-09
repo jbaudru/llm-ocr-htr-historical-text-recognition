@@ -1,25 +1,25 @@
 Here's the recreation of the table based on the information provided in the image:
 
 ```plaintext
-N' d'ordre | Date du dépot des déclarations | Nom. | Prénoms | Domiciles | Date du décès ou du judgement d'envoi en possession, en cas d'absence. | Noms, Prénoms et demeures des parties déclarantes. | Actif. (2) | Passif. (2) | Restant NET. (2) | Valeur des immeubles. (2) | Primitives. | Supplémentaires. | de l'expiration du délai de rectification. | de l'exigibilité des droits. | Numéros de la consignation des droits au sommier n' 28 | Date | N^03 | Numéros de la consignation au sommier n'30 | Observations
+N' d'ordre  Date du dépot des déclarations  Nom.  Prénoms  Domiciles  Date du décès ou du judgement d'envoi en possession, en cas d'absence.  Noms, Prénoms et demeures des parties déclarantes.  Actif. (2)  Passif. (2)  Restant NET. (2)  Valeur des immeubles. (2)  Primitives.  Supplémentaires.  de l'expiration du délai de rectification.  de l'exigibilité des droits.  Numéros de la consignation des droits au sommier n' 28  Date  N^03  Numéros de la consignation au sommier n'30  Observations
 
-4439 | | Knops | Catherine Nicolle | 17 Boul | Arrêté le trois décembre 1919 servais | Knops Thérese | | | | | 14 | 199 | | | | 26 Nov 1919 17 novembre 1920 | | |
-D | | | | | | | | | | | | | | | | | | |
-4440 | | Defalque | Eugene | Nivelles | Arrêté le quatre décembre 1919 servais | Wautier-Bille Eugenie | 4426 | | 4426 | | | | 15 janvier 1 avril 1920 | 3 mars 1920 | 96 | | |
-D | | | | | | | | | | | | | | | | | | |
-4441 | | Jacqmin | Odile | ephraim | 29 juillet 1919 | Jacqmin François | 58611 | | 58611 | | 105 | 99 | 29 janvier 1920 | 29 juillet 1920 | 115 | | |
-D | | | | | | | | | | | | | | | | | | |
-4442 | | Voussure | Elise | Braine L'alleud | 28 juillet 1919 | Gilles André | 95 | | 95 | | 24 | | | | | | |
-D | | | | | | | | | | | | | | | | | | |
-| | Arrêté le six décembre 1919 servais | | | | | | | | | | | | | | | | |
-| | Arrêté le sept décembre 1919 Dimanche servais | | | | | | | | | | | | | | | | |
-4443 | | de Lalieux | Emile | Nivelles | 17 Aout 1919 | Servais Marie | 629 | | 629 | | | | 1919 | | | | |
-D | | | | | | | | | | | | | | | | | | |
-| | Arrêté le huit décembre 1919 servais | | | | | | | | | | | | | | | | |
-4444 | | Heuvels | Alphonsine | Nivelles | 6 janvier 1919 | Heuvels Louis | | | | | 256 | 199 | | | | | |
-D | | | | | | | | | | | | | | | | | | |
-4445 | | Goisse | Adolphe | " | 6 janvier 1919 | Schoonheyt Clara | 910 | | 910 | | | | 1919 | | | | |
-D | | | | | | | | | | | | | | | | | | |
+4439   Knops  Catherine Nicolle  17 Boul  Arrêté le trois décembre 1919 servais  Knops Thérese      14  199     26 Nov 1919 17 novembre 1920   
+D                   
+4440   Defalque  Eugene  Nivelles  Arrêté le quatre décembre 1919 servais  Wautier-Bille Eugenie  4426   4426     15 janvier 1 avril 1920  3 mars 1920  96   
+D                   
+4441   Jacqmin  Odile  ephraim  29 juillet 1919  Jacqmin François  58611   58611   105  99  29 janvier 1920  29 juillet 1920  115   
+D                   
+4442   Voussure  Elise  Braine L'alleud  28 juillet 1919  Gilles André  95   95   24       
+D                   
+  Arrêté le six décembre 1919 servais                 
+  Arrêté le sept décembre 1919 Dimanche servais                 
+4443   de Lalieux  Emile  Nivelles  17 Aout 1919  Servais Marie  629   629     1919     
+D                   
+  Arrêté le huit décembre 1919 servais                 
+4444   Heuvels  Alphonsine  Nivelles  6 janvier 1919  Heuvels Louis      256  199      
+D                   
+4445   Goisse  Adolphe  "  6 janvier 1919  Schoonheyt Clara  910   910     1919     
+D                   
 ```
 
 Note: Some fields are left blank as they were not filled in the original document. The "D" in the N' d'ordre column seems to be a secondary notation, possibly indicating "Décès" (death).

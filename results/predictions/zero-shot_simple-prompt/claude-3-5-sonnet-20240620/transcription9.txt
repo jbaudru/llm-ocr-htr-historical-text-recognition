@@ -1,10 +1,10 @@
 Here's the transcription of the text from the image in a structured format:
 
 ```plaintext
-N° DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DE DÉCÈS | NOMS, PRÉNOMS | DROITS DE SUCCESSION | DROIT | NUMÉROS | DATE | RECETTE | OBSERVATIONS
-   ou des        |                                                | ou de         |                | (en francs)           | DE     | DES      |      |         |
-   déclarations  | NOMS,      PRÉNOMS,    DOMICILE,               | l'absence     | HÉRITIERS OU PARTIES DÉCLARANTES | ACTIF | PASSIF | MONTANT | MUTATION | ARTICLES |      |         |
-                 |            |           |                       | présumée      |                |       |       | NET    |         |         |      |         |
+N° DATE DU DÉCÈS  DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES  DATE DE DÉCÈS  NOMS, PRÉNOMS  DROITS DE SUCCESSION  DROIT  NUMÉROS  DATE  RECETTE  OBSERVATIONS
+   ou des                                                         ou de                          (en francs)            DE      DES                     
+   déclarations   NOMS,      PRÉNOMS,    DOMICILE,                l'absence      HÉRITIERS OU PARTIES DÉCLARANTES  ACTIF  PASSIF  MONTANT  MUTATION  ARTICLES                
+                                                                présumée                                     NET                                     
 
 6 4439 quatre déc Knops      Catherine Niselle  17°8°41  Knops Théodore          Déclar. supplétive    14    -     -     16 fév. 42   -    -
 D                                                                                                     1942               17 avril 42 1942

@@ -18,10 +18,9 @@
 ("Recette des droits et amendes.", "N^03")
 ("Cautionnements. ", "Numéros de la consignation au sommier n'30")
 ("Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)", " ") 
-
-6 | Arrêté du vingt-quatre décembre 1919 | Tibihaut | Noël | Jemeppe |  | Jacques Henri |  |  |  |  |  |  |  |  |  |  |  |  |  |
-6 | Arrêté du vingt-quatre décembre 1919 | Wautbois | Félix | Baudour |  | Bonvoisin Abel |  |  |  |  |  |  |  |  |  |  |  |  |
-6 | 444 | Arrêté du vingt-quatre décembre 1919 | Jacquet | Emile | Jemeppe |  | Jacquet Emile |  |  |  |  |  |  |  |  |  |  |  |
-6 | 445 | Arrêté du vingt-quatre décembre 1919 | Vanglaire | Guillaume | Jemeppe |  | Vanglaire Henri |  |  |  |  |  |  |  |  |  |  |
-6 | 446 | Arrêté du vingt-quatre décembre 1919 | Plasman | Emile | Jemeppe |  | Vanglaire Henri |  |  |  |  |  |  |  |  |  |  |  |
-6 | 446 | Arrêté du vingt-quatre décembre 1919 | Plasman | Emile | Jemeppe |  | Vanglaire Henri |  |  |  |  |  |  |  |  |  |  |  |
+6  Arrêté du vingt-quatre décembre 1919  Tibihaut  Noël  Jemeppe    Jacques Henri                           
+6  Arrêté du vingt-quatre décembre 1919  Wautbois  Félix  Baudour    Bonvoisin Abel                         
+6  444  Arrêté du vingt-quatre décembre 1919  Jacquet  Emile  Jemeppe    Jacquet Emile                       
+6  445  Arrêté du vingt-quatre décembre 1919  Vanglaire  Guillaume  Jemeppe    Vanglaire Henri                     
+6  446  Arrêté du vingt-quatre décembre 1919  Plasman  Emile  Jemeppe    Vanglaire Henri                       
+6  446  Arrêté du vingt-quatre décembre 1919  Plasman  Emile  Jemeppe    Vanglaire Henri                       

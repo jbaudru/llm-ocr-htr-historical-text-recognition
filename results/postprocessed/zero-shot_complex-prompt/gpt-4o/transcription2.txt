@@ -18,7 +18,6 @@
 ("Recette des droits et amendes.", "N^03")
 ("Cautionnements. ", "Numéros de la consignation au sommier n'30")
 ("Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présnete colonne.)", " ")
-
 6, "6 août 1919", "Norbert", "Florent", "Herseaux", "25 août 1919", "Lepine Henri", 1794, 1794, 0, 0, 20 août 1919, 20 août 1919, 20 août 1919, 20 août 1919, 20 août 1919, 20 août 1919, 20 août 1919, 20 août 1919, 20 août 1919
 6, "6 août 1919", "Chabeau", "Henri", "Herseaux", "25 août 1919", "Lepine Henri", 1794, 1794, 0, 0, 20 août 1919, 20 août 1919, 20 août 1919, 20 août 1919, 20 août 1919, 20 août 1919, 20 août 1919, 20 août 1919, 20 août 1919
 6, "6 août 1919", "Reynens", "Louis", "Athus", "25 août 1919", "Lepine Henri", 1794, 1794, 0, 0, 20 août 1919, 20 août 1919, 20 août 1919, 20 août 1919, 20 août 1919, 20 août 1919, 20 août 1919, 20 août 1919, 20 août 1919
