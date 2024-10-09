@@ -54,7 +54,7 @@ def plot_scores(scores):
     experiments = list(scores.keys())
     
     # Define other models to combine for comparison
-    llm_models = ["gpt-4o", "claude-3-5-sonnet-20240620"]
+    llm_models = ["claude-3-5-sonnet-20240620", "gpt-4o"]
     other_models = ["EasyOCR", "KerasOCR", "Pytesseract", "trOCR"]
 
     # Prepare data for seaborn violin plot (flatten the dictionary into a long format)
@@ -81,10 +81,10 @@ def plot_scores(scores):
     fig, ax = plt.subplots(figsize=(16, 8))  # Increase figure size for better visibility
     
     # Plot the LLM violin plots, grouped by experiment
-    sns.violinplot(x="Methods", y="BLEU Score", hue="Model", data=llm_df, ax=ax, dodge=True, split=True, linewidth=0.75, width=0.75, palette=["#0ea982", "#cc9b7a"])
+    sns.violinplot(x="Methods", y="BLEU Score", hue="Model", data=llm_df, ax=ax, dodge=True, split=False, linewidth=0.75, width=0.75, palette=["#0ea982", "#cc9b7a"])
     
     # Add OCR models violin plot next to LLMs
-    sns.violinplot(x="Model", y="BLEU Score", hue="Model", data=ocr_df, ax=ax, dodge=True, linewidth=0.75, width=0.75, palette=["#abdbe3", "#76b5c5", "#1e81b0", "#063970"])
+    sns.violinplot(x="Model", y="BLEU Score", data=ocr_df, ax=ax, dodge=False, linewidth=0.75, width=0.75, palette=["#abdbe3", "#76b5c5", "#1e81b0", "#063970"])
     
     # Set labels
     ax.set_ylabel('BLEU Score')
@@ -100,14 +100,17 @@ def plot_scores(scores):
     separation_x = len(experiments) - 0.5
     ax.axvline(separation_x, color='gray', linestyle='--')
     
-    ax.set_ylim(-0.1, 1)
+    # Set y-axis to logit scale
+    #ax.set_yscale('logit')
+    ax.set_ylim(-0.1, 0.55) 
+    #ax.set_yscale('symlog')
+    #ax.set_ylim(-1, 1)
 
     # Adjust layout and show the plot
     fig.tight_layout()
     plt.grid(axis='y')
     plt.savefig("results/average-bleu_whole-scans.png", dpi=300)
     plt.show()
-    
     
     
     
