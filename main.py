@@ -72,7 +72,7 @@ def evaluate():
         # save transcription into a text file
         with open(f"data/transcriptions/transcription_ex{i}.txt", "r", encoding="utf-8") as f:
             trans_txt = f.read()
-            print(trans_txt)
+            #print(trans_txt)
 
         trans_lst.append(trans_txt)
         
@@ -86,7 +86,7 @@ def evaluate():
     experiment_folder = os.path.join("results/predictions/", experiment_name)
     os.makedirs(experiment_folder, exist_ok=True)
     
-    for i in tqdm(range(len(img_lst)), ascii=' >='):
+    for i in tqdm(range(10, len(img_lst)), ascii=' >='):
         print("Processing image", img_lst[i])
 
         transcription = trans_lst[i]
