@@ -1,0 +1,17 @@
+```plaintext
+DATE DU DÉPÔT | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | ACTIF | PASSIF | RESTANT NET | NOMS, PRÉNOMS | DATE | NUMÉROS | OBSERVATIONS
+--------------------------------------------------------------------------------------------------------------------------------------
+Arrêté le cinq février 1920 servais
+Arrêté le six février 1920 servais
+Arrêté le sept février 1920 servais
+Arrêté le huit février 1920 Dimanche servais
+Arrêté le neuf février 1920 servais
+616 | 16 février | Soupart | François | Roux | 29 mai 1919 | Pétrieux François & autres | 39101 | 39101 | 26 d | 29 mars 1920 | 11 juin 1920 | 11 juillet 1920
+616 | 16 février | Fève | Léonard | Ligny | 4 juillet 1919 | Fève Adèle & autres | 1200 | 1200 | 9 d | 29 mars 1920
+616 | 16 février | Fiaux | Augustin | Orbay | 7 mars 1919 | Campens Emile | 2051 | 2051 | 9 d | 29 mars 1920
+Arrêté le seize février 1920 servais
+Arrêté le vingt février 1920 servais
+617 | 17 février | Vancutsem | Adolphe | Nivelles | 1 juillet 1919 | Vancutsem Charles & autres | 26681 | 26681 | 26 d | 29 mars 1920 | 10 juillet 1920
+Arrêté le vingt février 1920 servais
+618 | 18 février | Flonrijadis | Jules | Liège | 15 janvier 1919 | Flonrijadis Charles & autres | 39101 | 39101 | 43 d | 29 mars 1920
+```

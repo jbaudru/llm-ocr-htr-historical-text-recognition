@@ -1,0 +1,13 @@
+```plaintext
+DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | ACTIF | PASSIF | RESTANT NET | VALEUR DES IMMEUBLES | DATE | NUMÉROS | DATE | OBSERVATIONS
+1er janvier 1910 | Séverin Jules | 33862 | 33862 | | | 17 février 1920 | 7 mai 1920 | Exigibilité 129
+2 janvier 1910 | Dumont Louis | 369 | 369 | | | 15 mars 1920 | 15 août 1920
+3 janvier 1910 | | | | | | | | 
+4 janvier 1910 | | | | | | | | 
+5 janvier 1910 | | | | | | | | 
+6 janvier 1910 | | | | | | | | 
+5 janvier 1910 | Honlin Edouard | 10772 | 10772 | | | 16 février 1920 | 16 juillet 1920 | Exigibilité 126
+5 janvier 1910 | Séverin Jules | 32663 | 32663 | | | | | 
+5 janvier 1910 | Wanderpepen Marie | 1665 | 1665 | | | 27 janvier 1920
+6 janvier 1910 | Scolas Julien Joseph | 9089 | 9089 | | | 17 février 1920 | 17 juillet 1920 | Exigibilité 126
+```

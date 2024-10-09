@@ -1,0 +1,15 @@
+```plaintext
+6 5 huit janvier 1920 Lefebvre Gustave Casteau 20 août 1919 Nicolas Euphrasie veuve 6750 6750 6750 28 février 1920 28 février 1920
+Arrêté le neuf janvier 1920 Servais
+Arrêté le vingt janvier 1920 Servais
+Arrêté le vingt-cinq janvier 1920 Dimanche Servais
+
+6 5 vingt janvier 1920 Druet Honoré Perwez 2 mai 1919 Regoutte Félix veuve 1200 1200 1200 28 février 1920 1 mars 1920 non passible
+Arrêté le vingt janvier 1920 Servais
+
+6 6 vingt janvier 1920 Sacré Victorine Nivelles 9 juillet 1919 Flouret Adèle veuve 3691 3691 3691 28 février 1920 non passible
+Arrêté le vingt janvier 1920 Servais
+Arrêté le vingt-cinq janvier 1920 Servais
+
+6 7 vingt janvier 1920 Moisebiels Désiré Nivelles 19 juillet 1919 Dronyphile Adèle veuve 14691 14691 14691 28 février 1920 19 mars 1920 non passible 250
+```

@@ -86,7 +86,7 @@ def evaluate():
     experiment_folder = os.path.join("results/predictions/", experiment_name)
     os.makedirs(experiment_folder, exist_ok=True)
     
-    for i in tqdm(range(10, len(img_lst)), ascii=' >='):
+    for i in tqdm(range(len(img_lst)), ascii=' >='):
         print("Processing image", img_lst[i])
 
         transcription = trans_lst[i]
@@ -111,9 +111,7 @@ def evaluate():
                 
                 # One-example / Two-example
                 result = agent.exampleShot(image_path, NbExamples=2)
-                while ("unable" in result) or ("sorry" in result):
-                    result = agent.exampleShot(image_path, NbExamples=2)
-                    print(result)
+                print(result)
                 # Refine
                 #result = agent.refineLayout(res)
                 

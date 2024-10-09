@@ -1,0 +1,7 @@
+```plaintext
+6 8 sixième jour 1920 Leclercq Léonore Braine l'Alleud 6 août 1919 Leclercq Victor & autres 4460 4460 20 février 1920 532 
+6 9 Gerwig Edouard Marie de Braine l'Alleud 8 septembre 1919 Gerwig Henri 350 350 7 février 1920 50 
+6 9 Arez Joseph de Braine l'Alleud 6 août 1919 Arez Gérard 350 350 7 février 1920 50 
+6 9 Becquet Marcel Bousval 7 mai 1919 Becquet Henri 551 551 20 février 1920 204 
+6 10 Duvieux Henri Nivelles 24 juillet 1919 Duvieux Louis & autres 111 553 555 109 960 17 mars 1920 420 
+```

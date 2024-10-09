@@ -1,0 +1,5 @@
+```plaintext
+6 469^2 d Deneys Jérôme Clabecq 4 août 1919 Deneys Emmanuel 921 921 469 469
+6 469^3 d Delise Victor Quenast 1er août 1919 Lefebvre Emilie 4475 4475 470 470
+6 469^4 d Boisdenghien Henri Quenast 1er août 1919 Boisdenghien Martine & autres 6294 6294 471 471
+```

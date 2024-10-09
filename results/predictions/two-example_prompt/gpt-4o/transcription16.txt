@@ -1,0 +1,11 @@
+```plaintext
+DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | ACTIF | PASSIF | NET
+6 9bre | Desflandre Gertrude Désirée | 600 | 500 | 100
+6 9bre | Ypersiel Julien Ghislain | 200 | 200 | 0
+10 9bre | Bordenave Louis | 300 | 200 | 100
+10 9bre | Decock Léonie | 500 | 500 | 0
+10 9bre | Decock Léonie | 500 | 500 | 0
+11 9bre | Dolendries Anselme | 1950 | 1950 | 0
+11 9bre | Rousseau Désiré | 600 | 600 | 0
+11 9bre | Dedoncka Louis | 600 | 600 | 0
+```
