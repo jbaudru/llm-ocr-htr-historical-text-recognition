@@ -1,4 +1,3 @@
-```plaintext
 4439  Knops Catherine Nicolle  17 Boul. Servais  3 décembre 1919  Knops Thérèse  14  199  26 Nov 1919 17 mai 1920 1920
 4440  Defalque Eugène  Nivelles  17 mai 1919  Wautier-Braine Auguste  4426  4426  16 janvier 17 mai 1920  3 mai 1920  96
 Arrêté le quatre décembre 1919 Servais
@@ -10,4 +9,3 @@ Arrêté le sept décembre 1919 Dimanche Servais
 Arrêté le huit décembre 1919 Servais
 4444  Heuvels Alphonsine  Nivelles  6 janvier 1919  Heuvels Louis  454  199
 4445  Goisse Adolphe  6 janvier 1919  Schoonheyt Clara  910  910  461
-```
