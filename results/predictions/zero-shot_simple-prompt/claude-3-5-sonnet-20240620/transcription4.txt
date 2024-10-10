@@ -1,9 +1,9 @@
 Here's a transcription of the text from the image in a structured format:
 
 ```plaintext
-N° DATE DE DÉPÔT | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DU DÉCÈS ou de l'absence présumée | NOMS, PRÉNOMS | DROITS DE SUCCESSION | DROIT | NUMÉROS | DATE | RECETTE | OBSERVATIONS
-   DE LA        |                                                |                                         | DEMEURES DES PARTIES DÉCLARANTES | de mutation par décès | PERÇU | des      | de      | DROITS  |
-   DÉCLARATION  | NOMS           | PRÉNOMS       | DOMICILES     |                                         |                   | ACTIF | PASSIF | NET    | CONSTATÉS |         | articles | l'enregistrement | ET AMENDES |
+N° DATE DE DÉPÔT  DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES  DATE DU DÉCÈS ou de l'absence présumée  NOMS, PRÉNOMS  DROITS DE SUCCESSION  DROIT  NUMÉROS  DATE  RECETTE  OBSERVATIONS
+   DE LA                                                                                                  DEMEURES DES PARTIES DÉCLARANTES  de mutation par décès  PERÇU  des       de       DROITS  
+   DÉCLARATION   NOMS            PRÉNOMS        DOMICILES                                                                  ACTIF  PASSIF  NET     CONSTATÉS           articles  l'enregistrement  ET AMENDES 
 
 419 24 novembre   Siemans         Charles        Gilly           29 avril 1919    Bourlet Albertine                 5885    249    5595                  39.93                   24/11/19  322     
                                                                                                                                                                                   24 janvier 1920  29

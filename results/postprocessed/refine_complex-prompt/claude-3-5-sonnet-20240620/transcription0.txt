@@ -11,4 +11,8 @@ Arrêté le deux novembre 1919 Dimanche servais
 400 Monseux Renault Henri Chastre 1 8/1918 Monseux Gustave 69520 24415 45105 25 30 1 août 1919
 401 Bouty Henri Braine l'Alleud 25 juin 1919 Bouty Désiré et Elise 22198 22198 15 30 22 8/1919 Non passible
 Arrêté le trois novembre 1919 servais
+<<<<<<< HEAD
 402 Godart Rosalie Nivelles 22 mai 1919 Thème Gustave 11859 11859 216 15 30 22 mai 1920 18 novembre 20
+=======
+402 Godart Rosalie Nivelles 22 mai 1919 Thème Gustave 11859 11859 216 15 30 22 mai 1920 18 novembre 20
+>>>>>>> origin/main

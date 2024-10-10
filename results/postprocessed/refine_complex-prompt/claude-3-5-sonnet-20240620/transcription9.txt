@@ -8,4 +8,8 @@ Arrêté le sept décembre 1919 Dimanche Servais
 4443  de Lalieux Emile  Nivelles  7 fév 1919  Servais Louise  629  629  193
 Arrêté le huit décembre 1919 Servais
 4444  Heuvels Alphonsine  Nivelles  6 janvier 1919  Heuvels Louis  454  199
+<<<<<<< HEAD
 4445  Goisse Adolphe  6 janvier 1919  Schoonheyt Clara  910  910  461
+=======
+4445  Goisse Adolphe  6 janvier 1919  Schoonheyt Clara  910  910  461
+>>>>>>> origin/main

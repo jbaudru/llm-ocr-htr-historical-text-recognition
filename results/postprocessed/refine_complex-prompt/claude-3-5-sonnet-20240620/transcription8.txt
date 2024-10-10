@@ -11,4 +11,8 @@ Arrêté le trente novembre 1919 Dimanche Servais
 439 " Painblanc Emmanuel " 23 " 1851 " " 2292   2292   
 Arrêté le premier décembre 1919 Servais
 439 deux février Charlier Jean Bte Châtelet 29 juillet 1849 Châtelet 30 janvier 1920 Châtelet 7 rue du Calvaire 3000 - 3000 91 
+<<<<<<< HEAD
 Arrêté le deux décembre 1919 Servais
+=======
+Arrêté le deux décembre 1919 Servais
+>>>>>>> origin/main

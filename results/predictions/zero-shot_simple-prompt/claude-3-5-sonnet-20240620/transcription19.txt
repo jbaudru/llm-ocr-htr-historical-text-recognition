@@ -1,9 +1,9 @@
 Here's the transcription of the text from the image in a structured format:
 
 ```plaintext
-N° DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | NOMS, PRÉNOMS | DROITS DE SUCCESSION | DROIT | NUMÉROS | DATE | RECETTE | OBSERVATIONS
-   |              | NOMS,     PRÉNOMS,   DOMICILE               |                | DE MUTATION EN LIGNE DIRECTE | D'ENREGISTREMENT | du | de | DROITS | CAPITAUX
-   |              |                                             |                | ACTIF, PASSIF, RÉSULTAT NET  |                 | répertoire | l'enregistrement | PERÇUS | DÉCLARÉS
+N° DATE DU DÉCÈS  DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES  NOMS, PRÉNOMS  DROITS DE SUCCESSION  DROIT  NUMÉROS  DATE  RECETTE  OBSERVATIONS
+                  NOMS,     PRÉNOMS,   DOMICILE                                DE MUTATION EN LIGNE DIRECTE  D'ENREGISTREMENT  du  de  DROITS  CAPITAUX
+                                                                               ACTIF, PASSIF, RÉSULTAT NET                    répertoire  l'enregistrement  PERÇUS  DÉCLARÉS
 
    Arrêté le treize janvier 1920 (signé)
    Arrêté le quatorze janvier 1920 (signé)

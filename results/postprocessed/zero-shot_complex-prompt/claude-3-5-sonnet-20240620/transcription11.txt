@@ -1,13 +1,13 @@
-N' d'ordre | Date du dépot des déclarations | Nom. | Prénoms | Domiciles | Date du décès ou du judgement d'envoi en possession, en cas d'absence. | Noms, Prénoms et demeures des parties déclarantes. | Actif. (2) | Passif. (2) | Restant NET. (2) | Valeur des immeubles. (2) | Primitives. | Supplémentaires. | de l'expiration du délai de rectification. | de l'exigibilité des droits. | Numéros de la consignation des droits au sommier n' 28 | Date | N^03 | Numéros de la consignation au sommier n'30 | Observations
-441 | 22 mai 1919 | Devillers | Josephine | Renaix 9 février 1919 | 9 février 1919 | Devillers Jules à Renaix | 494 | - | 494 | - | 6 | - | - | - | - | - | - | - | -
-442 | 30 | Clabecq | Fernand | Renaix | Inconnu | Delaunois Désiré | - | - | - | - | 4 | - | - | - | - | - | - | - | -
-- | - | Arrêté le vingt neuf décembre 1919 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
-- | - | Arrêté le vingt février 1919 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
-- | - | Arrêté le vingt-un décembre 1919 Dimanche servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
-442 | vingt juin | Gilbert | Clementine | Estaing | 20 février 1919 | Danguillecourt Louis à Evreux 2 avenue Jle | 7415 | - | 7415 | - | - | - | 5 février 1920 | - | - | 5 juillet 1920 | - | - | -
-442 | 30 | Paesmans | René | Renaix 21 mars 1919 | 21 mars 1919 | Paesmans Henri | 9551 | - | 9551 | - | 445 | - | - | - | - | 6 Août 1920 | 24 | - | -
-442 | 30 | Winne | Maria | Renaix | 8 avril 1919 | Winne Jules | 1646 | - | 1646 | - | 660 | - | - | - | - | 5 janvier 1921 | 8 | - | -
-442 | 30 | Mathieu | Ferdinan | Renaix | 11 mars 1919 | Bourgeois Désiré | 115731 | - | 115731 | - | 675 | - | - | - | - | - | - | - | -
-- | - | Arrêté le vingt deux décembre 1919 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
-- | - | Arrêté le vingt trois décembre 1919 servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
-442 | vingt quatre juin | Cau
+N' d'ordre  Date du dépot des déclarations  Nom.  Prénoms  Domiciles  Date du décès ou du judgement d'envoi en possession, en cas d'absence.  Noms, Prénoms et demeures des parties déclarantes.  Actif. (2)  Passif. (2)  Restant NET. (2)  Valeur des immeubles. (2)  Primitives.  Supplémentaires.  de l'expiration du délai de rectification.  de l'exigibilité des droits.  Numéros de la consignation des droits au sommier n' 28  Date  N^03  Numéros de la consignation au sommier n'30  Observations
+441  22 mai 1919  Devillers  Josephine  Renaix 9 février 1919  9 février 1919  Devillers Jules à Renaix  494  -  494  -  6  -  -  -  -  -  -  -  -
+442  30  Clabecq  Fernand  Renaix  Inconnu  Delaunois Désiré  -  -  -  -  4  -  -  -  -  -  -  -  -
+-  -  Arrêté le vingt neuf décembre 1919 servais  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+-  -  Arrêté le vingt février 1919 servais  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+-  -  Arrêté le vingt-un décembre 1919 Dimanche servais  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+442  vingt juin  Gilbert  Clementine  Estaing  20 février 1919  Danguillecourt Louis à Evreux 2 avenue Jle  7415  -  7415  -  -  -  5 février 1920  -  -  5 juillet 1920  -  -  -
+442  30  Paesmans  René  Renaix 21 mars 1919  21 mars 1919  Paesmans Henri  9551  -  9551  -  445  -  -  -  -  6 Août 1920  24  -  -
+442  30  Winne  Maria  Renaix  8 avril 1919  Winne Jules  1646  -  1646  -  660  -  -  -  -  5 janvier 1921  8  -  -
+442  30  Mathieu  Ferdinan  Renaix  11 mars 1919  Bourgeois Désiré  115731  -  115731  -  675  -  -  -  -  -  -  -  -
+-  -  Arrêté le vingt deux décembre 1919 servais  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+-  -  Arrêté le vingt trois décembre 1919 servais  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+442  vingt quatre juin  Cau

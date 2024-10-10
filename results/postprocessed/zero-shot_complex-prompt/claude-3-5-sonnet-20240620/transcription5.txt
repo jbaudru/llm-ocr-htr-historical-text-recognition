@@ -1,19 +1,10 @@
-N' d'ordre | Date du dépot des déclarations | Nom. | Prénoms | Domiciles | Date du décès ou du judgement d'envoi en possession, en cas d'absence. | Noms, Prénoms et demeures des parties déclarantes. | Actif. (2) | Passif. (2) | Restant NET. (2) | Valeur des immeubles. (2) | Primitives. | Supplémentaires. | de l'expiration du délai de rectification. | de l'exigibilité des droits. | Numéros de la consignation des droits au sommier n' 28 | Date | N^03 | Numéros de la consignation au sommier n'30 | Observations
-
-150 | 6 mai 1921 | Lambeck | Valentine | Bruxelles | 10 mars 1921 | Epoux Cauchie et autres | 4814 | 1097 | 3717 | | | | | | | 13 mai 1922 | 19 | |
-
-151 | " | Loiseau | Josephine | Etterbeek | 9 mars 1921 | Veuve Jef Vereecke et autres | 6145 | | 6260 | | | | | | | 9 février 1922 | 619 | |
-
-152 | " | Vanpée | Fabrice | " | 29 février 1920 | " | 9400 | 376 | 9024 | | | | | | | non prescrite | | |
-
-153 | " | Delabij | Joachim Joseph | Bruxelles | 13 janvier 1921 | Veuve Jean Delabij, Bruxelles | 2290 | 566 | 1724 | | | | | | | non prescrite | | |
-
-153bis | 25 juin 1921 | Charlier | Florianne | Bruxelles | 8 avril 1920 | Veuve Jules et fille | 861 | | | | | | 25 juin 1922 | | | | | |
-
-154 | 27 juin 1921 | Froment | Georges | Bruxelles | 28 février 1921 | Veuve Demeure, Juliette | 116,928 | 1369 | 115,559 | | | | 27 juin 1922 | | | 9 janvier 1922 | 129 | |
-
-155 | " | Devreux | Jean Bte | Nouvelle Chaussée | 13 janvier 1921 | Héritiers Devreux et autres | 2669 | | 2669 | | | | | | | non prescrite | | |
-
-156 | " | Scolart | Jean Joseph | Bruxelles | 6 février 1920 | Héritiers Jules fils et autres | 2081 | | 2081 | | | | | | | id. | | |
-
-157 | 28 juin 1921 | Defalque | Charles Louis | Bierges | 29 février 1920 | Enfants Defalque | 18426 | 7226 | 11,200 | | | | | | | 9 février 1922 | 618 | |
+N' d'ordre  Date du dépot des déclarations  Nom.  Prénoms  Domiciles  Date du décès ou du judgement d'envoi en possession, en cas d'absence.  Noms, Prénoms et demeures des parties déclarantes.  Actif. (2)  Passif. (2)  Restant NET. (2)  Valeur des immeubles. (2)  Primitives.  Supplémentaires.  de l'expiration du délai de rectification.  de l'exigibilité des droits.  Numéros de la consignation des droits au sommier n' 28  Date  N^03  Numéros de la consignation au sommier n'30  Observations
+150  6 mai 1921  Lambeck  Valentine  Bruxelles  10 mars 1921  Epoux Cauchie et autres  4814  1097  3717        13 mai 1922  19  
+151  "  Loiseau  Josephine  Etterbeek  9 mars 1921  Veuve Jef Vereecke et autres  6145   6260        9 février 1922  619  
+152  "  Vanpée  Fabrice  "  29 février 1920  "  9400  376  9024        non prescrite   
+153  "  Delabij  Joachim Joseph  Bruxelles  13 janvier 1921  Veuve Jean Delabij, Bruxelles  2290  566  1724        non prescrite   
+153bis  25 juin 1921  Charlier  Florianne  Bruxelles  8 avril 1920  Veuve Jules et fille  861       25 juin 1922      
+154  27 juin 1921  Froment  Georges  Bruxelles  28 février 1921  Veuve Demeure, Juliette  116,928  1369  115,559     27 juin 1922    9 janvier 1922  129  
+155  "  Devreux  Jean Bte  Nouvelle Chaussée  13 janvier 1921  Héritiers Devreux et autres  2669   2669        non prescrite   
+156  "  Scolart  Jean Joseph  Bruxelles  6 février 1920  Héritiers Jules fils et autres  2081   2081        id.   
+157  28 juin 1921  Defalque  Charles Louis  Bierges  29 février 1920  Enfants Defalque  18426  7226  11,200        9 février 1922  618  

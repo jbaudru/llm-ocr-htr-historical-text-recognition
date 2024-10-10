@@ -72,7 +72,7 @@ def evaluate():
         # save transcription into a text file
         with open(f"data/transcriptions/transcription_ex{i}.txt", "r", encoding="utf-8") as f:
             trans_txt = f.read()
-            print(trans_txt)
+            #print(trans_txt)
 
         trans_lst.append(trans_txt)
         
@@ -111,9 +111,7 @@ def evaluate():
                 
                 # One-example / Two-example
                 result = agent.exampleShot(image_path, NbExamples=2)
-                while ("unable" in result) or ("sorry" in result):
-                    result = agent.exampleShot(image_path, NbExamples=2)
-                    print(result)
+                print(result)
                 # Refine
                 #result = agent.refineLayout(res)
                 

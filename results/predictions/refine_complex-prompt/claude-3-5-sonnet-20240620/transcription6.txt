@@ -1,13 +1,13 @@
 I apologize for the errors in my previous transcription. I'll refine the transcription based on your feedback, focusing on accurately capturing names, locations, dates, and numbers as they appear in the image. Here's the refined version:
 
 ```plaintext
-N° d'ordre | Date du dépôt des déclarations | Nom. | Prénoms | Domiciles | Date du décès ou du jugement d'envoi en possession, en cas d'absence. | Noms, Prénoms et demeures des parties déclarantes. | Actif. (2) | Passif. (2) | Restant NET. (2) | Valeur des immeubles. (2) | Primitives. | Supplémentaires. | de l'expiration du délai de rectification. | de l'exigibilité des droits. | Numéros de la consignation des droits au sommier n° 28 | Date | N°s | Numéros de la consignation au sommier n°30 | Observations
+N° d'ordre  Date du dépôt des déclarations  Nom.  Prénoms  Domiciles  Date du décès ou du jugement d'envoi en possession, en cas d'absence.  Noms, Prénoms et demeures des parties déclarantes.  Actif. (2)  Passif. (2)  Restant NET. (2)  Valeur des immeubles. (2)  Primitives.  Supplémentaires.  de l'expiration du délai de rectification.  de l'exigibilité des droits.  Numéros de la consignation des droits au sommier n° 28  Date  N°s  Numéros de la consignation au sommier n°30  Observations
 
-145 | vingt sept juin | Luyer | Charles Louis Désiré | Ixelles | 17 Avril | Van Ackere Julienne et autres | 5111 | 1112 | 3999 | | | | | 28 Avril 1920 10 Avril 1921 | | | | |
+145  vingt sept juin  Luyer  Charles Louis Désiré  Ixelles  17 Avril  Van Ackere Julienne et autres  5111  1112  3999      28 Avril 1920 10 Avril 1921     
 
 Arrêté le dix sept juin 1921 Servais
 
-146 | dix huit juin | Masson | Jean Bte | Bruxelles | 19 février | Rens Thérèse | 12395 | 376 | 12019 | | | | | 31-8-19 19/9 | | | | |
+146  dix huit juin  Masson  Jean Bte  Bruxelles  19 février  Rens Thérèse  12395  376  12019      31-8-19 19/9     
 
 Arrêté le dix huit juin 1921 Servais
 
@@ -15,7 +15,7 @@ Arrêté le vingt neuf juin 1921 Dimanche Servais
 
 Arrêté le vingt juin 1921 Servais
 
-147 | vingt cinq juin | Schliez | Jean Bte | Etterbeek | 13 mars 1914 | Schliez Désiré et autres | 1902 | 236 | 1666 | | | | | non passible | | | | |
+147  vingt cinq juin  Schliez  Jean Bte  Etterbeek  13 mars 1914  Schliez Désiré et autres  1902  236  1666      non passible     
 
 Arrêté le vingt un juin 1921 Servais
 
@@ -23,7 +23,7 @@ Arrêté le vingt deux juin 1921 Servais
 
 Arrêté le vingt trois juin 1921 Servais
 
-148 | vingt quatre juin | Dasset | Emmanuel Joseph | Jemappes | 15 juillet 1920 | Graux Emilie et autres | 9191 | 1229 | 7962 | 150 | | | | | | 6 janvier 1920 1921 | | |
+148  vingt quatre juin  Dasset  Emmanuel Joseph  Jemappes  15 juillet 1920  Graux Emilie et autres  9191  1229  7962  150       6 janvier 1920 1921   
 
-149 | " | Kegelart | Constant Jh Ghislain | Stambruges | 12 mai 1920 | Kegelart Elisabeth et autres | 3236 | 125 | 3111 | | | | | non passible | | | | |
+149  "  Kegelart  Constant Jh Ghislain  Stambruges  12 mai 1920  Kegelart Elisabeth et autres  3236  125  3111      non passible     
 ```

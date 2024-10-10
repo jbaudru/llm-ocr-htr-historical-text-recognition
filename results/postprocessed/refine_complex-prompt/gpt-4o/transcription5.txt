@@ -1,4 +1,3 @@
-```plaintext
 150 6 août 1924 Sambert Clémentine Nivelles 6 août 1924 Grégoire Clémentine veuve Sambert 2686 4269 1583 16 août 1924 19 août 1924 16 août 1924 19 
 151 6 août 1924 Leveau Joséphine Tamines 6 août 1924 Masset Joseph veuve Leveau 6160 6160 0 7 août 1924 16 août 1924 7 août 1924 16 non parvenue 
 152 6 août 1924 Vanpee Marie 29 juillet 1924 6 août 1924 4924 4924 0 7 août 1924 16 août 1924 7 août 1924 16 non parvenue 
@@ -11,4 +10,3 @@
 158 6 août 1924 Seolas Jean Joseph Nivelles 6 août 1924 Seolas Jules veuve Seolas 2686 2686 0 7 août 1924 16 août 1924 7 août 1924 16 
 159 6 août 1924 Arrêté le 6 août 1924 servais 
 160 6 août 1924 Desfalque Clémentine Nivelles 6 août 1924 Desfalque Charles veuve Desfalque 17024 1364 15660 7 août 1924 16 août 1924 7 août 1924 16 non parvenue 
-```

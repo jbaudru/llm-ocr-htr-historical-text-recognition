@@ -1,4 +1,3 @@
-```plaintext
 N' d'ordre 
 Date du dépôt des déclarations 
 Désignation des personnes décédées ou absentes.: Nom.
@@ -19,7 +18,6 @@ Recette des droits et amendes. Date
 Recette des droits et amendes. N^03
 Cautionnements.  Numéros de la consignation au sommier n'30
 Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présente colonne.)
-
 6 Arrêté du vingt-quatre décembre 1919 Thibaut Noël Bourlers                                                                     
 6 Arrêté du vingt-quatre décembre 1919 Wautbois Célie Bourlers  Jacquet Louis                                                                
 6 444 Jacquet Emile Emerson décembre 19 Jacquet Emile 66649 40449                                                                
@@ -28,4 +26,3 @@ Observations (les déclarations qui figurent à l'état n'413 doivent être éma
 6 446 Vanglaire Guillaume Bourlers  Jacquet Louis 200                                                                
 6 Arrêté du vingt-quatre décembre 1919 Plasman                                                                     
 6 Arrêté du vingt-quatre décembre 1919 Plasman                                                                 
-```

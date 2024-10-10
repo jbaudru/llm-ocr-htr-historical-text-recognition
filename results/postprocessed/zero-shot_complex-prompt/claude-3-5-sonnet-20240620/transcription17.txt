@@ -1,15 +1,8 @@
-N' d'ordre | Date du dépot des déclarations | Nom | Prénoms | Domiciles | Date du décès ou du judgement d'envoi en possession, en cas d'absence. | Noms, Prénoms et demeures des parties déclarantes. | Actif. (2) | Passif. (2) | Restant NET. (2) | Valeur des immeubles. (2) | Primitives. | Supplémentaires. | de l'expiration du délai de rectification. | de l'exigibilité des droits. | Numéros de la consignation des droits au sommier n' 28 | Date | N^03 | Numéros de la consignation au sommier n'30 | Observations
-
-12 | deux février | Carlier | Oscar | Grammont | 15 janvier 1920 | Carlier Vital à Lessines | 6199 | 109 | 6090 | - | - | - | 15 mars 1920 | 15 août 1920 | - | 10 février 1920 | - | - | -
-
-13 | vingt février 1920 | Longe | Célestin | Bassilly | 29 juillet 1919 | Delrue Thomas à Bassilly | 1526 | - | 1526 | - | - | - | 15 3^e | 29 janvier 1920 | - | - | - | - | non passible
-
-14 | d^o | Segain | Emile Henri | Flobecq | 9 août 1919 | Tanghe Jules à Lessines | 9915 | 3266 | 6649 | - | 1915 | 1919 | 15 3^e | 9 février 1920 | - | 9 février 1920 | - | - | 9 février 1920 131 (provisoire) 265
-
-15 | cinq février | Kairez | Louis Catherine | Lessines | 9 août 1919 | Blondeau Alphonse à Lessines | 1190 | - | 1190 | - | - | - | 15 3^e | 9 juin 1920 | - | - | - | - | non passible
-
-15² | d^o | Denys | Louis Auguste | Flobecq | 19 janvier 1920 | Denise Emile | Déclaration négative | - | - | - | 191 | 1920 | - | 1 février 1920 | - | - | - | - | -
-
-15³ | d^o | Vanderelstraeten | Georges Charles | Ellezelles | 29 août 1919 | Cuvpens Emile | 3554 | - | 3554 | - | - | - | 3/15 | 1920 | - | - | - | - | -
-
-15⁴ | d^o | Lamblance | Joseph | Bievene | 1 janvier 1920 | Dery Florimond à Bievene | 2268 | - | 2268 | - | - | - | 15/3 | 1920 | - | - | - | - | -
+N' d'ordre  Date du dépot des déclarations  Nom  Prénoms  Domiciles  Date du décès ou du judgement d'envoi en possession, en cas d'absence.  Noms, Prénoms et demeures des parties déclarantes.  Actif. (2)  Passif. (2)  Restant NET. (2)  Valeur des immeubles. (2)  Primitives.  Supplémentaires.  de l'expiration du délai de rectification.  de l'exigibilité des droits.  Numéros de la consignation des droits au sommier n' 28  Date  N^03  Numéros de la consignation au sommier n'30  Observations
+12  deux février  Carlier  Oscar  Grammont  15 janvier 1920  Carlier Vital à Lessines  6199  109  6090  -  -  -  15 mars 1920  15 août 1920  -  10 février 1920  -  -  -
+13  vingt février 1920  Longe  Célestin  Bassilly  29 juillet 1919  Delrue Thomas à Bassilly  1526  -  1526  -  -  -  15 3^e  29 janvier 1920  -  -  -  -  non passible
+14  d^o  Segain  Emile Henri  Flobecq  9 août 1919  Tanghe Jules à Lessines  9915  3266  6649  -  1915  1919  15 3^e  9 février 1920  -  9 février 1920  -  -  9 février 1920 131 (provisoire) 265
+15  cinq février  Kairez  Louis Catherine  Lessines  9 août 1919  Blondeau Alphonse à Lessines  1190  -  1190  -  -  -  15 3^e  9 juin 1920  -  -  -  -  non passible
+15²  d^o  Denys  Louis Auguste  Flobecq  19 janvier 1920  Denise Emile  Déclaration négative  -  -  -  191  1920  -  1 février 1920  -  -  -  -  -
+15³  d^o  Vanderelstraeten  Georges Charles  Ellezelles  29 août 1919  Cuvpens Emile  3554  -  3554  -  -  -  3/15  1920  -  -  -  -  -
+15⁴  d^o  Lamblance  Joseph  Bievene  1 janvier 1920  Dery Florimond à Bievene  2268  -  2268  -  -  -  15/3  1920  -  -  -  -  -

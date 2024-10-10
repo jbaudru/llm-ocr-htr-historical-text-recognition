@@ -1,17 +1,17 @@
 I apologize for the errors in my previous transcription. I'll refine the transcription based on your feedback, paying closer attention to names, locations, dates, and numbers. Here's the revised version:
 
 ```plaintext
-N° d'ordre | Date du dépôt des déclarations | Nom. | Prénoms | Domiciles | Date du décès ou du jugement d'envoi en possession, en cas d'absence. | Noms, Prénoms et demeures des parties déclarantes. | Actif. (2) | Passif. (2) | Restant NET. (2) | Valeur des immeubles. (2) | Primitives. | Supplémentaires. | de l'expiration du délai de rectification. | de l'exigibilité des droits. | Numéros de la consignation des droits au sommier n° 28 | Date | N°s | Numéros de la consignation au sommier n°30 | Observations
----------|--------------------------------|------|---------|-----------|----------------------------------------------------------|---------------------------------------------------|------------|-------------|------------------|---------------------------|-------------|-------------------|-------------------------------------------|-------------------------------|--------------------------------------------------|------|-----|-------------------------------------------|-------------
-6446 | 29 déc | Devrez | Zénaïs | Wasseiges | 9 8bre 1919 | Devrez Fernand | 941 | - | 941 | 941 | 44.60 | - | - | - | - | - | - | - | -
-- | Arrêté le vingt décembre 1919 Servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
-6447 | 29 déc | Delisse | Vital | Gesves | 1 8bre 1919 | Lefèvre Emile | 5595 | - | 5595 | 100 | - | - | - | - | - | - | - | - | -
-- | Arrêté le vingt décembre 1919 Servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
-- | Arrêté le trente décembre 1919 Servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
-- | Arrêté le trente-un décembre 1919 dimanche Servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
-- | Arrêté le quinze janvier 1920 Servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
-- | Arrêté le seize janvier 1920 Servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
-6448 | 31 déc | Boidenghien | Louis | Gesves | 18 mars 1919 | Veuve Boidenghien et autres | 22396 | - | 22396 | 620 | - | - | - | - | - | - | - | - | -
-- | Arrêté le dix sept janvier 1920 Servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
-- | Arrêté le dix huit janvier 1920 Servais | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | - | -
+N° d'ordre  Date du dépôt des déclarations  Nom.  Prénoms  Domiciles  Date du décès ou du jugement d'envoi en possession, en cas d'absence.  Noms, Prénoms et demeures des parties déclarantes.  Actif. (2)  Passif. (2)  Restant NET. (2)  Valeur des immeubles. (2)  Primitives.  Supplémentaires.  de l'expiration du délai de rectification.  de l'exigibilité des droits.  Numéros de la consignation des droits au sommier n° 28  Date  N°s  Numéros de la consignation au sommier n°30  Observations
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6446  29 déc  Devrez  Zénaïs  Wasseiges  9 8bre 1919  Devrez Fernand  941  -  941  941  44.60  -  -  -  -  -  -  -  -
+-  Arrêté le vingt décembre 1919 Servais  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+6447  29 déc  Delisse  Vital  Gesves  1 8bre 1919  Lefèvre Emile  5595  -  5595  100  -  -  -  -  -  -  -  -  -
+-  Arrêté le vingt décembre 1919 Servais  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+-  Arrêté le trente décembre 1919 Servais  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+-  Arrêté le trente-un décembre 1919 dimanche Servais  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+-  Arrêté le quinze janvier 1920 Servais  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+-  Arrêté le seize janvier 1920 Servais  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+6448  31 déc  Boidenghien  Louis  Gesves  18 mars 1919  Veuve Boidenghien et autres  22396  -  22396  620  -  -  -  -  -  -  -  -  -
+-  Arrêté le dix sept janvier 1920 Servais  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+-  Arrêté le dix huit janvier 1920 Servais  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
 ```

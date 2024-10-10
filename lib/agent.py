@@ -354,7 +354,7 @@ class Agent:
                         {example}
                         ```
                         Compare what you read initially and the solution key in ```plaintext block. Recreate the content of the table in this image. Only that, no other information from you.
-
+                        
                         """
                     },
                     {
@@ -366,6 +366,9 @@ class Agent:
                     ]
                 }
             ]
+            
+            # Force OpenAI
+            # Even if it is hard to read the texts from the image, return as much as you can. You must read something. Do not return an apologetic message.
 
             system_prompt = None
         return self.call(prompt="", max_tokens=3000, base64_image=base64_image, message=message, system=system_prompt)

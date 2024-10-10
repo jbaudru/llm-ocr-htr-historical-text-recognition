@@ -1,4 +1,3 @@
-```plaintext
 150  6  Sambot  Clémentine  Nivelles  19 mai 1924  Grégoire  2686  4269  1583  1583  19  1924
 151  6  Leveau  Joséphine  Chastre  7 août 1924  Joseph  6160  6160  0  0  6
 152  6  Vanpee  Marie  29 août 1924  4924  4924  0  0  6
@@ -11,4 +10,3 @@
 158  6  Seolas  Jean Joseph  Bruxelles  19 mai 1924  Louis  2683  2683  0  0  6
 159  6  Arrêté le 19 mai 1924 servais
 160  6  Desfalque  Clémentine  Nivelles  29 août 1924  Sylvain  17020  13654  3366  3366  6  1924
-```

@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
 import os
+import pandas as pd
 from tqdm import tqdm
 
 tools = Tools()
@@ -13,7 +14,7 @@ def calculate_average_bleu(scores):
 def collect_bleu_scores(base_path):
     experiments = ["zero-shot_simple-prompt", "zero-shot_complex-prompt", "one-example_prompt", "two-example_prompt", "refine_complex-prompt"]
     #models = ["claude-3-5-sonnet-20240620", "gpt-4o", "EasyOCR", "KerasOCR", "Pytesseract", "trOCR"]
-    models = ["claude-3-5-sonnet-20240620", "gpt-4o", "EasyOCR", "KerasOCR", "Pytesseract"]
+    models = ["claude-3-5-sonnet-20240620", "gpt-4o", "EasyOCR", "KerasOCR", "Pytesseract", "trOCR"]
     
     bleu_scores = {exp: {model: [] for model in models} for exp in experiments}
     cer_scores = {exp: {model: [] for model in models} for exp in experiments}
@@ -21,107 +22,101 @@ def collect_bleu_scores(base_path):
     for exp in tqdm(experiments, desc=f"Processing experiments", leave=False, ascii=' >='):
         for model in tqdm(models, desc=f"Processing methods", leave=False, ascii=' >='):
             for i in tqdm(range(20), desc=f"Processing texts", leave=False, ascii=' >='):
-                if(exp=="one-example_prompt" and i==2):
-                    print("DEBUG: expertiment: ", exp, " file: ", i, "ignored")
+                # TODO: Check that this is actually ignoring files
+                if exp == "one-example_prompt" and i == 1:
                     continue
-                elif(exp=="two-example_prompt" and (i==2 or i==3)):
+                if exp == "two-example_prompt" and (i == 1 or i == 2):
                     continue
                 else:
-                    pred_path = base_path + "/" + exp + "/" + model + "/transcription" + str(i) + ".txt"
-                    print(pred_path)
-                    with open(pred_path, "r", encoding="utf-8") as pred_file:
-                        pred_text = pred_file.read()
-                    #print(pred_text)
-                    
-                    gt_path = f"data/transcriptions/transcription_ex{i+1}.xlsx"
-                    gt_text = tools.xlsx_to_string(gt_path)
-                    
-                    scores = tools.BLEU(pred_text, gt_text)
-                    #print(scores)
-                    bleu_score = scores
-                    bleu_scores[exp][model].append(bleu_score)
-                    #cer_score = scores[-3]
-                    #cer_scores[exp][model].append(cer_score)
-            
+                        try:
+                            pred_path = base_path + "/" + exp + "/" + model + "/transcription" + str(i) + ".txt"
+                            #print(pred_path)
+                            with open(pred_path, "r", encoding="utf-8") as pred_file:
+                                pred_text = pred_file.read()
+                            #print(pred_text)
+                            
+                            gt_path = f"data/transcriptions/transcription_ex{i+1}.xlsx"
+                            gt_text = tools.xlsx_to_string(gt_path)
+                            
+                            scores = tools.BLEU(pred_text, gt_text)
+                            #print(scores)
+                            bleu_score = scores
+                            bleu_scores[exp][model].append(bleu_score)
+                            #cer_score = scores[-3]
+                            #cer_scores[exp][model].append(cer_score)
+                        except:
+                            print("Missing file: ", pred_path)
+
     return bleu_scores
 
 
 def plot_scores(scores):
     experiments = list(scores.keys())
-    models = list(scores[experiments[0]].keys())
     
-    avg_scores = {exp: {model: calculate_average_bleu(scores[exp][model]) for model in models} for exp in experiments}
+    # Define other models to combine for comparison
+    llm_models = ["claude-3-5-sonnet-20240620", "gpt-4o"]
+    other_models = ["EasyOCR", "KerasOCR", "Pytesseract", "trOCR"]
+
+    # Prepare data for seaborn violin plot (flatten the dictionary into a long format)
+    llm_data = []
+    ocr_data = []
+
+    # Collect LLM (GPT, Claude) data by experiment
+    for exp in experiments:
+        for model in llm_models:
+            for score in scores[exp][model]:
+                llm_data.append([exp, model, score])
     
-    # Calculate average BLEU scores for non-GPT and non-Sonnet models across all experiments
-    #other_models = ["EasyOCR", "KerasOCR", "Pytesseract", "trOCR"]
-    other_models = ["EasyOCR", "KerasOCR", "Pytesseract"]
-    avg_scores_combined = {model: calculate_average_bleu([avg_scores[exp][model] for exp in experiments]) for model in other_models}
+    # Collect OCR data (combined across all experiments)
+    for exp in experiments:
+        for model in other_models:
+            for score in scores[exp][model]:  # Assuming all experiments have the same set of models
+                ocr_data.append([exp, model, score])
     
-    x = np.arange(len(experiments) * 2 + len(other_models))  # 5*2 for GPT and Sonnet, 4 for OCR methods
-    width = 0.35
+    # Convert the data to suitable format for seaborn
+    llm_df = pd.DataFrame(llm_data, columns=["Methods", "Model", "BLEU Score"])
+    ocr_df = pd.DataFrame(ocr_data, columns=["Methods", "Model", "BLEU Score"])
+    
+    # Create the figure and axes
+    fig, ax = plt.subplots(figsize=(16, 8))  # Increase figure size for better visibility
+    
+    # Plot the LLM violin plots, grouped by experiment
+    sns.violinplot(x="Methods", y="BLEU Score", hue="Model", data=llm_df, ax=ax, dodge=True, split=False, linewidth=0.75, width=0.75, palette=["#0ea982", "#cc9b7a"])
+    
+    # Add OCR models violin plot next to LLMs
+    sns.violinplot(x="Model", y="BLEU Score", data=ocr_df, ax=ax, dodge=False, linewidth=0.75, width=0.75, palette=["#abdbe3", "#76b5c5", "#1e81b0", "#063970"])
+    
+    # Set labels
+    ax.set_ylabel('BLEU Score')
 
-    fig, ax = plt.subplots(figsize=(18, 8))  # Increase figure size for a longer plot
-
-    # Plot GPT and Sonnet models for each experiment
-    colors = ['blue', 'orange']  # Define colors for GPT and Sonnet
-    for idx, exp in enumerate(experiments):
-        for model_idx, model in enumerate(["gpt-4o", "claude-3-5-sonnet-20240620"]):
-            model_scores = avg_scores[exp][model]
-            ax.bar(idx * 2 + model_idx * 3 * width, model_scores, width, label=f"{model}" if idx == 0 else "", color=colors[model_idx])
-
-    # Plot combined OCR methods
-    for idx, model in enumerate(other_models):
-        model_scores = avg_scores_combined[model]
-        ax.bar(len(experiments) * 2 + idx, model_scores, width, label=model)
-
-    ax.set_ylabel('Average BLEU Score')
-    ax.set_title('Average BLEU Score by Method')
-
-    # Clean experiment names
+    # Clean experiment names for x-ticks
     clean_experiment_names = [exp.replace('_', ' ').replace('-', ' ') for exp in experiments]
 
-    # Create x-tick labels
-    xtick_labels = []
-    for exp in clean_experiment_names:
-        xtick_labels.append("gpt-4o")
-        xtick_labels.append("claude-3-5-sonnet-20240620")
-    xtick_labels.extend(other_models)
-
-    # Create secondary x-tick labels for experiment names
-    exp_labels = []
-    for exp in clean_experiment_names:
-        if exp == "refine complex prompt":
-            print("DEBUG")
-            exp = "refined zero complex prompt"
-        exp_labels.append(exp)
-        exp_labels.append("")
-    exp_labels.extend([""] * len(other_models))
-
-    ax.set_xticks(np.arange(len(experiments) * 2 + len(other_models)))
+    # Set x-tick labels for experiments and models
+    xtick_labels = clean_experiment_names + other_models
     ax.set_xticklabels(xtick_labels, rotation=45, ha="right")
 
-    # Add secondary x-axis for experiment names
-    secax = ax.secondary_xaxis(-0.4)  # Move the secondary x-axis further down
-    secax.set_xticks(np.arange(len(experiments)) * 2 + 0.5)
-    secax.set_xticklabels(clean_experiment_names, rotation=0, ha="center")
-    secax.set_xlim(-0.5, len(experiments) * 2 - 0.5)  # Set the limit to stop at the dotted vertical line
-
-    ax.legend()
-
-    # Add vertical dotted line to separate GPT and Sonnet models from OCR methods
-    separation_x = len(experiments) * 2 - 0.5
+    # Add vertical dotted line to separate LLMs from OCR models
+    separation_x = len(experiments) - 0.5
     ax.axvline(separation_x, color='gray', linestyle='--')
+    
+    # Set y-axis to logit scale
+    #ax.set_yscale('logit')
+    ax.set_ylim(-0.1, 0.55) 
+    #ax.set_yscale('symlog')
+    #ax.set_ylim(-1, 1)
 
+    # Adjust layout and show the plot
     fig.tight_layout()
     plt.grid(axis='y')
-    plt.savefig("results/average-bleu_whole-scans.png")
+    plt.savefig("results/average-bleu_whole-scans.png", dpi=300)
     plt.show()
-    
     
     
     
 def main():
     base_path = "results/postprocessed"
+    #base_path = "results/predictions"
     bleu_scores = collect_bleu_scores(base_path)
     plot_scores(bleu_scores)
 
