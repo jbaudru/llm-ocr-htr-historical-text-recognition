@@ -6,4 +6,8 @@
 154 27 juin 1921 Froment Georges Bruxelles 28 février 1921 Veuve Demeure, Juliette 116,928 1369 115,559 27 juin 1922 9 janvier 1922 129 
 155 " Devreux Jean Bte Nouvelle Chaussée 13 janvier 1921 Héritiers Devreux et autres 2669 2669 non prescrite 
 156 " Scolart Jean Joseph Bruxelles 6 février 1920 Héritiers Jules fils et autres 2081 2081 id. 
+<<<<<<< HEAD
 157 28 juin 1921 Defalque Charles Louis Bierges 29 février 1920 Enfants Defalque 18426 7226 11,200 9 février 1922 618 
+=======
+157 28 juin 1921 Defalque Charles Louis Bierges 29 février 1920 Enfants Defalque 18426 7226 11,200 9 février 1922 618 
+>>>>>>> origin/main

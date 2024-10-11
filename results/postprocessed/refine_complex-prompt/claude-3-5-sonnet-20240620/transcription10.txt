@@ -1,3 +1,16 @@
+<<<<<<< HEAD
+6446 29 déc Devrez Zénaïs Wasseiges 9 8bre 1919 Devrez Fernand 941 941 941 44.60 
+ Arrêté le vingt décembre 1919 Servais 
+6447 29 déc Delisse Vital Gesves 1 8bre 1919 Lefèvre Emile 5595 5595 100 
+ Arrêté le vingt décembre 1919 Servais 
+ Arrêté le trente décembre 1919 Servais 
+ Arrêté le trente-un décembre 1919 dimanche Servais 
+ Arrêté le quinze janvier 1920 Servais 
+ Arrêté le seize janvier 1920 Servais 
+6448 31 déc Boidenghien Louis Gesves 18 mars 1919 Veuve Boidenghien et autres 22396 22396 620 
+ Arrêté le dix sept janvier 1920 Servais 
+ Arrêté le dix huit janvier 1920 Servais 
+=======
 6446 29 déc Devrez Zénaïs Wasseiges 9 8bre 1919 Devrez Fernand 941 - 941 941 44.60 - - - - - - - - -
 - Arrêté le vingt décembre 1919 Servais - - - - - - - - - - - - - - - - - - - -
 6447 29 déc Delisse Vital Gesves 1 8bre 1919 Lefèvre Emile 5595 - 5595 100 - - - - - - - - - - -
@@ -9,3 +22,4 @@
 6448 31 déc Boidenghien Louis Gesves 18 mars 1919 Veuve Boidenghien et autres 22396 - 22396 620 - - - - - - - - - - -
 - Arrêté le dix sept janvier 1920 Servais - - - - - - - - - - - - - - - - - - - -
 - Arrêté le dix huit janvier 1920 Servais - - - - - - - - - - - - - - - - - - - -
+>>>>>>> origin/main
