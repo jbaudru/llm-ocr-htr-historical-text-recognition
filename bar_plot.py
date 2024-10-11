@@ -14,7 +14,7 @@ def calculate_average_bleu(scores):
 def collect_bleu_scores(base_path):
     experiments = ["zero-shot_simple-prompt", "zero-shot_complex-prompt", "one-example_prompt", "two-example_prompt", "refine_complex-prompt"]
     #models = ["claude-3-5-sonnet-20240620", "gpt-4o", "EasyOCR", "KerasOCR", "Pytesseract", "trOCR"]
-    models = ["claude-3-5-sonnet-20240620", "gpt-4o", "EasyOCR", "KerasOCR", "Pytesseract", "trOCR"]
+    models = ["claude-3-5-sonnet-20240620", "gpt-4o", "EasyOCR", "Pytesseract", "KerasOCR", "trOCR"]
     
     bleu_scores = {exp: {model: [] for model in models} for exp in experiments}
     cer_scores = {exp: {model: [] for model in models} for exp in experiments}
@@ -56,6 +56,7 @@ def plot_scores(scores):
     # Define other models to combine for comparison
     llm_models = ["claude-3-5-sonnet-20240620", "gpt-4o"]
     other_models = ["EasyOCR", "KerasOCR", "Pytesseract", "trOCR"]
+    tr_models = ["trOCR", "trOCR", "trOCR", "trOCR"]
 
     # Prepare data for seaborn violin plot (flatten the dictionary into a long format)
     llm_data = []
