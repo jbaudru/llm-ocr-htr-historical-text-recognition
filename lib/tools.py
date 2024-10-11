@@ -164,6 +164,11 @@ class Tools:
             bleu = bleu_metric.compute(predictions=[pred], references=[[gt]])['bleu']
             return bleu
         
+    def CER(self, pred, gt):
+        CER = CharErrorRate()
+        cer = CER(pred, gt).item()
+        return cer
+        
     def CERreduction(self, prev_pred, curr_pred, gt):
         CERred = (self.CER(prev_pred, gt) - self.CER(curr_pred, gt)) / self.CER(prev_pred, gt)
         return CERred
