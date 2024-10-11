@@ -56,6 +56,7 @@ def plot_scores(scores):
     # Define other models to combine for comparison
     llm_models = ["claude-3-5-sonnet-20240620", "gpt-4o"]
     other_models = ["EasyOCR", "KerasOCR", "Pytesseract", "trOCR"]
+    tr_models = ["trOCR", "trOCR", "trOCR", "trOCR"]
 
     # Prepare data for seaborn violin plot (flatten the dictionary into a long format)
     llm_data = []
