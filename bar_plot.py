@@ -43,7 +43,16 @@ def collect_bleu_scores(base_path):
                             #cer_scores[exp][model].append(cer_score)
                         except:
                             print("Missing file: ", pred_path)
-
+                            
+    for exp, models_dict in bleu_scores.items():
+        for model, scores in models_dict.items():
+            # Create DataFrame for each model in each experiment
+            df = pd.DataFrame({model: scores})
+            
+            # Save DataFrame to CSV
+            df.to_csv(f"results/eval_csv_whole/BLEU_scores_{exp}_{model}.csv", index_label="Sample")
+        
+        
     return bleu_scores
 
 def collect_cer_scores(base_path):
@@ -73,6 +82,15 @@ def collect_cer_scores(base_path):
                         cer_scores[exp][model].append(cer_score)
                     except:
                         print("Missing file: ", pred_path)
+    
+    for exp, models_dict in cer_scores.items():
+        for model, scores in models_dict.items():
+            # Create DataFrame for each model in each experiment
+            df = pd.DataFrame({model: scores})
+            
+            # Save DataFrame to CSV
+            df.to_csv(f"results/eval_csv_whole/CER_scores_{exp}_{model}.csv", index_label="Sample")
+        
     
     return cer_scores
 
@@ -262,11 +280,12 @@ def main():
     base_path = "results/postprocessed"
     #base_path = "results/predictions"
     
-    bleu_scores = collect_bleu_scores(base_path)
-    plot_scores(bleu_scores)
+    #bleu_scores = collect_bleu_scores(base_path)
+    
+    #plot_scores(bleu_scores)
     
     cer_score = collect_cer_scores(base_path)
-    plot_scores_CER(cer_score)
+    #plot_scores_CER(cer_score)
 
 
 
