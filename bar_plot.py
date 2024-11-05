@@ -12,8 +12,8 @@ def calculate_average_bleu(scores):
     return np.mean(scores)
 
 def collect_bleu_scores(base_path):
-    experiments = ["zero-shot_simple-prompt", "zero-shot_complex-prompt", "one-example_prompt", "two-example_prompt", "refine_complex-prompt"]
-    models = ["claude-3-5-sonnet-20240620", "gpt-4o", "EasyOCR", "Pytesseract", "KerasOCR", "trOCR"]
+    experiments = ["one-example_prompt", "two-example_prompt"]
+    models = ["claude-3-5-sonnet-20240620", "gpt-4o"]
     
     bleu_scores = {exp: {model: [] for model in models} for exp in experiments}
     
@@ -26,7 +26,7 @@ def collect_bleu_scores(base_path):
                     continue
                 else:
                         try:
-                            pred_path = base_path + "/" + exp + "/" + model + "/transcription" + str(i) + ".txt"
+                            pred_path = base_path + "/" + exp + "/" + model + "/new_transcription" + str(i) + ".txt"
                             #print(pred_path)
                             with open(pred_path, "r", encoding="utf-8") as pred_file:
                                 pred_text = pred_file.read()
@@ -50,14 +50,14 @@ def collect_bleu_scores(base_path):
             df = pd.DataFrame({model: scores})
             
             # Save DataFrame to CSV
-            df.to_csv(f"results/eval_csv_whole/BLEU_scores_{exp}_{model}.csv", index_label="Sample")
+            df.to_csv(f"results/scores_comparisons/eval_whole/BLEU_scores_{exp}_{model}.csv", index_label="Sample")
         
         
     return bleu_scores
 
 def collect_cer_scores(base_path):
-    experiments = ["zero-shot_simple-prompt", "zero-shot_complex-prompt", "one-example_prompt", "two-example_prompt", "refine_complex-prompt"]
-    models = ["claude-3-5-sonnet-20240620", "gpt-4o", "EasyOCR", "Pytesseract", "KerasOCR", "trOCR"]
+    experiments = ["one-example_prompt", "two-example_prompt"]
+    models = ["claude-3-5-sonnet-20240620", "gpt-4o"]
     
     cer_scores = {exp: {model: [] for model in models} for exp in experiments}
     
@@ -70,7 +70,7 @@ def collect_cer_scores(base_path):
                     continue
                 else:
                     try:
-                        pred_path = base_path + "/" + exp + "/" + model + "/transcription" + str(i) + ".txt"
+                        pred_path = base_path + "/" + exp + "/" + model + "/new_transcription" + str(i) + ".txt"
                         with open(pred_path, "r", encoding="utf-8") as pred_file:
                             pred_text = pred_file.read()
                             
@@ -89,7 +89,7 @@ def collect_cer_scores(base_path):
             df = pd.DataFrame({model: scores})
             
             # Save DataFrame to CSV
-            df.to_csv(f"results/eval_csv_whole/CER_scores_{exp}_{model}.csv", index_label="Sample")
+            df.to_csv(f"results/scores_comparisons/eval_whole/CER_scores_{exp}_{model}.csv", index_label="Sample")
         
     
     return cer_scores
@@ -280,7 +280,7 @@ def main():
     base_path = "results/postprocessed"
     #base_path = "results/predictions"
     
-    #bleu_scores = collect_bleu_scores(base_path)
+    bleu_scores = collect_bleu_scores(base_path)
     
     #plot_scores(bleu_scores)
     
