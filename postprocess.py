@@ -21,9 +21,9 @@ def postprocess(folder_path):
     return
 
 if __name__ == "__main__":
-    postprocess("/results/postprocessed/zero-shot_complex-prompt/gpt-4o/")
-    postprocess("/results/postprocessed/zero-shot_complex-prompt/claude-3-5-sonnet-20240620/")
-    postprocess("/results/postprocessed/zero-shot_simple-prompt/gpt-4o/")
-    postprocess("/results/postprocessed/zero-shot_simple-prompt/claude-3-5-sonnet-20240620/")
-    postprocess("/results/postprocessed/refine_complex-prompt/gpt-4o/")
-    postprocess("/results/postprocessed/refine_complex-prompt/claude-3-5-sonnet-20240620/")
+    postprocess("/results/postprocessed/one-example_prompt/gpt-4o/")
+    postprocess("/results/postprocessed/one-example_prompt/claude-3-5-sonnet-20240620/")
+    postprocess("/results/postprocessed/two-example_prompt/gpt-4o/")
+    postprocess("/results/postprocessed/two-example_prompt/claude-3-5-sonnet-20240620/")
+    #postprocess("/results/postprocessed/refine_complex-prompt/gpt-4o/")
+    #postprocess("/results/postprocessed/refine_complex-prompt/claude-3-5-sonnet-20240620/")

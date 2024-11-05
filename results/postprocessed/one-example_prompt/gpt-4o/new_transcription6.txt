@@ -1,4 +1,3 @@
-```plaintext
 146 6  Christophe Eugène  Enyer  Charles Louis Désiré  19 août 1918  Van Callet Julienne & autres  54850  1618  53232  28 août 1919  16 août 1919
 146 6  de Haut-fays  Masson  Jean-Baptiste  19 août 1918  Jean-Baptiste  29000  680  28320  17-11-1919
 147 6  investigateur  Leblicq  Jean-Baptiste  19 août 1918  Leblicq  19000  356  18644  non passible
@@ -13,4 +12,3 @@
 408 6  sept 9bre  Fontaine  Horent  Tubize  19 octobre 1918  Ronsmans Armande  378  176  202  19 Dbre 1919  15 avril 1919  non passible
 409 6  d  Allard  Prosper  Nivelles  16 avril 1919  Allard Marie  7310  7310  19 d  14 juin 1920  13 mars 1923  54
 410 6  huit 9bre  Debutte  Justinien  Waterloo  16 mai 1919  Debutte Edmond & autres  12437  369  12068  20 d  16 mars 1920  29 9b 1923  252
-```

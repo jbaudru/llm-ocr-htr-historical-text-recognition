@@ -1,18 +1,15 @@
-Here's the content of the table recreated from the image:
-
-N° | DATE DU DÉCÈS | DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES | DATE DU DÉCÈS | NOMS, PRÉNOMS | DROITS DE SUCCESSION | DROIT | NUMÉROS | DATE | RECETTE | OBSERVATIONS
--- | ------------ | ------------------------------------------------ | ------------ | ------------- | --------------------- | ----- | -------- | ---- | ------- | -------------
-   |              | NOMS | PRÉNOMS | DOMICILES |              |               | ACTIF | PASSIF | RESTANT NET | DE MUTATION | VALEUR DES IMMEUBLES | de l'expiration du délai de rectification | de l'exigibilité des droits | DATE | N° | 
-6 8 | huit 9 janvier 1920 | Leclercq | Adrien | Braine le Château | 6 9bre 1919 | Leclercq Victor & autres | 3460 |  | 3460 |  |  | 1920 28 février | 6 juillet 1920 |  |  | non passible
-6 9 | d° | Gerarij | Cathérine | Braine l'Alleud | 30 janvier 1913 | Castrieux Marie | Cessation d'usufruit |  |  |  |  | " | " | 6 avril 1920 | 117 | 
-6 9² | d° | Arcq | Alphonse | " | 23 8bre 1919 | Gérard Désiré 1920 |  |  |  |  |  | 231/ 1919 |  | 4 février 1920 | 50 | 
-   |  | Arrêté le dix sept janvier 1920 servais |  |  |  |  |  |  |  |  |  |  |  |  |  | 
-   |  | Arrêté le dix huit janvier 1920 Dimanche servais |  |  |  |  |  |  |  |  |  |  |  |  |  | 
-   |  | Arrêté le dix neuf janvier 1920 servais |  |  |  |  |  |  |  |  |  |  |  |  |  | 
-   |  | Arrêté le vingt janvier 1920 servais |  |  |  |  |  |  |  |  |  |  |  |  |  | 
-9³ | vingt un janvier | Becquet | Marcel | Nivelles | 9 mai 1916 | Becquet Denis | Son rectification |  |  |  |  | 235/ 1919 |  | " | " | 
-   |  | Arrêté le vingt un janvier 1920 servais |  |  |  |  |  |  |  |  |  |  |  |  |  | 
-   |  | Arrêté le vingt deux janvier 1920 servais |  |  |  |  |  |  |  |  |  |  |  |  |  | 
-   |  | Arrêté le vingt trois janvier 1920 servais |  |  |  |  |  |  |  |  |  |  |  |  |  | 
-10 | vingt quatre | Durieux | Henri | Nivelles | 29 juillet 1919 | Durieux Louis & autres | 111621 | 6696 | 104920 |  |  | 1920 7 mars | 4 août 1920 | 5 avril 1920 | 163 | 
-   |  | Arrêté le vingt quatre janvier 1920 servais |  |  |  |  |  |  |  |  |  |  |  |  |  |
+N°  DATE DU DÉCÈS  DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES  DATE DU DÉCÈS  NOMS, PRÉNOMS  DROITS DE SUCCESSION  DROIT  NUMÉROS  DATE  RECETTE  OBSERVATIONS
+                  NOMS  PRÉNOMS  DOMICILES                               ACTIF  PASSIF  RESTANT NET  DE MUTATION  VALEUR DES IMMEUBLES  de l'expiration du délai de rectification  de l'exigibilité des droits  DATE  N°  
+6 8  huit 9 janvier 1920  Leclercq  Adrien  Braine le Château  6 9bre 1919  Leclercq Victor & autres  3460    3460      1920 28 février  6 juillet 1920      non passible
+6 9  d°  Gerarij  Cathérine  Braine l'Alleud  30 janvier 1913  Castrieux Marie  Cessation d'usufruit          "  "  6 avril 1920  117  
+6 9²  d°  Arcq  Alphonse  "  23 8bre 1919  Gérard Désiré 1920            231/ 1919    4 février 1920  50  
+      Arrêté le dix sept janvier 1920 servais                            
+      Arrêté le dix huit janvier 1920 Dimanche servais                            
+      Arrêté le dix neuf janvier 1920 servais                            
+      Arrêté le vingt janvier 1920 servais                            
+9³  vingt un janvier  Becquet  Marcel  Nivelles  9 mai 1916  Becquet Denis  Son rectification          235/ 1919    "  "  
+      Arrêté le vingt un janvier 1920 servais                            
+      Arrêté le vingt deux janvier 1920 servais                            
+      Arrêté le vingt trois janvier 1920 servais                            
+10  vingt quatre  Durieux  Henri  Nivelles  29 juillet 1919  Durieux Louis & autres  111621  6696  104920      1920 7 mars  4 août 1920  5 avril 1920  163  
+      Arrêté le vingt quatre janvier 1920 servais                           

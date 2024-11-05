@@ -1,8 +1,6 @@
-```plaintext
 Nom. Prénoms Domiciles Actif. (2) Passif. (2) Restant NET. (2) Valeur des immeubles. (2) Primitives. Supplémentaires. de l'expiration du délai de rectification. de l'exigibilité des droits. Date N^03 Numéros de la consignation au sommier n'30 (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présente colonne.) 
 146 Christophe Eugène Enyer Charleroi Louis Désiré 19 août 1919 Van Callet Fabienne & autres 54850 1618 53232 
 146 de Haut-fain Masson Jean 19 août 1919 29006 680 28326 17-11-1919 
 147 investigateur Leblicq Jean 19 août 1919 19060 356 18604 non passible 
 148 investigateur Dasset Emmanuel 19 août 1919 4544 1333 3212 6 janvier 1920 
 149 investigateur Hegelcart Laurent 19 août 1919 4358 4358 non passible 
-```
