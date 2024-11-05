@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/2a9095c390ad4d0cae44d27e2f4efd01/artifacts
+end_time: 1730806190418
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 2a9095c390ad4d0cae44d27e2f4efd01
+run_name: luminous-dove-249
+run_uuid: 2a9095c390ad4d0cae44d27e2f4efd01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730806174455
+status: 3
+tags: []
+user_id: julien

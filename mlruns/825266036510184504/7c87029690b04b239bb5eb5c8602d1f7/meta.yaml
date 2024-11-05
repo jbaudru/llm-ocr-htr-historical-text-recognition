@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/7c87029690b04b239bb5eb5c8602d1f7/artifacts
+end_time: 1730806350042
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 7c87029690b04b239bb5eb5c8602d1f7
+run_name: hilarious-calf-295
+run_uuid: 7c87029690b04b239bb5eb5c8602d1f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730806340178
+status: 3
+tags: []
+user_id: julien

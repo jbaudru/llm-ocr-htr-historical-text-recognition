@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/88ad4238af8147879b43a2580b3a7ed5/artifacts
+end_time: 1730806278803
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 88ad4238af8147879b43a2580b3a7ed5
+run_name: polite-sheep-302
+run_uuid: 88ad4238af8147879b43a2580b3a7ed5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730806268336
+status: 3
+tags: []
+user_id: julien
