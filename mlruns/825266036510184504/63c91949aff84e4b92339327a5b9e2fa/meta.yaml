@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/63c91949aff84e4b92339327a5b9e2fa/artifacts
+end_time: 1730806329552
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 63c91949aff84e4b92339327a5b9e2fa
+run_name: rumbling-snake-1000
+run_uuid: 63c91949aff84e4b92339327a5b9e2fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730806318779
+status: 3
+tags: []
+user_id: julien

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/1c043271d2fc4ec5aa3d1b05914aa85c/artifacts
+end_time: 1730806204223
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 1c043271d2fc4ec5aa3d1b05914aa85c
+run_name: smiling-roo-146
+run_uuid: 1c043271d2fc4ec5aa3d1b05914aa85c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730806190436
+status: 3
+tags: []
+user_id: julien

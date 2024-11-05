@@ -1,0 +1,11 @@
+```plaintext
+6 150 d Sambert Clémentine Nivelles 6 mai 1924 Grégoire Clémentine veuve 2686 426 2260 16 mai 1924
+6 151 d Leveau Joséphine Clabecq 7 mai 1924 Naspeti Ernest & autres 6160 6160 7 mai 1924
+6 152 d Vanpee Marie 29 août 1924 494 494 non passible
+6 153 d Delabij Joseph Joseph Evere 4 mai 1924 Joseph Marie veuve 5226 5226 non passible
+6 153 bis d Chevalier Rosalie Nivelles 6 mai 1924 Plaats Jules & autres 661 661 6 mai 1924
+6 154 d Froment Georges Nivelles 21 août 1924 Van Damme Julienne 17028 1568 15460 31 août 1924
+6 155 d Devroye Jean 18 mai 1924 Devroye Honorine veuve 2163 2163 non passible
+6 156 d Seolas Jean Joseph Bruxelles 5 mai 1924 Seolas Jules & autres 2688 2688 5 mai 1924
+6 157 d Desfalque Clémentine Nivelles 29 août 1924 Desfalque Charles 17999 17999 29 août 1924
+```

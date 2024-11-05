@@ -1,0 +1,15 @@
+artifact_uri: file:///C:\Users\Administrateur\Documents\GitHub\img-analysis_seorin_project/mlruns/825266036510184504/271d25a0602242478197840a329892bc/artifacts
+end_time: 1730806369711
+entry_point_name: ''
+experiment_id: '825266036510184504'
+lifecycle_stage: active
+run_id: 271d25a0602242478197840a329892bc
+run_name: adorable-moth-515
+run_uuid: 271d25a0602242478197840a329892bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730806359677
+status: 3
+tags: []
+user_id: julien

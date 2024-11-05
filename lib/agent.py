@@ -290,83 +290,210 @@ class Agent:
     def exampleShot(self, image_path, NbExamples=1):
         # example
         example_xlsx = "data/transcriptions/transcription_ex" + str(2) + ".xlsx"
-        example = tools.xlsx_to_string(example_xlsx)
+        example_text_1 = tools.xlsx_to_string(example_xlsx)
+        example_image_1 = "data/Archives_LLN_Nivelles_I_1921_REG 5193/example2.jpeg"
         
         if(NbExamples==2):
             # example
             example_xlsx2 = "data/transcriptions/transcription_ex" + str(3) + ".xlsx"
-            example += tools.xlsx_to_string(example_xlsx2)
+            example_text_2 = tools.xlsx_to_string(example_xlsx2)
+            example_image_2 = "data/Archives_LLN_Nivelles_I_1921_REG 5193/example3.jpeg"
         
         if("claude" in self.model):
             resized_image = self.resize_image(image_path)
             base64_image = base64.b64encode(resized_image).decode('utf-8')
+            image_1 = self.resize_image(example_image_1)
+            image_1 = base64.b64encode(image_1).decode('utf-8')
+            if(NbExamples==2):
+                image_2 = self.resize_image(example_image_2)
+                image_2 = base64.b64encode(image_2).decode('utf-8')
         else:
             base64_image = self.encode_image(image_path)
+            image_1 = self.encode_image(example_image_1)
+            if(NbExamples==2):
+                image_2 = self.encode_image(example_image_2)
         
         if("claude" in self.model):
-            message = [
-                {
-                    "role": "user",
-                    "content": [ 
+            if(NbExamples==1):
+                message = [
                     {
-                        "type": "text",
-                        "text": f"""
-                        The ```plaintext block is the example transcription of the example image you saw:
-
-                        Transcription:
-                        ```plaintext
-                        {example}
-                        ```
-                        Compare what you read initially and the solution key in ```plaintext block. Recreate the content of the table in this image. Only that, no other information from you.
-
-                        """
-                    },
-                    {
-                        "type": "image",
-                        "source": {
-                            "type": "base64",
-                            "media_type": "image/jpeg",
-                            "data": base64_image,
+                        "role": "user",
+                        "content": [ 
+                        {"type": "image", 
+                            "source": {
+                                "type": "base64", 
+                                "media_type": "image/jpeg", 
+                                "data": image_1}
                         },
+                        {
+                            "type": "text",
+                            "text": example_text_1,
+                        },
+                        {
+                            "type": "text",
+                            "text": f"""
+                            The ```plaintext block is the example transcription of the example image you saw:
+
+                            Transcription:
+                            ```plaintext
+                            {example_text_1}
+                            ```
+                            Compare what you read initially and the solution key in ```plaintext block. Recreate the content of the table in this image. Only that, no other information from you.
+
+                            """
+                        },
+                        {
+                            "type": "image",
+                            "source": {
+                                "type": "base64",
+                                "media_type": "image/jpeg",
+                                "data": base64_image,
+                            },
+                        }
+                        ]
                     }
-                    ]
-                }
-            ]
+                ]
+            
+            else:
+                message = [
+                    {
+                        "role": "user",
+                        "content": [ 
+    
+                        {"type": "image", 
+                            "source": {
+                                "type": "base64", 
+                                "media_type": "image/jpeg", 
+                                "data": image_1}},
+                        {
+                            "type": "text",
+                            "text": example_text_1,
+                        },
+                        {"type": "image", 
+                            "source": {
+                                "type": "base64", 
+                                "media_type": "image/jpeg", 
+                                "data": image_2}},
+                        {
+                            "type": "text",
+                            "text": example_text_2,
+                        },
+                        {
+                            "type": "text",
+                            "text": f"""
+                            The ```plaintext block is the example transcription of the example image you saw:
+
+                            Transcription:
+                            ```plaintext
+                            {example_text_1}
+                            ```
+                            Compare what you read initially and the solution key in ```plaintext block. Recreate the content of the table in this image. Only that, no other information from you.
+
+                            """
+                        },
+                        {
+                            "type": "image",
+                            "source": {
+                                "type": "base64",
+                                "media_type": "image/jpeg",
+                                "data": base64_image,
+                            },
+                        }
+                        ]
+                    }
+                ]
             
             system_prompt =  "You are a helpful assistant who can read old handwriting with a background in history, and you are going to recreate a scanned déclaration de succession from Belgium in a txt format."
             
         else:
-            message = [
-                {
-                    "role": "system", 
-                    "content": "You are a helpful assistant who can read old handwriting with a background in history, and you are going to recreate a scanned déclaration de succession from Belgium in a txt format."
-                },
-                {
-                    "role": "user",
-                    "content": [ 
+            if(NbExamples==1):
+                message = [
                     {
-                        "type": "text",
-                        "text": f"""
-                        The ```plaintext block is the example transcription of the example image you saw:
-
-                        Transcription:
-                        ```plaintext
-                        {example}
-                        ```
-                        Compare what you read initially and the solution key in ```plaintext block. Recreate the content of the table in this image. Only that, no other information from you.
-                        
-                        """
+                        "role": "system", 
+                        "content": "You are a helpful assistant who can read old handwriting with a background in history, and you are going to recreate a scanned déclaration de succession from Belgium in a txt format."
                     },
                     {
-                        "type": "image_url",
-                        "image_url": {
-                        "url": f"data:image/jpeg;base64,{base64_image}"
-                        }
+                        "role": "user",
+                        "content": [ 
+                        {
+                            "type": "text",
+                            "text": f"""
+                            The ```plaintext block is the example transcription of the example image you saw:
+
+                            Transcription:
+                            ```plaintext
+                            {example_text_1}
+                            ```
+                            Compare what you read initially and the solution key in ```plaintext block. Recreate the content of the table in this image. Only that, no other information from you.
+                            
+                            Even if it is hard to read the texts from the image, return as much as you can. You must read something. Do not return an apologetic message.
+                            """
+                        },
+                        {
+                            "type": "image_url",
+                            "image_url": {
+                            "url": f"data:image/jpeg;base64,{base64_image}"
+                            }
+                        },
+                        {
+                            "type": "image_url",
+                            "image_url": {
+                            "url": f"data:image/jpeg;base64,{image_1}"
+                            }
+                        },
+                        ]
                     }
-                    ]
-                }
-            ]
+                ]
             
+            else:
+                message = [
+                    {
+                        "role": "system", 
+                        "content": "You are a helpful assistant who can read old handwriting with a background in history, and you are going to recreate a scanned déclaration de succession from Belgium in a txt format."
+                    },
+                    {
+                        "role": "user",
+                        "content": [ 
+                        {
+                            "type": "text",
+                            "text": f"""
+                            The ```plaintext block is the example transcription of the example image you saw:
+
+                            Transcription:
+                            ```plaintext
+                            {example_text_1}
+                            ```
+                            Compare what you read initially and the solution key in ```plaintext block. Recreate the content of the table in this image. Only that, no other information from you.
+                            
+                            Even if it is hard to read the texts from the image, return as much as you can. You must read something. Do not return an apologetic message.
+                            """
+                        },
+                        {
+                            "type": "image_url",
+                            "image_url": {
+                            "url": f"data:image/jpeg;base64,{base64_image}"
+                            }
+                        },
+                        {
+                            "type": "image_url",
+                            "image_url": {
+                            "url": f"data:image/jpeg;base64,{image_1}"
+                            }
+                        },
+                        {
+                            "type": "text",
+                            "text": example_text_2
+                        },
+                        {
+                            "type": "image_url",
+                            "image_url": {
+                            "url": f"data:image/jpeg;base64,{image_2}"
+                            }
+                        },
+                        
+                        ]
+                    }
+                ]
             # Force OpenAI
             # Even if it is hard to read the texts from the image, return as much as you can. You must read something. Do not return an apologetic message.
 
