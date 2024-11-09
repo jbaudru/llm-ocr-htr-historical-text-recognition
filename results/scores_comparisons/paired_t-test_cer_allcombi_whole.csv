@@ -1,0 +1,106 @@
+Model 1,Model 2,t-statistic,p-value,significance
+claude_two_example,claude_one_example,-2.1572441008487995,0.04559072206889225,Significant
+claude_two_example,gpt_two_example,-2.7956733532621114,0.012417934351656093,Significant
+claude_two_example,gpt_one_example,-4.812443186476135,0.0001625322727989717,Significant
+claude_two_example,claude_complex,-10.991082604309824,3.809347544225325e-09,Significant
+claude_two_example,claude_refine_complex,-6.150466230770206,1.0676450540328924e-05,Significant
+claude_two_example,TrOCR20,-30.34512499667899,1.0280210535469944e-12,Significant
+claude_two_example,KerasOCR,-49.675985995024284,7.59710080675239e-20,Significant
+claude_two_example,Pytesseract,-28.66577341479883,7.804585017781029e-16,Significant
+claude_two_example,TrOCR,-67.34948981363085,4.409430958334735e-22,Significant
+claude_two_example,EasyOCR,-36.234358773627505,1.545629175718002e-17,Significant
+claude_two_example,gpt_simple,-10.594752335619502,6.595436397617246e-09,Significant
+claude_two_example,claude_simple,-5.88245313571073,1.8093731723026562e-05,Significant
+claude_two_example,gpt_refine_complex,-5.925311833149891,1.661937803653121e-05,Significant
+claude_two_example,gpt_complex,-1.4994110867902828,0.15210838801362625,Not Significant
+claude_one_example,gpt_two_example,-1.7628350453535708,0.09589479371197462,Not Significant
+claude_one_example,gpt_one_example,-3.163180878329886,0.005380481362725059,Significant
+claude_one_example,claude_complex,-5.622558659953348,2.4635501996113752e-05,Significant
+claude_one_example,claude_refine_complex,-3.801400091500447,0.0013073050409244346,Significant
+claude_one_example,TrOCR20,-8.035068262887096,2.1315342546425175e-06,Significant
+claude_one_example,KerasOCR,-11.022514595442098,1.9566402493086777e-09,Significant
+claude_one_example,Pytesseract,-17.278023556608105,1.184146131601996e-12,Significant
+claude_one_example,TrOCR,-18.548075124346177,3.523378218547306e-13,Significant
+claude_one_example,EasyOCR,-18.64972974173458,3.2080481299060677e-13,Significant
+claude_one_example,gpt_simple,-10.42717280836389,4.673836258116439e-09,Significant
+claude_one_example,claude_simple,-5.823297795416874,1.6216582628835506e-05,Significant
+claude_one_example,gpt_refine_complex,-5.700794147227723,2.091834554873828e-05,Significant
+claude_one_example,gpt_complex,-1.485647904528867,0.15467660168462166,Not Significant
+gpt_two_example,gpt_one_example,-0.09670778797742027,0.9240894186863533,Not Significant
+gpt_two_example,claude_complex,-0.6260218557689943,0.5396156849187705,Not Significant
+gpt_two_example,claude_refine_complex,-1.3535058720516888,0.19361816932212506,Not Significant
+gpt_two_example,TrOCR20,-2.383681837859652,0.034530480124333705,Significant
+gpt_two_example,KerasOCR,-1.908285401168092,0.0733881601305174,Not Significant
+gpt_two_example,Pytesseract,-3.4058447734804114,0.003364941422709902,Significant
+gpt_two_example,TrOCR,-4.477635822728555,0.0003312253540909472,Significant
+gpt_two_example,EasyOCR,-4.456900056561861,0.0003462615809348032,Significant
+gpt_two_example,gpt_simple,-4.134506407468878,0.0006930356909485639,Significant
+gpt_two_example,claude_simple,-3.2310887845629535,0.004907830333601088,Significant
+gpt_two_example,gpt_refine_complex,-4.766080825464864,0.00017926492446418226,Significant
+gpt_two_example,gpt_complex,-1.40540147503088,0.17791379828212214,Not Significant
+gpt_one_example,claude_complex,-0.6647359268171972,0.5146463161183197,Not Significant
+gpt_one_example,claude_refine_complex,-1.6577861696031795,0.11468575958567398,Not Significant
+gpt_one_example,TrOCR20,-2.845119565500396,0.013785327077710541,Significant
+gpt_one_example,KerasOCR,-3.113351222020647,0.00600140201909025,Significant
+gpt_one_example,Pytesseract,-5.774857811655012,1.793009659409863e-05,Significant
+gpt_one_example,TrOCR,-7.396496530352672,7.350992008975534e-07,Significant
+gpt_one_example,EasyOCR,-8.264377414945315,1.5376778269243737e-07,Significant
+gpt_one_example,gpt_simple,-4.726482698953657,0.00016839551030572696,Significant
+gpt_one_example,claude_simple,-3.6592923004033846,0.0017941348456324147,Significant
+gpt_one_example,gpt_refine_complex,-3.976964590369816,0.0008840447711001509,Significant
+gpt_one_example,gpt_complex,-1.4197795300232463,0.17275975818749661,Not Significant
+claude_complex,claude_refine_complex,-1.316074817221348,0.20380694783472594,Not Significant
+claude_complex,TrOCR20,-2.2914332584797337,0.03796164570804977,Significant
+claude_complex,KerasOCR,-3.8216752891900065,0.0012495513768185666,Significant
+claude_complex,Pytesseract,-6.325075723960643,5.831561128572288e-06,Significant
+claude_complex,TrOCR,-11.14923114652152,1.633078188087173e-09,Significant
+claude_complex,EasyOCR,-9.369961754721356,2.4079111995268616e-08,Significant
+claude_complex,gpt_simple,-5.93576941414269,1.0293552395504748e-05,Significant
+claude_complex,claude_simple,-3.4435318494903213,0.0027225292693494932,Significant
+claude_complex,gpt_refine_complex,-3.897415681408068,0.0009685095676850324,Significant
+claude_complex,gpt_complex,-1.4345753346246732,0.16766385203244116,Not Significant
+claude_refine_complex,TrOCR20,-0.16986044030951772,0.8675499908109072,Not Significant
+claude_refine_complex,KerasOCR,-0.32173158489121273,0.7513622422086557,Not Significant
+claude_refine_complex,Pytesseract,-2.0571612295958244,0.05445794644901938,Not Significant
+claude_refine_complex,TrOCR,-3.4563052964001093,0.0028170703309635956,Significant
+claude_refine_complex,EasyOCR,-3.357135594525606,0.0035091129549805786,Significant
+claude_refine_complex,gpt_simple,-2.648984113548214,0.015835361020385436,Significant
+claude_refine_complex,claude_simple,-2.3684268221573603,0.02862017159743618,Significant
+claude_refine_complex,gpt_refine_complex,-2.7371965558005824,0.013093199868651751,Significant
+claude_refine_complex,gpt_complex,-1.3965983467857301,0.17863660432121498,Not Significant
+TrOCR20,KerasOCR,-5.842647160088468,5.75473174750172e-05,Significant
+TrOCR20,Pytesseract,-8.921262490468132,6.650481148498932e-07,Significant
+TrOCR20,TrOCR,-57.10474408150035,5.370754555554439e-17,Significant
+TrOCR20,EasyOCR,-15.377073341604103,1.0159130873087286e-09,Significant
+TrOCR20,gpt_simple,-3.7626197831854262,0.002100326449231482,Significant
+TrOCR20,claude_simple,-2.119184728388941,0.05243607222736351,Not Significant
+TrOCR20,gpt_refine_complex,-3.8313402561141063,0.0018338011888344103,Significant
+TrOCR20,gpt_complex,-1.2567106998525621,0.22942248570799886,Not Significant
+KerasOCR,Pytesseract,-7.718165574568618,4.068734860508804e-07,Significant
+KerasOCR,TrOCR,-49.423989943071525,1.1157965869114598e-20,Significant
+KerasOCR,EasyOCR,-17.908516678361956,6.424871452326445e-13,Significant
+KerasOCR,gpt_simple,-4.146247483504451,0.0006065132139225619,Significant
+KerasOCR,claude_simple,-2.8517684970934667,0.010591365229898276,Significant
+KerasOCR,gpt_refine_complex,-3.302141217335426,0.003962533253519834,Significant
+KerasOCR,gpt_complex,-1.353044461261067,0.19279255193471823,Not Significant
+Pytesseract,TrOCR,-5.982312515905371,1.1685940777239777e-05,Significant
+Pytesseract,EasyOCR,-7.013119784338598,1.5150255039353048e-06,Significant
+Pytesseract,gpt_simple,-1.9243212727744243,0.0702710875209739,Not Significant
+Pytesseract,claude_simple,-1.8418666885324366,0.08203332086786089,Not Significant
+Pytesseract,gpt_refine_complex,-2.3157936188646238,0.032569026965797575,Significant
+Pytesseract,gpt_complex,-1.3061379476687645,0.2079511818458293,Not Significant
+TrOCR,EasyOCR,-0.41979397406791086,0.6796040127972769,Not Significant
+TrOCR,gpt_simple,-0.5139372454256247,0.6135474792281828,Not Significant
+TrOCR,claude_simple,-1.1128948769314653,0.28039577662591714,Not Significant
+TrOCR,gpt_refine_complex,-1.6946376650432122,0.10737480995891455,Not Significant
+TrOCR,gpt_complex,-1.268312105852912,0.2208456981830659,Not Significant
+EasyOCR,gpt_simple,-0.4058391220981332,0.6896445222504111,Not Significant
+EasyOCR,claude_simple,-1.066347301310718,0.30036138785875915,Not Significant
+EasyOCR,gpt_refine_complex,-1.6676856693270594,0.11268117536804476,Not Significant
+EasyOCR,gpt_complex,-1.2695818519029634,0.22040297507091353,Not Significant
+gpt_simple,claude_simple,-0.6690939250723404,0.5114845179567611,Not Significant
+gpt_simple,gpt_refine_complex,-1.608470882140743,0.12422238232435188,Not Significant
+gpt_simple,gpt_complex,-1.284779059093273,0.214312660175892,Not Significant
+claude_simple,gpt_refine_complex,-0.6620958572636646,0.5158608022869156,Not Significant
+claude_simple,gpt_complex,-1.2481533618841378,0.22713788324230552,Not Significant
+gpt_refine_complex,gpt_complex,-1.21639813704818,0.23872922821185666,Not Significant
