@@ -298,6 +298,7 @@ class Agent:
             example_xlsx2 = "data/transcriptions/transcription_ex" + str(3) + ".xlsx"
             example_text_2 = tools.xlsx_to_string(example_xlsx2)
             example_image_2 = "data/Archives_LLN_Nivelles_I_1921_REG 5193/example3.jpeg"
+            example_text = [example_text_1, example_text_2]
         
         if("claude" in self.model):
             resized_image = self.resize_image(image_path)
@@ -385,7 +386,7 @@ class Agent:
 
                             Transcription:
                             ```plaintext
-                            {example_text_1}
+                            {example_text}
                             ```
                             Compare what you read initially and the solution key in ```plaintext block. Recreate the content of the table in this image. Only that, no other information from you.
 
@@ -416,6 +417,18 @@ class Agent:
                         "role": "user",
                         "content": [ 
                         {
+                            "type": "image_url",
+                            "image_url": {
+                            "url": f"data:image/jpeg;base64,{base64_image}"
+                            }
+                        },
+                        {
+                            "type": "image_url",
+                            "image_url": {
+                            "url": f"data:image/jpeg;base64,{image_1}"
+                            }
+                        },
+                        {
                             "type": "text",
                             "text": f"""
                             The ```plaintext block is the example transcription of the example image you saw:
@@ -428,18 +441,6 @@ class Agent:
                             
                             Even if it is hard to read the texts from the image, return as much as you can. You must read something. Do not return an apologetic message.
                             """
-                        },
-                        {
-                            "type": "image_url",
-                            "image_url": {
-                            "url": f"data:image/jpeg;base64,{base64_image}"
-                            }
-                        },
-                        {
-                            "type": "image_url",
-                            "image_url": {
-                            "url": f"data:image/jpeg;base64,{image_1}"
-                            }
                         },
                         ]
                     }
@@ -454,20 +455,6 @@ class Agent:
                     {
                         "role": "user",
                         "content": [ 
-                        {
-                            "type": "text",
-                            "text": f"""
-                            The ```plaintext block is the example transcription of the example image you saw:
-
-                            Transcription:
-                            ```plaintext
-                            {example_text_1}
-                            ```
-                            Compare what you read initially and the solution key in ```plaintext block. Recreate the content of the table in this image. Only that, no other information from you.
-                            
-                            Even if it is hard to read the texts from the image, return as much as you can. You must read something. Do not return an apologetic message.
-                            """
-                        },
                         {
                             "type": "image_url",
                             "image_url": {
@@ -490,7 +477,20 @@ class Agent:
                             "url": f"data:image/jpeg;base64,{image_2}"
                             }
                         },
-                        
+                        {
+                            "type": "text",
+                            "text": f"""
+                            The ```plaintext block is the example transcription of the example image you saw:
+
+                            Transcription:
+                            ```plaintext
+                            {example_text}
+                            ```
+                            Compare what you read initially and the solution key in ```plaintext block. Recreate the content of the table in this image. Only that, no other information from you.
+                            
+                            Even if it is hard to read the texts from the image, return as much as you can. You must read something. Do not return an apologetic message.
+                            """
+                        },
                         ]
                     }
                 ]
@@ -522,93 +522,4 @@ class Agent:
 
         return self.call(prompt, max_tokens=3000)
     
-    """
-    def checkNames(self, content):
-        prompt = "Verify this table. It should containt Belgian family names and first name, there is high probability that the family names appear mutliple times in a same row. I want a table in .txt format as output, just the table no other sentence from you:"
-        prompt += content
-        prompt += self.load_names()
-        return self.call(prompt, None)
-    """
-    
-    def checkNames(self, content):
-        prompt = f"""
-        Your first draft:
-            ```draft
-            {content}
-            ```
-        
-        Name list:
-            ```txt
-            {self.load_names()}
-            ```  
-        
-        Task:
-            There are some transcription errors in 'Nom', 'Prénoms', and 'Noms, Prénoms et demeures des parties déclarantes' in your first draft in the ```draft block.
-            Read these items from the image again such that the corresponding names exist in Belgium according to the name list in the ```txt block.
-            When you see Arrêté le \d{2} \w+ \d{4}( \w+)? servais, add it to a new key key called 'Note'. 
-            If there is no information of the deceased name but only 'Arrêté le \d{2} \w+ \d{4}( \w+)? servais', add it under an empty name.
-            Make sure to read the names of the people and the location as well as the dates and the numbers correctly.
-            Only update those items. 
-            Don't add any other information, just the table.
-        
-        Tips:
-            The family name in 'Nom' under 'Désignation des personnes décédées ou absentes.' may equal to the family name in 'Noms, Prénoms et demeures des parties déclarantes', which contains the family and first name of the declaring parties.
-            But it is most likely that their first names (Prénoms) are different. 
-            If the family names in 'Nom' and 'Noms, Prénoms et demeures des parties déclarantes' are the same, 'Prénoms' should be masculine.
-            'Noms, Prénoms et demeures des parties déclarantes' may end with '& autre' or '& autres'.
-    
-        """
-        return self.call(prompt, max_tokens=3000)
-    
-    
-    """
-    def checkCities(self, content):
-        prompt = "Verify this table. It should containt Belgian cities and municipality, there is high probability that the cities appear mutliple times in a same column. I want a table in .txt format as output, just the table no other sentence from you:"
-        prompt += content
-        prompt += self.load_cities()
-        return self.call(prompt, None)
-    """
-    
-    def checkCities(self, content, country, province, municipality, location_path, language="French", lang="FR"):
-        #txt = pd.read_csv(location_path, sep='\t')
-        #province = txt[txt['Province'] == {province}].copy()
-        province = self.load_cities()
-        prompt = f"""
-        
-        Your draft:
-            ```draft
-            {content}
-            ```
-        
-        Province data:
-            ```txt
-            {province}
-            ```
-        
-        Task:
-            There may be errors in the information you filled in 'Domiciles' in your first draft in the ```draft block. Refine it.
-            To improve 'Domiciles' in your draft, consult Sector_{lang} in the province data in ```txt block. 
-            When you see Arrêté le \d{2} \w+ \d{4}( \w+)? servais, add it to a new key key called 'Note'. 
-            If there is no information of the deceased name but only 'Arrêté le \d{2} \w+ \d{4}( \w+)? servais', add it under an empty name.
-            Make sure to read the names of the people and the location as well as the dates and the numbers correctly.
-            Don't add any other information, just the table.
-            
-        Tips:
-            The sector names in your draft and the province data may slightly differ.
-            'Domiciles' in your draft should contain sector names in Sector_{lang}.
-
-        
-        """
-        return self.call(prompt, max_tokens=3000)
-    
-    def checkMath(self, content):
-        prompt = "Verify this table, in the column 'Droit de succession', the values in the subcolumns 'Rest' = 'Actif' - 'Passif'. I want a table in .txt format as output, juste the table no other sentence from you:"
-        prompt += content
-        return self.call(prompt, None)
-    
-    def verifyContext(self, content):
-        prompt = "Verify this table. It shoud containt sentences from the following list. I want a table in .txt format as output, juste the table no other sentence from you:"
-        prompt += content
-        # TODO: add most common sentence in the previous documents
-        return self.call(prompt, None)
-        
+   
