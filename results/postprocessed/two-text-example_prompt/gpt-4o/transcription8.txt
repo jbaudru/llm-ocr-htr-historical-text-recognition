@@ -1,5 +1,0 @@
-DATE DU DÉPÔT  NOM, PRÉNOMS  DOMICILES  ACTIF  PASSIF  RESTANT NET  VALEUR DES IMMEUBLES  DATE  NUMÉROS
-8 novembre 1919  Gossiaux Arthur  Fontaine-l'Évêque  5689  -  5689  -  8 janvier 1920  20C 191
-8 novembre 1919  Painblanc Joseph  Braine-l'Alleud  1596  -  1596  -  20C 191
-8 novembre 1919  Painblanc Guillaume  -  2594  -  2594  -  21C 191
-8 novembre 1919  Charlier Jean  Tubize  5200  -  5200  -  21C 191

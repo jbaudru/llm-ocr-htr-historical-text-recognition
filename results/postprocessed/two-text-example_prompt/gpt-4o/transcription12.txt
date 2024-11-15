@@ -1,6 +1,0 @@
-DATE DU DÉPÔT  DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES  NOM, PRÉNOMS  DOMICILES  ACTIF  PASSIF  RESTANT NET  VALEUR DES IMMEUBLES  DATE  NUMÉROS  OBSERVATIONS
-6 443^2  Tibbaut  Noël  Boussu  470       
-6 444  Wautbois  Félix  Boussu  11669  4049      
-6 445  Jacquet  Émerson  Émerson  3559  2538  1602     
-6 446  Vanglaire  Guillaume  Braine l'Alleud  200       
-6 446^2  Plasman  Marie  Braine l'Alleud  148       

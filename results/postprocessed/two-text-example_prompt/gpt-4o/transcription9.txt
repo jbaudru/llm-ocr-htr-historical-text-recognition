@@ -1,9 +1,0 @@
-Date de dépôtDésignation des personnes décédées ou absentes.Date de décès.Noms, Prénoms.Droits de successionDroit de mutationNumérosRecetteObservations
-     Nom. Prénoms. Domiciles. Actif. Passif. Restant net. Valeur des immeubles.
-4399 Knops Delrueur Nicolas Bruxelles Veuve: Elizabeth Knops Succession Collatérale       
-440 Despalque Eugène Bruxelles 25 février 1919 Despalque Léopold 13178 2956 10222       
-441 Jaquin Félix Ophain 14 juillet 1919 Jaquin Famille 960 320 640       
-441^bis Vonsure Elise Premier décembre 1919 De bruin Jules & autres           
-442 Jaquin de Saintieux Émile Nicolas Ostende Premier décembre 1919 48192 19140 29052       
-443 Demeurels Ophain 15 février 1919 Veuve: Nicolas Demeurels           
-443^bis Goisse Ophain 9 février 1919 Lejeune Clara           

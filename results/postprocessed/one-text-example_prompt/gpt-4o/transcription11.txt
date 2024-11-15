@@ -1,9 +1,0 @@
-Date de décès  Désignation des personnes décédées ou absentes  Actif  Passif  Restant net  Droits de mutation en ligne directe  Valeur  Numéros  Date  Observations
-6 419  Devillers Josephine  1919  1919  1919  1919  1919  1919  1919  1919
-6 419^2  Clabecq Armand  1919  1919  1919  1919  1919  1919  1919  1919
-6 420  Gilbert Clémentine  4251  2463  1788  1919  1919  1919  1919  1919
-6 421  Raesmans Henri  3551  1911  1640  1919  1919  1919  1919  1919
-6 422  Hirinne Marie  1226  1226  1226  1919  1919  1919  1919  1919
-6 423  Mbalbien Emmerence  1908  1908  1908  1919  1919  1919  1919  1919
-6 424  Cauwenbergh Jules Joseph  1286  1286  1286  1919  1919  1919  1919  1919
-6 425  Amboine Alphonse  2266  2266  2266  1919  1919  1919  1919  1919
