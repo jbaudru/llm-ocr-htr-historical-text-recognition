@@ -1,5 +1,5 @@
 id,text
-1_0,"N°   DATE DU DÉPÔT des déclarations   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES.: NOMS   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES.: PRÉNOMS   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES.: DOMICILES   DATE DU DÉCÈS ou du jugement d'envoi en possession, en cas d'absence   NOMS, PRÉNOMS et demeures des parties déclarantes   DROITS DE SUCCESSION en ligne collatérale et de MUTATION EN LIGNE DIRECTE: ACTIF   DROITS DE SUCCESSION en ligne collatérale et de MUTATION EN LIGNE DIRECTE: PASSIF   DROITS DE SUCCESSION en ligne collatérale et de MUTATION EN LIGNE DIRECTE: RESTANT NET   DROIT DE MUTATION par décès: VALEUR des immeubles   NUMÉROS des DÉCLARATIONS: Primitives   NUMÉROS des DÉCLARATIONS: Supplémentaires   DATE: de l'expiration du délai de rectification   DATE: de l'exigibilité des droits   NUMÉROS de la consignation des droits au sommier n° 28   RECETTE des droits et amendes.: DATE   RECETTE des droits et amendes.: N°   CAUTIONNEMENTS: Numéros de la consignation au sommier n°30   OBSERVATIONS (Les déclarations qui figurent à l'état n°413 doivent être émargées en conséquence, dans la présente colonne)"
+1_0,N° DATE DU DÉPÔT DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES NOMS PRÉNOMS DOMICILES DATE DU DÉCÈS NOMS PRÉNOMS ET DEMEURES DES PARTIES DÉCLARANTES DROITS DE SUCCESSION ACTIF PASSIF RESTANT NET DROIT DE MUTATION NUMÉROS DES DÉCLARATIONS DATE RECETTE CAUTIONNEMENTS OBSERVATIONS
 1_1,Arrêté le vingt huit octobre 1919 servais
 1_2,Arrêté le vingt neuf octobre 1919 servais
 1_3,398 trente octobre Herrent Alphonse Joseph ochain 30 8bre 1913 Herrent Désiré & autres 2280 1085 1195 11 30/315 15 9bre 1914 feuillet 365
@@ -13,7 +13,7 @@ id,text
 1_11,401 8 Bouly Henri Ouvrier l' 20 février Bouly-Marie Père 2374 2374 15 8 20 Août non passible 1879
 1_12,Arrêté le trois novembre 1919 devereux
 1_13,402 Godart Rombals Marie 11 mai Plesson Gustave 17237 17737 55 76 31 22 mai 1919 21 novembre 1920
-2_0,"N° d'ordre   DATE DU DÉPÔT des déclarations.   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES.: NOMS.   PRÉNOMS.   DOMICILES   DATE DU DÉCÈS ou du jugement d'envoi en possession, en cas d'absence.   NOMS, PRÉNOMS ET DEMEURES DES PARTIES DÉCLARANTES.   DROITS DE SUCCESSION en ligne collatérale et de MUTATION EN LIGNE DIRECTE.: ACTIF. (2)   PASSIF. (2)   RESTANT NET. (2)   DROIT DE MUTATION par décès: VALEUR des immeubles. (2)   NUMÉROS des DÉCLARATIONS: Primitives.   Supplémentaires.   DATE: de l'expiration du délai de rectification.   de l'exigibilité des droits.   NUMÉROS de la consignation des droits au sommier n° 28   RECETTE des DROITS ET AMENDES.: DATE   N°s   CAUTIONNEMENTS.: Numéros de la consignation au sommier n°30   OBSERVATIONS (Les déclarations qui figurent à l'état n°413 doivent être émargées en conséquence, dans la présente colonne.)"
+2_0,"N° d'ordre   Date du dépôt des déclarations   Désignation des personnes décédées ou absentes: Noms, Prénoms, Domiciles   Date du décès ou du jugement d'envoi en possession, en cas d'absence   Noms, Prénoms et demeures des parties déclarantes   Droits de succession en ligne collatérale et de mutation en ligne directe: Actif, Passif, Restant NET   Droit de mutation par décès: Valeur des immeubles   Numéros des déclarations: Primitives, Supplémentaires   Date: de l'expiration du délai de rectification, de l'exigibilité des droits   Numéros de la consignation des droits au sommier n° 28   Recette des droits et amendes: Date, N°   Cautionnements: Numéros de la consignation au sommier n°30   Observations  "
 2_1,1419
 2_2,403 quatre 92 Bayot Antoinette Marie d'Aubly 11 mai 919 Bayot Henri d'aubert 16971 5233 11700 16.919.919 16 mai 919
 2_3,405e Paulus Adolphe Nivelles 25 février 1919 Paulus Léopold 2971 2971 481 10 Août 1920
@@ -28,7 +28,7 @@ id,text
 2_12,409 5 Allard Prosper Nivelles 16 avril 1919 Bellens Marie 9420 9420 17 5 16 juin 1920 25 message 54
 2_13,Arrêté le sept novembre 1919 servais
 2_14,410 Paul plus Delontte gustave 22/12/1909 16 mai 1919 Delville Edouard Zulte 11451 369 11087 20 30 16 mars 1920 29 février 1920
-3_0,"N° d'ordre DATE DU DÉPÔT des déclarations. DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES.: NOM. PRÉNOMS. DOMICILES. DATE DU DÉCÈS ou du jugement d'envoi en possession, en cas d'absence. NOMS, PRÉNOMS et demeures des parties déclarantes. DROITS DE SUCCESSION en ligne collatérale et de MUTATION EN LIGNE DIRECTE.: ACTIF. (2) PASSIF. (2) RESTANT NET. (2) DROIT DE MUTATION par décès: VALEUR des immeubles. (2) NUMÉROS des déclarations: Primitives. Supplémentaires. DATE: de l'expiration du délai de rectification. de l'exigibilité des droits. NUMÉROS de la consignation des droits au sommier n° 28 RECETTE des droits et amendes.: DATE N°s CAUTIONNEMENTS.: NUMÉROS de la consignation au sommier n°30 OBSERVATIONS (Les déclarations qui figurent à l'état n°413 doivent être émargées en conséquence, dans la présente colonne.)"
+3_0,"N° d'ordre   DATE DU DÉPÔT des déclarations   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES:   - NOMS   - PRÉNOMS   - DOMICILES   DATE DU DÉCÈS ou du jugement d'envoi en possession, en cas d'absence   NOMS, PRÉNOMS et demeures des parties déclarantes   DROITS DE SUCCESSION en ligne collatérale et de MUTATION EN LIGNE DIRECTE:   - ACTIF (2)   - PASSIF (2)   - RESTANT NET (2)   DROIT DE MUTATION par décès:   - VALEUR des immeubles (2)   NUMÉROS des déclarations:   - PRIMITIVES   - SUPPLÉMENTAIRES   DATE:   - de l'expiration du délai de rectification   - de l'exigibilité des droits   NUMÉROS de la consignation des droits au sommier n° 28   RECETTE des droits et amendes:   - DATE   - N°s   CAUTIONNEMENTS:   - NUMÉROS de la consignation au sommier n° 30   OBSERVATIONS (Les déclarations qui figurent à l'état n° 413 doivent être émargées en conséquence, dans la présente colonne)  "
 3_1,411 Paul 26/3/39 Houtelet Henri Waterloo 25/3/39 Epouse Huve 3978 3978 20/9/39 20 juillet non fournie
 3_2,412 30 Chabreau Henri Emile 6 8/1919 Capelle Antoinette et autres 78692 78692 20 30 6 octobre 19 8/1919 201 202 203 204 205
 3_3,412 3 Reynens Louis officier 4 avril 1916 Gilles ordre - 1296 - 1296 280 - - 31 mars 1920 549
@@ -42,21 +42,21 @@ id,text
 3_11,417 2 Basigant Marie 47 2 Bruyenne Eugénie 1264 4264 23 2 15 2 5 mars 1920 52
 3_12,4112 Campinaire Renard taillé 29/3/1915 Gillis Eugène 22295 23750 361
 3_13,Arrêté le 4 mars novembre 1919 servais
-4_0,"I apologize, but I'm not able to read any specific text from the image provided. The image appears to show only the header row of a table from an old Belgian document written in French. It contains column titles for various pieces of information related to succession rights and declarations, but no actual data entries are visible in this particular image. Without seeing the content rows of the table, I cannot provide any specific text transcription beyond the column headers that are already described in the context you provided."
+4_0,"N° d'ordre   Date du dépôt des déclarations   Désignation des personnes décédées ou absentes:   - Noms   - Prénoms   - Domiciles   Date du décès ou du jugement d'envoi en possession, en cas d'absence   Noms, Prénoms et demeures des parties déclarantes   Droits de succession en ligne collatérale et de mutation en ligne directe:   - Actif (2)   - Passif (2)   - Restant NET (2)   Droit de mutation par décès:   - Valeur des immeubles (2)   Numéros des déclarations:   - Primitives   - Supplémentaires   Date:   - de l'expiration du délai de rectification   - de l'exigibilité des droits   Numéros de la consignation des droits au sommier n° 28   Recette des droits et amendes:   - Date   - N°   Cautionnements:   - Numéros de la consignation au sommier n°30   Observations (les déclarations qui figurent à l'état n°413 doivent être émargées en conséquence, dans la présente colonne)  "
 4_1,Arrêté le deux novembre 1919 servais
 4_2,418 Cloquet Célestine Wauthier 28 mai 1919 Décédé aliéné 5500 - 5500 29 3/4 44 28 mars 5 mars 1920
 4_3,419 3° Vincent Edouard Denis 3 avril 1911 Bréfort Emile à autre 22600 22600 3° 3° 3 juin 1911 3 mars 1914 945 10 5° 300
 4_4,Arrêté le treize novembre 1919 servais
 4_5,Arrêté le quinze novembre 1919 servais
 4_6,420 quinge Boisdenghien Rosalie quesnoit 17 mai 1919 décès Renaix veuve 1938 1938 607 24 36 1/2 15 mars 1940 1 août 38
-4_7,420² Lambotte Ernest Waterloo 7 février 1911 Lambotte Emile 258
+4_7,420² Lambotte Ernest Waterloo 7 février 1911 Lambotte Emile 513 1914
 4_8,Arrêté le quinze novembre 1919 servais
 4_9,Arrêté le 2 novembre 1919 Dimanche servais
 4_10,Arrêté le 2nd sept novembre 1919 servais
 4_11,420 3 décembre Rousseau Charles Gh Nivelles 21 mars 1919 Rousseau Louis 24.800 24.800 780 1949
 4_12,421 Lehamg Henri Euthie 2 aout 1915 Neufchapeau Bras Arlon 1922 210 3912 28 Aout 49 2 juin 1915 3 aout 1920 24 49 5 385
 4_13,Arrêté le dix huit novembre 1919 servais
-5_0,"N° DATE DU DÉPÔT DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES. DATE DU DÉCÈS NOMS, PRÉNOMS DROITS DE SUCCESSION DROIT NUMÉROS RECETTE CAUTION- OBSERVATIONS d'ordre des NOM. PRÉNOMS DOMICILES ou du ET en ligne collatérale et de DE MUTATION des DATE NEMENTS. déclarations jugement d'envoi DEMEURES DES PARTIES DÉCLARANTES. MUTATION EN LIGNE DIRECTE. par décès DÉCLARATIONS ACTIF. PASSIF. RESTANT VALEUR Primitives. Supplémentaires. de de Numéros DATE N°s Numéros en cas d'absence. (2) (2) NET. (2) des l'expiration l'exigibilité de la consignation de la consignation immeubles. du délai des droits. des droits au au sommier rectification. n° 28 n° 30"
+5_0,"N°   DATE DU DÉPÔT des déclarations   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES.: NOM., PRÉNOMS, DOMICILES   DATE DU DÉCÈS ou du jugement d'envoi en possession, en cas d'absence.   NOMS, PRÉNOMS ET DEMEURES DES PARTIES DÉCLARANTES.   DROITS DE SUCCESSION en ligne collatérale et de MUTATION EN LIGNE DIRECTE.: ACTIF., PASSIF., RESTANT NET.   DROIT DE MUTATION par décès: VALEUR des immeubles.   NUMÉROS des DÉCLARATIONS: Primitives., Supplémentaires.   DATE: de l'expiration du délai de rectification., de l'exigibilité des droits.   NUMÉROS de la consignation des droits au sommier n° 28   RECETTE des droits et amendes.: DATE, N°   CAUTIONNEMENTS.: Numéros de la consignation au sommier n°30   OBSERVATIONS (Les déclarations qui figurent à l'état n°413 doivent être émargées en conséquence, dans la présente colonne.)"
 5_1,1919
 5_2,425 neuf Sleemans Charles Otto 27 avril 1917 Boussu Hainaut 5888 214 5675 39 10 24/14 322 17 19 janvier 1918 24
 5_3,435 3 Burij Léontine Maria Catharina 4 janvier 1912 Burij Marie Leontine 500 500 10 août 241 9 janv. 1913
@@ -71,7 +71,7 @@ id,text
 5_12,426 3° Fontignies Ath Athan Depain 1914 Bartholomé Edouard veuve 2261 2261 1 3° 20 avril 1920 10 juillet 20
 5_13,429 8 Moens Joseph Calais expulsé Liège déc. d autres 1595 3095 3- 28 mai 1929 non payable
 5_14,"428 Semal Henri Nivelles 15 juin 1924 Guyot alice et autres 4,000 4,000 334/1 3x 16 août 1924 16 août 1924 79"
-6_0,I apologize but I'm not able to read any specific text from the image provided The image appears to show the header row of a table from an old Belgian document written in French It contains column headers for various pieces of information related to succession and inheritance such as names dates domiciles and financial details However there is no data filled in below these headers that I can discern or transcribe If you have a specific row of data you'd like me to try reading please provide an image that includes that information and I'll do my best to transcribe it
+6_0,N° d'ordre Date du dépôt des déclarations Désignation des personnes décédées ou absentes Noms Prénoms Domiciles Date du décès ou du jugement d'envoi en possession en cas d'absence Noms Prénoms et demeures des parties déclarantes Droits de succession en ligne collatérale et de mutation en ligne directe Actif Passif Restant NET Droit de mutation par décès Valeur des immeubles Numéros des déclarations Primitives Supplémentaires Date de l'expiration du délai de rectification de l'exigibilité des droits Numéros de la consignation des droits au sommier n° 28 Recette des droits et amendes Date N° Cautionnements Numéros de la consignation au sommier n°30 Observations
 6_1,1911
 6_2,150 vingt quatre juin Lambert Valentin Rebecq 16 mars 1921 Gérard Camille et autres 12880 1609 11271 16 mars 1922 19
 6_3,151 Lerseau Adolphine Charleroy 3 mars 97 Vanspré Rosalie & autres 6768 6860 7869/4 157 16 - 97
@@ -86,7 +86,7 @@ id,text
 6_12,156 Seolas Jean Joseph Wautier 6 Août Décédé juge de paix autres 2691 2691 id
 6_13,Arrêté le vingt sept février 1921 servais
 6_14,157 vingt huit 8 Declercque Marie-Emma Rosalie 29 8bre 1910 Declercque Adelaide 14.066 3326 10.740 9.649.20.28
-7_0,I apologize but I'm not able to read any specific text from the image provided The image appears to show only the header row of a table from a Belgian succession declaration document It contains column titles in French but no actual data entries are visible Without seeing any filled-in rows of data I cannot provide a transcription of specific names dates or other details that would normally appear in this type of document If you have another image showing completed rows of the table I would be happy to attempt to transcribe that information for you
+7_0,"N°   DATE DU DÉPÔT   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES   NOMS   PRÉNOMS   DOMICILES   DATE DU DÉCÈS   NOMS, PRÉNOMS ET DEMEURES DES PARTIES DÉCLARANTES   DROITS DE SUCCESSION   ACTIF   PASSIF   RESTANT NET   DROIT DE MUTATION PAR DÉCÈS   NUMÉROS DES DÉCLARATIONS   DATE   RECETTE   CAUTIONNEMENTS   OBSERVATIONS  "
 7_1,Arrêté le dix-sept juin 1920 servais
 7_2,145 cinquième Luyer Charles Louis Original 15 8/1920 Van assche julienne x enfants 50188 1418 58732 28 8/1921 28 2/1921 30
 7_3,Arrêté le dix sept juin 1921 Servais
@@ -100,21 +100,21 @@ id,text
 7_11,Arrêté le vingt trois juin 1920 servais
 7_12,148 vingt quatre Dasset Emmanuel Gérard Bruxelles Gérin Emile r autres 4/8/1 1133 1612 100 6 janvier 1912
 7_13,149 de Liegelaert Laurent Th. Regina 18 mai 1926 Huygens-Elisabeth & autres 6378 2568 3811 non fournie
-8_0,"N° d'ordre   DATE DU DÉPÔT des déclarations   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES:   NOMS   PRÉNOMS   DOMICILES   DATE DU DÉCÈS ou du jugement d'envoi en possession, en cas d'absence.   NOMS, PRÉNOMS ET DEMEURES DES PARTIES DÉCLARANTES   DROITS DE SUCCESSION en ligne collatérale et de mutation en ligne directe:   ACTIF (2)   PASSIF (2)   RESTANT NET (2)   DROIT DE MUTATION par décès:   VALEUR des IMMEUBLES (2)   NUMÉROS DES DÉCLARATIONS:   PRIMITIVES   SUPPLÉMENTAIRES   DATE:   de l'expiration du délai de rectification   de l'exigibilité des droits   NUMÉROS de la consignation des droits au sommier n° 28   RECETTE des droits et amendes:   DATE   N°   CAUTIONNEMENTS:   Numéros de la consignation au sommier n° 30   OBSERVATIONS (Les déclarations qui figurent à l'état n° 413 doivent être émargées en conséquence, dans la présente colonne.)"
+8_0,N°   DATE DU DÉPÔT   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES   DATE DU DÉCÈS   NOMS   PRÉNOMS   DOMICILES   DROITS DE SUCCESSION   DROIT   NUMÉROS   DATE   RECETTE   CAUTIONNEMENTS   OBSERVATIONS   d'ordre   des   NOMS   PRÉNOMS   DOMICILES   ou du jugement d'envoi   ET   en ligne collatérale et de mutation en ligne directe   DE MUTATION   DES   des   NEMENTS   déclarations   en possession   DEMEURES DES PARTIES DÉCLARANTES   ACTIF   PASSIF   RESTANT   par décès   DÉCLARATIONS   droits   en cas d'absence   NET   VALEUR   Primitives   Supplémentaires   et amendes   immeubles
 8_1,Arrêté le vingt-un novembre 1919 servais
-8_2,429 vingt deux novembre Beth Louis Otto 28 mai 1919 Héritier Louis 9000 9000 5 janvier 1920 26 mars 1919 15 8/20 300 15 8/20 300
+8_2,429 vingt deux novembre Beth Louis Otto 28 mai 1919 Héritier Louis 9000 9000 5 janvier 26 mars 1920 15 8/m 500 15 8/m 1920 309
 8_3,430 8° Huart Paul 19 8bre 1913 Huart Joseph et autres 44207 1861 42346 3 8° 19 avril 1914 4 avril 1914 362 1 juin 1914 942
 8_4,431 3° Romain Félicie 9 1937 8/19 Wanlin Livret d'ouvrier 10/15 10 38 5 0 10 juillet 1938 15/3°1939 130
-8_5,1532 5 Poliart Léon 3/8/1918 Veuve Clément Laurette 915 111 632 1532 5 15 août 1919 3 avril 1919 73
+8_5,1532 5 Poliart Léon 3/8/1918 Veuve Clémence Laubert 915 111 632 1532 5 15 août 1919 15 août 1919 73
 8_6,133 Poliart Arthur 19 5 a 945 441 674 135 5 50 19 5 5 71
 8_7,434 Houtmeyers Henri 20/4/1923 38 ans 1/2 Belgique Duffel 1834 78 1878 3 21 mars 1 avril 1923 78
 8_8,455 Thibaut Beau Louis Germant 5 9bre 1919 époux Benis & autres 11290 11290 455 5 7bre 1920 non passible
 8_9,436 5 Gaussin Eva Bruxelles 22/6/1915 Gaussin Daniel 1020 722 298 5 50 20 avril 1919 non passible
-8_10,437 30 Delanney Clémentine 2 28 mars 1918 Bossut adrien 6154 644 513 1 30 28 février 1919 14-11-21 148
+8_10,437 30 Delanney Clémentine 2 28 mars 1918 Bossut adrien 6154 644 513 1 30 29 février 1919 14-11-21 148
 8_11,438 Debutte Jules 20 octobre 29 fév 48 Debutte alfred 3988 1483 2505 75 29 avril 15 mai 1920 15 1929 août 1920 565
 8_12,Arrêté le vingt trois novembre 1919 servais
 8_13,Arrêté le vingt-trois novembre 1919 (Dimanche) Servais
-9_0,I understand your request for me to read and transcribe the text from the image even if it's difficult. However I apologize but I don't actually see any image attached to this conversation that I can analyze. The message you've provided contains instructions and context about Belgian succession documents but there is no image for me to examine and transcribe. If you intended to include an image it seems it may not have uploaded successfully. If you're able to share the image I'd be happy to do my best to read and transcribe its contents as requested.
+9_0,"N° d'ordre: [blank] Date du dépôt des déclarations: [blank] Désignation des personnes décédées ou absentes: Noms: [blank] Prénoms: [blank] Domiciles: [blank] Date du décès ou du jugement d'envoi en possession, en cas d'absence: [blank] Noms, Prénoms et demeures des parties déclarantes: [blank] Droits de succession en ligne collatérale et de mutation en ligne directe: Actif: [blank] Passif: [blank] Restant NET: [blank] Droit de mutation par décès: Valeur des immeubles: [blank] Numéros des déclarations: Primitives: [blank] Supplémentaires: [blank] Date: de l'expiration du délai de rectification: [blank] de l'exigibilité des droits: [blank] Numéros de la consignation des droits au sommier n° 28: [blank] Recette des droits et amendes: Date: [blank] N°: [blank] Cautionnements: Numéros de la consignation au sommier n°30: [blank] Observations: [blank]"
 9_1,Arrêté le vingt quatre novembre 1919 servais
 9_2,439 vingt-cinq Gossiaux Adelain Jos Plancenoit 20 7 1911 Gostiaux Sophie a autres 804 5015 6 janvier 20 juillet 1920 5 mai 1920 615
 9_3,Arrêté le vingt cinq novembre 1919 (illisible)
@@ -128,7 +128,7 @@ id,text
 9_11,Arrêté le premier décembre 1919 (servais)
 9_12,439 4 deux 54 Charlier Jean Bte Alphonse 29/8/1915 Chevalier Juliette Veuve Fontier Lucien 5000 5000 91 199
 9_13,Jeudi 8 décembre 1919 Servais
-10_0,N° Date du dépôt Désignation des personnes décédées ou absentes Noms Prénoms Domiciles Date du décès Droits de succession Recette Observations
+10_0,"N° d'ordre   Date du dépôt des déclarations   Désignation des personnes décédées ou absentes: Noms, Prénoms, Domiciles   Date du décès ou du jugement d'envoi en possession, en cas d'absence   Noms, Prénoms et demeures des parties déclarantes   Droits de succession en ligne collatérale et de mutation en ligne directe: Actif, Passif, Restant NET   Droit de mutation par décès: Valeur des immeubles   Numéros des déclarations: Primitives, Supplémentaires   Date: de l'expiration du délai de rectification, de l'exigibilité des droits   Numéros de la consignation des droits au sommier n° 28   Recette des droits et amendes: Date, N°   Cautionnements: Numéros de la consignation au sommier n°30   Observations  "
 10_1,Arrêté le trois décembre 1919 servais
 10_2,4395 Knops Valentine Nicolle 7/4/1911 Bourse (Lierre) x veuve Delft insuffisance 38 23.36/40.330 17 avril/30 oct
 10_3,Arrêté le quatre décembre 1919 Servais
@@ -142,7 +142,7 @@ id,text
 10_11,Arrêté le huit décembre 1919 servais
 10_12,4414 neuf sta Heuvels Alphonsine Nicelle 6 février 1919 Parents décédés 585 197
 10_13,445 Goisse Adolphe 6 janvier 1919 Rouvenel Clara 910 910 204
-11_0,"N° d'ordre DATE DU DÉPÔT des DÉCLARATIONS DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES: NOMS. PRÉNOMS. DOMICILES. DATE DU DÉCÈS ou du jugement d'envoi en possession, en cas d'absence. NOMS, PRÉNOMS ET DEMEURES DES PARTIES DÉCLARANTES. DROITS DE SUCCESSION en ligne collatérale et de MUTATION EN LIGNE DIRECTE: ACTIF. (2) PASSIF. (2) RESTANT NET. (2) DROIT DE MUTATION PAR DÉCÈS: VALEUR des IMMEUBLES. (2) NUMÉROS des DÉCLARATIONS: PRIMITIVES. SUPPLÉMENTAIRES. DATE: de l'expiration du délai de rectification. de l'exigibilité des droits. NUMÉROS de la consignation des droits au sommier n° 28 RECETTE des DROITS ET AMENDES: DATE N°s CAUTIONNEMENTS: NUMÉROS de la consignation au sommier n°30 OBSERVATIONS (Les déclarations qui figurent à l'état n°413 doivent être émargées en conséquence, dans la présente colonne.)"
+11_0,"N°   DATE DU DÉPÔT   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES   DATE DU DÉCÈS   NOMS, PRÉNOMS   DROITS DE SUCCESSION   DROIT   NUMÉROS   RECETTE   CAUTIONNEMENTS   OBSERVATIONS   des   des   ou du   ET   EN LIGNE COLLATÉRALE   DE MUTATION   des   DATE   des   d'ordre   DÉCLARATIONS   NOMS   PRÉNOMS   DOMICILES   jugement d'envoi   DEMEURES DES PARTIES DÉCLARANTES   et de   PAR DÉCÈS   DÉCLARATIONS   droits et amendes   en possession   MUTATION EN LIGNE DIRECTE   VALEUR   en cas d'absence   ACTIF   PASSIF   RESTANT   des   Primitives   Supplémentaires   DATE   DATE   N°s   Numéros de la   (2)   (2)   NET   immeubles   de l'expiration   de   consignation   (2)   (2)   du délai   l'exigibilité   au sommier   de rectification   des droits   n° 30"
 11_1,Arrêté le vingt décembre 1919 servais
 11_2,Arrêté le 31 décembre 1919 servais
 11_3,445 bis Dewez Jean Waterloo 9 8/43 Dewey Germaine 921 921 4/6 1949
@@ -156,7 +156,7 @@ id,text
 11_11,8 Boisdenghien Henri generet 15 mai Debois Docteur à Aiseau 4239 0 4239 0 619 1899
 11_12,Arrêté le six sept décembre 1919 servais
 11_13,Arrêté le dix huit décembre 1919 Servais
-12_0,I understand your request for me to read and transcribe the text from the image even if it's difficult. However I apologize but I don't actually see any specific text or handwritten content in the image provided. The image appears to show only the header row of a table or form with column titles in French. There is no data filled in below the headers that I can discern or transcribe. If you have a different image with actual handwritten entries or data to transcribe please provide that image and I'll do my best to read and transcribe the content for you.
+12_0,"N° d'ordre   DATE DU DÉPÔT des déclarations   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES: NOMS, PRÉNOMS, DOMICILES   DATE DU DÉCÈS ou du jugement d'envoi en possession, en cas d'absence   NOMS, PRÉNOMS et demeures des parties déclarantes   DROITS DE SUCCESSION en ligne collatérale et de MUTATION EN LIGNE DIRECTE: ACTIF, PASSIF, RESTANT NET   DROIT de mutation par décès: VALEUR des immeubles   NUMÉROS des déclarations: PRIMITIVES, SUPPLÉMENTAIRES   DATE: de l'expiration du délai de rectification, de l'exigibilité des droits   NUMÉROS de la consignation des droits au sommier n° 28   RECETTE des droits et amendes: DATE, N°   CAUTIONNEMENTS: Numéros de la consignation au sommier n° 30   OBSERVATIONS (Les déclarations qui figurent à l'état n° 413 doivent être émargées en conséquence, dans la présente colonne.)"
 12_1,9 1848 22 août 1848 Devillers Joséphine Fleurus 9 février 1918 Devillers Julie à Fleurus 495 1919
 12_2,41 10 35 Clabecq Fernand Mathieu Francisque Delcuve Emile 16 291 1919
 12_3,Arrêté le dix neuf décembre 1919 servais
@@ -170,7 +170,7 @@ id,text
 12_11,Arrêté le vingt-trois décembre 1929 servais
 12_12,1405 Cauwenberg Victor Joseph Bandes 16.8.911 Gembloux célibataire rentier 262 - 262 305 1911
 12_13,543 Anthoine Alphonse Aubry 20 Août 1919 Patteet Maurice Ghlin et autre 1826 1826 expirant 26 avril 1920 exigible
-13_0,"N°   DATE DU DÉPÔT des DÉCLARATIONS   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES.: NOMS   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES.: PRÉNOMS   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES.: DOMICILES   DATE DU DÉCÈS ou du jugement d'envoi en possession, en cas d'absence   NOMS, PRÉNOMS et demeures des PARTIES DÉCLARANTES   DROITS DE SUCCESSION en ligne collatérale et de MUTATION EN LIGNE DIRECTE.: ACTIF   DROITS DE SUCCESSION en ligne collatérale et de MUTATION EN LIGNE DIRECTE.: PASSIF   DROITS DE SUCCESSION en ligne collatérale et de MUTATION EN LIGNE DIRECTE.: RESTANT NET   DROIT DE MUTATION par décès: VALEUR des IMMEUBLES   NUMÉROS des DÉCLARATIONS: PRIMITIVES   NUMÉROS des DÉCLARATIONS: SUPPLÉMENTAIRES   DATE: de l'expiration du délai de rectification   DATE: de l'exigibilité des droits   NUMÉROS de la consignation des droits au sommier n° 28   RECETTE des droits et amendes.: DATE   RECETTE des droits et amendes.: N°s   CAUTIONNEMENTS.: Numéros de la consignation au sommier n°30   OBSERVATIONS. (Les déclarations qui figurent à l'état n°413 doivent être émargées en conséquence, dans la présente colonne)"
+13_0,"N° d'ordre   DATE DU DÉPÔT des DÉCLARATIONS   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES.: NOMS.   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES.: PRÉNOMS   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES.: DOMICILES   DATE DU DÉCÈS ou du jugement d'envoi en possession, en cas d'absence.   NOMS, PRÉNOMS et demeures des parties déclarantes.   DROITS DE SUCCESSION en ligne collatérale et de mutation en ligne directe.: ACTIF. (2)   DROITS DE SUCCESSION en ligne collatérale et de mutation en ligne directe.: PASSIF. (2)   DROITS DE SUCCESSION en ligne collatérale et de mutation en ligne directe.: RESTANT NET. (2)   DROIT DE MUTATION par décès: VALEUR des IMMEUBLES. (2)   NUMÉROS des DÉCLARATIONS: PRIMITIVES.   NUMÉROS des DÉCLARATIONS: SUPPLÉMENTAIRES.   DATE: de l'expiration du délai de rectification.   DATE: de l'exigibilité des droits.   NUMÉROS de la consignation des droits au sommier n° 28   RECETTE des droits et amendes.: DATE   RECETTE des droits et amendes.: N°s   CAUTIONNEMENTS.: Numéros de la consignation au sommier n°30   OBSERVATIONS. (Les déclarations qui figurent à l'état n°413 doivent être émargées en conséquence, dans la présente colonne.)  "
 13_1,Arrêté le vingt-quatre décembre 1919 servais
 13_2,Arrêté le vingt-neuf décembre 1919 Noël servais
 13_3,14043 Thibault Alexis Louis épicier 5/4/43 Leysele décédé à autres 1940 415/1919
@@ -179,12 +179,12 @@ id,text
 13_6,445 Jacquet Emmerence Roseline 29 Jacquet Emile 58298 2373 56202 7 29 18 avril 1920 38
 13_7,Arrêté le vingt-sept décembre 1919 servais
 13_8,Arrêté le vingt-huit décembre 1919 Permanence donnée
-13_9,446 Vanglaire Guillaume Prosper 5 7 1944 Bruxelles Boul d'anvers 100 700 9 30 17 juillet 1920 non fournie
+13_9,446 Vanglaire Guillaume Prosper 5 7 1944 receveur-buraliste retraité 100 700 9 30 1 juillet 1960 non fournie
 13_10,Arrêté le vingt neuf décembre 1919 servais  1916 - 39 1918 - 418 1919 - 388 . 191 220 268 . 368 . 402       948 . 813 . 932 . 935 . 938
 13_11,Arrêté le trente décembre 1919 servais Succession d'appartenant de 1919 68 395 1918 68 394 396 396
 13_12,446² Plasman Désiré Maurice 10 mars Veny Remy & autres 158 158 1918 81 114 116 142 122 177 1918 341 360 366 370 410
 13_13,Arrêté le trente-un décembre 1918 servais
-14_0,"N° DATE DU DÉPÔT DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES. DATE DU DÉCÈS DROITS DE SUCCESSION DROIT NUMÉROS DATE RECETTE CAUTIONNEMENTS OBSERVATIONS des déclarations. NOMS. PRÉNOMS. DOMICILES. ou du jugement d'envoi en possession en cas d'absence. NOMS, PRÉNOMS et demeures des parties déclarantes EN LIGNE COLLATÉRALE et de MUTATION EN LIGNE DIRECTE. DE MUTATION par décès. des DÉCLARATIONS de l'expiration du délai de rectification. de l'exigibilité des droits. de la consignation des droits au sommier n° 28 des droits et amendes. NUMÉROS de la consignation au sommier n° 30 (Les déclarations qui figurent à l'état n° 413 doivent être émargées en conséquence, dans la présente colonne.)"
+14_0,"N° D'ORDRE   DATE DU DÉPÔT   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES   DATE DU DÉCÈS   DROITS DE SUCCESSION   DROIT   NUMÉROS   DATE   RECETTE   CAUTIONNEMENTS   OBSERVATIONS   des déclarations   NOMS, PRÉNOMS   ou du   en ligne collatérale   DE MUTATION   des   de   de la   DROITS ET AMENDES   NOMS   PRÉNOMS   DOMICILES   jugement d'envoi   et de   par décès   DÉCLARATIONS   l'expiration   perception   en possession   MUTATION EN LIGNE DIRECTE   VALEUR   du délai   des droits   en cas d'absence   ACTIF   PASSIF   RESTANT NET   des immeubles   Primitives   Supplémentaires   de rectification   et amendes  "
 14_1,Arrêté le premier janvier 1920 Circulation Servais
 14_2,1 deux janvier Severin Jules menuisier à puers delarivière Josephine et 36762 36762 5/6/2 15/3 février 6 mars 1920 juillet 1919 4920 autres 1919
 14_3,2 Dumont Louise Rosalie Fleury-julette 369 10 10 10 5 14 janvier 1920
@@ -198,7 +198,7 @@ id,text
 14_11,4 septembre Scolas Victoire Joseph Barras 22/8/1944 Rossignol Joseph & autres 9039 9039 15 fevrier 22 juillet spécial 120 1920 1920 1920
 14_12,Arrêté le 31 janvier 1920 servais
 14_13,Arrêté le 31 janvier 1920 servais
-15_0,"I apologize, but I'm not able to read any specific text from the image provided. The image appears to show only the header row of a table from an old Belgian document written in French. It contains column headings for various pieces of information related to declarations of succession, including dates, names, addresses, and financial details. However, there is no data filled in below these headers that I can transcribe. If you have a different image with actual entries in the table rows, I would be happy to try reading and transcribing that information for you."
+15_0,"N° d'ordre   DATE DU DÉPÔT des DÉCLARATIONS   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES: NOM   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES: PRÉNOMS   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES: DOMICILES   DATE DU DÉCÈS ou du jugement d'envoi en possession, en cas d'absence   NOMS, PRÉNOMS ET DEMEURES DES PARTIES DÉCLARANTES   DROITS DE SUCCESSION en ligne collatérale et de MUTATION EN LIGNE DIRECTE: ACTIF (2)   DROITS DE SUCCESSION en ligne collatérale et de MUTATION EN LIGNE DIRECTE: PASSIF (2)   DROITS DE SUCCESSION en ligne collatérale et de MUTATION EN LIGNE DIRECTE: RESTANT NET (2)   DROIT DE MUTATION par décès: VALEUR des IMMEUBLES (2)   NUMÉROS des DÉCLARATIONS: PRIMITIVES   NUMÉROS des DÉCLARATIONS: SUPPLÉMENTAIRES   DATE: de l'expiration du délai de rectification   DATE: de l'exigibilité des droits   NUMÉROS de la consignation des droits au sommier n° 28   RECETTE des DROITS ET AMENDES: DATE   RECETTE des DROITS ET AMENDES: N°   CAUTIONNEMENTS: NUMÉROS de la consignation au sommier n°30   OBSERVATIONS (Les déclarations qui figurent à l'état n°413 doivent être émargées en conséquence, dans la présente colonne)"
 15_1,34 Paul François Lefebvre Laurent Cullige 30/8/1913 Héritiers Euphémie veuve 6510 6510 1447 23/8/1914 24/8/1914
 15_2,Arrêté le huit janvier 1920 servais
 15_3,Arrêté le neuf janvier 1920 Servais
@@ -212,9 +212,9 @@ id,text
 15_11,Arrêté le quinze janvier 1920 servais
 15_12,Arrêté le deux janvier 1920 servais
 15_13,7 Schillebeeckx Nicolas Bruxelles 29 juillet Bodengheim Albert 2 août 14625 14625 28 février 29 mars 1 août 1920 270
-16_0,"I apologize, but I'm unable to read any specific text from the image provided. The image appears to show the header row of a table from an old Belgian document written in French. It contains column headers for various pieces of information related to succession rights and declarations, but the actual data fields below these headers are not visible in this particular image. Without seeing the content of the data rows, I cannot provide any specific information about individuals, dates, or other details that would typically be filled in on such a form."
+16_0,"I'm not able to read any specific text from the image provided. The image appears to show the header row of a table from an old Belgian document written in French. It contains column headings for various pieces of information related to succession rights and declarations, but the actual data rows are not visible in this cropped view of just the header. Without seeing the full document or any data rows, I cannot provide the specific text content you're requesting. I can only describe the general structure and column headings that are visible in this header portion of the table."
 16_1,8 22/9/922 Leclercq Fleuron Marie Anderlues 6/10/919 Leclercq Victor et autres 8468 8468 1916 22 janvier - 6 juillet 1923 non prescrit
-16_2,9 Gervis Esterphard Gustave Séraphin Castiau Marie Anderlues 3 juillet 1918
+16_2,9 Gervis Edouard Marie Sepulchre Bastogne 14 avril 1918 Déclaration d'usufruit
 16_3,9^e 2^e Oreq alphonse gén a 25 8^b 1911 Gembloux Namur Gand 384 4 janvier 50 1919
 16_4,Arrêté le dix sept janvier 1930 servais
 16_5,Arrêté le dix huit janvier 1920 Dimanche Servais
@@ -226,7 +226,7 @@ id,text
 16_11,Arrêté le vingt trois janvier 1920 servais
 16_12,10 vingt/quatre Durieux Henri Nestor 4 juillet 1949 Durieux Louis - 141 563 8185 149748 1950 1950 3 avril 1950 3 juillet 1950
 16_13,Arrêté le vingt quatre janvier mil neuf cent vingt
-17_0,"N° d'ordre   DATE DU DÉPÔT des DÉCLARATIONS   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES: NOMS, PRÉNOMS, DOMICILES   DATE DU DÉCÈS ou du jugement d'envoi en possession, en cas d'absence.   NOMS, PRÉNOMS ET DEMEURES DES PARTIES DÉCLARANTES   DROITS DE SUCCESSION en ligne collatérale et de MUTATION EN LIGNE DIRECTE: ACTIF, PASSIF, RESTANT NET   DROIT DE MUTATION par décès: VALEUR des immeubles   NUMÉROS des DÉCLARATIONS   DATE   NUMÉROS de la consignation des droits au sommier n° 28   RECETTE des DROITS ET AMENDES   CAUTIONNEMENTS   OBSERVATIONS  "
+17_0,"N° d'ordre   Date du dépôt des déclarations   Désignation des personnes décédées ou absentes: Noms, Prénoms, Domiciles   Date du décès ou du jugement d'envoi en possession, en cas d'absence   Noms, Prénoms et demeures des parties déclarantes   Droits de succession en ligne collatérale et de mutation en ligne directe: Actif, Passif, Restant NET   Droit de mutation par décès: Valeur des immeubles   Numéros des déclarations: Primitives, Supplémentaires   Date: de l'expiration du délai de rectification, de l'exigibilité des droits   Numéros de la consignation des droits au sommier n° 28   Recette des droits et amendes: Date, N°   Cautionnements: Numéros de la consignation au sommier n°30   Observations  "
 17_1,Arrêté le vingt cinq janvier 1920 Dimanche servais
 17_2,102 vingt-deux janvier Deflandre Gustave Henri Emile 22/8/1913 Auderghem Belgique 440 50 198/1914
 17_3,10³ Ypersiel Julien Ghislain Rombaux 18 Août 1918 Charleroi coiffeur 280 280 15/1919
@@ -240,7 +240,7 @@ id,text
 17_11,Arrêté le vingt neuf janvier 1920 servais
 17_12,11e Rousseau Charles Gm Nivelles St maurice Rousseau Jeanne 1500 500 1000
 17_13,115 Dedoncker Vital Eugène 24 août Gouvernement du Hainaut 4487 1568 9340 137 41
-18_0,"I apologize, but I'm unable to read any specific text from the image provided. The image appears to show only the header row of a table from an old Belgian document written in French. It contains column titles for various pieces of information related to succession and inheritance, but no actual data entries are visible in this particular image. Without seeing rows of data below the headers, I cannot provide any specific text transcription beyond the column titles themselves, which you've already outlined in the structure you provided."
+18_0,"N° d'ordre   DATE DU DÉPÔT des déclarations   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES: NOMS, PRÉNOMS, DOMICILES   DATE DU DÉCÈS ou du jugement d'envoi en possession, en cas d'absence   NOMS, PRÉNOMS ET DEMEURES DES PARTIES DÉCLARANTES   DROITS DE SUCCESSION en ligne collatérale et de MUTATION en ligne directe: ACTIF, PASSIF, RESTANT NET   DROIT DE MUTATION par décès: VALEUR des immeubles   NUMÉROS des déclarations: PRIMITIVES, SUPPLÉMENTAIRES   DATE: de l'expiration du délai de rectification, de l'exigibilité des droits   NUMÉROS de la consignation des droits au sommier n° 28   RECETTE des droits et amendes: DATE, N°   CAUTIONNEMENTS: NUMÉROS de la consignation au sommier n° 30   OBSERVATIONS  "
 18_1,Arrêté le trente janvier 1920 servais
 18_2,Arrêté le trente un janvier 1920 servais
 18_3,Arrêté le premier février 1920 Dimanche servais
@@ -254,7 +254,7 @@ id,text
 18_11,15e 5 Denys Marie Virginie Ghislaine épouse Lemaire Emile 1925 supplémentaire 201 1925 5 février 32
 18_12,15³ Vanhoolebrouck Georges Charles Alphonse 29 mars 1949 Cuypers Emile 5575 5575 304
 18_13,"454 Sainblanc Joseph Auguste Chatelet 7 février 1949 Veuve Hubert et autres 2280 2280 2097,99"
-19_0,"I apologize, but I'm not able to read any specific text from the image provided. The image appears to show a blank table or form with column headers, but no actual data or entries are visible in the rows. The headers are in French and relate to information about deceased persons, dates, names, addresses, and various financial details related to succession rights. However, without any filled-in information in the table rows, I cannot provide any specific text or data from this particular image. If you have a different image with actual entries, I would be happy to try reading and transcribing that information for you."
+19_0,"N° d'ordre   Date du dépôt des déclarations   Désignation des personnes décédées ou absentes: Nom, Prénoms, Domiciles   Date du décès ou du jugement d'envoi en possession, en cas d'absence   Noms, Prénoms et demeures des parties déclarantes   Droits de succession en ligne collatérale et de mutation en ligne directe: Actif, Passif, Restant NET   Droit de mutation par décès: Valeur des immeubles   Numéros des déclarations: Primitives, Supplémentaires   Date: de l'expiration du délai de rectification, de l'exigibilité des droits   Numéros de la consignation des droits au sommier n° 28   Recette des droits et amendes: Date, N°   Cautionnements: Numéros de la consignation au sommier n°30   Observations  "
 19_1,Arrêté le cinq février 1920 servais
 19_2,Arrêté le 22 février 1920 servais
 19_3,Arrêté le sept février 1920 servais
@@ -268,7 +268,7 @@ id,text
 19_11,17 août 30 Vaneutsem Adeline Bruxelles 13 août 1929 Vaneutsem Charles & autre 73.628 73.628 161 27 mars 1930 27 juillet 1930 20 juillet 1930 230
 19_12,Arrêté le douze février 1920 servais
 19_13,18 Honnijadis Jules Vienne 22 Août Recton de Vienne Bernal 71.507 25 3 25 Août 1923
-20_0,"N°   DATE DU DÉPÔT   DÉSIGNATION DES PERSONNES DÉCÉDÉES OU ABSENTES:   NOMS, PRÉNOMS   DROITS DE SUCCESSION   DROIT   NUMÉROS   DATE   RECETTE   CAUTION-   OBSERVATIONS   d'ordre   des   NOMS.   PRÉNOMS   DOMICILES   ou du   ET   DE LIGNE COLLATÉRALE   DE MUTATION   des   de   des   NEMENTS.   déclarations.   JUGEMENT D'ENVOI   DEMEURES DES PARTIES DÉCLARANTES.   ET DE MUTATION EN LIGNE DIRECTE   PAR DÉCÈS   DÉCLARATIONS   l'expiration   DROITS ET AMENDES.   en possession   ACTIF.   PASSIF.   RESTANT   VALEUR   Primitives.   Supplémen-   du délai   DATE   N°   Numéros de la   en cas d'absence.   (2)   (2)   NET.   des   taires.   de   consignation   (2)   IMMEUBLES.   rectification.   au sommier   (2)   n° 30  "
+20_0,"N° d'ordre   Date du dépôt des déclarations   Désignation des personnes décédées ou absentes: Noms, Prénoms, Domiciles   Date du décès ou du jugement d'envoi en possession, en cas d'absence   Noms, Prénoms et demeures des parties déclarantes   Droits de succession en ligne collatérale et de mutation en ligne directe: Actif, Passif, Restant NET   Droit de mutation par décès: Valeur des immeubles   Numéros des déclarations: Primitives, Supplémentaires   Date: de l'expiration du délai de rectification, de l'exigibilité des droits   Numéros de la consignation des droits au sommier n° 28   Recette des droits et amendes: Date, N°   Cautionnements: Numéros de la consignation au sommier n°30   Observations  "
 20_1,Arrêté le deux février 1920 servais
 20_2,Arrêté le quinze juin 1920 servais
 20_3,Arrêté le quinze février 1920 Dimanche servais
