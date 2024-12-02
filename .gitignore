@@ -8,3 +8,7 @@ notebooks/config.json
 notebooks/generation_config.json
 
 notebooks/model.safetensors
+.env
+.env
+.env
+.env
