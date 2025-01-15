@@ -1,8 +1,8 @@
 # 📜 Archival Transcription with LLMs: Can LLMs facilitate the OCR/HTR tasks for historical records? 📚
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
 ![MIT License](https://img.shields.io/badge/License-MIT-green?logo=open-source-initiative&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/LLM-OpenAI_GPT--4o-purple?logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/LLM-Claude_Sonnet_3.5-yellow?logo=anthropic&logoColor=white)
 ![Keras](https://img.shields.io/badge/OCR-Keras-red?logo=keras&logoColor=white)
