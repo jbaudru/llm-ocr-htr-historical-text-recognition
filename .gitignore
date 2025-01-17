@@ -2,17 +2,12 @@
 data/Lausanne_Historical_Censuses/
 data/IAM-2002/
 data/RIMES-2011-Lines/
-data/data_rag/
 
 
 notebooks/config.json
-notebooks/keras.ipynb
 notebooks/generation_config.json
-notebooks/transcripter.ipynb
-notebooks/json
-notebooks/postprocessing.ipynb
-
 notebooks/model.safetensors
+notebooks/private/
 .env
 .env
 .env

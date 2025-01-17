@@ -1,7 +1,0 @@
-```
-| Family Name | First Name |
-|-------------|-------------|
-| Leboeuf     |             |
-| Lefevre     | Jules       |
-| Desmedt     | Jeanne      |
-```
