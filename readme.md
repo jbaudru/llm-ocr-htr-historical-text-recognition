@@ -21,12 +21,14 @@ This repository accompanies our study on using **Large Language Models (LLMs)** 
 
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/jbaudru/img-analysis_seorin_project
-   cd img-analysis_seorin_project
+   git clone https://github.com/jbaudru/llm-ocr-htr-historical-text-recognition
+   cd llm-ocr-htr-historical-text-recognition
+
     ```
 
 2. **Install dependencies**:
     ```bash
+    cd main/
     pip install -r requirements.txt
     ```
 
