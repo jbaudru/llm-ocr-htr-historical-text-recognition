@@ -9,6 +9,10 @@
 
 This repository accompanies our study on using **Large Language Models (LLMs)** like GPT-4o and Claude Sonnet 3.5 to transcribe historical handwritten documents (French) in a tabular format. We compare their performance against traditional OCR/HTR systems: EasyOCR, Keras OCR, Pytesseract, and TrOCR. 
 
+## 📜 Paper
+
+https://arxiv.org/abs/2501.11623
+
 ## 🔍 Key Highlights
 - **Models Tested**: GPT-4o, Claude Sonnet 3.5, EasyOCR, Keras OCR, Pytesseract, TrOCR.
 - **Metrics**: Character Error Rate (CER) and Bilingual Evaluation Understudy (BLEU).
