@@ -2,6 +2,7 @@
 data/Lausanne_Historical_Censuses/
 data/IAM-2002/
 data/RIMES-2011-Lines/
+data_to_verify/
 
 
 notebooks/config.json
