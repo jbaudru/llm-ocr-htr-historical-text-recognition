@@ -1,0 +1,13 @@
+```
+| DATE DE DECES | NOM, PRÉNOMS | PROFESSION | DOMICILE | DATE DE L'ACTE | NOMS, PRÉNOMS | DATE | RECETTE | OBSERVATIONS |
+|---------------|--------------|------------|----------|----------------|--------------|------|---------|--------------|
+| 403 quatre 0  | Bayet        | Instituteur| Paris    | 403 0          | Bayet Henri  | 8 Aug 1914 | non familier |              |
+| 405 0         | Paulin       | Soldat     | Néris    | 405 0          | Paulin Louis | 405 0 | 10 Nov 1914 | non familier |
+| 406 0         | Vandermesse  | Soldat     | Etampes  | 406 0          | Vandermesse Fernand | 16 Nov 1914 | non familier |
+| 405 cinq 0    | Semione      | Employé    | Lille    | 405 0          | Semione Jules | 8 Aug 1914 | non familier |
+| 406 0         | Hommayé      | Soldat     | Clermont | 406 0          | Hommayé Louis | 9 Aug 1914 | non familier |
+| 407 0         | Godeau Emilienne | Ouvrière | Paris | 407 0          | Godeau Henri | 17 Aug 1914 | non familier |
+| 408 sept 0    | Fontaine     | Soldat     | Paris    | 408 0          | Fontaine Fernand | 19 Aug 1914 | non familier |
+| 409 0         | Allard       | Ouvrier    | Paris    | 409 0          | Allard Henri | 19 Aug 1914 | non familier |
+| 410 0         | Delvotte     | Fonctionnaire | Paris | 410 0          | Delvotte Emile | 20 Aug 1914 | non familier |
+```

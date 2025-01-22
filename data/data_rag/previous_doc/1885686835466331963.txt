@@ -1,0 +1,13 @@
+```
+DATE DE DECES | NOM      | PRENOM  | DOMICILE | DATE DE NAISSANCE | LIEU DE NAISSANCE | DATE        | N°   | RECU DE LA RECETTE DES FINANCES | OBSERVATIONS
+              |          |         |          |                   |                   |             |      | DATE        | N°   | 
+403           | Jansen   | Louis   | Wavre    | 15/10/1848        | Paris             | 4 Aout 1849 | 1849 | 4 Aout 1849 | 1849 | 
+405           | Jansen   | Michel  | Nivelles | 15/10/1849        | Nivelles          | 11/11/1849  | 1849 | 11/11/1849  | 1849 | 
+404           | Jans     | Etienne | Nivelles | 15/10/1849        | Nivelles          | 16/10/1849  | 1849 | 16/10/1849  | 1849 | 
+405           | Jans     | Louis   | Nivelles | 15/10/1849        | Nivelles          | 4 Aout 1849 | 1849 | 4 Aout 1849 | 1849 | 
+406           | De Jong  | Jules   | Nivelles | 15/10/1849        | Nivelles          | 4 Aout 1849 | 1849 | 4 Aout 1849 | 1849 | 
+407           | De Vries | Etienne | Nivelles | 15/10/1849        | Nivelles          | 12 Aout 1849| 1849 | 12 Aout 1849| 1849 | 
+408           | Janssen  | Henri   | Nivelles | 15/10/1849        | Nivelles          | 19 Aout 1849| 1849 | 19 Aout 1849| 1849 | 
+409           | Bakker   | Marie   | Nivelles | 15/10/1849        | Nivelles          | 19 Aout 1849| 1849 | 19 Aout 1849| 1849 | 
+410           | Jacobs   | Etienne | Nivelles | 15/10/1849        | Nivelles          | 12 Aout 1849| 1849 | 12 Aout 1849| 1849 | 
+```

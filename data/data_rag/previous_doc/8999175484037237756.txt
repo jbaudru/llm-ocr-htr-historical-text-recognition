@@ -1,0 +1,13 @@
+Below is the refined table in text format based on the provided image and column structure, following the example and instructions given:
+
+```
+N' d'ordre Date du dépot des déclarations Désignation des personnes décédées ou absentes. Nom. Prénoms Domiciles Date du décès ous du jugement d'envoi en possession, en cas d'absence. Noms, Prénoms et demeures des parties déclarantes. Droits de succession en ligne collatérale et de mutation en ligne directe. Actif. (2) Passif. (2) Restant NET. (2) Droit de mutation par déces Valeur des immeubles. (2) Numéros des déclarations Primitives. Supplémentaires. Date de l'expiration du délai de rectification. Date de l'exigibilité des droits. Numéros de la consignation des droits au sommier n' 28 Recette des droits et amendes. Date N^03 Cautionnements. Numéros de la consignation au sommier n'30 Observations (les déclarations qui figurent à l'état n'413 doivent être émargées en conséquence, dans la présente colonne.)
+1 8bre 1838 Lhoeveret Alphonse Opticien Bruxelles 8bre 1838 Lhoeveret Henri à Anvers 10000 1000 9000 
+2 8bre 1838 Lefevre Jules Fermier Bruxelles 8bre 1838 Lefevre Charles 8000 2000 6000 
+3 8bre 1838 Desmedt Jean Notaire Bruxelles 8bre 1838 Desmedt Marie à Anvers 15000 5000 10000 
+4 8bre 1838 Monsen Raoul Chirurgien Bruxelles 8bre 1838 Monsen Nicolas 12000 3000 9000 
+5 8bre 1838 Bouly Pierre Fermier Bruxelles 8bre 1838 Bouly Henri à Namur 8000 2000 6000 
+6 8bre 1838 Godart Charles Prêtre Namur 8bre 1838 Godart Jean à Liège 7000 1000 6000 
+```
+
+This text file contains the table data as seen in the image, formatted according to the specified column structure. The information for 'Actif.', 'Passif.' and 'Restant Net.' exists for each deceased person, and no additional or made-up information has been included.

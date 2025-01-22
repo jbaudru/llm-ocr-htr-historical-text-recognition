@@ -1,0 +1,5 @@
+```
+DATE DE DÉCÈS | NOM, PRÉNOMS | ÂGE | LIEU DE NAISSANCE | DATE | LIEU | DATE | OBSERVATIONS
+------------------------------------------------------------------------------------------------
+6 Août 1918 | Vandermesse, Etienne | 60 ans | Bruxelles | 6 Août 1918 | Bruxelles | 16 Août 1918 | 
+```

@@ -1,0 +1,13 @@
+```
+DATE DE DÉCÈS | NOM         | PRÉNOMS   | DOMICILE   | LIEU DE DÉCÈS | DATE DE NAISSANCE | NOM         | PRÉNOMS   | DOMICILE   | DATE        | DATE        | DATE        | OBSERVATIONS
+              |             |           |            |               |                  |             |           |            |             |             |             |
+6 Août        | Bayet       | Emilie    | Fontenille | Paris         | 15 Mai 1896      | Bayet       | Emilie    | Fontenille | 6 Août 1919 | 6 Août 1919 | 6 Août 1919 | 
+6 Août        | Paulius     | Michel    | Fontenille | Paris         | 15 Mai 1896      | Paulius     | Michel    | Fontenille | 6 Août 1919 | 6 Août 1919 | 6 Août 1919 | 
+6 Août        | Vandermesse | Etienne   | Etienne    | Paris         | 15 Mai 1896      | Vandermesse | Etienne   | Etienne    | 6 Août 1919 | 6 Août 1919 | 6 Août 1919 | 
+6 Août        | Semione     | Paul      | Lille      | Paris         | 15 Mai 1896      | Semione     | Paul      | Lille      | 6 Août 1919 | 6 Août 1919 | 6 Août 1919 | 
+6 Août        | Hommage     | Jules     | Fontenille | Paris         | 15 Mai 1896      | Hommage     | Jules     | Fontenille | 6 Août 1919 | 6 Août 1919 | 6 Août 1919 | 
+6 Août        | Godeau      | Emilienne | Origny     | Paris         | 15 Mai 1896      | Godeau      | Emilienne | Origny     | 6 Août 1919 | 6 Août 1919 | 6 Août 1919 | 
+6 Août        | Fontaine    | Henri     | Paris      | Paris         | 15 Mai 1896      | Fontaine    | Henri     | Paris      | 6 Août 1919 | 6 Août 1919 | 6 Août 1919 | 
+6 Août        | Allard      | Roger     | Paris      | Paris         | 15 Mai 1896      | Allard      | Roger     | Paris      | 6 Août 1919 | 6 Août 1919 | 6 Août 1919 | 
+6 Août        | Delvotte    | Fabienne  | Paris      | Paris         | 15 Mai 1896      | Delvotte    | Fabienne  | Paris      | 6 Août 1919 | 6 Août 1919 | 6 Août 1919 | 
+```

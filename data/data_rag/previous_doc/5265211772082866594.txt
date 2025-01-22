@@ -1,0 +1,15 @@
+```
+| DATE DE DECES | INDICATIONS DES PERSONNES DECEDES OU ABSENTES | DATE DE LA MISE SOUS SCELLES | DATE DE L'INVENTAIRE | DATE DE L'ENVOI DE L'ETAT DES SCELLES | DATE DE L'ENVOI DE L'INVENTAIRE | DATE DE L'ENVOI DE L'ETAT DES SCELLES | DATE DE L'ENVOI DE L'INVENTAIRE | OBSERVATIONS |
+|---------------|---------------------------------------------|-----------------------------|----------------------|-------------------------------|--------------------------|-------------------------------|--------------------------|----------------|
+| 6 sept 1938   | Asselin de Villefranche, veuve, 1937, domiciliée | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 |
+| 6 sept 1938   | Asselin de Villefranche, veuve, 1937, domiciliée | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 |
+| 6 sept 1938   | Heverent, Alphonse, 1937, domicilié | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 |
+| 6 sept 1938   | Lefevre, Jules, 1937, domicilié | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 |
+| 6 sept 1938   | Asselin de Villefranche, veuve, 1937, domiciliée | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 |
+| 6 sept 1938   | Asselin de Villefranche, veuve, 1937, domiciliée | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 |
+| 6 sept 1938   | Asselin de Villefranche, veuve, 1937, domiciliée | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 |
+| 6 sept 1938   | Desmedt, Jean, 1937, domicilié | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 |
+| 6 sept 1938   | Monseur, Raoul, 1937, domicilié | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 |
+| 6 sept 1938   | Bouly, Henri, 1937, domicilié | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 |
+| 6 sept 1938   | Godart, Camille, 1937, domicilié | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 | 7 sept 1938 |
+```
