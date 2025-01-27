@@ -1,7 +1,0 @@
-```
-| N° D'ORDRE | DATE DE L'ARRET | NOM | PRENOM | DOMICILE | DATE DE NAISSANCE | LIEU DE NAISSANCE | Actif | Passif | Rest |
-|------------|------------------|-----|--------|----------|-------------------|-------------------|-------|--------|------|
-| 1          | 2023-01-01       | Doe | John   | Paris    | 1980-01-01        | Paris             | 1000  | 200    | 800  |
-| 2          | 2023-02-01       | Roe | Jane   | Lyon     | 1990-02-01        | Lyon              | 2000  | 500    | 1500 |
-| 3          | 2023-03-01       | Poe | Alice  | Marseille| 1975-03-01        | Marseille         | 3000  | 1000   | 2000 |
-```
