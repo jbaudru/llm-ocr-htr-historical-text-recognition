@@ -13,3 +13,5 @@ notebooks/private/
 .env
 .env
 .env
+/notebooks/lam_data
+/notebooks/models
