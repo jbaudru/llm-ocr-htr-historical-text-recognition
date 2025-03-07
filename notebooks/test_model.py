@@ -1,8 +1,11 @@
 import os
 import torch
 import pandas as pd
+import random
+import csv
 from PIL import Image
 from transformers import DonutProcessor, VisionEncoderDecoderModel
+from torchmetrics.text import CharErrorRate
 
 # Set the model paths - try both base model and finetuned model
 BASE_MODEL = "naver-clova-ix/donut-base"
@@ -73,7 +76,6 @@ def find_image_path(base_filename, is_line=False):
     # Try each path
     for path in possible_paths:
         if os.path.exists(path):
-            print(f"Image found at: {path}")
             return path
     
     print(f"Could not find image: {base_filename}")
@@ -99,15 +101,17 @@ def load_ground_truth_data():
                 for _, row in df.iterrows():
                     image_filename = os.path.basename(row['image_path'])
                     ground_truth_dict[image_filename] = row['text']
+                    # Also add the full path as a key
+                    ground_truth_dict[row['image_path']] = row['text']
                 
-                print(f"Loaded {len(ground_truth_dict)} ground truth entries")
-                return ground_truth_dict
+                print(f"Loaded {len(ground_truth_dict) // 2} ground truth entries")
+                return ground_truth_dict, df
         
         print(f"Could not find {DATASET_CSV} file!")
-        return {}
+        return {}, None
     except Exception as e:
         print(f"Error loading ground truth data: {e}")
-        return {}
+        return {}, None
 
 def transcribe_image(image, processor, model):
     """Run inference on a single image"""
@@ -177,9 +181,197 @@ def calculate_word_error_rate(pred_text, true_text):
     # Calculate WER
     return distance[m][n] / n if n > 0 else 1.0
 
+def calculate_character_error_rate(pred_text, true_text):
+    """Calculate character error rate between predicted and true text"""
+    if not true_text or true_text == "Ground truth text not found":
+        return 1.0
+    
+    # Use torchmetrics if available
+    try:
+        cer_metric = CharErrorRate()
+        return cer_metric(pred_text, true_text).item()
+    except Exception as e:
+        # Fallback to manual calculation if torchmetrics fails
+        pred_chars = list(pred_text)
+        true_chars = list(true_text)
+        
+        # Calculate Levenshtein distance at character level
+        if not true_chars:
+            return 1.0 if pred_chars else 0.0
+            
+        m, n = len(pred_chars), len(true_chars)
+        
+        # Initialize distance matrix
+        distance = [[0] * (n + 1) for _ in range(m + 1)]
+        
+        # Base cases
+        for i in range(m + 1):
+            distance[i][0] = i
+        for j in range(n + 1):
+            distance[0][j] = j
+        
+        # Fill the matrix
+        for i in range(1, m + 1):
+            for j in range(1, n + 1):
+                if pred_chars[i - 1] == true_chars[j - 1]:
+                    distance[i][j] = distance[i - 1][j - 1]
+                else:
+                    distance[i][j] = min(
+                        distance[i - 1][j] + 1,      # deletion
+                        distance[i][j - 1] + 1,      # insertion
+                        distance[i - 1][j - 1] + 1   # substitution
+                    )
+        
+        # Calculate CER
+        return distance[m][n] / n
+
+def calculate_bleu_score(pred_text, true_text):
+    """Calculate BLEU score between predicted and true text"""
+    if not true_text or true_text == "Ground truth text not found":
+        return 0.0
+    
+    # Try using the evaluate library
+    try:
+        import evaluate
+        bleu = evaluate.load("bleu")
+        result = bleu.compute(predictions=[pred_text], references=[[true_text]])
+        return result["bleu"]
+    except:
+        # Fallback to NLTK
+        try:
+            from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
+            import nltk
+            # Download NLTK data if not already done
+            try:
+                nltk.data.find('tokenizers/punkt')
+            except LookupError:
+                nltk.download('punkt', quiet=True)
+                
+            # Tokenize the texts into words
+            reference = [true_text.split()]
+            hypothesis = pred_text.split()
+            
+            # Use smoothing function to avoid zero scores
+            smoothie = SmoothingFunction().method1
+            
+            # Calculate BLEU score with weights for unigrams only (more appropriate for short text)
+            return sentence_bleu(reference, hypothesis, weights=(1, 0, 0, 0), smoothing_function=smoothie)
+        except Exception as e:
+            print(f"Error calculating BLEU score: {e}")
+            return 0.0
+
+def evaluate_random_samples(processor, model, ground_truth_dict, full_df, num_samples=100):
+    """Evaluate the model on random samples from the dataset and save results to CSV"""
+    print(f"\nEvaluating {num_samples} random samples...")
+    
+    # Try to install required packages if not already installed
+    try:
+        import nltk
+        nltk.download('punkt', quiet=True)
+    except:
+        try:
+            import subprocess
+            subprocess.check_call(["pip", "install", "nltk", "torchmetrics", "evaluate", "sacrebleu"], 
+                                 stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+            import nltk
+            nltk.download('punkt', quiet=True)
+        except:
+            print("Warning: Could not install required packages. Using fallback metrics.")
+    
+    # Select random samples from the dataframe
+    if full_df is not None:
+        # Prefer line images over full pages for better evaluation
+        line_df = full_df[full_df['image_path'].str.contains('lines')]
+        if len(line_df) >= num_samples:
+            sample_df = line_df.sample(num_samples, random_state=42)
+        else:
+            # If not enough line images, take all lines and sample from the rest
+            remaining = num_samples - len(line_df)
+            other_df = full_df[~full_df['image_path'].str.contains('lines')].sample(remaining, random_state=42)
+            sample_df = pd.concat([line_df, other_df])
+        
+        # Extract image paths and ground truths
+        image_paths = sample_df['image_path'].tolist()
+        random_images = [(path, os.path.basename(path)) for path in image_paths]
+    else:
+        # Fallback if dataframe not available: use dictionary keys
+        all_images = list(ground_truth_dict.keys())
+        # Filter out non-image entries (e.g., the path duplicates)
+        all_images = [img for img in all_images if img.endswith('.jpg') or img.endswith('.png')]
+        
+        if len(all_images) > num_samples:
+            sampled_images = random.sample(all_images, num_samples)
+        else:
+            sampled_images = all_images
+        random_images = [(img, img) for img in sampled_images]
+    
+    results = []
+    
+    for i, (img_path, img_name) in enumerate(random_images):
+        # Determine if it's a line image based on path/name
+        is_line = "lines" in img_path or "_" in img_name
+        
+        # Find the image file
+        image_path = find_image_path(img_name, is_line)
+        if not image_path:
+            print(f"Image {img_name} not found, skipping...")
+            continue
+        
+        try:
+            # Get ground truth
+            ground_truth = ground_truth_dict.get(img_name, 
+                                              ground_truth_dict.get(img_path, "Ground truth text not found"))
+            
+            # Load and prepare image
+            image = Image.open(image_path).convert("RGB")
+            
+            # Process with finetuned model
+            prediction = transcribe_image(image, processor, model)
+            
+            # Calculate metrics
+            cer = calculate_character_error_rate(prediction, ground_truth)
+            bleu = calculate_bleu_score(prediction, ground_truth)
+            
+            # Store results
+            results.append({
+                "image_name": img_name,
+                "ground_truth": ground_truth,
+                "prediction_finetuned": prediction,
+                "cer": cer,
+                "bleu": bleu
+            })
+            
+            # Print progress
+            if (i + 1) % 10 == 0:
+                print(f"Processed {i + 1}/{len(random_images)} images")
+        
+        except Exception as e:
+            print(f"Error processing image {img_name}: {e}")
+    
+    # Calculate average metrics
+    if results:
+        avg_cer = sum(result["cer"] for result in results) / len(results)
+        avg_bleu = sum(result["bleu"] for result in results) / len(results)
+        print(f"\nAverage CER: {avg_cer:.4f}")
+        print(f"Average BLEU: {avg_bleu:.4f}")
+    
+    # Save results to CSV
+    csv_output_path = os.path.join(os.getcwd(), "finetuned_model_evaluation.csv")
+    with open(csv_output_path, 'w', newline='', encoding='utf-8') as csvfile:
+        fieldnames = ['image_name', 'ground_truth', 'prediction_finetuned', 'cer', 'bleu']
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        
+        writer.writeheader()
+        for result in results:
+            writer.writerow(result)
+    
+    print(f"\nResults saved to: {csv_output_path}")
+    
+    return results
+
 def main():
     # Load ground truth data
-    ground_truth_dict = load_ground_truth_data()
+    ground_truth_dict, full_df = load_ground_truth_data()
     
     # Load the base model
     base_processor, base_model = load_model(BASE_MODEL)
@@ -310,6 +502,13 @@ def main():
         improvement = (avg_base_wer - avg_finetuned_wer) / avg_base_wer * 100
         print(f"Improvement: {improvement:.2f}%")
     print("="*80)
+    
+    # Evaluate 100 random samples with the finetuned model
+    if finetuned_model is not None:
+        print("\n" + "="*80)
+        print("EVALUATING 100 RANDOM SAMPLES WITH FINETUNED MODEL")
+        print("="*80)
+        evaluate_random_samples(finetuned_processor, finetuned_model, ground_truth_dict, full_df, num_samples=100)
 
 if __name__ == "__main__":
     main()

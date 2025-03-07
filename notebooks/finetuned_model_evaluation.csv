@@ -1,0 +1,101 @@
+image_name,ground_truth,prediction_finetuned,cer,bleu
+034_1311_01.jpg,ti dei lumi sia provveduto per migliorare,ti bei lumi sia provoduta per migliorare,0.09756097197532654,0.0
+039_1582_01.jpg,Mil: 25. gen.#,.,0.9285714030265808,0.0
+038_1504_00.jpg,Mio Car:mo S:re Tori.,Mio Car: S.re Son.,0.2857142984867096,0.0
+034_1302_39.jpg,"cano, e facciano diventar pernicioso uno stu-",cano unicoso un sm-,0.6222222447395325,0.0
+049_2012_08.jpg,"a quello di sotto si vive alla buona, in","a quello di solto si vie alla buona, in",0.05000000074505806,0.392814650900513
+037_1414_05.jpg,"riserbo d'indagar meglio costì, qual fon-","riserbo d'inda par meglio costì, qual Son-",0.0731707289814949,0.3655552228545123
+041_1752_24.jpg,amico. Forse il mese venturo partiranno amendue,amico. Forse il mese venturo partiranno amendue,0.0,1.0
+040_1744_10.jpg,no. il colore di Caffè aperto non s'è potuto,no il colore di laffeto aperto non s'e potuto,0.13636364042758942,0.0
+049_2013_10.jpg,Come crede ella che sarà gradita la Fiera,Come è ità sa gradita la Fiera,0.3658536672592163,0.0
+088_4256_08.jpg,"del Tasso, cioè non esserci cosa scritta","del. Tasso, ciò non esserci tosa scritta",0.10000000149011612,0.0
+021_812_12.jpg,Desidero frequenti i suoi comandamenti,Dasdero frequenti suoi commandementi,0.15789473056793213,0.0
+033_1291_06.jpg,tettori del Voto Sanguin.o Necessaria cosa,settori del Voto Sanguin.o Necessaria cose,0.0476190485060215,0.6803749333171202
+034_1315_16.jpg,parmiato a così illustre Corpo un tale spregio.,parmato a cosj ilustre Erpo un tale spregio,0.12765957415103912,0.0
+037_1429_01.jpg,"il resto finqui fatto de' miei Annali,","il resto fingui fatto de' miei Annali,",0.02631578966975212,0.5946035575013605
+021_826_12.jpg,talento andrà innanzi a molt'altri. Bramoso,talento andrà inanzi a molt'altri. Bramoso,0.023255813866853714,0.488923022434901
+049_2185_00.jpg,che mi si presentassero. Per altro veg-,che mi si presentarse.o. Per altro veg-,0.05128205195069313,0.37991784282579627
+025_982_11.jpg,"stampandosi l'Opera in Milano, non mi è","stampandosi l'Opera in Milano, non mi è",0.0,1.0
+021_860_17.jpg,essere inondato da acqua. Possiam nondi-,essere inondato da ce que. Possiam nondi-,0.10000000149011612,0.0
+032_1267_01.jpg,posto il Muratori al Sig.re,posto il Muratori al Sig: e,0.07407407462596893,0.6147881529512643
+038_1527_14.jpg,avremo il S:re Maggi et io maggior occasione,averò avermo il S.re Magi et io maggiot.occasione.,0.25,0.0
+054_2397_02.jpg,"di q.o S.r Basilio, che non bisognava mai nè","di q. S.r Basilio, che non bisognava mai ne",0.04545454680919647,0.7048050905062194
+035_1322_19.jpg,"dare alla Prudenza sua, perché son certo, non essere","dare alla Brudenga sua, perchè son certo, non essere",0.057692307978868484,0.4497332084013506
+082_4197_13.jpg,"x più tosto come tributo,",pri to come #,0.6000000238418579,0.0
+080_4132_31.jpg,altra. Suol' anche # # essere,alra. Suol anche questo E'nio essere,0.4482758641242981,0.0
+049_2077_09.jpg,"ch'ella il mostri, e senza altro","ch' Il mostri, e senza altro",0.15625,0.6147881529512643
+044_1829_12.jpg,un sol Libro tutto ciò che spetta alla,un sol Libro sutto ciò che spetta alla,0.02631578966975212,0.5
+049_2022_01.jpg,di lei bontà di riscuotere quel Fi-,di lei bontà di riscuotere quel Fi-,0.0,1.0
+044_1829_03.jpg,S.r Card.e Cornaro per istampare costì l'O-,S. Card.e Corna per istampare costi l'o-,0.11627907305955887,0.0
+076_3986_20.jpg,"# aggiunte al suo Tratt.o, mi sarebbe","servi ago unte al suo Tratt.o, mi farebbe",0.21621622145175934,0.5706745777055999
+039_1604_05.jpg,dere punto de' gusti Carnovaleschi di,è è puntual dire punto de' gusti Carnoualeschi di,0.37837839126586914,0.0
+024_940_01.jpg,"Moltissimi mesi sono, ch'io scrissi a VS.","Moltissimi se sono, ch' io scrissia VS-",0.1463414579629898,0.0
+080_4133_16.jpg,"nestanti, volere o non volere, s' in-","nestanti, volere, s'in-",0.37837839126586914,0.0
+041_1764_01.jpg,Mil. 12. Febr. 98,Mil. 12. Febr. 98,0.0,1.0
+038_1533_13.jpg,"scriviate, e sarete servito, ma' infatti a me","scriviate, e servito, mai in fatti a me",0.20000000298023224,0.0
+049_2009_16.jpg,con tutto l'ossequio mi rassegno,con tutto l osseggio mi mregno,0.21875,0.0
+024_938_20.jpg,che Dante avesse potuto leggere l'Iliade e l'O-,che Dante avesse potuto leggere l' Illiade e l'o-,0.06382978707551956,0.46713797772820004
+094_4401_10.jpg,uno de' saldi principj,uno della sadio principi,0.27272728085517883,0.0
+037_1424_08.jpg,"Darete l'inchiusa al S.r Lor.o, che potrà man-","Late l'inchusta al S.r Lor.o, che potrà man-",0.10869564861059189,0.8242367502646054
+038_1492_03.jpg,nuarmi il favore. Al S.re Camillo scrivo il pnte,nussimo il favote. Al S. Camillo serius il parte,0.25,0.24640511033537812
+080_4144_37.jpg,"le Lettere, mettono il lor misero",le Lettere mettono il lor misero,0.03030303120613098,0.5115078115793242
+044_1823_28.jpg,"Ora io son dunque a supplicar VS. Ill:ma, che","Ora io san dunque a sugplicar VS. Ill:ma, che",0.04444444552063942,0.5659119256652702
+033_1298_00.jpg,pross.o pass.o Autunno la mia sanità è stata,av av ave suità sbata,0.6818181872367859,0.0
+032_1241_50.jpg,4. Mag. 1709,,1.0,0
+037_1396_11.jpg,"no, Ferdinando Scotti, da cui mi sono",", no, Ferdinando Scotti, da cui mi sono",0.054054055362939835,0.8801117367933934
+041_1774_02.jpg,"giorni, e fra' soggetti utili, ch'io ho proposto, nella","gion, e fra soggeti utili, ch'io ho proposto, nella",0.072727270424366,0.5706745777055999
+038_1509_03.jpg,ho trasmesso mia lettera pregandovi a' tras-,ho trosmesso mia lettere precandoui a tras-,0.11363636702299118,0.0
+017_435_20.jpg,un Diploma o sia Investit.a data da Arrigo II. Auf.to al Popolo di Ferrara.,un Diploma o sia favorit.e data da Asrigo II. Queg.o al lappolo di Forrarà.,0.2133333384990692,0.18285615452966156
+033_1285_04.jpg,anch'io la divina bontà che dispensi,anchè,0.8888888955116272,0.0
+035_1323_02.jpg,"men Principe, che Padre, in ogni tempo e luogo,","men Principe, che Padre, in ogni tenipo e luogo,",0.042553190141916275,0.7348889200874658
+005_264_11.jpg,"non so comprendere, come dal dì 3 del","non so comprende, come dal di 3. del",0.10810811072587967,0.0
+049_2156_15.jpg,"La villeggiatura è finita per me, e bi-","la villaggiatura è finita per me, e bi-",0.05128205195069313,0.7259795291154771
+078_4113_00.jpg,Ill:mo Sig.r # e Pron Col.mo,Ill:mo Sig.re e Pron Col.mo,0.0714285746216774,0.6407117598241612
+026_1000_08.jpg,"Violante, affinchè esso Dre Vandelli ritorni","Violante, affinche esso Dre Vandelli ritori",0.04545454680919647,0.0
+084_4220_04.jpg,"dosi, che mi # anch'io essere più","bosi, che mi glosso nuch'co # più",0.4848484992980957,0.0
+034_1307_57.jpg,na è tanto da me venerata; e quantunque non,è è è tanto da me venerata; e quanteque non,0.11627907305955887,0.5900468726392808
+029_1122_19.jpg,Div.mo ed Obbl.mo Ser.re,Div.mo della della della del.re,0.6666666865348816,0.0
+037_1478_21.jpg,de nri prigionieri di guerra. Alla Bocchetta à stato attacca=,delità=,0.9016393423080444,0.0
+032_1237_05.jpg,tervi il suo nome. O pure quando ella,servi il su nome. O pure quando ella,0.054054055362939835,0.6104735835807844
+080_4140_11.jpg,vaghire dell'Erudizione Profana. Subi-,va dire dell' Erudizione Profana. Subi-,0.07894736528396606,0.0
+032_1232_17.jpg,"bello, e volessi pure difendermi in pubblico,","bello, e volessi pure difendermi in puolico,",0.04444444552063942,0.7506238537503395
+037_1383_03.jpg,Sono inflessibili Ingl.i Olland.i e Bavari. Nè s'è,Iono inflersigili Ingli obland.e e Bavari. No' s'è,0.18000000715255737,0.0
+022_911_02.jpg,Piacenza,,1.0,0
+010_350_44.jpg,me,,1.0,0
+044_1830_21.jpg,"purché ne sia avvisato, non avendo","purchè ne sia avi sato, non avendo",0.0882352963089943,0.0
+032_1259_01.jpg,"Lazarus, e non Lazzarus, Britannica, e non",Lesa,0.9047619104385376,0.0
+008_325_03.jpg,ma non penso di dar fuori q.a Continuazione,ma non penso di dar fuori q.a Continvazione,0.023255813866853714,0.8801117367933934
+003_16_12.jpg,"Per mille volte salutate mia madre, la nona, e tutti","Ser mille volte salutate mia matre, la nona, e tutti",0.03846153989434242,0.6340466277046861
+049_2212_02.jpg,che in mano di V. P. Rev:ma sia già,che in mano di V. P.Rav:ma sia già,0.05714285746216774,0.7611606003349892
+040_1696_28.jpg,s'inviò alla volta di Venezia con tutta di-,stavi stavi stavie,0.7441860437393188,0.0
+021_886_02.jpg,"quel distinto ossequio, con cui mi ricordo","que destinto oslequio, con'cu mi ricordo",0.1190476194024086,0.0
+049_2246_03.jpg,"per tal favore rendo le dovute grazie,","per tal favore rendo le dovute grazze,",0.02631578966975212,0.7071067811865475
+005_264_24.jpg,"vendette, che forse ha in cuore. Parrà cosa","vendeste, che forse ha in cuore. Larra copa",0.09302325546741486,0.6389431042462724
+032_1157_19.jpg,"tirati in qua, e in la, non deviati. Ora se i nostri","tira in quan, e in la, non deviati Dora se inostri",0.13461539149284363,0.4294494810927983
+049_2176_06.jpg,che se le presenti occasion propria per,che se le presenti occasion propria per,0.0,1.0
+080_4145_36.jpg,"di Milano, e mercè de' buoni ufizi","di Milano, e buoni ufizi",0.29411765933036804,0.4329820146406897
+049_2121_10.jpg,"Le rassegno il mio rispetto, con-","Le rassegno il mio rispetto, con-",0.0,1.0
+094_4401_08.jpg,resterebbe,remente,0.6000000238418579,0.0
+093_4388_14.jpg,Soliera li 23. 8bre 1693,Poliera li 23. vitre sbg3,0.2916666567325592,0.0
+037_1424_09.jpg,dare al Trenti la copia del T. II. e dirgli,dare al Trentia la copia del T. Il. e diingli,0.09302325546741486,0.4063798282013442
+034_1313_46.jpg,"possa leggere una copia d'essa Operetta, per","possa leggere una copia d'essa Operetta, per",0.0,1.0
+049_2043_06.jpg,qualche misterio.,qualche misterio.,0.0,0.0
+003_25_02.jpg,sene in Francia; ma non si può creder sì fa-,se in Francia; ma non si può creder si fa-,0.06818182021379471,0.6989307622784944
+076_4100_16.jpg,del mio indelebil'ossequio mi ricordo,del suo inelebl ossequio mi ricondo,0.1621621549129486,0.0
+007_306_12.jpg,punto all'Inquis.e.,punto all' Inguis. e,0.21052631735801697,0.0
+049_2050_05.jpg,trebbe farsi? Potrebbe forse sperarsi tal,trebe forse sperarsi tal,0.4146341383457184,0.0
+092_4377_13.jpg,"9. e miei, e i miei.",gi e mi.,0.6499999761581421,0.0
+032_1173_16.jpg,"pos.e posta nell'antec.e Terzetto. Per chiarirci di ciò, fa-",poù,0.9666666388511658,0.0
+034_1302_10.jpg,Tribunale della Politica e dell'Economica; e,"Tribunle della Coli, e dell'Economca, e",0.1818181872367859,0.0
+024_963_12.jpg,nezza mi sarà cara per quel solo ri-,nezza mi sarà per quel solo ri-,0.1388888955116272,0.5154486831107657
+039_1588_16.jpg,segnerà a voi. Mi,segnerà a voi. Mi,0.0,1.0
+092_4377_14.jpg,10. Decanti # per parola usata da' buoni Autori.,io. Decanti S parola usata da' buon' Autori.,0.1666666716337204,0.0
+038_1518_22.jpg,"di lui suol essere prefissa, e si trova nella","di lui suol essere prefiss, e si troua nella",0.04444444552063942,0.392814650900513
+024_947_35.jpg,"intorno al dirsi, che nel Globo di Venere","in Milano Milano al dirsi, che del Elobo di Venere",0.31707316637039185,0.27901593935858265
+049_2168_16.jpg,"Gabrini, ed essendosi trovato qualche","Gabrini, ed essendoni, trovato quale",0.10810811072587967,0.0
+032_1248_04.jpg,"rà fatto. Mi disse il S.r Torsi, che il","ra fatto. mi dise il S.r Torsi, che vi",0.12820513546466827,0.5205510363053438
+089_4270_13.jpg,"gl' ignoranti, che i dotti, perciò si ristrinse o al Coro",", è è è al tomo",0.8245614171028137,0.0
+024_946_17.jpg,da lei rappresentato mi venisse dell'Utile.,da lei regpresentato mi venisse dell' Vtile.,0.09302325546741486,0.0
+003_41_13.jpg,quella famiglia; cosa che sicome a noi porte-,quella; cosa che sicome a voi porte-,0.2222222238779068,0.4962644776757998
+028_1084_10.jpg,"non so d'avere se non delle Storie, le","non so d'avere se non delle storie, le",0.02631578966975212,0.6606328636027614
+080_4138_06.jpg,"miei coetanei,","mi è,",0.7142857313156128,0.0
