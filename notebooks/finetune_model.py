@@ -133,9 +133,9 @@ def load_data(data_path, base_path, sample_fraction=0.5, max_examples=None):
     df = df.drop('image_exists', axis=1)
     
     # Increased sample sizes for more robust training
-    train_df = df[df['split'] == 'train'].sample(min(200, len(df[df['split'] == 'train'])), random_state=42)
-    val_df = df[df['split'] == 'val'].sample(min(20, len(df[df['split'] == 'val'])), random_state=42) if 'val' in df['split'].values else None
-    test_df = df[df['split'] == 'test'].sample(min(20, len(df[df['split'] == 'test'])), random_state=42) if 'test' in df['split'].values else None
+    train_df = df[df['split'] == 'train'].sample(min(400, len(df[df['split'] == 'train'])), random_state=42)
+    val_df = df[df['split'] == 'val'].sample(min(40, len(df[df['split'] == 'val'])), random_state=42) if 'val' in df['split'].values else None
+    test_df = df[df['split'] == 'test'].sample(min(40, len(df[df['split'] == 'test'])), random_state=42) if 'test' in df['split'].values else None
     
     # If no explicit validation set, create one from train
     if val_df is None or len(val_df) == 0:
