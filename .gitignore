@@ -15,3 +15,11 @@ notebooks/private/
 .env
 /notebooks/lam_data
 /notebooks/models
+
+results/epoch10/
+
+results/epoch13/
+
+results/epoch7/
+
+results/epoch9/
