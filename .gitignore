@@ -13,8 +13,19 @@ notebooks/private/
 .env
 .env
 .env
+<<<<<<< Updated upstream
 /notebooks/lam_data
 /notebooks/models
+=======
+
+data/archive.zip
+
+data/LAM/
+
+data/PublicData/
+
+data/PublicData.tgz
+>>>>>>> Stashed changes
 
 results/epoch10/
 

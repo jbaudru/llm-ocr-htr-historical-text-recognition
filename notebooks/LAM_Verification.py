@@ -71,7 +71,11 @@ model.config.num_beams = 4
 
 torch.cuda.empty_cache()
 
+<<<<<<< Updated upstream
 output_folder = "/data/brussel/vo/000/bvo00042/output_serene_3"
+=======
+output_folder = "/data/brussel/vo/000/bvo00042/output_serene_2"
+>>>>>>> Stashed changes
 os.makedirs(output_folder, exist_ok=True)
 checkpoint_path = os.path.join(output_folder, "checkpoint.pth")
 
